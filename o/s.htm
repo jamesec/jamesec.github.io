@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="/assets/images/Extra_Terrestrial_alien.png">
+    <link rel="stylesheet" href="/assets/styles/mvp_1.15.css">
+    <link rel="stylesheet" href="/assets/styles/styles_evenc.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="module" src="/assets/scripts/zero-md.min_2.5.4_evenc.js"></script>
+    <base target="_blank">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="/" title="Go to the homepage" target="_self"><img alt="James Even Chen" src="/assets/images/Extra_Terrestrial_alien.png" height="66"></a>
+            <ul>
+                <li><a href="/" title="Go to the homepage" target="_self">Home</a></li>
+                <li><a href="/now/" title="What I'm doing now" target="_self">Now</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                const searchParams = new URLSearchParams(window.location.search);
+                var md_file = searchParams.get('p') + ".md";
+                  
+                // Select the <zero-md> element
+                var zeroMdElement = document.querySelector('zero-md');
+                
+                // Set the src attribute with the value of md_file variable
+                zeroMdElement.setAttribute('src', md_file);
+                
+                // Wait for zero-md to finish loading and rendering
+                zeroMdElement.addEventListener('zero-md-rendered', function() {
+                    // Extract h1 tag from the rendered Markdown content
+                    const h1Element = zeroMdElement.shadowRoot.querySelector('h1');
+                    const title = h1Element ? h1Element.textContent : 'Untitled';
+                    
+                    // Set title of the page
+                    document.title = title + " - James Even Chen";
+                });
+            });
+        </script>
+        <zero-md></zero-md>
+    </main>
+    
+    <footer>
+        <hr>
+        <p class="right-aligned">
+            <a href="/" title="Go to the homepage" target="_self">James Even Chen</a><br>
+        </p>
+    </footer>
+</body>
+</html>
