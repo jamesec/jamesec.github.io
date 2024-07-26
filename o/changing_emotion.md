@@ -179,7 +179,7 @@ And the emotion has been changed. And Les, both you and I know that it takes a l
 **Leslie Greenberg**  
 Yes, yes, it is complex. And there's a strong element of personal development. I mean, we talk about being present and **being present to the other**, which means being in the moment.
 
-And you have to **have your finger on the emotional pulse, moment by moment**. So, this is not a conceptual process. It's a sensitive **attunement** and **responsiveness**, moment by moment, to what is the other feeling?
+And you have to **have your finger on the emotional pulse, moment by moment**. So, **this is not a conceptual process**. It's a sensitive **attunement** and **responsiveness**, moment by moment, to what is the other feeling?
 
 How can I facilitate the next moment? What do I do now? And I'm not thinking this.
 
