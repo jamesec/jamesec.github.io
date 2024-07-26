@@ -1,7 +1,16 @@
 # Focusing is... the murky edge
 `July 3, 2024`
 
+---
+
+<script type="module" src="assets/scripts/youtube-video-element_1.1.6.js"></script>
+<youtube-video controls src="https://www.youtube.com/watch?v=nqRQ7PQFLM0"></youtube-video>
+
+---
+
 <iframe width="560" height="315" src="https://youtube.com/embed/nqRQ7PQFLM0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 [Focusing is... the murky edge](https://youtube.com/watch?v=nqRQ7PQFLM0), by [Eugene Gendlin](https://en.wikipedia.org/wiki/Eugene_Gendlin)
 
