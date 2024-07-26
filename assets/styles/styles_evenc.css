@@ -58,7 +58,7 @@ pre, code {
   h4 {
     color: rgb(125, 207, 255);
   }
-  b, strong {
+  b, strong, i, em {
     color: rgb(125, 207, 255);
    }
   a {
