@@ -63,13 +63,13 @@ Right. So, I mean, I entered psychology and I had had some young friends where w
 
 And so when I came into psychology, I met Laura Rice. She was my mentor and she was teaching about the power of empathy and the power of listening and understanding and the whole approach called person-centered or client-centered therapy. So this immediately rung a bell for me.
 
-I recognized that this was important to, I guess I'd always needed **to be understood and not judged**. And then what was being understood or what was most painful were probably emotions, although the emphasis there was more on understanding people's meanings. I went into Gestalt therapy training and then I saw, and this was in the 60s or the early 70s, there was a lot of things going on in the humanistic movement about expressing emotion.
+I recognized that this was important to, I guess I'd always needed **to be understood and not judged**. And then what was being understood or what was most painful were probably emotions, although the emphasis there was more on understanding people's meanings.
 
-It was like, let it all out. And not all of that was good, but there was something that impressed me about the power of emotion. And then in my own self-experience, I had difficulty crying. I had difficulty being angry. I wouldn't get angry. I would sulk.
+I went into Gestalt therapy training and then I saw, and this was in the 60s or the early 70s, there was a lot of things going on in the humanistic movement about expressing emotion. It was like, let it all out. And not all of that was good, but there was something that impressed me about the power of emotion. And then in my own self-experience, I had difficulty crying. I had difficulty being angry. I wouldn't get angry. I would sulk.
 
-I was married and I was married to a woman who had emotions and showed emotions. And the safer I felt in a relationship, the more able I was to go into my emotions. So that was all a personal experience.
+I was married and I was married to a woman who had emotions and showed emotions. And **the safer I felt in a relationship, the more able I was to go into my emotions**. So that was all a personal experience.
 
-But then I was studying psychotherapy and how people change. And I started to see that when people got into their emotions, they did better in psychotherapy. And this was a whole, starting a whole research path of how do we measure emotion and **how does it work?**
+But then I was studying psychotherapy and **how people change**. And I started to see that when people got into their emotions, they did better in psychotherapy. And this was a whole, starting a whole research path of how do we measure emotion and **how does it work?**
 
 But essentially, **videotapes were very important**. And the videotape is sort of like the microscope of psychotherapy research, because you can actually study. And we saw that people who expressed their emotions seemed to benefit strongly from this much more than if they just talked about their emotions.
 
@@ -92,7 +92,7 @@ Yes, yes, it was. I think the first time I got angry at my wife was very life-ch
 So the first time I was actually able to express anger rather than sulk was really very significant.
 
 **Lou Cooper**  
-So we're talking about expressing anger in a way which was not aggressive, not harmful.
+So we're talking about **expressing anger in a way which was not aggressive, not harmful**.
 
 **Leslie Greenberg**  
 Correct, correct, and that's an important distinction to make. So we subsequently, you know, discriminate between different kinds of anger. There's **assertive anger** or empowered anger, there's destructive anger, there's rejecting anger.
@@ -102,7 +102,7 @@ So these are different kinds of anger. But one of them, the empowered anger, is 
 You can even call it I-anger, I-resent that you haven't been there for me for the last 10 days. I resent that you haven't paid attention to me or something along that line.
 
 **Lou Cooper**  
-So standing up for yourself.
+So **standing up for yourself**.
 
 **Leslie Greenberg**  
 Right, right, and usually anger goes with sadness. We don't only have anger, we also have sadness. Sometimes both of them are there.
@@ -129,7 +129,7 @@ You know your anger defends against your shame because your shame is painful. So
 
 But now, if I can help you, let's say you had an alcoholic abusive father and you developed a core feeling of fear and a feeling of shame. Your tendency when bad things happen or some sort of criticism arises is to withdraw. But now, if I can help you to feel how unfair it was that your father treated you this way, and help you to feel you deserved to have a mother who protected you or a father who loved you, as you start to **feel more deserving**, you **generate a new emotion**.
 
-You generate sadness at the loss of what you felt you really needed, or you generate a sort of anger at the feeling that you were unfairly treated. Now, all this happens emotionally, not intellectually. So, when you're in shame, you're organized by your emotion to shrink and run away.
+You generate sadness at the loss of what you felt you really needed, or you generate assertive anger at the feeling that you were unfairly treated. Now, all this happens emotionally, not intellectually. So, when you're in shame, you're organized by your emotion to shrink and run away.
 
 If you're organized by anger, you're organized to puff up and thrust forward. So, the one emotion, you can't run away and thrust forward at the same time. So, now the one emotion is going to change the other emotion.
 
@@ -151,11 +151,11 @@ In other instances, the person actually brings the core painful emotion to the t
 As you're describing this, it's something that needs to happen in therapy. It's not a untangling that can happen at home, or can people learn to do this themselves?
 
 **Leslie Greenberg**  
-**It's difficult to do yourself** because, firstly, because painful emotions are painful, we usually are trying to protect ourselves against them. So, it's not easy to go there on our own. The safety of another, the accompaniment of another sort of helps us go there.
+**It's difficult to do yourself** because, firstly, because painful emotions are painful, we usually are trying to protect ourselves against them. So, it's not easy to go there on our own. The safety of another, the accompaniment of another sort of helps us go there. **The understanding of the other makes me feel safer.** 
 
-The understanding of the other makes me feel safer. But also, if we're on our own, we'll usually meet our own blocks, our own ways of getting away from the emotion. 
+But also, if we're on our own, we'll usually meet our own blocks, our own ways of getting away from the emotion. We have to be very disciplined to be able to not go and eat that candy, not go and go out shopping, not go to sleep. **Those are all ways that we distract ourselves from our primary painful emotion.** 
 
-We have to be very disciplined to be able to not go and eat that candy, not go and go out shopping, not go to sleep. **Those are all ways that we distract ourselves from our primary painful emotion.** The therapist helps you process your emotions by keeping you focused on what's most painful and what's most poignant. So, in therapy, in emotion-focused therapy, we say, we try to **follow the pain** because the pain is a compass and it will point us towards the main concern, the main difficulty.
+The therapist helps you process your emotions by keeping you focused on what's most painful and what's most poignant. So, in therapy, in Emotion-Focused Therapy, we say, we try to **follow the pain** because the pain is a compass and it will point us towards the main concern, the main difficulty.
 
 The main difficulty will be a painful emotion. The problem, both in the field and in the world, has been emotion has been treated like a single category. But you have to make distinctions between different types of emotion, not only anger, sadness, fear, and shame, but different categories of emotion.
 
@@ -165,7 +165,7 @@ And if it's your primary gut feeling, is it adaptive and helps you and gives you
 
 You immediately duck to hide from a bullet. Your emotional brain tells you danger is present, but there is no danger present. So, your emotional brain is no longer functioning in an adaptive way.
 
-And that's when we want to bring in, we first have to go to the old painful emotion, bring it alive, and then bring in a new emotion that will help to change it. Now, the new emotion comes when you help people identify the need that was not met. 
+And that's when we want to bring in, **we first have to go to the old painful emotion, bring it alive, and then bring in a new emotion that will help to change it**. Now, the new emotion comes when you help people identify the need that was not met. 
 
 So, I feel fear with my abusive father. My need was a need for safety. But as a young child, I just feel the fear. The fear gets stored in memory.
 
@@ -177,7 +177,7 @@ I'm angry that I didn't get the safety I deserved. I'm sad that I didn't get the
 And the emotion has been changed. And Les, both you and I know that it takes a long time for an emotion-focused therapist to train and become really efficient in being able to facilitate this change for clients. It is complex, yeah?
 
 **Leslie Greenberg**  
-Yes, yes, it is complex. And there's a strong element of personal development. I mean, we talk about being present and being present to the other, which means being in the moment.
+Yes, yes, it is complex. And there's a strong element of personal development. I mean, we talk about being present and **being present to the other**, which means being in the moment.
 
 And you have to **have your finger on the emotional pulse, moment by moment**. So, this is not a conceptual process. It's a sensitive **attunement** and **responsiveness**, moment by moment, to what is the other feeling?
 
