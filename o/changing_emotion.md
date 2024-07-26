@@ -79,7 +79,7 @@ So there was something about expressing emotion that was very important.
 Les, did you become your own experiment at that time?
 
 **Leslie Greenberg**  
-Well, in an informal sense, yes. I mean, when I allowed myself to feel and express the emotion, the significance of whatever I was feeling emotional about was revealed to me, so to speak. I saw that that's what was important.
+Well, in an informal sense, yes. I mean, when I allowed myself to feel and express the emotion, the significance of whatever I was feeling emotional about was revealed to me, so to speak. I saw that... that's what was important.
 
 So, you know, it's a little bit like when people have near-death experiences or very dangerous experiences, what passes before their eyes is what's really most important to them. Well, essentially, it was like that. When I really allowed myself to sob or to weep, I saw how important what I was crying about was to me.
 
@@ -99,23 +99,21 @@ Correct, correct, and that's an important distinction to make. So we subsequentl
 
 So these are different kinds of anger. But one of them, the empowered anger, is very important. Yes, so anger often sounds like it's bad and it's aggressive, but actually assertive anger is not.
 
-You can even call it I-anger, I-resent that you haven't been there for me for the last 10 days. I resent that you haven't paid attention to me or something along that line.
+You can even call it "I-anger", "I-resent" that you haven't been there for me for the last 10 days. I resent that you haven't paid attention to me or something along that line.
 
 **Lou Cooper**  
 So **standing up for yourself**.
 
 **Leslie Greenberg**  
-Right, right, and usually anger goes with sadness. We don't only have anger, we also have sadness. Sometimes both of them are there.
-
-One is not secondary to the other. I'm sad that you left me and I'm mad that you left me. Go together, and both of them need to be processed or dealt with.
+Right, right, and usually anger goes with sadness. We don't only have anger, we also have sadness. Sometimes both of them are there. One is not secondary to the other. I'm sad that you left me and I'm mad that you left me. Go together, and both of them need to be processed or dealt with.
 
 **Lou Cooper**  
 So how would you, I mean you're talking about the expression of anger that is useful and healthy, but if there is anger, if someone is experiencing anger and expressing anger in a way which is not helpful, that's getting them into trouble, that is ruining their relationships. How can they change that emotion? I mean you're suggesting that they can change that emotion with another emotion?
 
 **Leslie Greenberg**  
-Well you see it's a little bit more complicated than that. So these angers are often secondary angers, the ones that are destructive. So really I'm hurt.
+Well you see it's a little bit more complicated than that. So these angers are often secondary angers, the ones that are destructive. 
 
-I feel fear or I feel shame. This is very common among men. They often then express anger when they feel hurt and shame, but it can be with anyone.
+So really I'm hurt. I feel fear or I feel shame. This is very common among men. They often then express anger when they feel hurt and shame, but it can be with anyone.
 
 So in that case, you're not changing the anger with another emotion. What you're doing is you're moving from the secondary anger, the reactive anger, towards the primary underlying feeling of shame or the underlying feeling of fear. Now we're at the core painful emotion.
 
@@ -169,7 +167,7 @@ And that's when we want to bring in, **we first have to go to the old painful em
 
 So, I feel fear with my abusive father. My need was a need for safety. But as a young child, I just feel the fear. The fear gets stored in memory.
 
-And then I react with fear to minor situations when I'm an adult. So, we first have to take you to that fear, then get what did you need, help you to feel you deserve to have safety. And then when you feel you deserve to have safety, your brain automatically starts generating.
+And then I react with fear to minor situations when I'm an adult. So, we first have to take you to that fear, then get what did you need, help you to feel you deserve to have safety. And then **when you feel you deserve to have safety, your brain automatically starts generating**.
 
 I'm angry that I didn't get the safety I deserved. I'm sad that I didn't get the safety I deserved. And often anger and sadness are the two very helpful adaptive emotions.
 
@@ -181,11 +179,11 @@ Yes, yes, it is complex. And there's a strong element of personal development. I
 
 And you have to **have your finger on the emotional pulse, moment by moment**. So, **this is not a conceptual process**. It's a sensitive **attunement** and **responsiveness**, moment by moment, to what is the other feeling?
 
-How can I facilitate the next moment? What do I do now? And I'm not thinking this.
+How can I facilitate the next moment? What do I do now? 
 
-I'm reacting. But the aim is to help you get to tolerate your painful emotion. There's a piece that I didn't bring up in *Changing Emotion with Emotion* that I think is helpful.
+And I'm not thinking this. I'm reacting. But the aim is to help you get to tolerate your painful emotion. There's a piece that I didn't bring up in *Changing Emotion with Emotion* that I think is helpful.
 
-So, it's a continuation of what I was saying before. There's research on memory called memory reconsolidation, which has shown that memories aren't really fixed. 
+So, it's a continuation of what I was saying before. There's research on memory called **memory reconsolidation**, which has shown that **memories aren't really fixed**. 
 
 So, people often say, what's the good of going into the past? You can't change the past.
 
