@@ -214,3 +214,4 @@ My pleasure.
 	- Source: [Tacit knowledge - Wikipedia](https://en.wikipedia.org/wiki/Tacit_knowledge)
 - [Learning Emotion-Focused Therapy (2004)](s.htm?p=learning_eft)
 - [Different kinds of emotional responses in EFT, by Robert Elliott](s.htm?p=emotions)
+- [Emotional deepening process, by Robert Elliott](s.htm?p=deepening)
