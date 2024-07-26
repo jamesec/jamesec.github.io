@@ -37,16 +37,16 @@ When I was 18 years old or so, I have a diary in which I drew a diagram of a sig
 
 And emotional turmoil probably was most related to girlfriends and relationships. So I started off very rationally and really was trying to understand the meaning of life through my intellect. **But I couldn't ignore that I had emotion.**
 
-And so slowly, I arrived at emotion kind of intellectually. I was reading, impressed with existential philosophers and so on. So there was a writer, Polanyi, who wrote about **tacit knowledge**, essentially that we know more than we can say<sup>[^1]</sup>.
+And so slowly, I arrived at emotion kind of intellectually. I was reading, impressed with existential philosophers and so on. So there was a writer, Polanyi, who wrote about **tacit knowledge**, essentially that we know more than we can say.
 
 And this impressed me because in my final year of engineering, I solved a math problem that no one in my class solved. And I didn't know how I knew how to solve it. So I became very impressed with the idea that **I knew more than I could say**.
 
 And this eventually led me into psychology to try to understand this. And that led me to basically get to emotion is an important source of this personal knowledge or this tacit knowledge.
 
-**Lou Cooper**
+**Lou Cooper**  
 Were you wanting to change some of your emotions? I mean, is that the initial driver?
 
-**Leslie Greenberg**
+**Leslie Greenberg**  
 Well, I think the initial driver was I wanted to control my emotions, not have them. Yes, because they were distressing. It wasn't a matter of changing them.
 
 It was a matter of regulating them or not having them. So it was a way of becoming a rational, logical being who wouldn't have emotion. So we have depictions of people like **Spock in Star Trek** and philosophers who tried to advocate being logical and not having emotion so that you would be in control.
@@ -55,10 +55,10 @@ But basically, I guess my experience was that that just didn't work. But as a yo
 
 But some of it was that I was having a lot of emotions and I didn't know how to really make them work for me.
 
-**Lou Cooper**
+**Lou Cooper**  
 So it's been a long journey towards your most recent book publication is titled *Changing Emotion with Emotion*. How did you get there? What was the path of research?
 
-**Leslie Greenberg**
+**Leslie Greenberg**  
 Right. So, I mean, I entered psychology and I had had some young friends where we had always talked and listened to each other, which was sort of unusual. And that means we talked about our feelings, mainly about our girlfriends.
 
 And so when I came into psychology, I met Laura Rice. She was my mentor and she was teaching about the power of empathy and the power of listening and understanding and the whole approach called person-centered or client-centered therapy. So this immediately rung a bell for me.
@@ -75,44 +75,44 @@ But essentially, **videotapes were very important**. And the videotape is sort o
 
 So there was something about expressing emotion that was very important.
 
-**Lou Cooper**
+**Lou Cooper**  
 Les, did you become your own experiment at that time?
 
-**Leslie Greenberg**
+**Leslie Greenberg**  
 Well, in an informal sense, yes. I mean, when I allowed myself to feel and express the emotion, the significance of whatever I was feeling emotional about was revealed to me, so to speak. I saw that that's what was important.
 
 So, you know, it's a little bit like when people have near-death experiences or very dangerous experiences, what passes before their eyes is what's really most important to them. Well, essentially, it was like that. When I really allowed myself to sob or to weep, I saw how important what I was crying about was to me.
 
-**Lou Cooper**
+**Lou Cooper**  
 I imagine that was life-changing.
 
-**Leslie Greenberg**
+**Leslie Greenberg**  
 Yes, yes, it was. I think the first time I got angry at my wife was very life-changing. I wouldn't get angry because being angry meant I was out of control or I was actually being hurt, you know, and showing me anger was somehow a sign that I was vulnerable.
 
 So the first time I was actually able to express anger rather than sulk was really very significant.
 
-**Lou Cooper**
+**Lou Cooper**  
 So we're talking about expressing anger in a way which was not aggressive, not harmful.
 
-**Leslie Greenberg**
+**Leslie Greenberg**  
 Correct, correct, and that's an important distinction to make. So we subsequently, you know, discriminate between different kinds of anger. There's **assertive anger** or empowered anger, there's destructive anger, there's rejecting anger.
 
 So these are different kinds of anger. But one of them, the empowered anger, is very important. Yes, so anger often sounds like it's bad and it's aggressive, but actually assertive anger is not.
 
 You can even call it I-anger, I-resent that you haven't been there for me for the last 10 days. I resent that you haven't paid attention to me or something along that line.
 
-**Lou Cooper**
+**Lou Cooper**  
 So standing up for yourself.
 
-**Leslie Greenberg**
+**Leslie Greenberg**  
 Right, right, and usually anger goes with sadness. We don't only have anger, we also have sadness. Sometimes both of them are there.
 
 One is not secondary to the other. I'm sad that you left me and I'm mad that you left me. Go together, and both of them need to be processed or dealt with.
 
-**Lou Cooper**
+**Lou Cooper**  
 So how would you, I mean you're talking about the expression of anger that is useful and healthy, but if there is anger, if someone is experiencing anger and expressing anger in a way which is not helpful, that's getting them into trouble, that is ruining their relationships. How can they change that emotion? I mean you're suggesting that they can change that emotion with another emotion?
 
-**Leslie Greenberg**
+**Leslie Greenberg**  
 Well you see it's a little bit more complicated than that. So these angers are often secondary angers, the ones that are destructive. So really I'm hurt.
 
 I feel fear or I feel shame. This is very common among men. They often then express anger when they feel hurt and shame, but it can be with anyone.
@@ -137,20 +137,20 @@ It's not going to replace it, but it's going to **transform it**. **The two of t
 
 So, you might end up not feeling angry, not feeling ashamed, but feeling proud, feeling confident, or feeling calm. But the important thing is all this is **going on through your emotional brain. You're not thinking it, it's happening.**
 
-**Lou Cooper**
+**Lou Cooper**  
 So, it's outside awareness. And as you're describing that kind of process, Les, what you're saying is the emotion that seems problematic to an individual is actually not the emotion that needs to be worked on. It's the pain underneath.
 
-**Leslie Greenberg**
+**Leslie Greenberg**  
 Right. Except in some instances, the emotion that's problematic is the pain underneath. Some people come in, they're actually more in touch with themselves.
 
 They come in with, I feel shame, I feel worthless. But other people come in with symptoms. I'm depressed. I have anger problems. So, you've got to distinguish which kind of emotion the person is coming in with. But yes, so one process is that the emotion that's problematic is actually, you have to get past to another core painful emotion.
 
 In other instances, the person actually brings the core painful emotion to the therapy.
 
-**Lou Cooper**
+**Lou Cooper**  
 As you're describing this, it's something that needs to happen in therapy. It's not a untangling that can happen at home, or can people learn to do this themselves?
 
-**Leslie Greenberg**
+**Leslie Greenberg**  
 **It's difficult to do yourself** because, firstly, because painful emotions are painful, we usually are trying to protect ourselves against them. So, it's not easy to go there on our own. The safety of another, the accompaniment of another sort of helps us go there.
 
 The understanding of the other makes me feel safer. But also, if we're on our own, we'll usually meet our own blocks, our own ways of getting away from the emotion. 
@@ -173,10 +173,10 @@ And then I react with fear to minor situations when I'm an adult. So, we first h
 
 I'm angry that I didn't get the safety I deserved. I'm sad that I didn't get the safety I deserved. And often anger and sadness are the two very helpful adaptive emotions.
 
-**Lou Cooper**
+**Lou Cooper**  
 And the emotion has been changed. And Les, both you and I know that it takes a long time for an emotion-focused therapist to train and become really efficient in being able to facilitate this change for clients. It is complex, yeah?
 
-**Leslie Greenberg**
+**Leslie Greenberg**  
 Yes, yes, it is complex. And there's a strong element of personal development. I mean, we talk about being present and being present to the other, which means being in the moment.
 
 And you have to **have your finger on the emotional pulse, moment by moment**. So, this is not a conceptual process. It's a sensitive **attunement** and **responsiveness**, moment by moment, to what is the other feeling?
@@ -195,23 +195,21 @@ So, let's say I'm remembering my father and how he mistreated me. Then if I am a
 
 And then the memory changes and it goes back into memory as a different memory. So, it's been shown that, in fact, **memories change** when they are confronted with **new experience**, but the memory has to be **activated**. So, we have to actually remember it and be engrossed in it and then have a new experience in the context of the old memory.
 
-**Lou Cooper**
+**Lou Cooper**  
 So, **creating a new memory from now, as it were**.
 
-**Leslie Greenberg**
+**Leslie Greenberg**  
 Exactly, exactly.
 
-**Lou Cooper**
+**Lou Cooper**  
 Les, thank you so much for taking the time to explain some of this to us. *Changing Emotion with Emotion*, as I said, is your latest publication for anyone that would like to read more about this process. Dr. Leslie Greenberg, Distinguished Research Professor Emeritus from Department of Psychology at York University in Toronto, Canada and the primary developer of Emotion-Focused Therapy.
 
 Thank you, Les.
 
-**Leslie Greenberg**
+**Leslie Greenberg**  
 My pleasure.
 
 *Outro of the podcast*
-
-[^1]: The term **tacit knowing** is attributed to Michael Polanyi's *Personal Knowledge* (1958). In his later work, *The Tacit Dimension* (1966), Polanyi made the assertion that "we can know more than we can tell." Source: [Tacit knowledge - Wikipedia](https://en.wikipedia.org/wiki/Tacit_knowledge)
 
 ## References
 - The term **tacit knowing** is attributed to Michael Polanyi's *Personal Knowledge* (1958). In his later work, *The Tacit Dimension* (1966), Polanyi made the assertion that "we can know more than we can tell." Source: [Tacit knowledge - Wikipedia](https://en.wikipedia.org/wiki/Tacit_knowledge)
