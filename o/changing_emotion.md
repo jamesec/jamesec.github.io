@@ -212,3 +212,4 @@ My pleasure.
 ## References
 - The term **tacit knowing** is attributed to Michael Polanyi's *Personal Knowledge* (1958). In his later work, *The Tacit Dimension* (1966), Polanyi made the assertion that "we can know more than we can tell."
 	- Source: [Tacit knowledge - Wikipedia](https://en.wikipedia.org/wiki/Tacit_knowledge)
+- [Learning Emotion-Focused Therapy (2004)](s.htm?p=learning_eft)
