@@ -7,6 +7,7 @@ https://emotionfocused.com/episodes/interview-leslie2
 
 ---
 
+<br>
 <audio controls>
 	<source src="https://static1.squarespace.com/static/6332370177aff1287f48d75b/t/6479703e46920f213119712c/1686912137801/Les+Greenburg+Changing+emotion+NEW+280523+%281%29.mp3" type="audio/mpeg">
 	Your browser does not support the audio element.
@@ -14,22 +15,22 @@ https://emotionfocused.com/episodes/interview-leslie2
 
 *Intro of the podcast*
 
-**Lou Cooper**
+**Lou Cooper**  
 And for this special Emotion Awareness Day episode, I'm joined by the primary developer of Emotion-Focused Therapy, Dr. Leslie Greenberg, who's Professor Emeritus at York University in Toronto in Canada. And I thought it would be interesting to find out a little bit more about the origins of Emotion-Focused Therapy and what it was that led Leslie Greenberg to try and work out how to change emotion with emotion. Thank you for joining me on this day, Les.
 
-**Leslie Greenberg**
+**Leslie Greenberg**  
 My pleasure.
 
-**Lou Cooper**
+**Lou Cooper**  
 Yeah, emotions have, I think I'm correct in saying, dominated your professional life. Before we go into how we change emotions, I wonder what it was about emotions that drew you in.
 
-**Leslie Greenberg**
+**Leslie Greenberg**  
 Well, there's quite a narrative because I have a master's degree in engineering and then changed to psychology. And of course, engineering is not exactly an emotion-based study, let's say.
 
-**Lou Cooper**
+**Lou Cooper**  
 It's kind of the antithesis.
 
-**Leslie Greenberg**
+**Leslie Greenberg**  
 Isn't it, right? And I think maybe being surrounded by mainly men who were non-emotional always made me feel isolated and different because I clearly had emotions, but I had no support for them. However, I was very mathematically and scientifically inclined, wanted to become a nuclear physicist, and I sort of worshipped at the altar of logical analysis, let's say.
 
 When I was 18 years old or so, I have a diary in which I drew a diagram of a sign, a set of wave, sort of sign curve, if people know what that is, but a kind of set of waves up and down. And I drew a straight line through those. And I wrote, I'd much prefer to live my life on a straight line than to suffer the ups and downs of emotional turmoil.
