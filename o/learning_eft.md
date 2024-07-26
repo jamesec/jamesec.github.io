@@ -12,4 +12,6 @@ ISBN: 978-1591470809
 
 It is [available on Amazon](https://amazon.com/dp/B0029ZEW7G/).
 
-Below are my reading notes.
+I learned how to use EFT to do psychotherapy from this book. One of the most important concepts is the four forms of emotion response. This information can be found on page 30, in Figure 2.2. I created a PDF diagram based on that figure:
+
+<a href="/assets/files/Four_forms_emotion_learning_EFT_2004.pdf">Four forms of emotion response - Learning EFT (2004)</a>
