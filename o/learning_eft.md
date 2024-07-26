@@ -24,3 +24,4 @@ I created a PDF diagram based on that figure:
 ## References
 - [Different kinds of emotional responses in EFT, by Robert Elliott](s.htm?p=emotions)
 - [Emotional deepening process, by Robert Elliott](s.htm?p=deepening)
+- [Changing Emotion with Emotion, Leslie Greenberg (podcast interview)](s.htm?p=changing_emotion)
