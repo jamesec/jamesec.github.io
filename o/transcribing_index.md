@@ -7,7 +7,7 @@ For example, download the subtitles via https://downsub.com/ into text files, an
 
 Then I manually verify and correct those errors.
 
-- [Changing Emotion with Emotion, Leslie Greenberg (podcast interview)](s.htm?p=changing_emotion)
+- [Changing emotion with emotion, Leslie Greenberg (podcast interview)](s.htm?p=changing_emotion)
 - [Focusing is... the murky edge, by Eugene Gendlin](s.htm?p=murky_edge)
 - [One True Morty, Rick and Morty, by Adult Swim](s.htm?p=morty)
 - [Emotional deepening process, by Robert Elliott](s.htm?p=deepening)
