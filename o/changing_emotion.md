@@ -1,4 +1,4 @@
-# Changing Emotion with Emotion, Leslie Greenberg (podcast interview)
+# Changing emotion with emotion, Leslie Greenberg (podcast interview)
 `July 26, 2024`
 
 Leslie Greenberg - Changing Emotion with Emotion  
