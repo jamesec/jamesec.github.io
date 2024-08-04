@@ -183,7 +183,7 @@ How can I facilitate the next moment? What do I do now?
 
 And I'm not thinking this. I'm reacting. But the aim is to help you get to tolerate your painful emotion. 
 
-There's a piece that I didn't bring up in *Changing Emotion with Emotion* that I think is helpful. So, it's a continuation of what I was saying before. There's research on memory called **memory reconsolidation**, which has shown that **memories aren't really fixed**. 
+There's a piece that I didn't bring up in *changing emotion with emotion* that I think is helpful. So, it's a continuation of what I was saying before. There's research on memory called **memory reconsolidation**, which has shown that **memories aren't really fixed**. 
 
 So, people often say, what's the good of going into the past? You can't change the past.
 
