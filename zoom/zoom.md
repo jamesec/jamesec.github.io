@@ -3,9 +3,7 @@
 
 If you're using Windows, download and install:<br>
 https://zoom.us/download?os=win<br>
-① [direct download link for Windows x64](https://cdn.zoom.us/prod/latest/x64/ZoomInstallerFull.exe)
-
-
+① [direct download link for Windows x64](https://zoom.us/client/latest/ZoomInstallerFull.exe?archType=x64)
 
 If you're using macOS, download and install:<br>
 https://zoom.us/download?os=mac<br>
