@@ -4,9 +4,9 @@
 Leslie Greenberg - Changing Emotion with Emotion  
 Episode 11, The Emotion Focused Podcast (June 2, 2023)  
 https://emotionfocused.com/episodes/interview-leslie2  
-How does an engineer change into a world leading ‘emotion-ologist’? Leslie Greenberg tells the story of this evolution and the pathway he took to learning how to Change Emotion with Emotion.
+How does an engineer change into a world leading ‘emotion-ologist’? [Leslie Greenberg](https://cpeh.ca/les-greenberg) tells the story of this evolution and the pathway he took to learning how to Change Emotion with Emotion.
 
-Dr Leslie Greenberg is Professor Emeritus of Psychology at York University, Toronto, and the primary developer of Emotion-Focused Therapy. Les is author of the book *[Changing Emotion with Emotion](https://www.apa.org/pubs/books/changing-emotion-with-emotion)*.
+[Dr Leslie Greenberg](https://cpeh.ca/les-greenberg) is Professor Emeritus of Psychology at York University, Toronto, and the primary developer of Emotion-Focused Therapy. Les is author of the book *[Changing Emotion with Emotion](https://www.apa.org/pubs/books/changing-emotion-with-emotion)*.
 
 ---
 
