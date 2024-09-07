@@ -2,7 +2,7 @@
 `July 26, 2024`
 
 Leslie Greenberg - Changing Emotion with Emotion  
-Episode 11, The Emotion Focused Podcast (June 2, 2023)  
+Series 1 Episode 11, The Emotion Focused Podcast (June 2, 2023)  
 https://emotionfocused.com/episodes/interview-leslie2  
 How does an engineer change into a world leading ‘emotion-ologist’? [Leslie Greenberg](https://cpeh.ca/les-greenberg) tells the story of this evolution and the pathway he took to learning how to Change Emotion with Emotion.
 
