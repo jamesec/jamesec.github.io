@@ -7,6 +7,7 @@ For example, download the subtitles via https://downsub.com/ into text files, an
 
 Then I manually verify and correct those errors.
 
+- [Emotions in young folk, Mirisse Foroughe (podcast interview)](s.htm?p=emotions_young)
 - [Changing emotion with emotion, Leslie Greenberg (podcast interview)](s.htm?p=changing_emotion)
 - [Focusing is... the murky edge, by Eugene Gendlin](s.htm?p=murky_edge)
 - [One True Morty, Rick and Morty, by Adult Swim](s.htm?p=morty)
