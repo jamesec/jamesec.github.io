@@ -3,7 +3,7 @@
 
 Mirisse Foroughe - Emotions in young folk
 Season 2 Episode 1, The Emotion Focused Podcast (February 17, 2024)
-https://emotionfocused.com/episodes/interview-mirisse
+https://emotionfocused.com/episodes/interview-mirisse  
 Growing from a dependent infant into a well adjusted adult is a long and complicated process, according to Dr Mirisse Foroughe, and young people need the opportunity to learn to handle life’s hardships and experience difficult emotions. In this episode Mirisse shares some of what she has learnt from over 20 years’ experience riding the emotional rollercoaster with children, adolescents and their families.
 
 Dr Mirisse Foroughe is Clinical Director at the Family Psychology Centre in Toronto, Canada, and leads clinical research at the Emotion Transformation Institute. She is the developer of EFT-Y, Emotion-Focused Therapy for Youth.
