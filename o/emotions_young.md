@@ -85,7 +85,7 @@ Mm-hmm, yes, absolutely.
 **Lou Cooper**  
 I'm wondering, Mirisse, how much, and it makes sense to me, that, of course, what happens in childhood feeds into how your adolescence is, but how true is that?
 
-**Mirisse Foroughe**
+**Mirisse Foroughe**  
 Well, I mean, we have a phrase that we use often in this work, which is, **the years before five last the rest of your life**. And so there is quite a foundation that's laid in terms of **your capacity to process emotions, your capacity to tolerate frustration**. So if you have a two or three or four-year-old and you're constantly stopping them from having any hardships, and they can't open a lid and you're rushing to do it for them, and they're having a hard time going to school and you say, it's okay, you can stay home.
 
 So you're really blocking the organism from being able to manage frustration. And some parents believe that it's their job to help their children feel good. But what we say is that **we actually wanna help the child get good at feeling**.
