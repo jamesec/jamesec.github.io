@@ -11,6 +11,9 @@ A lightweight approach to removing Google web service dependency.
 
 It claims to be `Certified 100% clean`, and I've used it for a long time with no issues. But it's a pre-compiled binary, so use at your own risk.
 
+Another link to download it:  
+https://ungoogled-software.github.io/ungoogled-chromium-binaries/
+
 Alternatively, you can compile it from the source code:
 
 https://github.com/ungoogled-software/ungoogled-chromium
