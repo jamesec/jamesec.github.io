@@ -31,6 +31,7 @@
   - [Focusing Oriented Therapy with Clients that Can’t Focus](https://youtube.com/watch?v=SRLf4nRrVMU)
 - [Nada Lou](https://youtube.com/@nadalou7779/videos)
   - [Focusing Alone](https://youtube.com/watch?v=kHMmH11GLXE)
+    - Gene Gendlin answers question asked by Andy Nickolson about focusing alone.
 - [Simon dOrsogna](https://youtube.com/@SimondOrsogna/videos)
 - [Greg Madison](https://youtube.com/@gregmadisontherapy/videos)
   - [Paradigm Leaping with Rob Parker on The Living Process with Greg Madison E026](https://youtube.com/watch?v=oAZh5uCe_Yo)
