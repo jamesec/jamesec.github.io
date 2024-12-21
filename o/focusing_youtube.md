@@ -23,7 +23,7 @@
 
 ## Focusing teachers
 - [Akira Ikemi](https://youtube.com/@akiraikemi3050/videos)
-- [Νικόλαος Κυπριωτάκης (Nikolaos Kypriotakis)](https://youtube.com/@nikoskypriotakis/videos)
+- [Νίκος Κυπριωτάκης (Nikos Kypriotakis)](https://youtube.com/@nikoskypriotakis/videos)
   - [Akira Ikemi - An Interview](https://youtube.com/watch?v=min_FYtl6CI)
   - [Akira Ikemi Senses of Focusing Vol I](https://youtube.com/watch?v=Y50E4Ga5Slg)
   - [EFA2018 Campbell Purton](https://youtube.com/watch?v=0RSG3-npbtw)
