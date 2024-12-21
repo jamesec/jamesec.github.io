@@ -29,6 +29,7 @@
   - [EFA2018 Campbell Purton](https://youtube.com/watch?v=0RSG3-npbtw)
   - [Campbell Purton - Interview](https://youtube.com/watch?v=akw_96Udgk8)
   - [Campbell Purton Senses of Focusing Chapter 6](https://youtube.com/watch?v=GngBFQx8OCs)
+- [Jan Winhall - Felt Sense Polyvagal Model](https://youtube.com/@JanWinhall/videos)
 - [Lynn Preston Focusing Relational Psychotherapy](https://youtube.com/@LynnPreston/videos)
   - Sort by: Popular
     - [Eugene Gendlin, PhD on the Theory of Focusing-Oriented Psychotherapy](https://youtube.com/watch?v=xXp11zpK95M)
@@ -46,7 +47,5 @@
 
 ## Other Focusing related YouTube videos
 - [A Guided Focusing experience with Leslie Greenberg](https://youtube.com/watch?v=ZG9kveKEPB0)
-- [What is Felt Sense? - Peter A. Levine](https://youtube.com/watch?v=ZBLe84U7AaM)
+- [What is Felt Sense? - Peter A. Levine - SE (Somatic Experiencing)](https://youtube.com/watch?v=ZBLe84U7AaM)
 - [Ralph D. Ellis, “How My Piano Uses Gendlin’s Focusing Method”](https://youtube.com/watch?v=AFNYqlKF9Z4)
-
-<html><base target="_blank"></html>
