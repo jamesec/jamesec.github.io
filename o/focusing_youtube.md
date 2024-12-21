@@ -33,6 +33,7 @@
   - [Focusing Alone](https://youtube.com/watch?v=kHMmH11GLXE)
     - Gene Gendlin answers question asked by Andy Nickolson about focusing alone.
 - [Simon dOrsogna](https://youtube.com/@SimondOrsogna/videos)
+  - [Focusing is... the murky edge, by Eugene Gendlin](s.htm?p=murky_edge)
 - [Greg Madison](https://youtube.com/@gregmadisontherapy/videos)
   - [Paradigm Leaping with Rob Parker on The Living Process with Greg Madison E026](https://youtube.com/watch?v=oAZh5uCe_Yo)
 - [Focusing Resources - Ann Weiser Cornell and Barbara McGavin](https://youtube.com/@FocusingResources/videos)
