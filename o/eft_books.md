@@ -19,6 +19,7 @@
 ## Leslie S. Greenberg
 - Greenberg, L. S. (2021). *Changing emotion with emotion: A practitioner’s guide*. American Psychological Association.
 - Greenberg, L. S. (2023). *Shame and anger in psychotherapy*. American Psychological Association (APA).
+- Greenberg, L., Rice, L., & Elliott, R. (1993). *Facilitating emotional change*. New York, NY: Guilford Press.
 - Greenberg, L. S., & Johnson, S. (1988). *Emotionally focused therapy for couples*. New York, NY: Guilford Press.
 
 ## Robert Elliott
