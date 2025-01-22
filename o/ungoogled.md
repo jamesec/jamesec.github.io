@@ -102,4 +102,4 @@ Latest version as of Apr 23, 2024: 2024.2.6
 
 Latest version as of Apr 23, 2024: 1.12.18
 
-Alternative: [Awesome Screen Recorder & Screenshot](https://chromewebstore.google.com/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj)
+Alternative, and probably better: [Awesome Screen Recorder & Screenshot](https://chromewebstore.google.com/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj)
