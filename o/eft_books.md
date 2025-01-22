@@ -54,4 +54,4 @@
 - Angus, L., & Greenberg, L. (2011). *Working with narrative in emotion-focused therapy: changing stories, healing lives*. Washington, DC: American Psychological Association (APA).
 
 ## Adele Lafrance
-- Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-focused family therapy: a transdiagnostic model for caregiver-focused interventions*. American Psychological Association (APA).
+- Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-focused family therapy: A transdiagnostic model for caregiver-focused interventions*. American Psychological Association (APA).
