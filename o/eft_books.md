@@ -33,3 +33,12 @@
 
 ## Lars Auszra
 - Lars Auszra, Herrmann, I., & Greenberg, L. S. (2016). *Emotionsfokussierte Therapie: Ein Praxismanual*. Hogrefe Verlag GmbH & Company KG.
+
+## Ladislav Timulak
+- abc
+
+## Shari Geller
+- xyz
+
+## Aman Kwatra
+- Aman Kwatra, Ladislav Timulak, Sharon Lu Huixian, Joyce, C., & Creaner, M. (2022). *Transforming emotional pain: An emotion-focused workbook*. Taylor & Francis.
