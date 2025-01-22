@@ -3,6 +3,7 @@
 
 ## Leslie S. Greenberg
 - Greenberg, L. S. (2023). *Shame and Anger in Psychotherapy*. American Psychological Association (APA).
+- Greenberg, L. S., & Johnson, S. M. (1988). *Emotionally focused therapy for couples*. Guilford Press.
 
 ## Robert Elliott
 - Elliott, R., & Greenberg, L. (2021). *Emotion-Focused Counselling in Action*. SAGE.
