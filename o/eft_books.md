@@ -47,3 +47,6 @@
 
 ## Antonio Pascual-Leone
 - Pascual-Leone, A. (2025). *Principles of emotion change: What works and when in psychotherapy and everyday life*. American Psychological Association (APA).
+
+## Lynne Angus
+- Angus, L., & Greenberg, L. (2011). *Working with narrative in emotion-focused therapy: changing stories, healing lives*. Washington, DC: American Psychological Association (APA).
