@@ -10,6 +10,7 @@
 > The aim was to produce an integrated volume with both approaches, but this effort did not succeed because of Johnson’s desire to maintain the separate identity of emotionally focused couple therapy.
 > 
 > page 6
+> 
 > As noted in the Preface, Susan Johnson later developed the therapy with a strong emphasis on the attachment piece (Johnson, 2004).
 
 ## Leslie S. Greenberg
