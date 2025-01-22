@@ -32,7 +32,7 @@
 - Goldman, R. N., Vaz, A., & Rousmaniere, T. (2021). *Deliberate practice in emotion-focused therapy*. American Psychological Association (APA).
 
 ## Lars Auszra
-- Lars Auszra, Herrmann, I., & Greenberg, L. S. (2016). *Emotionsfokussierte Therapie: Ein Praxismanual*. Hogrefe Verlag GmbH & Company KG.
+- Lars Auszra, Herrmann, I., & Greenberg, L. S. (2016). *Emotionsfokussierte therapie: ein praxismanual*. Hogrefe Verlag GmbH & Company KG.
 
 ## Ladislav Timulak
 - abc
