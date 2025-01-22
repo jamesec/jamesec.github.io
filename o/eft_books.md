@@ -12,6 +12,14 @@
 > page 6
 > 
 > As noted in the Preface, Susan Johnson later developed the therapy with a strong emphasis on the attachment piece (Johnson, 2004).
+> 
+> page 27
+> 
+> Greenberg and his former student Susan Johnson decided that Johnson would continue to promote and develop EFT for couples while he concentrated on the individual approach.
+> 
+> page 448
+> 
+> Despite their theoretical differences, it should be noted that both Greenberg’s and Johnson’s versions of Eft-C remain highly similar at the clinical level as they each rely on the same core interventions, which are outlined in the original text (Greenberg & Johnson, 1988).
 
 ## Leslie S. Greenberg
 - Greenberg, L. S. (2023). *Shame and anger in psychotherapy*. American Psychological Association (APA).
