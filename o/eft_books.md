@@ -8,8 +8,10 @@
 - Elliott, R., & Greenberg, L. (2021). *Emotion-Focused Counselling in Action*. SAGE.
 
 ## Jeanne Watson
+- Book 123
 
 ## Rhonda N. Goldman
 - Goldman, R. N., Vaz, A., & Rousmaniere, T. (2021). *Deliberate Practice in Emotion-Focused Therapy*. American Psychological Association (APA).
 
 ## Lars Auszra
+- Book abc
