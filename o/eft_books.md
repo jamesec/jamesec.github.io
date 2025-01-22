@@ -26,7 +26,7 @@
   - [Learnine Emotion-Focused Therapy (2004)](/o/s.htm?p=learning_eft)
 
 ## Jeanne Watson
-- Book 123
+- Watson, J. C., & Hadas Wiseman. (2021). *The responsive psychotherapist: attuning to clients in the moment*. American Psychological Association (APA).
 
 ## Rhonda N. Goldman
 - Goldman, R. N., Vaz, A., & Rousmaniere, T. (2021). *Deliberate practice in emotion-focused therapy*. American Psychological Association (APA).
