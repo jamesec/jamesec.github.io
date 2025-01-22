@@ -19,7 +19,7 @@
 ## Leslie S. Greenberg
 - Greenberg, L. S. (2025). *On becoming emotion focused*. American Psychological Association (APA).
 - Greenberg, L. S. (2023). *Shame and anger in psychotherapy*. American Psychological Association (APA).
-- Greenberg, L. S. (2021). *Changing emotion with emotion: A practitioner’s guide*. American Psychological Association.
+- Greenberg, L. S. (2021). *Changing emotion with emotion: A practitioner’s guide*. American Psychological Association (APA).
 - Greenberg, L. S., Malberg, N. T., & Tompkins, M. A. (2019). *Working with emotion in psychodynamic, cognitive behavior, and emotion-focused psychotherapy*. American Psychological Association (APA).
 - Greenberg, L., Rice, L., & Elliott, R. (1993). *Facilitating emotional change*. New York, NY: Guilford Press.
 - Greenberg, L. S., & Johnson, S. (1988). *Emotionally focused therapy for couples*. New York, NY: Guilford Press.
@@ -39,10 +39,10 @@
 - Lars Auszra, Herrmann, I., & Greenberg, L. S. (2016). *Emotionsfokussierte therapie: Ein praxismanual*. Hogrefe Verlag GmbH & Company KG.
 
 ## Ladislav Timulak
-- abc
+- Ladislav Timulak, & Daragh Keogh. (2022). *Transdiagnostic emotion-focused therapy: a clinical guide for transforming emotional pain*. American Psychological Association (APA).
 
 ## Shari Geller
-- xyz
+- Geller, S. M., & Greenberg, L. S. (2012). *Therapeutic presence: A mindful approach to effective therapy*. American Psychological Association (APA).
 
 ## Aman Kwatra
 - Aman Kwatra, Ladislav Timulak, Sharon Lu Huixian, Joyce, C., & Creaner, M. (2023). *Transforming emotional pain: An emotion-focused workbook*. Taylor & Francis.
@@ -52,3 +52,6 @@
 
 ## Lynne E. Angus
 - Angus, L., & Greenberg, L. (2011). *Working with narrative in emotion-focused therapy: changing stories, healing lives*. Washington, DC: American Psychological Association (APA).
+
+## Adele Lafrance
+- Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-focused family therapy: a transdiagnostic model for caregiver-focused interventions*. American Psychological Association (APA).
