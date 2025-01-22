@@ -17,6 +17,7 @@
 > Despite their theoretical differences, it should be noted that both Greenberg’s and Johnson’s versions of EFT-C remain highly similar at the clinical level as they each rely on the same core interventions, which are outlined in the original text (Greenberg & Johnson, 1988).
 
 ## Leslie S. Greenberg
+- Greenberg, L. S. (2021). *Changing emotion with emotion: A practitioner’s guide*. American Psychological Association.
 - Greenberg, L. S. (2023). *Shame and anger in psychotherapy*. American Psychological Association (APA).
 - Greenberg, L. S., & Johnson, S. (1988). *Emotionally focused therapy for couples*. New York, NY: Guilford Press.
 
@@ -32,7 +33,7 @@
 - Goldman, R. N., Vaz, A., & Rousmaniere, T. (2021). *Deliberate practice in emotion-focused therapy*. American Psychological Association (APA).
 
 ## Lars Auszra
-- Lars Auszra, Herrmann, I., & Greenberg, L. S. (2016). *Emotionsfokussierte therapie: ein praxismanual*. Hogrefe Verlag GmbH & Company KG.
+- Lars Auszra, Herrmann, I., & Greenberg, L. S. (2016). *Emotionsfokussierte therapie: Ein praxismanual*. Hogrefe Verlag GmbH & Company KG.
 
 ## Ladislav Timulak
 - abc
