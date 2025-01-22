@@ -41,4 +41,4 @@
 - xyz
 
 ## Aman Kwatra
-- Aman Kwatra, Ladislav Timulak, Sharon Lu Huixian, Joyce, C., & Creaner, M. (2022). *Transforming emotional pain: An emotion-focused workbook*. Taylor & Francis.
+- Aman Kwatra, Ladislav Timulak, Sharon Lu Huixian, Joyce, C., & Creaner, M. (2023). *Transforming emotional pain: An emotion-focused workbook*. Taylor & Francis.
