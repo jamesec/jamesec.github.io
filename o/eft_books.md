@@ -42,3 +42,6 @@
 
 ## Aman Kwatra
 - Aman Kwatra, Ladislav Timulak, Sharon Lu Huixian, Joyce, C., & Creaner, M. (2023). *Transforming emotional pain: An emotion-focused workbook*. Taylor & Francis.
+
+## Antonio Pascual-Leone
+- Pascual-Leone, A. (2025). *Principles of emotion change: What works and when in psychotherapy and everyday life*. American Psychological Association (APA).
