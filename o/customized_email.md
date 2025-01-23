@@ -1,5 +1,5 @@
 # Email with your own domain
-`May 30, 2024`
+`January 22, 2025 updated / May 30, 2024`
 
 One of the easiest ways to use email with your own domain.
 
@@ -29,6 +29,11 @@ Consider protecting yourself from spam emails:
 - Don't click on unknown or suspicious links; always think twice before clicking.
 
 This email with your custom domain can serve as your primary email. Therefore, consider creating a separate email address specifically for online purchases, and email subscriptions, etc. This way, if the email address receives spam, it won't clutter your primary inbox. For one-time registrations or situations where you're unsure about the legitimacy of a website, you can also use disposable email addresses from services like [Temp Mail](https://temp-mail.org/).
+
+## January 22, 2025 updated
+If you prefer to host your own mail server instead of relying on mail service providers, this guide is a great resource:
+- [Personal mail server on OpenBSD - Nico's geeky place - Apr 3, 2019](https://nicolascarpi.github.io/openbsd/2019/04/03/openbsd-mail-server.html)
+  - A step-by-step guide for installing and configuring a mail server on OpenBSD.
 
 ## References
 - [Tech Independence - Derek Sivers](https://sive.rs/ti)
