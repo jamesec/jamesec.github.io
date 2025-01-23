@@ -46,6 +46,7 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 - Bohart, A. C., & Greenberg, L. S. (Eds.). (1997). *Empathy reconsidered: New directions in psychotherapy.* American Psychological Association. https://doi.org/10.1037/10226-000
 - Greenberg, L. S., Rice, L., & Elliott, R. (1993). *Facilitating emotional change.* New York, NY: Guilford Press.
 - Greenberg, L. S., & Johnson, S. (1988). *Emotionally focused therapy for couples.* New York, NY: Guilford Press.
+- Greenberg, L. S., & Pinsof, W. M. (Eds.). (1986). *The psychotherapeutic process: A research handbook.* Guilford Press.
 - Rice, L. N., & Greenberg, L. S. (Eds.). (1984). *Patterns of change: intensive analysis of psychotherapy process.* Guilford Press.
 
 ## Robert Elliott
