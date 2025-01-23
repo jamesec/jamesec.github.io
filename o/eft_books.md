@@ -82,7 +82,7 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 - Pascual-Leone, A. (2025). *Principles of emotion change: What works and when in psychotherapy and everyday life.* American Psychological Association.
 
 ## Aman Kwatra
-- Kwatra, A., Timulak, L., Huixian, S. L., Joyce, C., & Creaner, M. (2022). *Transforming emotional pain: An emotion-focused workbook.* Routledge.
+- Kwatra, A., Timulak, L., Huixian, S. L., Joyce, C., & Creaner, M. (2023). *Transforming emotional pain: An emotion-focused workbook.* Routledge.
 
 ## Anne Hilde Vassbø Hagen
 - Hagen, A. H. V., & Dolhanty, J. (2023). *Angry kids, angry parents: Understanding and working with anger in your family.* American Psychological Association. https://doi.org/10.1037/0000359-000
