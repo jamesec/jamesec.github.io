@@ -21,7 +21,7 @@ Emotion-Focused Therapy and Emotionally Focused Therapy may seem similar and are
 > page 495  
 > In 2008 the approach went through another developmental leap. Greenberg and Goldman (2008) published a volume on EFT-C that proposed a five-stage, 14-step model. The book emphasized the important conceptualization of maladaptive primary emotion work in couple therapy, which is not recognized in Johnson’s writings to date.
 > 
-> page 508
+> page 508  
 > Since the late 1990s, the interventions of Leslie Greenberg and Susan Johnson have largely been written and presented separately. This is unfortunate because each offers unique perspectives that, when taken together, strengthen the approach. This chapter integrated key interventions put forth by Greenberg and Johnson through the years.
 
 You can also refer to this 2017 article by Lorrie Brubacher.
