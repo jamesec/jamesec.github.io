@@ -92,6 +92,10 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 ## Ladislav Timulak
 - Timulak, L., & Creaner, M. (2023). *Essentials of qualitative meta-analysis.* American Psychological Association. https://doi.org/10.1037/0000313-000
 - Timulak, L., & Keogh, D. (2022). *Transdiagnostic emotion-focused therapy: A clinical guide for transforming emotional pain.* American Psychological Association. https://doi.org/10.1037/0000253-000
+- Timulak, L., & McElvaney, J. (2018). *Transforming generalized anxiety: an emotion-focused approach.* Routledge.
+- Timulak, L. (2015). *Transforming emotional pain in psychotherapy: an emotion-focused approach.* Routledge, Taylor & Francis.
+- Timulak, L. (2011). *Developing your counselling and psychotherapy skills and practice.* Sage.
+- Timulak, L. (2008). *Research in psychotherapy and counselling.* Sage.
 
 ## Mirisse Foroughe
 - Foroughe, M. (Ed.). (2023). *Emotion focused therapy for youth: The clinical manual.* Taylor & Francis.
