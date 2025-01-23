@@ -18,6 +18,9 @@ Emotion-Focused Therapy and Emotionally Focused Therapy may seem similar and are
 > page 448  
 > Despite their theoretical differences, it should be noted that both Greenberg’s and Johnson’s versions of EFT-C remain highly similar at the clinical level as they each rely on the same core interventions, which are outlined in the original text (Greenberg & Johnson, 1988).
 
+You can also refer to this 2017 article by Lorrie Brubacher.
+- [Distinguishing Emotionally Focused Therapy from Emotion-focused Therapy, Unpublished Manuscript](https://lbrubacher.com/wp/wp-content/uploads/Distinguishing-Emotionally-Focused-from-Emotion-focused.pdf)
+
 I'm only listing English-language books on Emotion-Focused Therapy, with one exception: a book written in German.
 
 ## Leslie S. Greenberg
