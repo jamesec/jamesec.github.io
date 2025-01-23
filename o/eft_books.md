@@ -30,7 +30,7 @@
   - [Learnine Emotion-Focused Therapy (2004)](/o/s.htm?p=learning_eft)
 
 ## Jeanne Watson
-- Watson, J. C., & Hadas Wiseman. (2021). *The responsive psychotherapist: attuning to clients in the moment*. American Psychological Association (APA).
+- Watson, J. C., & Hadas Wiseman. (2021). *The responsive psychotherapist: Attuning to clients in the moment*. American Psychological Association (APA).
 
 ## Rhonda N. Goldman
 - Goldman, R. N., Vaz, A., & Rousmaniere, T. (2021). *Deliberate practice in emotion-focused therapy*. American Psychological Association (APA).
@@ -51,7 +51,7 @@
 - Pascual-Leone, A. (2025). *Principles of emotion change: What works and when in psychotherapy and everyday life*. American Psychological Association (APA).
 
 ## Lynne E. Angus
-- Angus, L., & Greenberg, L. (2011). *Working with narrative in emotion-focused therapy: changing stories, healing lives*. Washington, DC: American Psychological Association (APA).
+- Angus, L., & Greenberg, L. (2011). *Working with narrative in emotion-focused therapy: Changing stories, healing lives*. Washington, DC: American Psychological Association (APA).
 
 ## Adele Lafrance
 - Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-focused family therapy: A transdiagnostic model for caregiver-focused interventions*. American Psychological Association (APA).
