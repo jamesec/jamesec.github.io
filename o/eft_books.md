@@ -87,6 +87,10 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 - Hagen, A. H. V., & Dolhanty, J. (2023). *Angry kids, angry parents: Understanding and working with anger in your family.* American Psychological Association. https://doi.org/10.1037/0000359-000
 - Dolhanty, J., Hjelmseth, V., Austbø, B., & Hagen, A. H. V. (2022). *Emotion focused skills training for parents.* Empty Chair Publisher.
 
+## Ladislav Timulak
+- Timulak, L., & Creaner, M. (2023). *Essentials of qualitative meta-analysis.* American Psychological Association. https://doi.org/10.1037/0000313-000
+- Timulak, L., & Keogh, D. (2022). *Transdiagnostic emotion-focused therapy: A clinical guide for transforming emotional pain.* American Psychological Association. https://doi.org/10.1037/0000253-000
+
 ## Mirisse Foroughe
 - Foroughe, M. (Ed.). (2023). *Emotion focused therapy for youth: The clinical manual.* Taylor & Francis.
 
@@ -99,9 +103,6 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 - Geller, S. M., & Greenberg, L. S. (2023). *Therapeutic presence: A mindful approach to effective therapeutic relationships* (2nd ed.). American Psychological Association. https://doi.org/10.1037/0000315-000
 - Geller, S. M. (2017). *A practical guide to cultivating therapeutic presence.* American Psychological Association. https://doi.org/10.1037/0000025-000
 - Geller, S. M., & Greenberg, L. S. (2012). *Therapeutic presence: A mindful approach to effective therapy.* American Psychological Association. https://doi.org/10.1037/13485-000
-
-## Ladislav Timulak
-- Timulak, L., & Keogh, D. (2022). *Transdiagnostic emotion-focused therapy: A clinical guide for transforming emotional pain.* American Psychological Association. https://doi.org/10.1037/0000253-000
 
 ## Adele Lafrance
 - Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-focused family therapy: A transdiagnostic model for caregiver-focused interventions.* American Psychological Association. https://doi.org/10.1037/0000166-000
