@@ -48,13 +48,13 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 - Bohart, A. C., & Greenberg, L. S. (Eds.). (1997). *Empathy reconsidered: New directions in psychotherapy.* American Psychological Association. https://doi.org/10.1037/10226-000
 - Greenberg, L. S., & Paivio, S. C. (1997). *Working with emotions in psychotherapy.* Guilford Press.
 - Johnson, S. M., & Greenberg, L. S. (1994). *The heart of the matter: Perspectives on emotion in marital therapy.* Brunner/Mazel, Inc.
-- Horvath, A. O., & Greenberg, L. S. (Eds.). (1994). *The working alliance: theory, research, and practice.* Wiley.
+- Horvath, A. O., & Greenberg, L. S. (Eds.). (1994). *The working alliance: Theory, research, and practice.* Wiley.
 - Greenberg, L. S., Rice, L. N., & Elliott, R. (1993). *Facilitating emotional change.* Guilford Press.
 - Safran, J. D., & Greenberg, L. S. (Eds.). (1991). *Emotion, psychotherapy, and change.* Guilford Press.
 - Greenberg, L. S., & Johnson, S. (1988). *Emotionally focused therapy for couples.* Guilford Press.
-- Greenberg, L. S., & Safran, J. D. (1987). *Emotion in psychotherapy: affect, cognition, and the process of change.* Guilford Press.
+- Greenberg, L. S., & Safran, J. D. (1987). *Emotion in psychotherapy: Affect, cognition, and the process of change.* Guilford Press.
 - Greenberg, L. S., & Pinsof, W. M. (Eds.). (1986). *The psychotherapeutic process: A research handbook.* Guilford Press.
-- Rice, L. N., & Greenberg, L. S. (Eds.). (1984). *Patterns of change: intensive analysis of psychotherapy process.* Guilford Press.
+- Rice, L. N., & Greenberg, L. S. (Eds.). (1984). *Patterns of change: Intensive analysis of psychotherapy process.* Guilford Press.
 
 ## Robert Elliott
 - Elliott, R., Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2025). *Learning emotion-focused therapy: A comprehensive guide* (2nd ed.). American Psychological Association.
