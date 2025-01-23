@@ -39,7 +39,7 @@
 - Lars Auszra, Herrmann, I., & Greenberg, L. S. (2016). *Emotionsfokussierte therapie: Ein praxismanual*. Hogrefe Verlag GmbH & Company KG.
 
 ## Ladislav Timulak
-- Ladislav Timulak, & Daragh Keogh. (2022). *Transdiagnostic emotion-focused therapy: a clinical guide for transforming emotional pain*. American Psychological Association (APA).
+- Ladislav Timulak, & Daragh Keogh. (2022). *Transdiagnostic emotion-focused therapy: A clinical guide for transforming emotional pain*. American Psychological Association (APA).
 
 ## Shari Geller
 - Geller, S. M., & Greenberg, L. S. (2012). *Therapeutic presence: A mindful approach to effective therapy*. American Psychological Association (APA).
