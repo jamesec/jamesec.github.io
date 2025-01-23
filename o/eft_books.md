@@ -58,6 +58,9 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 ## Lars Auszra
 - Lars Auszra, Herrmann, I., & Greenberg, L. S. (2016). *Emotionsfokussierte therapie: Ein praxismanual.* Hogrefe Verlag GmbH & Company KG.
 
+## Antonio Pascual-Leone
+- Pascual-Leone, A. (2025). *Principles of emotion change: What works and when in psychotherapy and everyday life.* American Psychological Association.
+
 ## Ladislav Timulak
 - Ladislav Timulak, & Daragh Keogh. (2022). *Transdiagnostic emotion-focused therapy: A clinical guide for transforming emotional pain.* American Psychological Association.
 
@@ -79,6 +82,3 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 - Paivio, S. C., & Pascual-Leone, A. (2023). *Emotion-focused therapy for complex trauma: An integrative approach* (2nd ed.). American Psychological Association. https://doi.org/10.1037/0000336-000
 - Paivio, S. C., & Angus, L. E. (2017). *Narrative processes in emotion-focused therapy for trauma.* American Psychological Association. https://doi.org/10.1037/0000041-000
 - Paivio, S. C., & Pascual-Leone, A. (2010). *Emotion-focused therapy for complex trauma: An integrative approach.* American Psychological Association. https://doi.org/10.1037/12077-000
-
-## Antonio Pascual-Leone
-- Pascual-Leone, A. (2025). *Principles of emotion change: What works and when in psychotherapy and everyday life.* American Psychological Association.
