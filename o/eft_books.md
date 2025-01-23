@@ -64,7 +64,7 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 - Elliott, R., Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2004). *Learning emotion-focused therapy: The process-experiential approach to change.* American Psychological Association. https://doi.org/10.1037/10725-000
   - [Learnine Emotion-Focused Therapy (2004)](/o/s.htm?p=learning_eft)
 
-## Jeanne Watson
+## Jeanne C. Watson
 - Watson, J. C., & Wiseman, H. (Eds.). (2021). *The responsive psychotherapist: Attuning to clients in the moment.* American Psychological Association. https://doi.org/10.1037/0000240-000
 - Watson, J. C., & Greenberg, L. S. (2017). *Emotion-focused therapy for generalized anxiety.* American Psychological Association. https://doi.org/10.1037/0000018-000
 - Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2007). *Case studies in emotion-focused treatment of depression: A comparison of good and poor outcome.* American Psychological Association. https://doi.org/10.1037/11586-000
