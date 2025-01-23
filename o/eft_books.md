@@ -82,6 +82,9 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 - Hagen, A. H. V., & Dolhanty, J. (2023). *Angry kids, angry parents: Understanding and working with anger in your family.* American Psychological Association. https://doi.org/10.1037/0000359-000
 - Dolhanty, J., Hjelmseth, V., Austbø, B., & Hagen, A. H. V. (2022). *Emotion focused skills training for parents.* Empty Chair Publisher.
 
+## Mirisse Foroughe
+- Foroughe, M. (Ed.). (2023). *Emotion focused therapy for youth: The clinical manual.* Taylor & Francis.
+
 ## Sandra C. Paivio
 - Paivio, S. C., & Pascual-Leone, A. (2023). *Emotion-focused therapy for complex trauma: An integrative approach* (2nd ed.). American Psychological Association. https://doi.org/10.1037/0000336-000
 - Paivio, S. C., & Angus, L. E. (2017). *Narrative processes in emotion-focused therapy for trauma.* American Psychological Association. https://doi.org/10.1037/0000041-000
