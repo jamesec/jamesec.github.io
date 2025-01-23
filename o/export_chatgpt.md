@@ -3,5 +3,5 @@
 
 I use ChatGPT minimally; that is, I don’t even log into the system and simply [start a new temporary chat](https://chatgpt.com/?temporary-chat=true) each time. However, I’d like to save my conversations for future reference. Previously, I used a browser screenshot extension, namely `Awesome Screen Recorder & Screenshot`, to do so.
 
-> Temporary Chat
+> Temporary Chat  
 > This chat won't appear in history or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days.
