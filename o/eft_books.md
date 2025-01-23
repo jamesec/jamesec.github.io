@@ -65,28 +65,28 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 ## Antonio Pascual-Leone
 - Pascual-Leone, A. (2025). *Principles of emotion change: What works and when in psychotherapy and everyday life.* American Psychological Association.
 
-## Ladislav Timulak
-- Ladislav Timulak, & Daragh Keogh. (2022). *Transdiagnostic emotion-focused therapy: A clinical guide for transforming emotional pain.* American Psychological Association.
-
-## Shari Geller
-- Geller, S. M., & Greenberg, L. S. (2023). *Therapeutic presence: A mindful approach to effective therapeutic relationships* (2nd ed.). American Psychological Association. https://doi.org/10.1037/0000315-000
-- Geller, S. M., & Greenberg, L. S. (2012). *Therapeutic presence: A mindful approach to effective therapy.* American Psychological Association. https://doi.org/10.1037/13485-000
-- Geller, S. M. (2017). *A practical guide to cultivating therapeutic presence.* American Psychological Association. https://doi.org/10.1037/0000025-000
-
 ## Aman Kwatra
 - Aman Kwatra, Ladislav Timulak, Sharon Lu Huixian, Joyce, C., & Creaner, M. (2023). *Transforming emotional pain: An emotion-focused workbook.* Taylor & Francis.
 
-## Lynne E. Angus
-- Angus, L., & Greenberg, L. S. (2011). *Working with narrative in emotion-focused therapy: Changing stories, healing lives.* American Psychological Association.
-
-## Adele Lafrance
-- Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-focused family therapy: A transdiagnostic model for caregiver-focused interventions.* American Psychological Association. https://doi.org/10.1037/0000166-000
+## Joanne Dolhanty
+- Hagen, A. H. V., & Dolhanty, J. (2023). *Angry kids, angry parents: Understanding and working with anger in your family.* American Psychological Association. https://doi.org/10.1037/0000359-000
+- Dolhanty, J., Hjelmseth, V., Austbø, B., & Hagen, A. H. V. (2022). *Emotion focused skills training for parents.* Empty Chair Publisher.
 
 ## Sandra C. Paivio
 - Paivio, S. C., & Pascual-Leone, A. (2023). *Emotion-focused therapy for complex trauma: An integrative approach* (2nd ed.). American Psychological Association. https://doi.org/10.1037/0000336-000
 - Paivio, S. C., & Angus, L. E. (2017). *Narrative processes in emotion-focused therapy for trauma.* American Psychological Association. https://doi.org/10.1037/0000041-000
 - Paivio, S. C., & Pascual-Leone, A. (2010). *Emotion-focused therapy for complex trauma: An integrative approach.* American Psychological Association. https://doi.org/10.1037/12077-000
 
-## Joanne Dolhanty
-- Hagen, A. H. V., & Dolhanty, J. (2023). *Angry kids, angry parents: Understanding and working with anger in your family.* American Psychological Association. https://doi.org/10.1037/0000359-000
-- Dolhanty, J., Hjelmseth, V., Austbø, B., & Hagen, A. H. V. (2022). *Emotion focused skills training for parents.* Empty Chair Publisher.
+## Shari Geller
+- Geller, S. M., & Greenberg, L. S. (2023). *Therapeutic presence: A mindful approach to effective therapeutic relationships* (2nd ed.). American Psychological Association. https://doi.org/10.1037/0000315-000
+- Geller, S. M., & Greenberg, L. S. (2012). *Therapeutic presence: A mindful approach to effective therapy.* American Psychological Association. https://doi.org/10.1037/13485-000
+- Geller, S. M. (2017). *A practical guide to cultivating therapeutic presence.* American Psychological Association. https://doi.org/10.1037/0000025-000
+
+## Ladislav Timulak
+- Ladislav Timulak, & Daragh Keogh. (2022). *Transdiagnostic emotion-focused therapy: A clinical guide for transforming emotional pain.* American Psychological Association.
+
+## Adele Lafrance
+- Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-focused family therapy: A transdiagnostic model for caregiver-focused interventions.* American Psychological Association. https://doi.org/10.1037/0000166-000
+
+## Lynne E. Angus
+- Angus, L., & Greenberg, L. S. (2011). *Working with narrative in emotion-focused therapy: Changing stories, healing lives.* American Psychological Association.
