@@ -55,3 +55,6 @@
 
 ## Adele Lafrance
 - Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-focused family therapy: A transdiagnostic model for caregiver-focused interventions*. American Psychological Association (APA).
+
+## Sandra C. Paivio
+- Paivio, S. C., & Pascual-Leone, A. (2010). *Emotion-focused therapy for complex trauma: An integrative approach*. Washington, DC: American Psychological Association (APA). doi:10.1037/12077-000
