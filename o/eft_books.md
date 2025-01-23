@@ -24,11 +24,11 @@ You can also refer to this 2017 article by Lorrie Brubacher.
 I'm only listing English-language books on Emotion-Focused Therapy, with one exception: a book written in German.
 
 ## Leslie S. Greenberg
-- Greenberg, L. S. (2025). *On becoming emotion focused*. American Psychological Association (APA).
-- Greenberg, L. S. (2023). *Shame and anger in psychotherapy*. American Psychological Association (APA).
-- Greenberg, L. S. (2021). *Changing emotion with emotion: A practitioner’s guide*. American Psychological Association (APA).
-- Greenberg, L. S., Goldman, R. N., & American Psychological Association. (2019). *Clinical handbook of emotion-focused therapy*. American Psychological Association (APA).
-- Greenberg, L. S., Malberg, N. T., & Tompkins, M. A. (2019). *Working with emotion in psychodynamic, cognitive behavior, and emotion-focused psychotherapy*. American Psychological Association (APA).
+- Greenberg, L. S. (2025). *On becoming emotion focused*. American Psychological Association.
+- Greenberg, L. S. (2023). *Shame and anger in psychotherapy*. American Psychological Association.
+- Greenberg, L. S. (2021). *Changing emotion with emotion: A practitioner’s guide*. American Psychological Association.
+- Greenberg, L. S., Goldman, R. N., & American Psychological Association. (2019). *Clinical handbook of emotion-focused therapy*. American Psychological Association.
+- Greenberg, L. S., Malberg, N. T., & Tompkins, M. A. (2019). *Working with emotion in psychodynamic, cognitive behavior, and emotion-focused psychotherapy*. American Psychological Association.
 - Greenberg, L. S., Rice, L., & Elliott, R. (1993). *Facilitating emotional change*. New York, NY: Guilford Press.
 - Greenberg, L. S., & Johnson, S. (1988). *Emotionally focused therapy for couples*. New York, NY: Guilford Press.
 
@@ -39,31 +39,31 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
   - [Learnine Emotion-Focused Therapy (2004)](/o/s.htm?p=learning_eft)
 
 ## Jeanne Watson
-- Watson, J. C., & Hadas Wiseman. (2021). *The responsive psychotherapist: Attuning to clients in the moment*. American Psychological Association (APA).
+- Watson, J. C., & Hadas Wiseman. (2021). *The responsive psychotherapist: Attuning to clients in the moment*. American Psychological Association.
 
 ## Rhonda N. Goldman
-- Goldman, R. N., Vaz, A., & Rousmaniere, T. (2021). *Deliberate practice in emotion-focused therapy*. American Psychological Association (APA).
+- Goldman, R. N., Vaz, A., & Rousmaniere, T. (2021). *Deliberate practice in emotion-focused therapy*. American Psychological Association.
 
 ## Lars Auszra
 - Lars Auszra, Herrmann, I., & Greenberg, L. S. (2016). *Emotionsfokussierte therapie: Ein praxismanual*. Hogrefe Verlag GmbH & Company KG.
 
 ## Ladislav Timulak
-- Ladislav Timulak, & Daragh Keogh. (2022). *Transdiagnostic emotion-focused therapy: A clinical guide for transforming emotional pain*. American Psychological Association (APA).
+- Ladislav Timulak, & Daragh Keogh. (2022). *Transdiagnostic emotion-focused therapy: A clinical guide for transforming emotional pain*. American Psychological Association.
 
 ## Shari Geller
-- Geller, S. M., & Greenberg, L. S. (2012). *Therapeutic presence: A mindful approach to effective therapy*. American Psychological Association (APA).
+- Geller, S. M., & Greenberg, L. S. (2012). *Therapeutic presence: A mindful approach to effective therapy*. American Psychological Association.
 
 ## Aman Kwatra
 - Aman Kwatra, Ladislav Timulak, Sharon Lu Huixian, Joyce, C., & Creaner, M. (2023). *Transforming emotional pain: An emotion-focused workbook*. Taylor & Francis.
 
 ## Lynne E. Angus
-- Angus, L., & Greenberg, L. S. (2011). *Working with narrative in emotion-focused therapy: Changing stories, healing lives*. Washington, DC: American Psychological Association (APA).
+- Angus, L., & Greenberg, L. S. (2011). *Working with narrative in emotion-focused therapy: Changing stories, healing lives*. American Psychological Association.
 
 ## Adele Lafrance
-- Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-focused family therapy: A transdiagnostic model for caregiver-focused interventions*. American Psychological Association (APA).
+- Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-focused family therapy: A transdiagnostic model for caregiver-focused interventions*. American Psychological Association.
 
 ## Sandra C. Paivio
-- Paivio, S. C., & Pascual-Leone, A. (2010). *Emotion-focused therapy for complex trauma: An integrative approach*. Washington, DC: American Psychological Association (APA). doi:10.1037/12077-000
+- Paivio, S. C., & Pascual-Leone, A. (2010). *Emotion-focused therapy for complex trauma: An integrative approach*. American Psychological Association. https://doi.org/10.1037/12077-000
 
 ## Antonio Pascual-Leone
-- Pascual-Leone, A. (2025). *Principles of emotion change: What works and when in psychotherapy and everyday life*. American Psychological Association (APA).
+- Pascual-Leone, A. (2025). *Principles of emotion change: What works and when in psychotherapy and everyday life*. American Psychological Association.
