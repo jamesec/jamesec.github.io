@@ -76,13 +76,13 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 - Goldman, R. N., & Greenberg, L. S. (2015). *Case formulation in emotion-focused therapy: Co-creating clinical maps for change.* American Psychological Association. https://doi.org/10.1037/14523-000
 
 ## Lars Auszra
-- Lars Auszra, Herrmann, I., & Greenberg, L. S. (2016). *Emotionsfokussierte therapie: Ein praxismanual.* Hogrefe Verlag GmbH & Company KG.
+- Auszra L., Herrmann, I., & Greenberg, L. S. (2016). *Emotionsfokussierte therapie: Ein praxismanual.* Hogrefe Verlag GmbH & Company KG.
 
 ## Antonio Pascual-Leone
 - Pascual-Leone, A. (2025). *Principles of emotion change: What works and when in psychotherapy and everyday life.* American Psychological Association.
 
 ## Aman Kwatra
-- Aman Kwatra, Ladislav Timulak, Sharon Lu Huixian, Joyce, C., & Creaner, M. (2023). *Transforming emotional pain: An emotion-focused workbook.* Taylor & Francis.
+- Kwatra, A., Timulak, L., Huixian, S. L., Joyce, C., & Creaner, M. (2022). *Transforming emotional pain: An emotion-focused workbook.* Routledge.
 
 ## Anne Hilde Vassbø Hagen
 - Hagen, A. H. V., & Dolhanty, J. (2023). *Angry kids, angry parents: Understanding and working with anger in your family.* American Psychological Association. https://doi.org/10.1037/0000359-000
