@@ -17,6 +17,9 @@ Emotion-Focused Therapy and Emotionally Focused Therapy may seem similar and are
 > 
 > page 448  
 > Despite their theoretical differences, it should be noted that both Greenberg’s and Johnson’s versions of EFT-C remain highly similar at the clinical level as they each rely on the same core interventions, which are outlined in the original text (Greenberg & Johnson, 1988).
+> 
+> page 495
+> In 2008 the approach went through another developmental leap. Greenberg and Goldman (2008) published a volume on EFT-C that proposed a five-stage, 14-step model. The book emphasized the important conceptualization of maladaptive primary emotion work in couple therapy, which is not recognized in Johnson’s writings to date.
 
 You can also refer to this 2017 article by Lorrie Brubacher.
 - [Distinguishing Emotionally Focused Therapy from Emotion-Focused Therapy, Unpublished Manuscript](https://lbrubacher.com/wp/wp-content/uploads/Distinguishing-Emotionally-Focused-from-Emotion-focused.pdf)
