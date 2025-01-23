@@ -8,9 +8,11 @@ I use ChatGPT in a minimalist, low-key way, without logging into the system. Tha
 
 However, I’d like to save my conversations for future reference. Previously, I used a browser screenshot extension, namely `Awesome Screen Recorder & Screenshot`, to do so.
 
-I’ve now discovered a better solution, which, as I understand it, is the best way to save/export chat history: using the browser extension SingleFileZ.
+I’ve now discovered a better solution, which, as I understand it, is the best way to save/export chat history: using the browser extension `SingleFileZ`.
 
 You can install the browser extension for Chromium/Chrome [here](https://chromewebstore.google.com/detail/singlefilez/offkdfbbigofcgdokjemgjpdockaafjg?hl=en). If you're using a different browser, just search for `SingleFileZ name_of_your_browser`.
+
+Actually you can save the webpage chatting with ChatGPT as .mhtml format, In Chromium/Chrome browser, use `Save Page As...` > `Format: Webpage, SingleFile`
 
 ## References
 - [UnGoogled Chromium browser with extensions](/o/s.htm?p=ungoogled)
