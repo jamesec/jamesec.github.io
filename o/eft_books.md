@@ -45,8 +45,8 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 - Greenberg, L. S., & Watson, J. C. (2006). *Emotion-focused therapy for depression.* American Psychological Association. https://doi.org/10.1037/11286-000
 - Greenberg, L. S. (2002). *Emotion-focused therapy: Coaching clients to work through their feelings.* American Psychological Association.
 - Greenberg, L. S., Watson, J. C., & G Lietaer. (Eds.). (1998). *Handbook of experiential psychotherapy.* Guilford Press.
-- Greenberg, L. S., & Paivio, S. C. (1997). *Working with emotions in psychotherapy.* Guilford Press.
 - Bohart, A. C., & Greenberg, L. S. (Eds.). (1997). *Empathy reconsidered: New directions in psychotherapy.* American Psychological Association. https://doi.org/10.1037/10226-000
+- Greenberg, L. S., & Paivio, S. C. (1997). *Working with emotions in psychotherapy.* Guilford Press.
 - Johnson, S. M., & Greenberg, L. S. (1994). *The heart of the matter: Perspectives on emotion in marital therapy.* Brunner/Mazel, Inc.
 - Greenberg, L. S., Rice, L., & Elliott, R. (1993). *Facilitating emotional change.* New York, NY: Guilford Press.
 - Safran, J. D., & Greenberg, L. S. (Eds.). (1991). *Emotion, psychotherapy, and change.* Guilford Press.
