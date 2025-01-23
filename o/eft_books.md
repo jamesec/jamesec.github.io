@@ -76,7 +76,7 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 - Angus, L., & Greenberg, L. S. (2011). *Working with narrative in emotion-focused therapy: Changing stories, healing lives.* American Psychological Association.
 
 ## Adele Lafrance
-- Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-focused family therapy: A transdiagnostic model for caregiver-focused interventions.* American Psychological Association.
+- Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-focused family therapy: A transdiagnostic model for caregiver-focused interventions.* American Psychological Association. https://doi.org/10.1037/0000166-000
 
 ## Sandra C. Paivio
 - Paivio, S. C., & Pascual-Leone, A. (2023). *Emotion-focused therapy for complex trauma: An integrative approach* (2nd ed.). American Psychological Association. https://doi.org/10.1037/0000336-000
