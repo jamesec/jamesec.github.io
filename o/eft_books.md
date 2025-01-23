@@ -55,9 +55,6 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 ## Aman Kwatra
 - Aman Kwatra, Ladislav Timulak, Sharon Lu Huixian, Joyce, C., & Creaner, M. (2023). *Transforming emotional pain: An emotion-focused workbook*. Taylor & Francis.
 
-## Antonio Pascual-Leone
-- Pascual-Leone, A. (2025). *Principles of emotion change: What works and when in psychotherapy and everyday life*. American Psychological Association (APA).
-
 ## Lynne E. Angus
 - Angus, L., & Greenberg, L. S. (2011). *Working with narrative in emotion-focused therapy: Changing stories, healing lives*. Washington, DC: American Psychological Association (APA).
 
@@ -66,3 +63,6 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 
 ## Sandra C. Paivio
 - Paivio, S. C., & Pascual-Leone, A. (2010). *Emotion-focused therapy for complex trauma: An integrative approach*. Washington, DC: American Psychological Association (APA). doi:10.1037/12077-000
+
+## Antonio Pascual-Leone
+- Pascual-Leone, A. (2025). *Principles of emotion change: What works and when in psychotherapy and everyday life*. American Psychological Association (APA).
