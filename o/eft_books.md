@@ -83,8 +83,10 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 ## Aman Kwatra
 - Aman Kwatra, Ladislav Timulak, Sharon Lu Huixian, Joyce, C., & Creaner, M. (2023). *Transforming emotional pain: An emotion-focused workbook.* Taylor & Francis.
 
-## Joanne Dolhanty
+## Anne Hilde Vassbø Hagen
 - Hagen, A. H. V., & Dolhanty, J. (2023). *Angry kids, angry parents: Understanding and working with anger in your family.* American Psychological Association. https://doi.org/10.1037/0000359-000
+
+## Joanne Dolhanty
 - Dolhanty, J., Hjelmseth, V., Austbø, B., & Hagen, A. H. V. (2022). *Emotion focused skills training for parents.* Empty Chair Publisher.
 
 ## Ladislav Timulak
