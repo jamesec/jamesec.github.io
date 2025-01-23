@@ -62,6 +62,7 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 
 ## Shari Geller
 - Geller, S. M., & Greenberg, L. S. (2012). *Therapeutic presence: A mindful approach to effective therapy.* American Psychological Association.
+- Geller, S. M. (2017). *A practical guide to cultivating therapeutic presence.* American Psychological Association. https://doi.org/10.1037/0000025-000
 
 ## Aman Kwatra
 - Aman Kwatra, Ladislav Timulak, Sharon Lu Huixian, Joyce, C., & Creaner, M. (2023). *Transforming emotional pain: An emotion-focused workbook.* Taylor & Francis.
