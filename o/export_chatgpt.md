@@ -1,7 +1,7 @@
 # Best way to save your chat history with ChatGPT
 `January 22, 2025`
 
-I use ChatGPT minimally; that is, I don’t even log into the system and simply [start a new temporary chat](https://chatgpt.com/?temporary-chat=true) each time.
+I use ChatGPT in a minimalist, low-key way, without logging into the system. That is, I simply [start a new temporary chat](https://chatgpt.com/?temporary-chat=true) each time.
 
 > Temporary Chat  
 > This chat won't appear in history or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days.
