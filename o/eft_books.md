@@ -39,7 +39,7 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
   - [Learnine Emotion-Focused Therapy (2004)](/o/s.htm?p=learning_eft)
 
 ## Jeanne Watson
-- Watson, J. C., & Hadas Wiseman. (2021). *The responsive psychotherapist: Attuning to clients in the moment*. American Psychological Association.
+- Watson, J. C., & Wiseman, H. (Eds.). (2021). *The responsive psychotherapist: Attuning to clients in the moment*. American Psychological Association. https://doi.org/10.1037/0000240-000
 
 ## Rhonda N. Goldman
 - Goldman, R. N., Vaz, A., & Rousmaniere, T. (2021). *Deliberate practice in emotion-focused therapy*. American Psychological Association.
