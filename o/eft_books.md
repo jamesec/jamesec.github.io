@@ -1,7 +1,7 @@
 # All EFT (Emotion-Focused Therapy) books in English with APA 7 citation
 `January 22, 2025`
 
-Emotion-Focused Therapy and Emotionally Focused Therapy may seem similar and are often confused, but they are distinct approaches. I'm only listing English-language books on Emotion-Focused Therapy, with one exception: a book written in German.
+Emotion-Focused Therapy and Emotionally Focused Therapy may seem similar and are often confused, but they are distinct approaches. This book gives you a sense of the differences between them.
 
 > page xii, preface  
 > Initially, Greenberg and colleagues called the individual therapy *process experiential therapy* (Greenberg, Rice, & Elliott, 1993; Rice & Greenberg, 1984), while Greenberg and Johnson (1986, 1988) called the couple’s treatment *emotionally focused couple therapy*.
@@ -17,6 +17,8 @@ Emotion-Focused Therapy and Emotionally Focused Therapy may seem similar and are
 > 
 > page 448  
 > Despite their theoretical differences, it should be noted that both Greenberg’s and Johnson’s versions of EFT-C remain highly similar at the clinical level as they each rely on the same core interventions, which are outlined in the original text (Greenberg & Johnson, 1988).
+
+I'm only listing English-language books on Emotion-Focused Therapy, with one exception: a book written in German.
 
 ## Leslie S. Greenberg
 - Greenberg, L. S. (2025). *On becoming emotion focused*. American Psychological Association (APA).
