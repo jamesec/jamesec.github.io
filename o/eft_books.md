@@ -86,3 +86,4 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 
 ## Joanne Dolhanty
 - Hagen, A. H. V., & Dolhanty, J. (2023). *Angry kids, angry parents: Understanding and working with anger in your family.* American Psychological Association. https://doi.org/10.1037/0000359-000
+- Dolhanty, J., Hjelmseth, V., Austbø, B., & Hagen, A. H. V. (2022). *Emotion focused skills training for parents.* Empty Chair Publisher.
