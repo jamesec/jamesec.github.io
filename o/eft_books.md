@@ -35,7 +35,7 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 ## Robert Elliott
 - Elliott, R., Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2025). *Learning emotion-focused therapy: A comprehensive guide (2nd ed.)*. Washington, DC: American Psychological Association (APA).
 - Elliott, R., & Greenberg, L. S. (2021). *Emotion-focused counselling in action*. SAGE.
-- Elliott, R., Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2004). *Learning emotion-focused therapy: The process-experiential approach to change*. Washington, DC: American Psychological Association (APA). [doi:10.1037/10725-000](https://doi.org/10.1037/10725-000)
+- Elliott, R., Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2004). *Learning emotion-focused therapy: The process-experiential approach to change*. Washington, DC: American Psychological Association (APA). https://doi.org/10.1037/10725-000
   - [Learnine Emotion-Focused Therapy (2004)](/o/s.htm?p=learning_eft)
 
 ## Jeanne Watson
