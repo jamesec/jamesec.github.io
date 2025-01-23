@@ -5,3 +5,5 @@ I use ChatGPT minimally; that is, I don’t even log into the system and simply 
 
 > Temporary Chat  
 > This chat won't appear in history or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days.
+
+I’ve now discovered a better solution, which, as I understand it, is the best way to save/export chat history: using the browser extension [SingleFile](https://github.com/gildas-lormeau/SingleFile).
