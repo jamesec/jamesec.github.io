@@ -49,7 +49,7 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 - Watson, J. C., & Greenberg, L. S. (2017). *Emotion-focused therapy for generalized anxiety.* American Psychological Association. https://doi.org/10.1037/0000018-000
 
 ## Rhonda N. Goldman
-- Goldman, R. N., Vaz, A., & Rousmaniere, T. (2021). *Deliberate practice in emotion-focused therapy.* American Psychological Association.
+- Goldman, R. N., Vaz, A., & Rousmaniere, T. (2021). *Deliberate practice in emotion-focused therapy.* American Psychological Association. https://doi.org/10.1037/0000227-000
 
 ## Lars Auszra
 - Lars Auszra, Herrmann, I., & Greenberg, L. S. (2016). *Emotionsfokussierte therapie: Ein praxismanual.* Hogrefe Verlag GmbH & Company KG.
