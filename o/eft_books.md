@@ -41,7 +41,7 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 - Greenberg, L. S., & Johnson, S. (1988). *Emotionally focused therapy for couples.* New York, NY: Guilford Press.
 
 ## Robert Elliott
-- Elliott, R., Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2025). *Learning emotion-focused therapy: A comprehensive guide (2nd ed.).* American Psychological Association.
+- Elliott, R., Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2025). *Learning emotion-focused therapy: A comprehensive guide* (2nd ed.). American Psychological Association.
 - Elliott, R., & Greenberg, L. S. (2021). *Emotion-focused counselling in action.* SAGE.
 - Elliott, R., Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2004). *Learning emotion-focused therapy: The process-experiential approach to change.* American Psychological Association. https://doi.org/10.1037/10725-000
   - [Learnine Emotion-Focused Therapy (2004)](/o/s.htm?p=learning_eft)
@@ -61,7 +61,7 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 - Ladislav Timulak, & Daragh Keogh. (2022). *Transdiagnostic emotion-focused therapy: A clinical guide for transforming emotional pain.* American Psychological Association.
 
 ## Shari Geller
-- Geller, S. M., & Greenberg, L. S. (2023). *Therapeutic presence: A mindful approach to effective therapeutic relationships (2nd ed.).* American Psychological Association. https://doi.org/10.1037/0000315-000
+- Geller, S. M., & Greenberg, L. S. (2023). *Therapeutic presence: A mindful approach to effective therapeutic relationships* (2nd ed.). American Psychological Association. https://doi.org/10.1037/0000315-000
 - Geller, S. M., & Greenberg, L. S. (2012). *Therapeutic presence: A mindful approach to effective therapy.* American Psychological Association. https://doi.org/10.1037/13485-000
 - Geller, S. M. (2017). *A practical guide to cultivating therapeutic presence.* American Psychological Association. https://doi.org/10.1037/0000025-000
 
