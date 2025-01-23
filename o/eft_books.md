@@ -75,6 +75,7 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 - Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-focused family therapy: A transdiagnostic model for caregiver-focused interventions.* American Psychological Association.
 
 ## Sandra C. Paivio
+- Paivio, S. C., & Pascual-Leone, A. (2023). *Emotion-focused therapy for complex trauma: An integrative approach* (2nd ed.). American Psychological Association. https://doi.org/10.1037/0000336-000
 - Paivio, S. C., & Pascual-Leone, A. (2010). *Emotion-focused therapy for complex trauma: An integrative approach.* American Psychological Association. https://doi.org/10.1037/12077-000
 
 ## Antonio Pascual-Leone
