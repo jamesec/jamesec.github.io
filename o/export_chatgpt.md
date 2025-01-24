@@ -16,7 +16,7 @@ You can save the webpage with ChatGPT as an .mhtml file by using "Save Page As..
 
 Additionally, the .mhtml file embeds images as base64 data within the file.
 
-In contrast, when you configure `SingleFile` like this: Options > File format > Self-extracting ZIP (universal), the resulting ZIP package from SingleFile can be extracted, and the images are preserved in their original format.
+In contrast, when you configure `SingleFile` like this: Options > File format > self-extracting ZIP (universal), the resulting ZIP package from SingleFile can be extracted, and the images are preserved in their original format.
 
 ## References
 - [UnGoogled Chromium browser with extensions](/o/s.htm?p=ungoogled)
