@@ -48,7 +48,7 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 - Bohart, A. C., & Greenberg, L. S. (Eds.). (1997). *Empathy reconsidered: New directions in psychotherapy.* American Psychological Association. https://doi.org/10.1037/10226-000
 - Greenberg, L. S., & Paivio, S. C. (1997). *Working with emotions in psychotherapy.* Guilford Press.
 - Johnson, S. M., & Greenberg, L. S. (1994). *The heart of the matter: Perspectives on emotion in marital therapy.* Brunner/Mazel, Inc.
-- Horvath, A. O., & Greenberg, L. S. (Eds.). (1994). *The working alliance: Theory, research, and practice.* Wiley.
+- Horvath, A. O., & Greenberg, L. S. (Eds.). (1994). *The working alliance: Theory, research, and practice.* John Wiley & Sons, Inc.
 - Greenberg, L. S., Rice, L. N., & Elliott, R. (1993). *Facilitating emotional change.* Guilford Press.
 - Safran, J. D., & Greenberg, L. S. (Eds.). (1991). *Emotion, psychotherapy, and change.* Guilford Press.
 - Greenberg, L. S., & Johnson, S. (1988). *Emotionally focused therapy for couples.* Guilford Press.
@@ -60,7 +60,7 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 - Elliott, R., Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2025). *Learning emotion-focused therapy: A comprehensive guide* (2nd ed.). American Psychological Association.
 - Elliott, R., & Greenberg, L. S. (2021). *Emotion-focused counselling in action.* Sage.
 - Elliott, R., & Timulak, L. (2021). *Essentials of descriptive-interpretive qualitative research: A generic approach.* American Psychological Association. https://doi.org/10.1037/0000224-000
-- Barker, C., Pistrang, N., & Elliott, R. (2015). *Research methods in clinical psychology.* John Wiley & Sons.
+- Barker, C., Pistrang, N., & Elliott, R. (2015). *Research methods in clinical psychology.* John Wiley & Sons, Inc.
 - Elliott, R., Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2004). *Learning emotion-focused therapy: The process-experiential approach to change.* American Psychological Association. https://doi.org/10.1037/10725-000
   - [Learnine Emotion-Focused Therapy (2004)](/o/s.htm?p=learning_eft)
 
