@@ -83,7 +83,7 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 - Pascual-Leone, A. (2025). *Principles of emotion change: What works and when in psychotherapy and everyday life.* American Psychological Association.
 
 ## Aman Kwatra
-- Kwatra, A., Timulak, L., Huixian, S. L., Joyce, C., & Creaner, M. (2023). *Transforming emotional pain: An emotion-focused workbook.* Routledge.
+- Kwatra, A., Timulak, L., Huixian, S. L., Joyce, C., & Creaner, M. (2023). *Transforming emotional pain: An emotion-focused workbook.* Routledge, Taylor & Francis.
 
 ## Anne Hilde Vassbø Hagen
 - Hagen, A. H. V., & Dolhanty, J. (2023). *Angry kids, angry parents: Understanding and working with anger in your family.* American Psychological Association. https://doi.org/10.1037/0000359-000
@@ -91,14 +91,14 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 ## Ladislav Timulak
 - Timulak, L., & Creaner, M. (2023). *Essentials of qualitative meta-analysis.* American Psychological Association. https://doi.org/10.1037/0000313-000
 - Timulak, L., & Keogh, D. (2022). *Transdiagnostic emotion-focused therapy: A clinical guide for transforming emotional pain.* American Psychological Association. https://doi.org/10.1037/0000253-000
-- Timulak, L., & McElvaney, J. (2018). *Transforming generalized anxiety: An emotion-focused approach.* Routledge.
+- Timulak, L., & McElvaney, J. (2018). *Transforming generalized anxiety: An emotion-focused approach.* Routledge, Taylor & Francis.
 - Timulak, L. (2015). *Transforming emotional pain in psychotherapy: An emotion-focused approach.* Routledge, Taylor & Francis.
 - Timulak, L. (2011). *Developing your counselling and psychotherapy skills and practice.* Sage.
 - Timulak, L. (2008). *Research in psychotherapy and counselling.* Sage.
 
 ## Mirisse Foroughe
 - Foroughe, M. (Ed.). (2023). *Emotion focused therapy for youth: The clinical manual.* Taylor & Francis.
-- Foroughe, M. (Ed.). (2019). *Emotion focused family therapy with children and caregivers: A trauma-informed approach.* Routledge.
+- Foroughe, M. (Ed.). (2019). *Emotion focused family therapy with children and caregivers: A trauma-informed approach.* Routledge, Taylor & Francis.
 
 ## Sandra C. Paivio
 - Paivio, S. C., & Pascual-Leone, A. (2023). *Emotion-focused therapy for complex trauma: An integrative approach* (2nd ed.). American Psychological Association. https://doi.org/10.1037/0000336-000
@@ -116,7 +116,7 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 
 ## Adele Lafrance
 - Lafrance, A., Henderson, K. A., & Mayman, S. (2020). *Emotion-focused family therapy: A transdiagnostic model for caregiver-focused interventions.* American Psychological Association. https://doi.org/10.1037/0000166-000
-- Lafrance, A., & Miller, A. P. (2020). *What to say to kids when nothing seems to work.* Routledge.
+- Lafrance, A., & Miller, A. P. (2020). *What to say to kids when nothing seems to work.* Routledge, Taylor & Francis.
 
 ## Lynne E. Angus
 - Angus, L. E., & Greenberg, L. S. (2011). *Working with narrative in emotion-focused therapy: Changing stories, healing lives.* American Psychological Association. https://doi.org/10.1037/12325-000
