@@ -120,4 +120,5 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 
 ## Lynne E. Angus
 - Angus, L. E., & Greenberg, L. S. (2011). *Working with narrative in emotion-focused therapy: Changing stories, healing lives.* American Psychological Association. https://doi.org/10.1037/12325-000
+- Castonguay, L. G., Muran, J. C., Angus, L. E., Hayes, J. A., Ladany, N., & Anderson, T. (Eds.). (2010). *Bringing psychotherapy research to life: Understanding change through the work of leading clinical researchers.* American Psychological Association. https://doi.org/10.1037/12137-000
 - Angus, L. E., & Mcleod, J. (Eds.). (2004). *The handbook of narrative and psychotherapy: Practice, theory, and research.* Sage.
