@@ -1,7 +1,7 @@
 # Key EFT books
 `January 30, 2025`
 
-Here’s a list of key EFT books. This is a very personal selection, mainly to help prioritize my own reading, and it's just for your reference. Feel free to create your own list of key EFT books, or check out [the full list here](/o/s.htm?p=eft_books).
+Here’s a list of key EFT books. This is a personal selection to help prioritize my reading, just for your reference. Feel free to create your own list of key EFT books, or check out [the full list here](/o/s.htm?p=eft_books).
 
 ## First things first
 - Kwatra, A., Timulak, L., Huixian, S. L., Joyce, C., & Creaner, M. (2023). *Transforming emotional pain: An emotion-focused workbook.* Routledge, Taylor & Francis.
