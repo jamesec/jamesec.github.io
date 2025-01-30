@@ -15,7 +15,6 @@ Here’s a list of key EFT books. This is a personal selection to help prioritiz
 - Geller, S. M., & Greenberg, L. S. (2023). *Therapeutic presence: A mindful approach to effective therapeutic relationships* (2nd ed.). American Psychological Association. https://doi.org/10.1037/0000315-000
 - Dolhanty, J., Hjelmseth, V., Austbø, B., & Hagen, A. H. V. (2022). *Emotion focused skills training for parents.* Empty Chair Publisher.
 - Greenberg, L. S., & Tomescu, L. R. (2017). *Supervision essentials for emotion-focused therapy.* American Psychological Association. https://doi.org/10.1037/15966-000
-- Auszra L., Herrmann, I., & Greenberg, L. S. (2016). *Emotionsfokussierte therapie: Ein praxismanual.* Hogrefe Verlag GmbH & Company KG.
 - Goldman, R. N., & Greenberg, L. S. (2015). *Case formulation in emotion-focused therapy: Co-creating clinical maps for change.* American Psychological Association. https://doi.org/10.1037/14523-000
 
 ### Theories
@@ -25,6 +24,7 @@ Here’s a list of key EFT books. This is a personal selection to help prioritiz
 - Greenberg, L. S. (2025). *On becoming emotion focused.* American Psychological Association.
 - Timulak, L., & Keogh, D. (2022). *Transdiagnostic emotion-focused therapy: A clinical guide for transforming emotional pain.* American Psychological Association. https://doi.org/10.1037/0000253-000
 - Greenberg, L. S., & Goldman, R. N. (Eds.). (2019). *Clinical handbook of emotion-focused therapy.* American Psychological Association. https://doi.org/10.1037/0000112-000
+- Auszra L., Herrmann, I., & Greenberg, L. S. (2016). *Emotionsfokussierte therapie: Ein praxismanual.* Hogrefe Verlag GmbH & Company KG.
 - Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2007). *Case studies in emotion-focused treatment of depression: A comparison of good and poor outcome.* American Psychological Association. https://doi.org/10.1037/11586-000
 
 ---
