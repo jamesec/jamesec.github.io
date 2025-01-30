@@ -27,5 +27,7 @@ Here’s a list of key EFT books. This is a personal selection to help prioritiz
 - Greenberg, L. S., & Goldman, R. N. (Eds.). (2019). *Clinical handbook of emotion-focused therapy.* American Psychological Association. https://doi.org/10.1037/0000112-000
 - Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2007). *Case studies in emotion-focused treatment of depression: A comparison of good and poor outcome.* American Psychological Association. https://doi.org/10.1037/11586-000
 
+---
+
 ## References
 - [All EFT (Emotion-Focused Therapy) books in English with APA 7 citation](/o/s.htm?p=eft_books)
