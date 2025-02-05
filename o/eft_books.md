@@ -98,7 +98,7 @@ I'm only listing English-language books on Emotion-Focused Therapy, with one exc
 
 ## Mirisse Foroughe
 - Foroughe, M. (Ed.). (2023). *Emotion focused therapy for youth: The clinical manual.* Taylor & Francis.
-- Foroughe, M. (Ed.). (2019). *Emotion focused family therapy with children and caregivers: A trauma-informed approach.* Routledge, Taylor & Francis.
+- Foroughe, M. (Ed.). (2018). *Emotion focused family therapy with children and caregivers: A trauma-informed approach.* Routledge, Taylor & Francis.
 
 ## Sandra C. Paivio
 - Paivio, S. C., & Pascual-Leone, A. (2023). *Emotion-focused therapy for complex trauma: An integrative approach* (2nd ed.). American Psychological Association. https://doi.org/10.1037/0000336-000
