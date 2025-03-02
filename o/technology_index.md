@@ -1,4 +1,4 @@
-# Psychology
+# Technology
 
 - Some mac apps
 - Browsers as the most important tools
