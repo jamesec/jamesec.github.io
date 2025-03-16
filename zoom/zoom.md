@@ -2,12 +2,12 @@
 `July 3, 2024`
 
 If you're using Windows, download and install:<br>
-https://zoom.us/download?os=win<br>
-① [direct download link for Windows x64](https://zoom.us/client/latest/ZoomInstallerFull.exe?archType=x64)
+① [direct download link for Windows x64](https://zoom.us/client/latest/ZoomInstallerFull.exe?archType=x64)<br>
+https://zoom.us/download?os=win
 
 If you're using macOS, download and install:<br>
-https://zoom.us/download?os=mac<br>
-② [direct download link for Mac with Intel CPU](https://zoom.us/client/latest/zoomusInstallerFull.pkg)
+② [direct download link for Mac with Intel CPU](https://zoom.us/client/latest/zoomusInstallerFull.pkg)<br>
+https://zoom.us/download?os=mac
 
 If you're using a Mac with Apple Silicon chip, download and install:<br>
 ③ [direct download link for Mac with Apple Silicon chip](https://zoom.us/client/latest/zoomusInstallerFull.pkg?archType=arm64)
