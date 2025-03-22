@@ -10,6 +10,7 @@
 - [How Robert Elliott came to EFT](s.htm?p=robert_eft)
 
 ## Focusing
+- [Ann's Weekly Focusing Tips](s.htm?p=focusing_tips_ann)
 - [Focusing videos on YouTube](s.htm?p=focusing_youtube)
 - [Focusing is... the murky edge, by Eugene Gendlin](s.htm?p=murky_edge)
 - [Radical acceptance, by Ann Weiser Cornell](s.htm?p=radical)
