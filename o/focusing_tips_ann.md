@@ -99,3 +99,15 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #853 – Worried and Critical Parts – “When I try to give empathy to a hurting part…”](https://focusingresources.com/2023/08/02/focusing-tip-853-worried-and-critical-parts-when-i-try-to-give-empathy-to-a-hurting-part/)
 - [Focusing Tip #852 – Past Trauma and Triggers – “Can I trust the inner message that something can’t be trusted?”](https://focusingresources.com/2023/07/26/focusing-tip-852-past-trauma-and-triggers-can-i-trust-the-inner-message-that-something-cant-be-trusted/)
 - [Focusing Tip #851 – Self-Care – “I’m not sure I know how to soothe myself.”](https://focusingresources.com/2023/07/19/focusing-tip-851-self-care-im-not-sure-i-know-how-to-soothe-myself/)
+
+### 0841 to 0850
+- [Focusing Tip #850 – Creativity and Confidence – “That part says, ‘Who do you think you are?'”](https://focusingresources.com/2023/07/12/focusing-tip-850-creativity-and-confidence-that-part-says-who-do-you-think-you-are/)
+- [Focusing Tip #849 – Parts Work – “Is there a terrified part that hides or another part that hides it?”](https://focusingresources.com/2023/06/28/focusing-tip-849-parts-work-is-there-a-terrified-part-that-hides-or-another-part-that-hides-it/)
+- [Focusing Tip #848 – Working with Parts – Does your “self” need to be equal to your parts?](https://focusingresources.com/2023/06/21/focusing-tip-848-working-with-parts-does-your-self-need-to-be-equal-to-your-parts/)
+- [Focusing Tip #847 – Parts Work – “This feeling doesn’t want to communicate with me…”](https://focusingresources.com/2023/06/14/focusing-tip-847-parts-work-this-feeling-doesnt-want-to-communicate-with-me/)
+- [Focusing Tip #846 – Feeling Numb – “What if what I’m feeling is always the same?”](https://focusingresources.com/2023/06/07/focusing-tip-846-feeling-numb-what-if-what-im-feeling-is-always-the-same/)
+- [Focusing Tip #845 – Past Trauma – “I get overwhelmed by strong emotions from trauma.”](https://focusingresources.com/2023/05/31/focusing-tip-845-past-trauma-i-get-overwhelmed-by-strong-emotions-from-trauma/)
+- [Focusing Tip #844 – Focusing and Therapy – “It feels stuck in my head.”](https://focusingresources.com/2023/05/17/focusing-tip-844-focusing-and-therapy-it-feels-stuck-in-my-head/)
+- [Focusing Tip #843 – Understanding Feelings – “How do I know if it’s a part or a felt sense?”](https://focusingresources.com/2023/05/10/focusing-tip-843-understanding-feelings-how-do-i-know-if-its-a-part-or-a-felt-sense/)
+- [Focusing Tip #842 – Parts and Boundaries – “Do I ever give parts what they ask for?”](https://focusingresources.com/2023/05/03/focusing-tip-842-parts-and-boundaries-do-i-ever-give-parts-what-they-ask-for/)
+- [Focusing Tip #841 – When the felt sense moves around the body](https://focusingresources.com/2023/04/26/focusing-tip-841-when-the-felt-sense-moves-around-the-body/)
