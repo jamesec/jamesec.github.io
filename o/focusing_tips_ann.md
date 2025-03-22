@@ -208,3 +208,15 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #763 – When passion and urgency for a cause can lead to burnout](https://focusingresources.com/2021/08/04/focusing-tip-763-when-passion-and-urgency-for-a-cause-can-lead-to-burnout/)
 - [Focusing Tip #762 – “I blame other people for the mess we’re in”](https://focusingresources.com/2021/07/28/focusing-tip-762-i-blame-other-people-for-the-mess-were-in/)
 - [Focusing Tip #761 – “Sometimes I get the impulse to eat even though I’m not hungry.”](https://focusingresources.com/2021/07/20/focusing-tip-761-sometimes-i-get-the-impulse-to-eat-even-though-im-not-hungry/)
+
+### 0751 to 0760
+- [Focusing Tip #760 – “Maybe being truly relaxed is too good to be true.”](https://focusingresources.com/2021/07/14/focusing-tip-760-maybe-being-truly-relaxed-is-too-good-to-be-true/)
+- [Focusing Tip #759 – “If I can overcome my sadness, then I can feel calm”](https://focusingresources.com/2021/07/07/focusing-tip-759-if-i-can-overcome-my-sadness-then-i-can-feel-calm/)
+- [Focusing Tip #758 – “My adult daughter offloads on me…”](https://focusingresources.com/2021/06/23/focusing-tip-758-my-adult-daughter-offloads-on-me/)
+- [Focusing Tip #757 – Focusing when reactive or dissociated](https://focusingresources.com/2021/06/16/focusing-tip-757-focusing-when-reactive-or-dissociated/)
+- [Focusing Tip #756 – “I don’t know if this physical sensation is a felt sense.”](https://focusingresources.com/2021/06/09/focusing-tip-756-i-dont-know-if-this-physical-sensation-is-a-felt-sense/)
+- [Focusing Tip #755 – “I can’t accept this emotionally abusive part of me.”](https://focusingresources.com/2021/06/02/focusing-tip-755-i-cant-accept-this-emotionally-abusive-part-of-me/)
+- [Focusing Tip #754 – “How can I get a felt sense when I don’t have one?”](https://focusingresources.com/2021/05/26/focusing-tip-754-how-can-i-get-a-felt-sense-when-i-dont-have-one/)
+- [Focusing Tip #753 – Focusing when the feelings are “too much”](https://focusingresources.com/2021/05/19/focusing-tip-753-focusing-when-the-feelings-are-too-much/)
+- [Focusing Tip #752 – “My traumatic hospital stay”](https://focusingresources.com/2021/05/12/focusing-tip-752-my-traumatic-hospital-stay-pain/)
+- [Focusing Tip #751 – “I carry so much wounding from how my parents treated me”](https://focusingresources.com/2021/05/05/focusing-tip-751-i-carry-so-much-wounding-from-how-my-parents-treated-me/)
