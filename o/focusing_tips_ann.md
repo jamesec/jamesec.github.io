@@ -184,3 +184,15 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #783 – “What do I do with overwhelming dread and fear?”](https://focusingresources.com/2022/01/25/focusing-tip-783-what-do-i-do-with-overwhelming-dread-and-fear/)
 - [Focusing Tip #782 – Can Focusing help improve physical health?](https://focusingresources.com/2022/01/20/focusing-tip-782-can-focusing-help-improve-physical-health/)
 - [Focusing Tip #781 – A question about desires](https://focusingresources.com/2022/01/12/focusing-tip-781-a-question-about-desires/)
+
+### 0771 to 0780
+- [Focusing Tip #780 – “I tell myself I look disgusting with extra weight”](https://focusingresources.com/2022/01/05/focusing-tip-780-i-tell-myself-i-look-disgusting-with-extra-weight/)
+- [Focusing Tip #779 – “I’m late for everything. Do you have a tip for that?”](https://focusingresources.com/2021/12/15/focusing-tip-779-im-late-for-everything-do-you-have-a-tip-for-that/)
+- [Focusing Tip #778 – “My Focusing partner is always late”](https://focusingresources.com/2021/12/08/focusing-tip-778-my-focusing-partner-is-always-late/)
+- [Focusing Tip #777 – “I long to be able to sleep better.”](https://focusingresources.com/2021/12/01/focusing-tip-777-i-long-to-be-able-to-sleep-better/)
+- [Focusing Tip #776 – “Even when I listen to them, my parts don’t change”](https://focusingresources.com/2021/11/24/focusing-tip-776-even-when-i-listen-to-them-my-parts-dont-change/)
+- [Focusing Tip #775 – “I really want this part of me to change.”](https://focusingresources.com/2021/11/17/focusing-tip-775-i-really-want-this-part-of-me-to-change/)
+- [Focusing Tip #774 – Inner Relationship Focusing with feelings about climate change](https://focusingresources.com/2021/11/10/focusing-tip-774-inner-relationship-focusing-with-feelings-about-climate-change/)
+- [Focusing Tip #773 – How to respond if a friend is suffering](https://focusingresources.com/2021/11/03/focusing-tip-773-how-to-respond-if-a-friend-is-suffering/)
+- [Focusing Tip #772 – What’s especially good about feeling good?](https://focusingresources.com/2021/10/27/focusing-tip-772-whats-especially-good-about-feeling-good/)
+- [Focusing Tip #771 – Focusing to increase confidence](https://focusingresources.com/2021/10/20/focusing-tip-771-focusing-to-increase-confidence/)
