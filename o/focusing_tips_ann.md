@@ -135,3 +135,15 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #823 – Using Focusing skills with other people in relationship](https://focusingresources.com/2022/12/07/focusing-tip-823-using-focusing-skills-with-other-people-in-relationship/)
 - [Focusing Tip #822 – “This part says I’m sure to fail”](https://focusingresources.com/2022/11/30/focusing-tip-822-this-part-says-im-sure-to-fail/)
 - [Focusing Tip #821 – To the part that resists being thankful… you’re welcome too](https://focusingresources.com/2022/11/23/focusing-tip-821-to-the-part-that-resists-being-thankful-youre-welcome-too/)
+
+### 0811 to 0820
+- [Focusing Tip #820 – “I retreat into my head and distract myself”](https://focusingresources.com/2022/11/16/focusing-tip-820-i-retreat-into-my-head-and-distract-myself/)
+- [Focusing Tip #819 – “Do I need training in Psychology?”](https://focusingresources.com/2022/11/09/focusing-tip-819-do-i-need-training-in-psychology/)
+- [Focusing Tip #818 – “Will I ever get to do the things I’ve dreamed of?”](https://focusingresources.com/2022/11/02/focusing-tip-818-will-i-ever-get-to-do-the-things-ive-dreamed-of/)
+- [Focusing Tip #817 – “When I check a word, who am I checking with?”](https://focusingresources.com/2022/10/26/focusing-tip-817-when-i-check-a-word-who-am-i-checking-with/)
+- [Focusing Tip #816 – “Can I write a letter to my worried part?”](https://focusingresources.com/2022/10/12/focusing-tip-816-can-i-write-a-letter-to-my-worried-part/)
+- [Focusing Tip #815 – “I have a part that’s angry and a part angry at that part”](https://focusingresources.com/2022/10/05/focusing-tip-815-i-have-a-part-thats-angry-and-a-part-angry-at-that-part/)
+- [Focusing Tip #814 – “Do I speak up or say nothing?”](https://focusingresources.com/2022/09/28/focusing-tip-814-do-i-speak-up-or-say-nothing/)
+- [Focusing Tip #813 – How do I stop doing my unhealthy habit?](https://focusingresources.com/2022/09/21/focusing-tip-813-how-do-i-stop-doing-my-unhealthy-habit/)
+- [Focusing Tip #812 – “I’m still engaging in self-sabotage”](https://focusingresources.com/2022/09/14/focusing-tip-812-im-still-engaging-in-self-sabotage/)
+- [Focusing Tip #811 – “There are no enemies inside.”](https://focusingresources.com/2022/09/07/focusing-tip-811-there-are-no-enemies-inside/)
