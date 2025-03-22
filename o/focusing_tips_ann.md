@@ -111,3 +111,15 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #843 – Understanding Feelings – “How do I know if it’s a part or a felt sense?”](https://focusingresources.com/2023/05/10/focusing-tip-843-understanding-feelings-how-do-i-know-if-its-a-part-or-a-felt-sense/)
 - [Focusing Tip #842 – Parts and Boundaries – “Do I ever give parts what they ask for?”](https://focusingresources.com/2023/05/03/focusing-tip-842-parts-and-boundaries-do-i-ever-give-parts-what-they-ask-for/)
 - [Focusing Tip #841 – When the felt sense moves around the body](https://focusingresources.com/2023/04/26/focusing-tip-841-when-the-felt-sense-moves-around-the-body/)
+
+### 0831 to 0840
+- [Focusing Tip #840 – “A part of me keeps ruminating about hate groups”](https://focusingresources.com/2023/04/19/focusing-tip-840-a-part-of-me-keeps-ruminating-about-hate-groups/)
+- [Focusing Tip #839 – “Can I follow my body’s impulses to move?”](https://focusingresources.com/2023/04/12/focusing-tip-839-can-i-follow-my-bodys-impulses-to-move/)
+- [Focusing Tip #838 – “My felt senses aren’t new or fresh”](https://focusingresources.com/2023/04/05/focusing-tip-838-my-felt-senses-arent-new-or-fresh/)
+- [Focusing Tip #837 – “How do I trust that I can hold all the feelings that may come?”](https://focusingresources.com/2023/03/29/focusing-tip-837-how-do-i-trust-that-i-can-hold-all-the-feelings-that-may-come/)
+- [Focusing Tip #836 – Do we need to integrate our parts?](https://focusingresources.com/2023/03/22/focusing-tip-836-do-we-need-to-integrate-our-parts/)
+- [Focusing Tip #835 – “I am the only one in my family who listens…”](https://focusingresources.com/2023/03/15/focusing-tip-835-i-am-the-only-one-in-my-family-who-listens/)
+- [Focusing Tip #834 – “I have a constant background noise of tension”](https://focusingresources.com/2023/03/08/focusing-tip-834-i-have-a-constant-background-noise-of-tension/)
+- [Focusing Tip #833 – “I struggle to accept the craziness of life”](https://focusingresources.com/2023/03/01/focusing-tip-833-i-struggle-to-accept-the-craziness-of-life/)
+- [Focusing Tip #832 - “I can't find any felt sensations at all”](https://focusingresources.com/2023/02/22/focusing-tip-832-i-cant-find-any-felt-sensations-at-all/)
+- [Focusing Tip #831 – “I’m not feeling compassion toward myself”](https://focusingresources.com/2023/02/15/focusing-tip-831-im-not-feeling-compassion-toward-myself/)
