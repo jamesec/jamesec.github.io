@@ -172,3 +172,15 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #793 – Why change the way we talk about our feelings?](https://focusingresources.com/2022/04/20/focusing-tip-793-why-change-the-way-we-talk-about-our-feelings/)
 - [Focusing Tip #792 – Felt sensing versus intuition](https://focusingresources.com/2022/04/06/focusing-tip-792-felt-sensing-versus-intuition/)
 - [Focusing Tip #791 – “What does Focusing add to meditation?”](https://focusingresources.com/2022/03/30/focusing-tip-791-what-does-focusing-add-to-meditation/)
+
+### 0781 to 0790
+- [Focusing Tip #790 – “So much stress, so many blocks, so much overwhelming feeling…”](https://focusingresources.com/2022/03/23/focusing-tip-790-so-much-stress-so-many-blocks-so-much-overwhelming-feeling/)
+- [Focusing Tip #789 – “I’m getting more distant from non-Focusing friends”](https://focusingresources.com/2022/03/16/focusing-tip-789-im-getting-more-distant-from-non-focusing-friends/)
+- [Focusing Tip #788 – “My negative thoughts about others are beyond my control”](https://focusingresources.com/2022/03/09/focusing-tip-788-my-negative-thoughts-about-others-are-beyond-my-control/)
+- [Focusing Tip #787 – Stepping into feelings of strength and capability](https://focusingresources.com/2022/03/02/focusing-tip-787-stepping-into-feelings-of-strength-and-capability/)
+- [Focusing Tip #786 – “What’s the best way to find a Focusing partner?”](https://focusingresources.com/2022/03/02/focusing-tip-786-whats-the-best-way-to-find-a-focusing-partner/)
+- [Focusing Tip #785 – “Why does everyone say I have to have a Focusing partner?”](https://focusingresources.com/2022/02/16/focusing-tip-785-why-does-everyone-say-i-have-to-have-a-focusing-partner/)
+- [Focusing Tip #784 – Feeling paralyzed by painful regrets](https://focusingresources.com/2022/02/09/focusing-tip-784-feeling-paralyzed-by-painful-regrets/)
+- [Focusing Tip #783 – “What do I do with overwhelming dread and fear?”](https://focusingresources.com/2022/01/25/focusing-tip-783-what-do-i-do-with-overwhelming-dread-and-fear/)
+- [Focusing Tip #782 – Can Focusing help improve physical health?](https://focusingresources.com/2022/01/20/focusing-tip-782-can-focusing-help-improve-physical-health/)
+- [Focusing Tip #781 – A question about desires](https://focusingresources.com/2022/01/12/focusing-tip-781-a-question-about-desires/)
