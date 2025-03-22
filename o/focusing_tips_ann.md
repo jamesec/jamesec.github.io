@@ -6,6 +6,13 @@
 ## 0900+
 ### 0921 to 0930
 - Focusing Tip #928 - "What part of me is aware of something in me?"
+- Focusing Tip #927 - Protector and Defender parts in Untangling
+- Focusing Tip #926 - "My mind wanders when I try to be patient"
+- Focusing Tip #925 - How can we do Focusing with hate?
+- Focusing Tip #924 - "Is it the felt sense of a part that we listen to?"
+- Focusing Tip #923 - "I'm struggling with these challenging times"
+- Focusing Tip #922 - "Do I do what my parts tell me to do?"
+- Focusing Tip #921 - "Is a felt sense the same as a gut instinct?"
 
 ## 0800 to 0900
 ### 0891 to 0900
@@ -16,7 +23,7 @@
 - [Focusing Tip #892 – Focusing Partnership – “I feel the same feelings as my partner”](https://focusingresources.com/2024/05/01/focusing-tip-892-focusing-partnership-i-feel-the-same-feelings-as-my-partner/)
 - [Focusing Tip #891 – Describing vs. labeling in Focusing](https://focusingresources.com/2024/05/22/focusing-tip-891-describing-vs-labeling-in-focusing/)
 
-### 0880 to 0890
+### 0881 to 0890
 - [Focusing Tip #890 – “It doesn’t want me to be with it”](https://focusingresources.com/2024/05/15/focusing-tip-890-it-doesnt-want-me-to-be-with-it/)
 - [Focusing Tip #889 – “I don’t sense anything in my body.”](https://focusingresources.com/2024/05/08/focusing-tip-889-i-dont-sense-anything-in-my-body/)
 - [Focusing Tip #888 – “I keep trying to get to bed by midnight…”](https://focusingresources.com/2024/05/01/focusing-tip-888-i-keep-trying-to-get-to-bed-by-midnight/)
