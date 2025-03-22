@@ -14,8 +14,36 @@
 - Focusing Tip #922 - "Do I do what my parts tell me to do?"
 - Focusing Tip #921 - "Is a felt sense the same as a gut instinct?"
 
+### 0911 to 0920
+- Focusing Tip #920 - "Do I need to meditate to get ready for Focusing?"
+- Focusing Tip #919 - "Is the feeling trying to control me?"
+- Focusing Tip #918 - "My critical parts have no positive purpose."
+- Focusing Tip #917 - "Something prevents me from using Focusing."
+- Focusing Tip #916 - "My part says I'm not good enough."
+- Focusing Tip #915 - "My felt senses disappear..."
+- Focusing Tip #914 - "My body moves when I'm Focusing, sometimes a lot"
+- Focusing Tip #913 - Can Focusing help me not have to take medication?
+- Focusing Tip #912 - Focusing with feeling stunned and heartbroken
+- Focusing Tip #911 - If you're anxious about the US election (or anything else)
+
+### 0901 to 0910
+- Focusing Tip #910 - "Do you say back a negative statement in a positive light?"
+- Focusing Tip #909 - "Do you do Focusing when you're agitated or when you're calm?"
+- Focusing Tip #908 - "For me it felt like words only"
+- Focusing Tip #907 - "I have to get free from my eating disorder."
+- Focusing Tip #906 - Resolving a family conflict about needs
+- Focusing Tip #905 - On waking up with an uncomfortable body feeling
+- Focusing Tip #904 - How to know what to Focus on
+- Focusing Tip #903 - Deciding between two job options
+- Focusing Tip #902 - "It doesn't always feel like just something in me"
+- Focusing Tip #901 - "A lot of my thoughts are rooted in some sort of worry"
+
 ## 0800 to 0900
 ### 0891 to 0900
+- Focusing Tip #900 - "I can't keep up when opinions are flying around"
+- Focusing Tip #899 - "A traumatized part won't let me sleep"
+- Focusing Tip #898 - "I get lost in my negative pain"
+- Focusing Tip #897 - What about the over-permissive inner voice?
 - [Focusing Tip #896 – What if I want to stop?](https://focusingresources.com/2024/06/26/focusing-tip-896-what-if-i-want-to-stop/)
 - [Focusing Tip #895 – Is it safe to do Focusing?](https://focusingresources.com/2024/06/19/focusing-tip-895-is-it-safe-to-do-focusing/)
 - [Focusing Tip #894 – Can you weep as Self-in-Presence?](https://focusingresources.com/2024/06/12/focusing-tip-894-can-you-weep-as-self-in-presence/)
