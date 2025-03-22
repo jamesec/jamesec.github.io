@@ -196,3 +196,15 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #773 – How to respond if a friend is suffering](https://focusingresources.com/2021/11/03/focusing-tip-773-how-to-respond-if-a-friend-is-suffering/)
 - [Focusing Tip #772 – What’s especially good about feeling good?](https://focusingresources.com/2021/10/27/focusing-tip-772-whats-especially-good-about-feeling-good/)
 - [Focusing Tip #771 – Focusing to increase confidence](https://focusingresources.com/2021/10/20/focusing-tip-771-focusing-to-increase-confidence/)
+
+### 0761 to 0770
+- [Focusing Tip #770 – Inner Relationship Focusing with Longing for Connection](https://focusingresources.com/2021/10/13/focusing-tip-770-inner-relationship-focusing-with-longing-for-connection/)
+- [Focusing Tip #769 – “I get headaches when I bring attention to the felt sense”](https://focusingresources.com/2021/09/29/focusing-tip-769-i-get-headaches-when-i-bring-attention-to-the-felt-sense/)
+- [Focusing Tip #768 – Learning to Feel Your Feelings](https://focusingresources.com/2021/09/22/focusing-tip-768-learning-to-feel-your-feelings/)
+- [Focusing Tip #767 – Do compliments make you uncomfortable?](https://focusingresources.com/2021/09/15/focusing-tip-767-do-compliments-make-you-uncomfortable/)
+- [Focusing Tip #766 – When you don’t know what you’re feeling](https://focusingresources.com/2021/09/08/focusing-tip-766-when-you-dont-know-what-youre-feeling/)
+- [Focusing Tip #765 – Focusing with existential fear](https://focusingresources.com/2021/09/01/focusing-tip-765-focusing-with-existential-fear/)
+- [Focusing Tip #764 – Sensing and Describing](https://focusingresources.com/2021/08/11/focusing-tip-764-sensing-and-describing/)
+- [Focusing Tip #763 – When passion and urgency for a cause can lead to burnout](https://focusingresources.com/2021/08/04/focusing-tip-763-when-passion-and-urgency-for-a-cause-can-lead-to-burnout/)
+- [Focusing Tip #762 – “I blame other people for the mess we’re in”](https://focusingresources.com/2021/07/28/focusing-tip-762-i-blame-other-people-for-the-mess-were-in/)
+- [Focusing Tip #761 – “Sometimes I get the impulse to eat even though I’m not hungry.”](https://focusingresources.com/2021/07/20/focusing-tip-761-sometimes-i-get-the-impulse-to-eat-even-though-im-not-hungry/)
