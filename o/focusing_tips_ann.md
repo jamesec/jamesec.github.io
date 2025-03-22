@@ -1,9 +1,8 @@
 # Weekly Tips & Support for Focusing by Ann Weiser Cornell
+
 ## 0900 to 1000
 ### 0921 to 0930
 - Focusing Tip #928 - "What part of me is aware of something in me?"
-
-...
 
 ## 0800 to 0900
 ### 0890 to 0900
