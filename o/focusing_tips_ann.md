@@ -20,3 +20,6 @@
 - [Focusing Tip #890 – “It doesn’t want me to be with it”](https://focusingresources.com/2024/05/15/focusing-tip-890-it-doesnt-want-me-to-be-with-it/)
 - [Focusing Tip #889 – “I don’t sense anything in my body.”](https://focusingresources.com/2024/05/08/focusing-tip-889-i-dont-sense-anything-in-my-body/)
 - [Focusing Tip #888 – “I keep trying to get to bed by midnight…”](https://focusingresources.com/2024/05/01/focusing-tip-888-i-keep-trying-to-get-to-bed-by-midnight/)
+- [Focusing Tip #887 – “I procrastinate everything”](https://focusingresources.com/2024/04/24/focusing-tip-887-i-procrastinate-everything/)
+- [Focusing Tip #886 – The links between procrastination and exhaustion](https://focusingresources.com/2024/04/17/focusing-tip-886-the-links-between-procrastination-and-exhaustion/)
+- [Focusing Tip #885 – “I’m trying to cut back and do less”](https://focusingresources.com/2024/04/10/focusing-tip-885-im-trying-to-cut-back-and-do-less/)
