@@ -123,3 +123,15 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #833 – “I struggle to accept the craziness of life”](https://focusingresources.com/2023/03/01/focusing-tip-833-i-struggle-to-accept-the-craziness-of-life/)
 - [Focusing Tip #832 - “I can't find any felt sensations at all”](https://focusingresources.com/2023/02/22/focusing-tip-832-i-cant-find-any-felt-sensations-at-all/)
 - [Focusing Tip #831 – “I’m not feeling compassion toward myself”](https://focusingresources.com/2023/02/15/focusing-tip-831-im-not-feeling-compassion-toward-myself/)
+
+### 0821 to 0830
+- [Focusing Tip #830 – “What if my felt senses disappear?”](https://focusingresources.com/2023/02/08/focusing-tip-830-what-if-my-felt-senses-disappear/)
+- [Focusing Tip #829 – When you regret how you couldn’t show up in the past](https://focusingresources.com/2023/02/01/focusing-tip-829-when-you-regret-how-you-couldnt-show-up-in-the-past/)
+- [Focusing Tip #828 – Working with repressed trauma with no memories](https://focusingresources.com/2023/01/18/focusing-tip-828-working-with-repressed-trauma-with-no-memories/)
+- [Focusing Tip #827 – “Is Focusing self-centered and self-absorbed?”](https://focusingresources.com/2023/01/11/focusing-tip-827-is-focusing-self-centered-and-self-absorbed/)
+- [Focusing Tip #826 – “How do I get past the initial resistance?”](https://focusingresources.com/2023/01/04/focusing-tip-826-how-do-i-get-past-the-initial-resistance/)
+- [Focusing Tip #825 – “It’s hard to become aware of my parts”](https://focusingresources.com/2022/12/28/focusing-tip-825-its-hard-to-become-aware-of-my-parts/)
+- [Focusing Tip #824 – “I don’t have time to sense what’s right for me”](https://focusingresources.com/2022/12/14/focusing-tip-824-i-dont-have-time-to-sense-whats-right-for-me/)
+- [Focusing Tip #823 – Using Focusing skills with other people in relationship](https://focusingresources.com/2022/12/07/focusing-tip-823-using-focusing-skills-with-other-people-in-relationship/)
+- [Focusing Tip #822 – “This part says I’m sure to fail”](https://focusingresources.com/2022/11/30/focusing-tip-822-this-part-says-im-sure-to-fail/)
+- [Focusing Tip #821 – To the part that resists being thankful… you’re welcome too](https://focusingresources.com/2022/11/23/focusing-tip-821-to-the-part-that-resists-being-thankful-youre-welcome-too/)
