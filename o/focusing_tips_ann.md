@@ -84,7 +84,7 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #866 – “All I can do is cry”](https://focusingresources.com/2023/11/08/focusing-tip-866-all-i-can-do-is-cry/)
 - [Focusing Tip #865 – Focusing + Intrusive Thoughts – “When I try to do Focusing alone my mind wanders”](https://focusingresources.com/2023/11/01/focusing-tip-865-focusing-intrusive-thoughts-when-i-try-to-do-focusing-alone-my-mind-wanders/)
 - [Focusing Tip #864 – Physical Pain and Strong Emotions – “I’m in pain and my emotions are overwhelming”](https://focusingresources.com/2023/10/25/focusing-tip-864-physical-pain-and-strong-emotions-im-in-pain-and-my-emotions-are-overwhelming/)
-- Focusing Tip #863 - "Why does having a Focusing partner help so much?"
+- [Focusing Tip #863 – Focusing Process – “Why does having a Focusing partner help so much?”](https://focusingresources.com/2023/10/18/focusing-tip-863-focusing-process-why-does-having-a-focusing-partner-help-so-much/)
 - [Focusing Tip #862 - "How do we Focus differently with grieving?"](https://focusingresources.com/2023/10/11/focusing-tip-862-grief-and-parts-how-do-we-focus-differently-with-grieving/)
 - [Focusing Tip #861 - "What if I start crying in front of this other person?"](https://focusingresources.com/2023/10/04/focusing-tip-861-strong-feelings-what-if-i-start-crying-in-front-of-this-other-person/)
 
