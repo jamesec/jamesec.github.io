@@ -87,3 +87,15 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - Focusing Tip #863 - "Why does having a Focusing partner help so much?"
 - [Focusing Tip #862 - "How do we Focus differently with grieving?"](https://focusingresources.com/2023/10/11/focusing-tip-862-grief-and-parts-how-do-we-focus-differently-with-grieving/)
 - [Focusing Tip #861 - "What if I start crying in front of this other person?"](https://focusingresources.com/2023/10/04/focusing-tip-861-strong-feelings-what-if-i-start-crying-in-front-of-this-other-person/)
+
+### 0851 to 0860
+- [Focusing Tip #860 – Focusing and The Body – “I’m more in touch with my feelings than with my body”](https://focusingresources.com/2023/09/27/focusing-tip-860-focusing-and-the-body-im-more-in-touch-with-my-feelings-than-with-my-body/)
+- [Focusing Tip #859 – The Body and Focusing – “I need to regulate my nervous system before learning Focusing”](https://focusingresources.com/2023/09/20/focusing-tip-859-the-body-and-focusing-i-need-to-regulate-my-nervous-system-before-learning-focusing/)
+- [Focusing Tip #858 – Regret and Parenting – “I didn’t pay enough attention to my daughter’s needs”](https://focusingresources.com/2023/09/13/focusing-tip-858-regret-and-parenting-i-didnt-pay-enough-attention-to-my-daughters-needs/)
+- [Focusing Tip #857 – Boundaries and Self-Love – “I feel guilty that my life is better than my sister’s”](https://focusingresources.com/2023/09/05/focusing-tip-857-boundaries-and-self-love-i-feel-guilty-that-my-life-is-better-than-my-sisters/)
+- [Focusing Tip #856 – Personal Growth and Self-Love – “If I love myself, how do I change?”](https://focusingresources.com/2023/08/30/focusing-tip-856-personal-growth-and-self-love-if-i-love-myself-how-do-i-change/)
+- [Focusing Tip #855 – Making Time for Self-Care – “Saying hello isn’t enough and sitting down to Focus would be too much.”](https://focusingresources.com/2023/08/24/focusing-tip-855-making-time-for-self-care-saying-hello-isnt-enough-and-sitting-down-to-focus-would-be-too-much/)
+- [Focusing Tip #854 – Emotional Wounds of Childhood – “I compare myself negatively to other people”](https://focusingresources.com/2023/08/16/focusing-tip-854-emotional-wounds-of-childhood-i-compare-myself-negatively-to-other-people/)
+- [Focusing Tip #853 – Worried and Critical Parts – “When I try to give empathy to a hurting part…”](https://focusingresources.com/2023/08/02/focusing-tip-853-worried-and-critical-parts-when-i-try-to-give-empathy-to-a-hurting-part/)
+- [Focusing Tip #852 – Past Trauma and Triggers – “Can I trust the inner message that something can’t be trusted?”](https://focusingresources.com/2023/07/26/focusing-tip-852-past-trauma-and-triggers-can-i-trust-the-inner-message-that-something-cant-be-trusted/)
+- [Focusing Tip #851 – Self-Care – “I’m not sure I know how to soothe myself.”](https://focusingresources.com/2023/07/19/focusing-tip-851-self-care-im-not-sure-i-know-how-to-soothe-myself/)
