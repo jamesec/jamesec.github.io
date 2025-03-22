@@ -62,3 +62,15 @@
 - [Focusing Tip #883 – Self-Acceptance – “It’s hard for me to accept how my life is”](https://focusingresources.com/2024/03/27/focusingtip883-self-acceptance-its-hard-for-me-to-accept-how-my-life-is/)
 - [Focusing Tip #882 – “What exactly is a felt sense?”](https://focusingresources.com/2024/03/20/focusing-tip-882-what-exactly-is-a-felt-sense/)
 - [Focusing Tip #881 – Focusing and Parts – “The feeling of inner peace keeps me from exploring…”](https://focusingresources.com/2024/03/13/focusing-tip-881-focusing-and-parts-the-feeling-of-inner-peace-keeps-me-from-exploring/)
+
+### 0871 to 0880
+- [Focusing Tip #880 – Emotional triggers – “I get triggered by this person over and over again”](https://focusingresources.com/2024/03/06/focusing-tip-880-emotional-triggers-i-get-triggered-by-this-person-over-and-over-again/)
+- [Focusing Tip #879 – Life Change + Difficult Feelings – “I didn’t ask for this change, and it scares me”](https://focusingresources.com/2024/02/28/focusing-tip-879-life-change-difficult-feelings-i-didnt-ask-for-this-change-and-it-scares-me/)
+- [Focusing Tip #878 – “My body rebels at having to hold still”](https://focusingresources.com/2024/02/14/focusing-tip-878-my-body-rebels-at-having-to-hold-still/)
+- [Focusing Tip #877 – Empathy + Parts – “I understand my parts but I can’t accept them”](https://focusingresources.com/2024/02/07/focusing-tip-877-empathy-parts-i-understand-my-parts-but-i-cant-accept-them/)
+- [Focusing Tip #876 – Focusing + Therapy – A simple way to invite clients into Focusing](https://focusingresources.com/2024/01/31/focusing-tip-876-focusing-therapy-a-simple-way-to-invite-clients-into-focusing/)
+- [Focusing Tip #875 – “I suffer with phone addiction”](https://focusingresources.com/2024/01/24/focusing-tip-875-i-suffer-with-phone-addiction/)
+- [Focusing Tip #874 – Self Love + Regret – “If I love myself, does that mean I’m not sorry for what I’ve done?”](https://focusingresources.com/2024/01/17/focusing-tip-874-self-love-regret-if-i-love-myself-does-that-mean-im-not-sorry-for-what-ive-done/)
+- [Focusing Tip #873 – Feeling in the Body – “How can I get past these unimportant sensations?”](https://focusingresources.com/2024/01/10/focusing-tip-873-feeling-in-the-body-how-can-i-get-past-these-unimportant-sensations/)
+- [Focusing Tip #872 – “I swear I won’t eat so much today…”](https://focusingresources.com/2024/01/03/focusing-tip-872-i-swear-i-wont-eat-so-much-today/)
+- [Focusing Tip #871 – “I don’t want to feel my anger”](https://focusingresources.com/2023/12/20/focusing-tip-871-i-dont-want-to-feel-my-anger/)
