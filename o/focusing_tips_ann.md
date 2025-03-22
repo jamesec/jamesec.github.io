@@ -1,7 +1,8 @@
-# Weekly Tips & Support for Focusing by Ann Weiser Cornell
+# Ann's Weekly Focusing Tips
 
+Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Ann Weiser Cornell](https://focusingresources.com/team/ann-weiser-cornell/)
-- [Ann's Weekly Tips - Sign up here](https://focusingresources.com/anns-weekly-tips/)
+- [Ann's Weekly Focusing Tips - Sign up here](https://focusingresources.com/anns-weekly-tips/)
 
 ## 0900+
 ### 0921 to 0930
