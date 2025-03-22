@@ -162,6 +162,13 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 
 ## 0701 to 0800
 ### 0791 to 0800
-- x
-- y
-- z
+- [Focusing Tip #800 – “I got stuck when I couldn’t move my grief.”](https://focusingresources.com/2022/06/15/focusing-tip-800-i-got-stuck-when-i-couldnt-move-my-grief/)
+- [Focusing Tip #799 – “Can I do Focusing with strong feelings as they come up?”](https://focusingresources.com/2022/06/08/focusing-tip-799-can-i-do-focusing-with-strong-feelings-as-they-come-up/)
+- [Focusing Tip #798 – “Can the Focusing process re-traumatize me?”](https://focusingresources.com/2022/06/01/focusing-tip-798-can-the-focusing-process-re-traumatize-me/)
+- [Focusing Tip #797 – “I don’t know if this is coming from my body or my head.”](https://focusingresources.com/2022/05/18/focusing-tip-797-i-dont-know-if-this-is-coming-from-my-body-or-my-head/)
+- [Focusing Tip #796 – “What if I’m making it all up?”](https://focusingresources.com/2022/05/11/focusing-tip-796-what-if-im-making-it-all-up/)
+- [Focusing Tip #795 – When you go blank when you’re Focusing](https://focusingresources.com/2022/05/04/focusing-tip-795-when-you-go-blank-when-youre-focusing/)
+- [Focusing Tip #794 – Getting sleepy while going deep with Focusing](https://focusingresources.com/2022/04/27/focusing-tip-794-getting-sleepy-while-going-deep-with-focusing/)
+- [Focusing Tip #793 – Why change the way we talk about our feelings?](https://focusingresources.com/2022/04/20/focusing-tip-793-why-change-the-way-we-talk-about-our-feelings/)
+- [Focusing Tip #792 – Felt sensing versus intuition](https://focusingresources.com/2022/04/06/focusing-tip-792-felt-sensing-versus-intuition/)
+- [Focusing Tip #791 – “What does Focusing add to meditation?”](https://focusingresources.com/2022/03/30/focusing-tip-791-what-does-focusing-add-to-meditation/)
