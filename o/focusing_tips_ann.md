@@ -147,3 +147,15 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #813 – How do I stop doing my unhealthy habit?](https://focusingresources.com/2022/09/21/focusing-tip-813-how-do-i-stop-doing-my-unhealthy-habit/)
 - [Focusing Tip #812 – “I’m still engaging in self-sabotage”](https://focusingresources.com/2022/09/14/focusing-tip-812-im-still-engaging-in-self-sabotage/)
 - [Focusing Tip #811 – “There are no enemies inside.”](https://focusingresources.com/2022/09/07/focusing-tip-811-there-are-no-enemies-inside/)
+
+### 0801 to 0810
+- [Focusing Tip #810 – “This part seems to hate me”](https://focusingresources.com/2022/08/31/focusing-tip-810-this-part-seems-to-hate-me/)
+- [Focusing Tip #809 – Who is the “you” who can say Hello to your parts?](https://focusingresources.com/2022/08/24/focusing-tip-809-who-is-the-you-who-can-say-hello-to-your-parts/)
+- [Focusing Tip #808 – When a part doesn’t get moving even after being heard](https://focusingresources.com/2022/08/10/focusing-tip-808-when-a-part-doesnt-get-moving-even-after-being-heard/)
+- [Focusing Tip #807 – “I wish I could let my feelings go and get on with life.”](https://focusingresources.com/2022/08/03/focusing-tip-807-i-wish-i-could-let-my-feelings-go-and-get-on-with-life/)
+- [Focusing Tip #806 – Focusing works even without Parts](https://focusingresources.com/2022/07/27/focusing-tip-806-focusing-works-even-without-parts/)
+- [Focusing Tip #805 – “Can we name our Parts?”](https://focusingresources.com/2022/07/20/focusing-tip-805-can-we-name-our-parts/)
+- [Focusing Tip #804 – What about saying “part of me”?](https://focusingresources.com/2022/07/13/focusing-tip-804-what-about-saying-part-of-me/)
+- [Focusing Tip #803 – Not everyone likes to say “something in me”](https://focusingresources.com/2022/07/06/focusing-tip-803-not-everyone-likes-to-say-something-in-me/)
+- [Focusing Tip #802 – Focusing with climate fears](https://focusingresources.com/2022/06/29/focusing-tip-802-focusing-with-climate-fears/)
+- [Focusing Tip #801 – How Focusing helps develop the sense of self](https://focusingresources.com/2022/06/22/focusing-tip-801-how-focusing-helps-develop-the-sense-of-self/)
