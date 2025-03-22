@@ -75,3 +75,15 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #873 – Feeling in the Body – “How can I get past these unimportant sensations?”](https://focusingresources.com/2024/01/10/focusing-tip-873-feeling-in-the-body-how-can-i-get-past-these-unimportant-sensations/)
 - [Focusing Tip #872 – “I swear I won’t eat so much today…”](https://focusingresources.com/2024/01/03/focusing-tip-872-i-swear-i-wont-eat-so-much-today/)
 - [Focusing Tip #871 – “I don’t want to feel my anger”](https://focusingresources.com/2023/12/20/focusing-tip-871-i-dont-want-to-feel-my-anger/)
+
+### 0861 to 0870
+- [Focusing Tip #870 – “I’m jealous of my therapist’s other clients”](https://focusingresources.com/2023/12/13/focusing-tip-870-im-jealous-of-my-therapists-other-clients/)
+- [Focusing Tip #869 – “I don’t know what my emotions are.”](https://focusingresources.com/2023/12/06/focusing-tip-869-i-dont-know-what-my-emotions-are/)
+- [Focusing Tip #868 – Can’t Feel Anything – “I’m waiting for something to show up”](https://focusingresources.com/2023/11/29/focusingtip868-cant-feel-anything-im-waiting-for-something-to-show-up/)
+- [Focusing Tip #867 – Inner Critics – “I am always afraid what people will think about me”](https://focusingresources.com/2023/11/15/focusingtip867-inner-critics-i-am-always-afraid-what-people-will-think-about-me/)
+- [Focusing Tip #866 – “All I can do is cry”](https://focusingresources.com/2023/11/08/focusing-tip-866-all-i-can-do-is-cry/)
+- [Focusing Tip #865 – Focusing + Intrusive Thoughts – “When I try to do Focusing alone my mind wanders”](https://focusingresources.com/2023/11/01/focusing-tip-865-focusing-intrusive-thoughts-when-i-try-to-do-focusing-alone-my-mind-wanders/)
+- [Focusing Tip #864 – Physical Pain and Strong Emotions – “I’m in pain and my emotions are overwhelming”](https://focusingresources.com/2023/10/25/focusing-tip-864-physical-pain-and-strong-emotions-im-in-pain-and-my-emotions-are-overwhelming/)
+- Focusing Tip #863 - "Why does having a Focusing partner help so much?"
+- [Focusing Tip #862 - "How do we Focus differently with grieving?"](https://focusingresources.com/2023/10/11/focusing-tip-862-grief-and-parts-how-do-we-focus-differently-with-grieving/)
+- [Focusing Tip #861 - "What if I start crying in front of this other person?"](https://focusingresources.com/2023/10/04/focusing-tip-861-strong-feelings-what-if-i-start-crying-in-front-of-this-other-person/)
