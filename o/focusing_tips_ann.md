@@ -4,7 +4,7 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Ann Weiser Cornell](https://focusingresources.com/team/ann-weiser-cornell/)
 - [Ann's Weekly Focusing Tips - Sign up here](https://focusingresources.com/anns-weekly-tips/)
 
-## 0900+
+## 0901+
 ### 0921 to 0930
 - Focusing Tip #928 - "What part of me is aware of something in me?"
 - Focusing Tip #927 - Protector and Defender parts in Untangling
@@ -39,7 +39,7 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - Focusing Tip #902 - "It doesn't always feel like just something in me"
 - Focusing Tip #901 - "A lot of my thoughts are rooted in some sort of worry"
 
-## 0800 to 0900
+## 0801 to 0900
 ### 0891 to 0900
 - Focusing Tip #900 - "I can't keep up when opinions are flying around"
 - Focusing Tip #899 - "A traumatized part won't let me sleep"
@@ -159,3 +159,9 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #803 – Not everyone likes to say “something in me”](https://focusingresources.com/2022/07/06/focusing-tip-803-not-everyone-likes-to-say-something-in-me/)
 - [Focusing Tip #802 – Focusing with climate fears](https://focusingresources.com/2022/06/29/focusing-tip-802-focusing-with-climate-fears/)
 - [Focusing Tip #801 – How Focusing helps develop the sense of self](https://focusingresources.com/2022/06/22/focusing-tip-801-how-focusing-helps-develop-the-sense-of-self/)
+
+## 0701 to 0800
+### 0791 to 0800
+- x
+- y
+- z
