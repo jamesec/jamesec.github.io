@@ -220,3 +220,15 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #753 – Focusing when the feelings are “too much”](https://focusingresources.com/2021/05/19/focusing-tip-753-focusing-when-the-feelings-are-too-much/)
 - [Focusing Tip #752 – “My traumatic hospital stay”](https://focusingresources.com/2021/05/12/focusing-tip-752-my-traumatic-hospital-stay-pain/)
 - [Focusing Tip #751 – “I carry so much wounding from how my parents treated me”](https://focusingresources.com/2021/05/05/focusing-tip-751-i-carry-so-much-wounding-from-how-my-parents-treated-me/)
+
+### 0741 to 0750
+- [Focusing Tip #750 – “I have to be careful not to ruminate on negativity”](https://focusingresources.com/2021/04/28/focusing-tip-750-i-have-to-be-careful-not-to-ruminate-on-negativity/)
+- [Focusing Tip #749 – “My felt sense disappears when I look at it”](https://focusingresources.com/2021/04/21/focusing-tip-749-my-felt-sense-disappears-when-i-look-at-it/)
+- [Focusing Tip #748 – “Do you no longer ask a felt sense what it needs?”](https://focusingresources.com/2021/04/14/focusing-tip-748-do-you-no-longer-ask-a-felt-sense-what-it-needs/)
+- [Focusing Tip #747 – Is the tightness in my chest a felt sense?](https://focusingresources.com/2021/04/07/focusing-tip-747-is-the-tightness-in-my-chest-a-felt-sense/)
+- [Focusing Tip #746 – “Why do things change just because you give them attention?”](https://focusingresources.com/2021/03/31/focusing-tip-746-why-do-things-change-just-because-you-give-them-attention/)
+- [Focusing Tip #745 – “I can’t seem to quiet my thoughts enough to sense what I deeply know.”](https://focusingresources.com/2021/03/24/focusing-tip-745-i-cant-seem-to-quiet-my-thoughts-enough-to-sense-what-i-deeply-know/)
+- [Focusing Tip #744 – “What happens when there is no shift?”](https://focusingresources.com/2021/03/17/focusing-tip-744-what-happens-when-there-is-no-shift/)
+- [Focusing Tip #743 – “When I tune into my body I feel significant muscle tension”](https://focusingresources.com/2021/03/10/focusing-tip-743-when-i-tune-into-my-body-i-feel-significant-muscle-tension/)
+- [Focusing Tip #742 – “My friend says he never gets felt senses.”](https://focusingresources.com/2021/03/03/focusing-tip-742-my-friend-says-he-never-gets-felt-senses/)
+- [Focusing Tip #741 – “Oh that’s just a part, that’s not really me feeling that”](https://focusingresources.com/2021/02/24/focusing-tip-741-oh-thats-just-a-part-thats-not-really-me-feeling-that/)
