@@ -3,7 +3,7 @@
 - [Ann Weiser Cornell](https://focusingresources.com/team/ann-weiser-cornell/)
 - [Ann's Weekly Tips - Sign up here](https://focusingresources.com/anns-weekly-tips/)
 
-## 0900 to 1000
+## 0900+
 ### 0921 to 0930
 - Focusing Tip #928 - "What part of me is aware of something in me?"
 
@@ -23,3 +23,7 @@
 - [Focusing Tip #887 – “I procrastinate everything”](https://focusingresources.com/2024/04/24/focusing-tip-887-i-procrastinate-everything/)
 - [Focusing Tip #886 – The links between procrastination and exhaustion](https://focusingresources.com/2024/04/17/focusing-tip-886-the-links-between-procrastination-and-exhaustion/)
 - [Focusing Tip #885 – “I’m trying to cut back and do less”](https://focusingresources.com/2024/04/10/focusing-tip-885-im-trying-to-cut-back-and-do-less/)
+- [Focusing Tip #884 – Relationships – “People in my family don’t listen to me”](https://focusingresources.com/2024/04/03/focusing-tip-884-relationships-people-in-my-family-dont-listen-to-me/)
+- [Focusing Tip #883 – Self-Acceptance – “It’s hard for me to accept how my life is”](https://focusingresources.com/2024/03/27/focusingtip883-self-acceptance-its-hard-for-me-to-accept-how-my-life-is/)
+- [Focusing Tip #882 – “What exactly is a felt sense?”](https://focusingresources.com/2024/03/20/focusing-tip-882-what-exactly-is-a-felt-sense/)
+- [Focusing Tip #881 – Focusing and Parts – “The feeling of inner peace keeps me from exploring…”](https://focusingresources.com/2024/03/13/focusing-tip-881-focusing-and-parts-the-feeling-of-inner-peace-keeps-me-from-exploring/)
