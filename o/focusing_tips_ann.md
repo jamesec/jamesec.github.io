@@ -283,3 +283,13 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 
 ## 0601 to 0700
 ### 0691 to 0700
+- [Focusing Tip #700 – Critical Coworkers – “I had a bad work experience…”](https://focusingresources.com/2020/04/15/focusing-tip-700-critical-coworkers-i-had-a-bad-work-experience/)
+- [Focusing Tip #699 – How can Focusing help when the world is so scary?](https://focusingresources.com/2020/04/08/focusing-tip-699-how-can-focusing-help-when-the-world-is-so-scary/)
+- [Focusing Tip #698 – Focusing with anxiety turns into a sense of confidence](https://focusingresources.com/2020/04/01/focusing-tip-698-focusing-with-anxiety-turns-into-a-sense-of-confidence/)
+- [Focusing Tip #697 – When you feel the urge to eat or drink or do something…](https://focusingresources.com/2020/03/25/focusing-tip-697-when-you-feel-the-urge-to-eat-or-drink-or-do-something/)
+- [Focusing Tip #696 – “How do I manage my feelings during this health crisis?”](https://focusingresources.com/2020/03/18/focusing-tip-696-how-do-i-manage-my-feelings-during-this-health-crisis/)
+- [Focusing Tip #695 – “The strong sensation makes it impossible to feel any subtle sensation…”](https://focusingresources.com/2020/03/11/focusing-tip-695-the-strong-sensation-makes-it-impossible-to-feel-any-subtle-sensation/)
+- [Focusing Tip #694 – “What if all I feel is numbness?”](https://focusingresources.com/2020/03/04/focusing-tip-694-what-if-all-i-feel-is-numbness/)
+- [Focusing Tip #693 – “Can Focusing help with anxiety if you don’t know the cause?”](https://focusingresources.com/2020/02/26/focusing-tip-693-can-focusing-help-with-anxiety-if-you-dont-know-the-cause/)
+- [Focusing Tip #692 – “When I get triggered my thoughts explode…”](https://focusingresources.com/2020/02/19/focusing-tip-692-when-i-get-triggered-my-thoughts-explode/)
+- [Focusing Tip #691 – “What do I do with my anxiety and despair about the world?”](https://focusingresources.com/2020/02/12/focusing-tip-691-what-do-i-do-with-my-anxiety-and-despair-about-the-world/)
