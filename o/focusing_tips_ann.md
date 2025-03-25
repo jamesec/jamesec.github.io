@@ -44,7 +44,7 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - Focusing Tip #900 - "I can't keep up when opinions are flying around"
 - Focusing Tip #899 - "A traumatized part won't let me sleep"
 - Focusing Tip #898 - "I get lost in my negative pain"
-- Focusing Tip #897 - What about the over-permissive inner voice?
+- [Focusing Tip #897 - What about the over-permissive inner voice?](https://focusingresources.com/2024/07/10/focusing-tip-897-what-about-the-over-permissive-inner-voice/)
 - [Focusing Tip #896 – What if I want to stop?](https://focusingresources.com/2024/06/26/focusing-tip-896-what-if-i-want-to-stop/)
 - [Focusing Tip #895 – Is it safe to do Focusing?](https://focusingresources.com/2024/06/19/focusing-tip-895-is-it-safe-to-do-focusing/)
 - [Focusing Tip #894 – Can you weep as Self-in-Presence?](https://focusingresources.com/2024/06/12/focusing-tip-894-can-you-weep-as-self-in-presence/)
@@ -268,3 +268,18 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #713 – When is the best time to do Focusing?](https://focusingresources.com/2020/07/22/focusing-tip-713-when-is-the-best-time-to-do-focusing/)
 - [Focusing Tip #712 – “Am I attracting bad things by feeling ‘negative’ emotions?”](https://focusingresources.com/2020/07/15/focusing-tip-712-am-i-attracting-bad-things-by-feeling-negative-emotions/)
 - [Focusing Tip #711 – “There are so many past hurts that need healing…”](https://focusingresources.com/2020/07/08/focusing-tip-711-there-are-so-many-past-hurts-that-need-healing/)
+
+### 0701 to 0710
+- [Focusing Tip #710 – “I avoid my friends because when I’m with them I feel vulnerable”](https://focusingresources.com/2020/07/01/focusing-tip-710-i-avoid-my-friends-because-when-im-with-them-i-feel-vulnerable/)
+- [Focusing Tip #709 – My abandonment issues are being triggered by my therapist meeting online](https://focusingresources.com/2020/06/24/focusing-tip-709-my-abandonment-issues-are-being-triggered-by-my-therapist-meeting-online/)
+- [Focusing Tip #708 – One part feels like me, and the other part is furious at it](https://focusingresources.com/2020/06/17/focusing-tip-708-one-part-feels-like-me-and-the-other-part-is-furious-at-it/)
+- [Focusing Tip #707 – How do you cope with multiple warring parts?](https://focusingresources.com/2020/06/10/focusing-tip-707-how-do-you-cope-with-multiple-warring-parts/)
+- [Focusing Tip #706 – “I don’t want to return to normal life.”](https://focusingresources.com/2020/06/03/focusing-tip-706-i-dont-want-to-return-to-normal-life/)
+- [Focusing Tip #705 – “I seem to be plagued lately with thoughts of my own death.”](https://focusingresources.com/2020/05/27/focusing-tip-705-i-seem-to-be-plagued-lately-with-thoughts-of-my-own-death/)
+- [Focusing Tip #704 – “Something in me can’t bear to not be perfect at what I do.”](https://focusingresources.com/2020/05/20/focusing-tip-704-something-in-me-cant-bear-to-not-be-perfect-at-what-i-do/)
+- [Focusing Tip #703 – “I struggle with feelings of failure, shame, inadequacy…”](https://focusingresources.com/2020/05/13/focusing-tip-703-i-struggle-with-feelings-of-failure-shame-inadequacy/)
+- [Focusing Tip #702 – “I am not sure why I feel so guilty (or panicked)”](https://focusingresources.com/2020/04/29/focusing-tip-702-i-am-not-sure-why-i-feel-so-guilty-or-panicked/)
+- [Focusing Tip #701 – “I have a chronic illness and my partner is harsh with me”](https://focusingresources.com/2020/04/22/focusing-tip-701-i-have-a-chronic-illness-and-my-partner-is-harsh-with-me/)
+
+## 0601 to 0700
+### 0691 to 0700
