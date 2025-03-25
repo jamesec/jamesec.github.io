@@ -244,3 +244,15 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #733 – Bringing Focusing to communities around the world](https://focusingresources.com/2020/12/09/focusing-tip-733-bringing-focusing-to-communities-around-the-world/)
 - [Focusing Tip #732 – “I am in despair about my despair”](https://focusingresources.com/2020/12/01/focusing-tip-732-i-am-in-despair-about-my-despair/)
 - [Focusing Tip #731 – How to be grateful in a tough time](https://focusingresources.com/2020/11/25/focusing-tip-731-how-to-be-grateful-in-a-tough-time/)
+
+### 0721 to 0730
+- [Focusing Tip #730 – “Something in me is dreading Focusing.”](https://focusingresources.com/2020/11/18/focusing-tip-730-something-in-me-is-dreading-focusing/)
+- [Focusing Tip #729 – “After Focusing, I felt no relief”](https://focusingresources.com/2020/11/11/focusing-tip-729-after-focusing-i-felt-no-relief/)
+- [Focusing Tip #728 – “I woke extremely tense and almost panicky this morning.”](https://focusingresources.com/2020/11/04/focusing-tip-728-i-woke-extremely-tense-and-almost-panicky-this-morning/)
+- [Focusing Tip #727 – “I’m not usually so indecisive…”](https://focusingresources.com/2020/10/28/focusing-tip-727-im-not-usually-so-indecisive/)
+- [Focusing Tip #726 – 12 ways to cultivate Self-in-Presence](https://focusingresources.com/2020/10/21/focusing-tip-726-12-ways-to-cultivate-self-in-presence/)
+- [Focusing Tip #725 – Losing a beloved spouse](https://focusingresources.com/2020/10/14/focusing-tip-725-losing-a-beloved-spouse/)
+- [Focusing Tip #724 – How to give great birthday presents](https://focusingresources.com/2020/10/07/focusing-tip-724-how-to-give-great-birthday-presents/)
+- [Focusing Tip #723 – “I don’t know what to do, and I don’t know what to trust”](https://focusingresources.com/2020/09/30/focusing-tip-723-i-dont-know-what-to-do-and-i-dont-know-what-to-trust/)
+- [Focusing Tip #722 – “I don’t like to be spoken to that way.”](https://focusingresources.com/2020/09/23/focusing-tip-722-i-dont-like-to-be-spoken-to-that-way/)
+- [Focusing Tip #721 – “I can hardly do what I need to do for myself, much less the world.”](https://focusingresources.com/2020/09/16/focusing-tip-721-i-can-hardly-do-what-i-need-to-do-for-myself-much-less-the-world/)
