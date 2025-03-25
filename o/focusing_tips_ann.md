@@ -232,3 +232,15 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #743 – “When I tune into my body I feel significant muscle tension”](https://focusingresources.com/2021/03/10/focusing-tip-743-when-i-tune-into-my-body-i-feel-significant-muscle-tension/)
 - [Focusing Tip #742 – “My friend says he never gets felt senses.”](https://focusingresources.com/2021/03/03/focusing-tip-742-my-friend-says-he-never-gets-felt-senses/)
 - [Focusing Tip #741 – “Oh that’s just a part, that’s not really me feeling that”](https://focusingresources.com/2021/02/24/focusing-tip-741-oh-thats-just-a-part-thats-not-really-me-feeling-that/)
+
+### 0731 to 0740
+- [Focusing Tip #740 – “The demo video shook me up, and I had trouble being present.”](https://focusingresources.com/2021/02/17/focusing-tip-740-the-demo-video-shook-me-up-and-i-had-trouble-being-present/)
+- [Focusing Tip #739 – Focusing and Internal Family Systems…?](https://focusingresources.com/2021/02/03/focusing-tip-739-focusing-and-internal-family-systems/)
+- [Focusing Tip #738 – “I have to keep working in an unsafe situation.”](https://focusingresources.com/2021/01/27/focusing-tip-738-i-have-to-keep-working-in-an-unsafe-situation/)
+- [Focusing Tip #737 – “I’m feeling triggered by a work experience.”](https://focusingresources.com/2021/01/20/focusing-tip-737-im-feeling-triggered-by-a-work-experience/)
+- [Focusing Tip #736 – “What does ‘inner relationship’ actually refer to?”](https://focusingresources.com/2021/01/13/focusing-tip-736-what-does-inner-relationship-actually-refer-to/)
+- [Focusing Tip #735 – “I hear people say you can choose how you feel, but…”](https://focusingresources.com/2021/01/06/focusing-tip-735-i-hear-people-say-you-can-choose-how-you-feel-but/)
+- [Focusing Tip #734 – “I never get information from my felt sense”](https://focusingresources.com/2020/12/16/focusing-tip-734-i-never-get-information-from-my-felt-sense/)
+- [Focusing Tip #733 – Bringing Focusing to communities around the world](https://focusingresources.com/2020/12/09/focusing-tip-733-bringing-focusing-to-communities-around-the-world/)
+- [Focusing Tip #732 – “I am in despair about my despair”](https://focusingresources.com/2020/12/01/focusing-tip-732-i-am-in-despair-about-my-despair/)
+- [Focusing Tip #731 – How to be grateful in a tough time](https://focusingresources.com/2020/11/25/focusing-tip-731-how-to-be-grateful-in-a-tough-time/)
