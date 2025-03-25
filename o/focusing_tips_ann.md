@@ -256,3 +256,15 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #723 – “I don’t know what to do, and I don’t know what to trust”](https://focusingresources.com/2020/09/30/focusing-tip-723-i-dont-know-what-to-do-and-i-dont-know-what-to-trust/)
 - [Focusing Tip #722 – “I don’t like to be spoken to that way.”](https://focusingresources.com/2020/09/23/focusing-tip-722-i-dont-like-to-be-spoken-to-that-way/)
 - [Focusing Tip #721 – “I can hardly do what I need to do for myself, much less the world.”](https://focusingresources.com/2020/09/16/focusing-tip-721-i-can-hardly-do-what-i-need-to-do-for-myself-much-less-the-world/)
+
+### 0711 to 0720
+- [Focusing Tip #720 – “There is a particular person who always drives me crazy.”](https://focusingresources.com/2020/09/09/focusing-tip-720-there-is-a-particular-person-who-always-drives-me-crazy/)
+- [Focusing Tip #719 – “I’m not doing enough to help heal the world”](https://focusingresources.com/2020/09/01/focusing-tip-719-im-not-doing-enough-to-help-heal-the-world/)
+- [Focusing Tip #718 – “I’m confused about how to interact with my Parts”](https://focusingresources.com/2020/08/26/focusing-tip-718-im-confused-about-how-to-interact-with-my-parts/)
+- [Focusing Tip #717 – “My parts don’t seem to be temporary.”](https://focusingresources.com/2020/08/19/focusing-tip-717-my-parts-dont-seem-to-be-temporary/)
+- [Focusing Tip #716 – Can our parts work things out with each other?](https://focusingresources.com/2020/08/12/focusing-tip-716-can-our-parts-work-things-out-with-each-other/)
+- [Focusing Tip #715 – Is Self-in-Presence just for Focusing… or is it a way to live?](https://focusingresources.com/2020/08/05/focusing-tip-715-is-self-in-presence-just-for-focusing-or-is-it-a-way-to-live/)
+- [Focusing Tip #714 – Does my emotion belong to Self-in-Presence or a Part?](https://focusingresources.com/2020/07/29/focusing-tip-714-does-my-emotion-belong-to-self-in-presence-or-a-part/)
+- [Focusing Tip #713 – When is the best time to do Focusing?](https://focusingresources.com/2020/07/22/focusing-tip-713-when-is-the-best-time-to-do-focusing/)
+- [Focusing Tip #712 – “Am I attracting bad things by feeling ‘negative’ emotions?”](https://focusingresources.com/2020/07/15/focusing-tip-712-am-i-attracting-bad-things-by-feeling-negative-emotions/)
+- [Focusing Tip #711 – “There are so many past hurts that need healing…”](https://focusingresources.com/2020/07/08/focusing-tip-711-there-are-so-many-past-hurts-that-need-healing/)
