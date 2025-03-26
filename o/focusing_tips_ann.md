@@ -432,7 +432,7 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #580 – Why do I lose interest in so many things?](https://focusingresources.com/2017/10/11/lose-interest-many-things/)
 - [Focusing Tip #579 – Does it all feel like too much tragedy, too much upset and instability?](https://focusingresources.com/2017/10/04/does-it-all-feel-like-too-much-tragedy-too-much-upset-and-instability/)
 - [Focusing Tip #578 – Can Focusing help shift obsessive thoughts?](https://focusingresources.com/2017/09/27/can-focusing-help-shift-obsessive-thoughts/)
-- [Focusing Tip #577 -When early childhood trauma gets triggered](https://focusingresources.com/2017/09/20/when-early-childhood-trauma-gets-triggered/)
+- [Focusing Tip #577 - When early childhood trauma gets triggered](https://focusingresources.com/2017/09/20/when-early-childhood-trauma-gets-triggered/)
 - [Focusing Tip #576 – “I reassured the part that it could relax but…”](https://focusingresources.com/2017/09/13/i-reassured-the-part-that-it-could-relax-but/)
 - [Focusing Tip #575 – “I’m not getting any messages from this part…”](https://focusingresources.com/2017/09/06/im-not-getting-any-messages-from-this-part/)
 - [Focusing Tip #574 – How long does it take to untangle a tangle?](https://focusingresources.com/2017/08/30/how-long-does-it-take-to-untangle-a-tangle/)
