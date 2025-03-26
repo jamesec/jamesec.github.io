@@ -331,6 +331,18 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #662 – Teaching someone to love themselves](https://focusingresources.com/2019/06/26/focusing-tip-662-teaching-someone-to-love-themselves/)
 - [Focusing Tip #661 – “My needs always come last.”](https://focusingresources.com/2019/06/19/focusing-tip-661-my-needs-always-come-last/)
 
+### 0651 to 0660
+- [Focusing Tip #660 – When you are exhausted because you can’t stop working](https://focusingresources.com/2019/06/12/focusing-tip-660-when-you-are-exhausted-because-you-cant-stop-working/)
+- [Focusing Tip #659 – “That person hurt me deeply and I want to forgive…”](https://focusingresources.com/2019/06/07/focusing-tip-659-that-person-hurt-me-deeply-and-i-want-to-forgive/)
+- [Focusing Tip #658 – Changing unhelpful habits](https://focusingresources.com/2019/05/22/focusing-tip-658-changing-unhelpful-habits/)
+- [Focusing Tip #657 – How can we bear the suffering we see?](https://focusingresources.com/2019/05/15/focusing-tip-657-how-can-we-bear-the-suffering-we-see/)
+- [Focusing Tip #656 – Finding richness in our criticisms of other people](https://focusingresources.com/2019/05/08/focusing-tip-656-finding-richness-in-our-criticisms-of-other-people/)
+- [Focusing Tip #655 – “I already know the reasons for my pain and exhaustion”](https://focusingresources.com/2019/05/02/focusing-tip-655-i-already-know-the-reasons-for-my-pain-and-exhaustion/)
+- [Focusing Tip #654 – Focusing isn’t talking to your body](https://focusingresources.com/2019/04/24/focusing-tip-654-focusing-isnt-talking-to-your-body/)
+- [Focusing Tip #653 – “Is there more I can do other than accepting my vulnerability?”](https://focusingresources.com/2019/04/17/focusing-tip-653-is-there-more-i-can-do-other-than-accepting-my-vulnerability/)
+- [Focusing Tip #652 – “When it’s really bad I resort to binging on sweets.”](https://focusingresources.com/2019/04/10/focusing-tip-652-when-its-really-bad-i-resort-to-binging-on-sweets/)
+- [Focusing Tip #651 – “How can I become more aware of my body?](https://focusingresources.com/2019/04/03/focusing-tip-651-how-can-i-become-more-aware-of-my-body/)
+
 ---
 
 ## 0101 to 0200
