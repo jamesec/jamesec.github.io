@@ -338,3 +338,7 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #190 - The "More" to Anger](https://focusingresources.com/2009/07/15/may-5-2009-tip-190/)
 - [Focusing Tip #189 – Wouldn't the Focusing Approach to Cancer Be a Gentle One?](https://focusingresources.com/2009/07/01/april-21-2009-tip-189/)
 - [Focusing Tip #188 – Is There a Best Posture for Focusing?](https://focusingresources.com/2009/06/22/april-7-2009-tip-188/)
+
+## 0001 to 0100
+### 0001 to 0010
+- [Focusing Tip #001 - I decided to create a new weekly email newsletter for that very purpose — for you.](https://focusingresources.com/2005/10/26/march-8-2005/)
