@@ -621,9 +621,163 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #422](https://focusingresources.com/2014/04/17/focusing-to-ease-seasickness/)
 - [Focusing Tip #421](https://focusingresources.com/2014/04/10/focusing-tip-421-many-sensations-start-session/)
 
-<br>
+### 0411 to 0420
+- [Focusing Tip #420](https://focusingresources.com/2014/04/07/focusing-tip-420-going-story-felt-sense/)
+- [Focusing Tip #419](https://focusingresources.com/2014/03/27/focusing-tip-419-parts-seem-tell-us/)
+- [Focusing Tip #418](https://focusingresources.com/2014/03/19/focusing-tip-418-part-merging/)
+- [Focusing Tip #417](https://focusingresources.com/2014/03/12/focusing-tip-417-difference-focusing-mindfulness-meditation/)
+- [Focusing Tip #416](https://focusingresources.com/2014/03/05/focusing-tip-416-focuser-stuck-parts/)
+- [Focusing Tip #415](https://focusingresources.com/2014/02/26/focusing-tip-415-power-keeping-company/)
+- [Focusing Tip #414](https://focusingresources.com/2014/02/20/focusing-tip-414-focusing-birthday-surprise-gift/)
+- [Focusing Tip #413](https://focusingresources.com/2014/02/13/focusing-tip-413-ill-back-end-process/)
+- [Focusing Tip #412](https://focusingresources.com/2014/02/05/focusing-tip-412-tragedy-addiction/)
+- [Focusing Tip #411](https://focusingresources.com/2014/01/29/focusing-tip-411-getting-flooded-feelings-going-numb/)
 
----
+### 0401 to 0410
+- [Focusing Tip #410](https://focusingresources.com/2014/01/23/focusing-tip-410-focusing-pondering/)
+- [Focusing Tip #409](https://focusingresources.com/2014/01/15/focusing-tip-409-focus-two-felt-senses/)
+- [Focusing Tip #408](https://focusingresources.com/2014/01/01/focusing-tip-408-changing-your-life-without-being-bad-first/)
+- [Focusing Tip #407](https://focusingresources.com/2013/12/11/focusing-tip-407-can-i-take-out-the-sword/)
+- [Focusing Tip #406](https://focusingresources.com/2013/12/02/focusing-tip-406-the-result-has-to-look-like-this/)
+- [Focusing Tip #405](https://focusingresources.com/2013/11/19/focusing-tip-405-turning-toward-the-part-that-wants-to-censor-the-images/)
+- [Focusing Tip #404](https://focusingresources.com/2013/11/12/focusing-tip-404-i-censor-the-images-that-come/)
+- [Focusing Tip #403](https://focusingresources.com/2013/11/06/focusing-tip-403-what-do-you-do-when-you-run-out-of-hands/)
+- [Focusing Tip #402](https://focusingresources.com/2013/10/29/focusing-tip-402-obsessive-thoughts-about-eating/)
+- [Focusing Tip #401](https://focusingresources.com/2013/10/24/focusing-tip-401-what-gets-in-the-way-what-to-do-about-it/)
+
+## 0301 to 0400
+### 0391 to 0400
+- [Focusing Tip #400](https://focusingresources.com/2013/10/16/focusing-tip-400-the-body-is-not-neutral/)
+- [Focusing Tip #399](https://focusingresources.com/2013/10/08/focusing-tip-399-is-it-ok-to-get-quick-images-while-focusing/)
+- [Focusing Tip #398](https://focusingresources.com/2013/09/24/focusing-tip-398-the-difference-between-focusing-therapy/)
+- [Focusing Tip #397](https://focusingresources.com/2013/09/17/focusing-tip-397-how-to-tell-another-person-about-focusing/)
+- [Focusing Tip #396](https://focusingresources.com/2013/09/12/focusing-tip-396-i-cant-manage-to-settle-on-one-option/)
+- [Focusing Tip #395](https://focusingresources.com/2013/09/03/my-issue-stays-solid-its-a-lump-of-pain-inside-me/)
+- [Focusing Tip #394](https://focusingresources.com/2013/08/27/focusing-tip-394-why-ask-about-not-wanting-before-wanting/)
+- [Focusing Tip #393](https://focusingresources.com/2013/08/20/focusing-tip-393-the-essential-pre-condition-for-change/)
+- [Focusing Tip #392](https://focusingresources.com/2013/08/13/focusing-tip-392-going-round-in-circles/)
+- [Focusing Tip #391](https://focusingresources.com/2013/08/07/focusing-tip-391-early-morning-insight-is-it-focusing/)
+
+### 0381 to 0390
+- [Focusing Tip #390](https://focusingresources.com/2013/07/31/focusing-tip-390-sneaking-focusing-into-all-your-relationships/)
+- [Focusing Tip #389](https://focusingresources.com/2013/07/23/focusing-tip-389-forgive-yourself-part-two/)
+- [Focusing Tip #388](https://focusingresources.com/2013/07/16/focusing-tip-388-forgive-yourself-can-you-do-it/)
+- [Focusing Tip #387](https://focusingresources.com/2013/07/09/focusing-tip-387-what-is-a-felt-sense-physiologically/)
+- [Focusing Tip #386](https://focusingresources.com/2013/07/02/focusing-tip-386-focusing-to-find-motivation/)
+- [Focusing Tip #385](https://focusingresources.com/2013/06/18/focusing-tip-385-this-part-of-me-stays-mute/)
+- [Focusing Tip #384](https://focusingresources.com/2013/06/12/i-feel-like-two-tons-have-been-lifted-off-my-shoulders-daniele-writes-i-want-to-thank-you-for-the-newsletter-i-feel-like/)
+- [Focusing Tip #383](https://focusingresources.com/2013/06/06/focusing-tip-383-when-focusing-just-isnt-possible/)
+- [Focusing Tip #382](https://focusingresources.com/2013/05/28/focusing-tip-382-my-focusing-partner-gets-into-stories/)
+- [Focusing Tip #381](https://focusingresources.com/2013/05/21/focusing-tip-381-how-to-accompany-silence/)
+
+### 0371 to 0380
+- [Focusing Tip #380](https://focusingresources.com/2013/05/14/focusing-tip-380-my-body-wont-tell-me-what-it-is-about/)
+- [Focusing Tip #379](https://focusingresources.com/2013/05/07/focusing-tip-379-the-enjoyable-feeling-takes-over/)
+- [Focusing Tip #378](https://focusingresources.com/2013/05/01/focusing-tip-378-is-it-normal-to-be-stuck-for-months/)
+- [Focusing Tip #377](https://focusingresources.com/2013/04/23/focusing-tip-377-what-is-the-ultimate-aim-of-getting-a-felt-sense/)
+- [Focusing Tip #376](https://focusingresources.com/2013/04/16/focusing-tip-376-the-shame-of-longing/)
+- [Focusing Tip #375](https://focusingresources.com/2013/04/10/is-focusing-a-kind-of-therapy/)
+- [Focusing Tip #374](https://focusingresources.com/2013/04/02/focusing-tip-374-if-parts-can-take-us-over-do-we-have-free-will/)
+- [Focusing Tip #373](https://focusingresources.com/2013/03/26/focusing-tip-373-who-makes-decisions-and-takes-action/)
+- [Focusing Tip #372](https://focusingresources.com/2013/03/19/focusing-tip-372-what-if-you-know-what-is-right-but-that-is-not-possible/)
+- [Focusing Tip #371](https://focusingresources.com/2013/03/13/focusing-tip-371-shall-i-reassure-the-little-one-inside/)
+
+### 0361 to 0370
+- [Focusing Tip #370](https://focusingresources.com/2013/03/05/focusing-tip-370-the-limits-of-focusing/)
+- [Focusing Tip #369](https://focusingresources.com/2013/02/26/focusing-tip-369-when-i-feel-accepting-i-get-hurt-by-people/)
+- [Focusing Tip #368](https://focusingresources.com/2013/02/19/focusing-tip-368-sometimes-i-cry-so-much/)
+- [Focusing Tip #367](https://focusingresources.com/2013/02/12/focusing-tip-367-the-difference-between-will-and-intention/)
+- [Focusing Tip #366](https://focusingresources.com/2013/02/05/focusing-tip-366-is-it-normal-to-have-contradictions-inside/)
+- [Focusing Tip #365](https://focusingresources.com/2013/01/29/focusing-tip-365-i-clench-and-grind-my-teeth/)
+- [Focusing Tip #364](https://focusingresources.com/2013/01/22/focusing-tip-364-how-to-make-sure-you-practice-your-focusing/)
+- [Focusing Tip #363](https://focusingresources.com/2013/01/16/focusing-tip-363-the-quality-of-silence/)
+- [Focusing Tip #362](https://focusingresources.com/2013/01/08/focusing-tip-362-focusing-and-grieving-recovering-from-tragedy/)
+- [Focusing Tip #361](https://focusingresources.com/2012/12/18/focusing-tip-361-intrusive-memories-and-dissociation/)
+
+### 0351 to 0360
+- [Focusing Tip #360](https://focusingresources.com/2012/12/11/focusing-tip-360-my-felt-sense-either-floods-me-or-slips-away/)
+- [Focusing Tip #359](https://focusingresources.com/2012/12/05/focusing-tip-359-working-with-unfulfilled-desire/)
+- [Focusing Tip #358](https://focusingresources.com/2012/11/27/focusing-tip-358-can-we-control-how-we-feel/)
+- [Focusing Tip #357](https://focusingresources.com/2012/11/14/focusing-tip-357-it-was-trying-to-kill-the-life-embracing-part/)
+- [Focusing Tip #356](https://focusingresources.com/2012/11/06/focusing-tip-356-focusing-in-a-hurricane-and-other-stressful-times/)
+- [Focusing Tip #355](https://focusingresources.com/2012/10/31/focusing-tip-355-focusing-with-a-terminal-illness/)
+- [Focusing Tip #354](https://focusingresources.com/2012/10/23/focusing-tip-354-my-life-is-passing-me-by/)
+- [Focusing Tip #353](https://focusingresources.com/2012/10/17/focusing-tip-353-is-it-a-part-squeezing-or-a-part-being-squeezed/)
+- [Focusing Tip #352](https://focusingresources.com/2012/10/09/focusing-tip-352-can-focusing-heal-a-broken-heart/)
+- [Focusing Tip #351](https://focusingresources.com/2012/10/03/focusing-tip-351-it-seems-like-all-of-me-doesnt-know-who-she-is/)
+
+### 0341 to 0350
+- [Focusing Tip #350](https://focusingresources.com/2012/09/25/focusing-tip-350-my-mother-died-oh-sweetie/)
+- [Focusing Tip #349](https://focusingresources.com/2012/09/20/focusing-tip-349-can-i-bring-my-own-feelings-in-when-i-am-listening/)
+- [Focusing Tip #348](https://focusingresources.com/2012/09/12/focusing-tip-348-on-emotional-eating-and-focusing/)
+- [Focusing Tip #347](https://focusingresources.com/2012/09/04/focusing-tip-347-is-my-love-for-my-ex-partner-just-a-part-of-me/)
+- [Focusing Tip #346](https://focusingresources.com/2012/08/28/focusing-tip-346-is-it-ok-to-feel-love-for-my-parts/)
+- [Focusing Tip #345](https://focusingresources.com/2012/08/21/focusing-tip-345-more-about-feeling-heard-by-a-focusing-partner/)
+- [Focusing Tip #344](https://focusingresources.com/2012/08/14/focusing-tip-344-i-cant-set-aside-my-anger-and-enjoy-life/)
+- [Focusing Tip #343](https://focusingresources.com/2012/08/07/focusing-tip-343-i-didnt-feel-my-focusing-partner-really-heard-me/)
+- [Focusing Tip #342](https://focusingresources.com/2012/07/31/focusing-tip-342-telling-a-part-that-i-will-make-the-decision/)
+- [Focusing Tip #341](https://focusingresources.com/2012/07/24/are-there-really-no-monsters-inside-us/)
+
+### 0331 to 0340
+- [Focusing Tip #340](https://focusingresources.com/2012/07/17/there-are-no-monsters-inside-of-you/)
+- [Focusing Tip #339](https://focusingresources.com/2012/07/11/its-hard-to-do-focusing-with-my-scary-parts/)
+- [Focusing Tip #338](https://focusingresources.com/2012/07/03/how-can-i-be-self-in-presence-when-i-am-sobbing/)
+- [Focusing Tip #337](https://focusingresources.com/2012/06/26/my-client-didnt-want-to-welcome-her-feelings/)
+- [Focusing Tip #336](https://focusingresources.com/2012/06/19/when-theres-romantic-attraction-involved-i-can-get-confused/)
+- [Focusing Tip #335](https://focusingresources.com/2012/06/05/focusing-doesnt-always-work-people-need-other-things/)
+- [Focusing Tip #334](https://focusingresources.com/2012/05/29/does-self-in-presence-speak/)
+- [Focusing Tip #333](https://focusingresources.com/2012/05/22/i-put-my-hand-on-my-chest-and-my-chest-wont-have-it/)
+- [Focusing Tip #332](https://focusingresources.com/2012/05/15/i-feel-an-urgency-to-do-focusing-all-the-time/)
+- [Focusing Tip #331](https://focusingresources.com/2012/05/08/my-focusing-gets-manic-at-night-when-i-cant-sleep/)
+
+### 0321 to 0330
+- [Focusing Tip #330](https://focusingresources.com/2012/05/01/a-part-of-me-says-it-wants-to-be-left-alone/)
+- [Focusing Tip #329](https://focusingresources.com/2012/04/24/focusing-and-depression-part-two/)
+- [Focusing Tip #328](https://focusingresources.com/2012/04/17/can-i-do-focusing-when-i-am-depressed/)
+- [Focusing Tip #327](https://focusingresources.com/2012/04/10/april-10-2012-tip-327/)
+- [Focusing Tip #326](https://focusingresources.com/2012/04/03/april-3-2012-tip-326/)
+- [Focusing Tip #325](https://focusingresources.com/2012/03/27/march-27-2012-tip-325/)
+- [Focusing Tip #324](https://focusingresources.com/2012/03/20/march-20-2012-tip-324/)
+- [Focusing Tip #323](https://focusingresources.com/2012/03/13/march-13-2012-tip-323/)
+- [Focusing Tip #322](https://focusingresources.com/2012/03/06/march-6-2012-tip-322/)
+- [Focusing Tip #321](https://focusingresources.com/2012/02/28/february-28-2012-tip-321/)
+
+### 0311 to 0320
+- [Focusing Tip #320](https://focusingresources.com/2012/02/21/february-21-2012-tip-320/)
+- [Focusing Tip #319](https://focusingresources.com/2012/02/14/february-14-2012-tip-319/)
+- [Focusing Tip #318](https://focusingresources.com/2012/02/07/february-7-2012-tip-318/)
+- [Focusing Tip #317](https://focusingresources.com/2012/01/31/january-31-2012-tip-317/)
+- [Focusing Tip #316](https://focusingresources.com/2012/01/24/january-24-2012-tip-316/)
+- [Focusing Tip #315](https://focusingresources.com/2012/01/17/january-17-2012-tip-315/)
+- [Focusing Tip #314](https://focusingresources.com/2012/01/11/focusing-tip-314-can-i-pursue-my-goal/)
+- [Focusing Tip #313](https://focusingresources.com/2012/01/03/january-3-2012-tip-313/)
+- [Focusing Tip #312](https://focusingresources.com/2011/12/27/focusing-tip-312-changing-habits-without-pushing/)
+- [Focusing Tip #311](https://focusingresources.com/2011/12/20/december-20-2011-tip-311/)
+
+### 0301 to 0310
+- [Focusing Tip #310](https://focusingresources.com/2011/12/14/december-13-2011-tip-310/)
+- [Focusing Tip #309](https://focusingresources.com/2011/12/07/december-6-2011-tip-309/)
+- [Focusing Tip #308](https://focusingresources.com/2011/11/30/november-29-2011-tip-307/)
+- [Focusing Tip #307](https://focusingresources.com/2011/11/23/november-22-2011-tip-307/)
+- [Focusing Tip #306](https://focusingresources.com/2011/11/16/november-15-2011-tip-306/)
+- [Focusing Tip #305](https://focusingresources.com/2011/11/09/november-8-2011-tip-305/)
+- [Focusing Tip #304](https://focusingresources.com/2011/11/01/november-1-2011-tip-304/)
+- [Focusing Tip #303](https://focusingresources.com/2011/10/26/focusing-tip-303-focusing-with-physical-tension/)
+- [Focusing Tip #302](https://focusingresources.com/2011/10/20/october-18-2011-tip-302/)
+- [Focusing Tip #301](https://focusingresources.com/2011/10/12/october-11-2011-tip-301/)
+
+## 0201 to 0300
+### 0291 to 0300
+- [Focusing Tip #300](https://focusingresources.com/2011/10/04/october-4-2011-tip-300/)
+- [Focusing Tip #299](https://focusingresources.com/2011/09/28/september-27-2011-tip-299/)
+- [Focusing Tip #298](https://focusingresources.com/2011/09/21/september-20-2011-tip-298/)
+- [Focusing Tip #297](https://focusingresources.com/2011/09/15/september-13-2011-tip-297/)
+- [Focusing Tip #296](https://focusingresources.com/2011/09/07/september-6-2011-tip-296/)
+- [Focusing Tip #295](https://focusingresources.com/2011/08/31/focusing-tip-295-when-parts-say-im-bad/)
+- [Focusing Tip #294](https://focusingresources.com/2011/08/24/august-23-2011-tip-294/)
+- [Focusing Tip #293](https://focusingresources.com/2011/08/17/august-16-2011-tip-293/)
+- [Focusing Tip #292](https://focusingresources.com/2011/08/10/focusing-tip-292-my-felt-sense-goes-away/)
+- [Focusing Tip #291](https://focusingresources.com/2011/08/03/august-2-2011-tip-291/)
 
 ## 0101 to 0200
 ### 0191 to 0200
