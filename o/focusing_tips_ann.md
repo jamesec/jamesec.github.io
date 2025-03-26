@@ -319,6 +319,18 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #672 – “I am so tired of the war inside”](https://focusingresources.com/2019/09/11/focusing-tip-672-i-am-so-tired-of-the-war-inside/)
 - [Focusing Tip #671 – “I feel tired all the time”](https://focusingresources.com/2019/09/04/focusing-tip-671-i-feel-tired-all-the-time/)
 
+### 0661 to 0670
+- [Focusing Tip #670 – I start Focusing with one part but a lot of other parts show up](https://focusingresources.com/2019/08/28/focusing-tip-670-i-start-focusing-with-one-part-but-a-lot-of-other-parts-show-up/)
+- [Focusing Tip #669 – “I keep wanting to jump up and get out of there”](https://focusingresources.com/2019/08/21/focusing-tip-669-i-keep-wanting-to-jump-up-and-get-out-of-there/)
+- [Focusing Tip #668 – More about working with migraines](https://focusingresources.com/2019/08/14/focusing-tip-668-more-about-working-with-migraines/)
+- [Focusing Tip #667 – Trying not to be bothered by a co-worker’s remarks](https://focusingresources.com/2019/08/07/focusing-tip-667-trying-not-to-be-bothered-by-a-co-workers-remarks/)
+- [Focusing Tip #666 – Focusing and migraines](https://focusingresources.com/2019/07/31/focusing-tip-666-focusing-and-migraines/)
+- [Focusing Tip #665 – “Can I be with a part of me I’m completely identified with?](https://focusingresources.com/2019/07/24/focusing-tip-665-can-i-be-with-a-part-of-me-im-completely-identified-with/)
+- [Focusing Tip #664 – I’m not able to contact a felt sense in my body](https://focusingresources.com/2019/07/17/focusing-tip-664-im-not-able-to-contact-a-felt-sense-in-my-body/)
+- [Focusing Tip #663 – “Something in me doesn’t like or respect me”](https://focusingresources.com/2019/07/10/focusing-tip-663-something-in-me-doesnt-like-or-respect-me/)
+- [Focusing Tip #662 – Teaching someone to love themselves](https://focusingresources.com/2019/06/26/focusing-tip-662-teaching-someone-to-love-themselves/)
+- [Focusing Tip #661 – “My needs always come last.”](https://focusingresources.com/2019/06/19/focusing-tip-661-my-needs-always-come-last/)
+
 ---
 
 ## 0101 to 0200
