@@ -912,6 +912,102 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #182 – What about "legitimate worries?"](https://focusingresources.com/2009/01/28/january-13-2009-182/)
 - [Focusing Tip #181 – Are You Worried?](https://focusingresources.com/2009/01/28/december-30-2008-181/)
 
+### 0171 to 0180
+- [Focusing Tip #180](https://focusingresources.com/2009/01/28/december-9-2008-180/)
+- [Focusing Tip #179](https://focusingresources.com/2008/12/03/november-25-2008-179/)
+- [Focusing Tip #178](https://focusingresources.com/2008/12/03/november-11-2008-178/)
+- [Focusing Tip #177](https://focusingresources.com/2008/12/03/october-28-2008-177/)
+- [Focusing Tip #176](https://focusingresources.com/2008/12/03/october-14-176/)
+- [Focusing Tip #175](https://focusingresources.com/2008/12/03/september-30-2008-175/)
+- [Focusing Tip #174](https://focusingresources.com/2008/12/02/september-16-2008-174/)
+- [Focusing Tip #173](https://focusingresources.com/2008/12/02/september-2-2008-173/)
+- [Focusing Tip #172](https://focusingresources.com/2008/12/02/august-19-2008-172/)
+- [Focusing Tip #171](https://focusingresources.com/2008/12/02/august-5-2008-171/)
+
+### 0161 to 0170
+- [Focusing Tip #170](https://focusingresources.com/2008/12/02/july-22-2008-170/)
+- [Focusing Tip #169](https://focusingresources.com/2008/12/02/july-8-2008-169/)
+- [Focusing Tip #168](https://focusingresources.com/2008/07/09/june-24-2008-168/)
+- [Focusing Tip #167](https://focusingresources.com/2008/07/09/june-17-2008-167/)
+- [Focusing Tip #166](https://focusingresources.com/2008/06/10/june-10-2008-166/)
+- [Focusing Tip #165](https://focusingresources.com/2008/06/10/june-3-2008-165/)
+- [Focusing Tip #164](https://focusingresources.com/2008/06/10/how-to-trust-the-inner-voice-a-few-weeks-ago-i-wrote-about-how-my-inner-sense-of/)
+- [Focusing Tip #163](https://focusingresources.com/2008/06/10/may-20-2008-163/)
+- [Focusing Tip #162](https://focusingresources.com/2008/05/13/may-13-2008-162/)
+- [Focusing Tip #161](https://focusingresources.com/2008/05/13/may-6-2008-161/)
+
+### 0151 to 0160
+- [Focusing Tip #160](https://focusingresources.com/2008/05/13/april-29-2008-1/)
+- [Focusing Tip #159](https://focusingresources.com/2008/04/23/april-22-2008-1/)
+- [Focusing Tip #158](https://focusingresources.com/2008/04/21/april-15-2008-1/)
+- [Focusing Tip #157](https://focusingresources.com/2008/04/21/april-8-2008-15/)
+- [Focusing Tip #156](https://focusingresources.com/2008/04/21/april-1-2008-15/)
+- [Focusing Tip #155](https://focusingresources.com/2008/04/21/march-25-2008-1/)
+- [Focusing Tip #154](https://focusingresources.com/2008/04/21/march-18-2008-1/)
+- [Focusing Tip #153](https://focusingresources.com/2008/03/13/march-11-2008-1/)
+- [Focusing Tip #152](https://focusingresources.com/2008/03/05/march-4-2008-15/)
+- [Focusing Tip #151](https://focusingresources.com/2008/03/05/february-26-200/)
+
+### 0141 to 0150
+- [Focusing Tip #150](https://focusingresources.com/2008/03/05/february-19-200/)
+- [Focusing Tip #149](https://focusingresources.com/2008/02/18/february-12-200/)
+- [Focusing Tip #148](https://focusingresources.com/2008/02/18/february-5-2008/)
+- [Focusing Tip #147](https://focusingresources.com/2008/02/18/january-29-2008/)
+- [Focusing Tip #146](https://focusingresources.com/2008/02/18/january-22-2008/)
+- [Focusing Tip #145](https://focusingresources.com/2008/01/15/january-15-2008/)
+- [Focusing Tip #144](https://focusingresources.com/2008/01/15/january-8-2008/)
+- [Focusing Tip #143](https://focusingresources.com/2008/01/15/january-1-2008/)
+- [Focusing Tip #142](https://focusingresources.com/2007/12/20/december-18-200/)
+- [Focusing Tip #141](https://focusingresources.com/2007/12/12/december-2007-1/)
+
+### 0131 to 0140
+- [Focusing Tip #140](https://focusingresources.com/2007/12/05/december-4-2007/)
+- [Focusing Tip #139](https://focusingresources.com/2007/12/05/november-27-200/)
+- [Focusing Tip #138](https://focusingresources.com/2007/12/05/november-20-200/)
+- [Focusing Tip #137](https://focusingresources.com/2007/12/05/november-13-200/)
+- [Focusing Tip #136](https://focusingresources.com/2007/11/12/november-6-2007/)
+- [Focusing Tip #135](https://focusingresources.com/2007/11/12/october-30-2007/)
+- [Focusing Tip #134](https://focusingresources.com/2007/10/23/october-23-2007/)
+- [Focusing Tip #133](https://focusingresources.com/2007/10/18/october-16-2007/)
+- [Focusing Tip #132](https://focusingresources.com/2007/10/11/october-9-2007/)
+- [Focusing Tip #131](https://focusingresources.com/2007/10/11/october-2-2007/)
+
+### 0121 to 0130
+- [Focusing Tip #130](https://focusingresources.com/2007/10/11/september-25-20/)
+- [Focusing Tip #129](https://focusingresources.com/2007/09/19/september-18-20/)
+- [Focusing Tip #128](https://focusingresources.com/2007/09/12/september-11-20/)
+- [Focusing Tip #127](https://focusingresources.com/2007/09/12/september-4-200/)
+- [Focusing Tip #126](https://focusingresources.com/2007/08/29/august-28-2007/)
+- [Focusing Tip #125](https://focusingresources.com/2007/08/27/august-21-2007/)
+- [Focusing Tip #124](https://focusingresources.com/2007/08/27/august-14-2007/)
+- [Focusing Tip #123](https://focusingresources.com/2007/08/07/august-7-2007-1/)
+- [Focusing Tip #122](https://focusingresources.com/2007/08/01/july-31-2007-12/)
+- [Focusing Tip #121](https://focusingresources.com/2007/07/24/july-24-2007-3/)
+
+### 0111 to 0120
+- [Focusing Tip #120](https://focusingresources.com/2007/07/18/july-17-2007-12/)
+- [Focusing Tip #119](https://focusingresources.com/2007/07/10/july-10-2007-11/)
+- [Focusing Tip #118](https://focusingresources.com/2007/07/10/july-3-2007-118/)
+- [Focusing Tip #117](https://focusingresources.com/2007/06/26/june-26-2007-11/)
+- [Focusing Tip #116](https://focusingresources.com/2007/06/18/june_19_2007_11/)
+- [Focusing Tip #115](https://focusingresources.com/2007/06/18/june_12_2007_11/)
+- [Focusing Tip #114](https://focusingresources.com/2007/06/18/june_5_2007_114/)
+- [Focusing Tip #113](https://focusingresources.com/2007/06/18/may_29_2007_113/)
+- [Focusing Tip #112](https://focusingresources.com/2007/06/18/may_22_2007_112/)
+- [Focusing Tip #111](https://focusingresources.com/2007/06/18/may_15_2007_111/)
+
+### 0101 to 0110
+- [Focusing Tip #110](https://focusingresources.com/2007/05/24/may_8_2007_110/)
+- [Focusing Tip #109](https://focusingresources.com/2007/05/24/may_1_2007_109/)
+- [Focusing Tip #108](https://focusingresources.com/2007/05/24/april_24_2007_1/)
+- [Focusing Tip #107](https://focusingresources.com/2007/05/24/april_17_2007_1/)
+- [Focusing Tip #106](https://focusingresources.com/2007/05/24/april_10_2007_1/)
+- [Focusing Tip #105](https://focusingresources.com/2007/05/24/april_3_2007_10/)
+- [Focusing Tip #104](https://focusingresources.com/2007/05/24/march_27_2007_1/)
+- [Focusing Tip #103](https://focusingresources.com/2007/05/24/march_20_2007_1/)
+- [Focusing Tip #102](https://focusingresources.com/2007/05/01/march_13_2007_1/)
+- [Focusing Tip #101](https://focusingresources.com/2007/03/07/march_6_2007_10/)
+
 ## 0001 to 0100
 ### 0001 to 0010
 - [Focusing Tip #001 - I decided to create a new weekly email newsletter for that very purpose — for you.](https://focusingresources.com/2005/10/26/march-8-2005/)
