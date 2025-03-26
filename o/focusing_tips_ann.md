@@ -343,6 +343,18 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #652 – “When it’s really bad I resort to binging on sweets.”](https://focusingresources.com/2019/04/10/focusing-tip-652-when-its-really-bad-i-resort-to-binging-on-sweets/)
 - [Focusing Tip #651 – “How can I become more aware of my body?](https://focusingresources.com/2019/04/03/focusing-tip-651-how-can-i-become-more-aware-of-my-body/)
 
+### 0641 to 0650
+- [Focusing Tip #650 – Focusing with lack of attraction](https://focusingresources.com/2019/03/27/focusing-tip-650-focusing-with-lack-of-attraction/)
+- [Focusing Tip #649 – “What is supposed to come after sensing my body?”](https://focusingresources.com/2019/03/20/focusing-tip-649-what-is-supposed-to-come-after-sensing-my-body/)
+- [Focusing Tip #648 – “I’m practicing saying Hello to what I feel but it doesn’t work](https://focusingresources.com/2019/03/13/focusing-tip-648-im-practicing-saying-hello-to-what-i-feel-but-it-doesnt-work/)
+- [Focusing Tip #647 – The problem with letting things go](https://focusingresources.com/2019/03/06/focusing-tip-647-the-problem-with-letting-things-go/)
+- [Focusing Tip #646 – “My stepmother was a rage-aholic”](https://focusingresources.com/2019/02/27/focusing-tip-646-my-stepmother-was-a-rage-aholic/)
+- [Focusing Tip #645 – Focusing with a panic attack](https://focusingresources.com/2019/02/20/focusing-tip-645-focusing-with-a-panic-attack/)
+- [Focusing Tip #644 – Dealing with a big change in lifestyle](https://focusingresources.com/2019/02/13/focusing-tip-644-dealing-with-a-big-change-in-lifestyle/)
+- [Focusing Tip #643 – “I don’t know what this scared feeling needs.”](https://focusingresources.com/2019/02/07/focusing-tip-643-i-dont-know-what-this-scared-feeling-needs/)
+- [Focusing Tip #642 – “I sabotaged my life…”](https://focusingresources.com/2019/01/30/focusing-tip-642-i-sabotaged-my-life/)
+- [Focusing Tip #641 – “I feel my emotions easily but I’m not so connected to my body”](https://focusingresources.com/2019/01/23/focusing-tip-641-i-feel-my-emotions-easily-but-im-not-so-connected-to-my-body/)
+
 ---
 
 ## 0101 to 0200
