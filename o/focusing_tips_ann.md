@@ -1128,5 +1128,5 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #004](https://focusingresources.com/2005/10/26/march_29_2005/)
 - [Focusing Tip #003](https://focusingresources.com/2005/10/26/march_22_2005/)
 - [Focusing Tip #002](https://focusingresources.com/2005/10/26/march_15_2005/)
-- [Focusing Tip #001 - I decided to create a new weekly email newsletter for that very purpose — for you.](https://focusingresources.com/2005/10/26/march-8-2005/)
+- [Focusing Tip #001 – I decided to create a new weekly email newsletter for that very purpose — for you.](https://focusingresources.com/2005/10/26/march-8-2005/)
   - `March 8 2005`
