@@ -391,6 +391,21 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #612 – “I don’t feel big enough to take care of a child part of me”](https://focusingresources.com/2018/06/06/focusing-tip-612-i-dont-feel-big-enough-to-take-care-of-a-child-part-of-me/)
 - [Focusing Tip #611 – What is the effect of childhood emotional wounds on your life today?](https://focusingresources.com/2018/05/30/focusing-tip-childhood-emotional-wounds/)
 
+### 0601 to 0610
+- [Focusing Tip #610 – My anxiety won’t let me do Focusing](https://focusingresources.com/2018/05/24/focusing-tip-my-anxiety-wont-let-me-do-focusing/)
+- [Focusing Tip #609 – What do I do first with my anxious feeling?](https://focusingresources.com/2018/05/16/anxious-feeling-focusing-tip/)
+- [Focusing Tip #608 – Focusing is too much inner attention](https://focusingresources.com/2018/05/09/focusing-is-too-much-inner-attention/)
+- [Focusing Tip #607 – “Focusing is a way of being present to the life within us, and how that life wants to live….”](https://focusingresources.com/2018/05/02/what-is-meant-by-the-term-felt-shift-and-why-is-that-so-special/)
+- [Focusing Tip #606 – Does life-forward energy come from my Self-in-Presence?](https://focusingresources.com/2018/04/26/does-life-forward-energy-come-from-my-self-in-presence/)
+- [Focusing Tip #605 – A part of me feels young, non-verbal, and very stuck](https://focusingresources.com/2018/04/18/a-part-of-me-feels-young-non-verbal-and-very-stuck/)
+- [Focusing Tip #604 – My body sometimes shakes](https://focusingresources.com/2018/04/11/my-body-sometimes-shakes/)
+- [Focusing Tip #603 – Where does violence come from?](https://focusingresources.com/2018/04/04/where-does-violence-come-from/)
+- [Focusing Tip #602 – A part of me doesn’t want to do Focusing](https://focusingresources.com/2018/03/28/a-part-of-me-doesnt-want-to-do-focusing/)
+- [Focusing Tip #601 – I find it frightening to try to sense the dissociating part in my body.](https://focusingresources.com/2018/03/21/i-find-it-frightening-to-try-to-sense-the-dissociating-part-in-my-body/)
+
+## 0501 to 0600
+### 0591 to 0600
+
 <br>
 
 ---
