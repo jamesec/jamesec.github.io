@@ -2,47 +2,47 @@
 
 Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Ann Weiser Cornell](https://focusingresources.com/team/ann-weiser-cornell/)
-- [Ann's Weekly Focusing Tips - Sign up here](https://focusingresources.com/anns-weekly-tips/)
+- [Ann's Weekly Focusing Tips – Sign up here](https://focusingresources.com/anns-weekly-tips/)
 
 ## 0901+
 ### 0921 to 0930
-- Focusing Tip #929 - If your client can't believe they can be Self-in-Presence
-- Focusing Tip #928 - "What part of me is aware of something in me?"
-- Focusing Tip #927 - Protector and Defender parts in Untangling
-- Focusing Tip #926 - "My mind wanders when I try to be patient"
-- Focusing Tip #925 - How can we do Focusing with hate?
-- Focusing Tip #924 - "Is it the felt sense of a part that we listen to?"
-- Focusing Tip #923 - "I'm struggling with these challenging times"
-- Focusing Tip #922 - "Do I do what my parts tell me to do?"
-- Focusing Tip #921 - "Is a felt sense the same as a gut instinct?"
+- Focusing Tip #929 – If your client can't believe they can be Self-in-Presence
+- Focusing Tip #928 – "What part of me is aware of something in me?"
+- Focusing Tip #927 – Protector and Defender parts in Untangling
+- Focusing Tip #926 – "My mind wanders when I try to be patient"
+- Focusing Tip #925 – How can we do Focusing with hate?
+- Focusing Tip #924 – "Is it the felt sense of a part that we listen to?"
+- Focusing Tip #923 – "I'm struggling with these challenging times"
+- Focusing Tip #922 – "Do I do what my parts tell me to do?"
+- Focusing Tip #921 – "Is a felt sense the same as a gut instinct?"
 
 ### 0911 to 0920
-- Focusing Tip #920 - "Do I need to meditate to get ready for Focusing?"
-- Focusing Tip #919 - "Is the feeling trying to control me?"
-- Focusing Tip #918 - "My critical parts have no positive purpose."
-- Focusing Tip #917 - "Something prevents me from using Focusing."
-- Focusing Tip #916 - "My part says I'm not good enough."
-- Focusing Tip #915 - "My felt senses disappear..."
-- Focusing Tip #914 - "My body moves when I'm Focusing, sometimes a lot"
-- Focusing Tip #913 - Can Focusing help me not have to take medication?
-- Focusing Tip #912 - Focusing with feeling stunned and heartbroken
-- Focusing Tip #911 - If you're anxious about the US election (or anything else)
+- Focusing Tip #920 – "Do I need to meditate to get ready for Focusing?"
+- Focusing Tip #919 – "Is the feeling trying to control me?"
+- Focusing Tip #918 – "My critical parts have no positive purpose."
+- Focusing Tip #917 – "Something prevents me from using Focusing."
+- Focusing Tip #916 – "My part says I'm not good enough."
+- Focusing Tip #915 – "My felt senses disappear..."
+- Focusing Tip #914 – "My body moves when I'm Focusing, sometimes a lot"
+- Focusing Tip #913 – Can Focusing help me not have to take medication?
+- Focusing Tip #912 – Focusing with feeling stunned and heartbroken
+- Focusing Tip #911 – If you're anxious about the US election (or anything else)
 
 ### 0901 to 0910
-- Focusing Tip #910 - "Do you say back a negative statement in a positive light?"
-- Focusing Tip #909 - "Do you do Focusing when you're agitated or when you're calm?"
-- Focusing Tip #908 - "For me it felt like words only"
-- Focusing Tip #907 - "I have to get free from my eating disorder."
-- Focusing Tip #906 - Resolving a family conflict about needs
-- Focusing Tip #905 - On waking up with an uncomfortable body feeling
-- Focusing Tip #904 - How to know what to Focus on
-- Focusing Tip #903 - Deciding between two job options
-- Focusing Tip #902 - "It doesn't always feel like just something in me"
-- Focusing Tip #901 - "A lot of my thoughts are rooted in some sort of worry"
+- Focusing Tip #910 – "Do you say back a negative statement in a positive light?"
+- Focusing Tip #909 – "Do you do Focusing when you're agitated or when you're calm?"
+- Focusing Tip #908 – "For me it felt like words only"
+- Focusing Tip #907 – "I have to get free from my eating disorder."
+- Focusing Tip #906 – Resolving a family conflict about needs
+- Focusing Tip #905 – On waking up with an uncomfortable body feeling
+- Focusing Tip #904 – How to know what to Focus on
+- Focusing Tip #903 – Deciding between two job options
+- Focusing Tip #902 – "It doesn't always feel like just something in me"
+- Focusing Tip #901 – "A lot of my thoughts are rooted in some sort of worry"
 
 ## 0801 to 0900
 ### 0891 to 0900
-- Focusing Tip #900 - "I can't keep up when opinions are flying around"
+- Focusing Tip #900 – "I can't keep up when opinions are flying around"
 - [Focusing Tip #899 – "A traumatized part won't let me sleep"](https://focusingresources.com/2024/07/24/focusing-tip-899-a-traumatized-part-wont-let-me-sleep/)
 - [Focusing Tip #898 – Merged with Parts – “I get lost in my negative pain”](https://focusingresources.com/2024/07/17/focusing-tip-898-merged-with-parts-i-get-lost-in-my-negative-pain/)
 - [Focusing Tip #897 – What about the over-permissive inner voice?](https://focusingresources.com/2024/07/10/focusing-tip-897-what-about-the-over-permissive-inner-voice/)
@@ -86,8 +86,8 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #865 – Focusing + Intrusive Thoughts – “When I try to do Focusing alone my mind wanders”](https://focusingresources.com/2023/11/01/focusing-tip-865-focusing-intrusive-thoughts-when-i-try-to-do-focusing-alone-my-mind-wanders/)
 - [Focusing Tip #864 – Physical Pain and Strong Emotions – “I’m in pain and my emotions are overwhelming”](https://focusingresources.com/2023/10/25/focusing-tip-864-physical-pain-and-strong-emotions-im-in-pain-and-my-emotions-are-overwhelming/)
 - [Focusing Tip #863 – Focusing Process – “Why does having a Focusing partner help so much?”](https://focusingresources.com/2023/10/18/focusing-tip-863-focusing-process-why-does-having-a-focusing-partner-help-so-much/)
-- [Focusing Tip #862 - "How do we Focus differently with grieving?"](https://focusingresources.com/2023/10/11/focusing-tip-862-grief-and-parts-how-do-we-focus-differently-with-grieving/)
-- [Focusing Tip #861 - "What if I start crying in front of this other person?"](https://focusingresources.com/2023/10/04/focusing-tip-861-strong-feelings-what-if-i-start-crying-in-front-of-this-other-person/)
+- [Focusing Tip #862 – "How do we Focus differently with grieving?"](https://focusingresources.com/2023/10/11/focusing-tip-862-grief-and-parts-how-do-we-focus-differently-with-grieving/)
+- [Focusing Tip #861 – "What if I start crying in front of this other person?"](https://focusingresources.com/2023/10/04/focusing-tip-861-strong-feelings-what-if-i-start-crying-in-front-of-this-other-person/)
 
 ### 0851 to 0860
 - [Focusing Tip #860 – Focusing and The Body – “I’m more in touch with my feelings than with my body”](https://focusingresources.com/2023/09/27/focusing-tip-860-focusing-and-the-body-im-more-in-touch-with-my-feelings-than-with-my-body/)
@@ -122,7 +122,7 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #835 – “I am the only one in my family who listens…”](https://focusingresources.com/2023/03/15/focusing-tip-835-i-am-the-only-one-in-my-family-who-listens/)
 - [Focusing Tip #834 – “I have a constant background noise of tension”](https://focusingresources.com/2023/03/08/focusing-tip-834-i-have-a-constant-background-noise-of-tension/)
 - [Focusing Tip #833 – “I struggle to accept the craziness of life”](https://focusingresources.com/2023/03/01/focusing-tip-833-i-struggle-to-accept-the-craziness-of-life/)
-- [Focusing Tip #832 - “I can't find any felt sensations at all”](https://focusingresources.com/2023/02/22/focusing-tip-832-i-cant-find-any-felt-sensations-at-all/)
+- [Focusing Tip #832 – “I can't find any felt sensations at all”](https://focusingresources.com/2023/02/22/focusing-tip-832-i-cant-find-any-felt-sensations-at-all/)
 - [Focusing Tip #831 – “I’m not feeling compassion toward myself”](https://focusingresources.com/2023/02/15/focusing-tip-831-im-not-feeling-compassion-toward-myself/)
 
 ### 0821 to 0830
@@ -889,19 +889,19 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 
 ## 0101 to 0200
 ### 0191 to 0200
-- [Focusing Tip #200 - Focusing lets us go beyond assumptions and cultural norms](https://focusingresources.com/2009/11/21/october-6-2009-tip-200/)
-- [Focusing Tip #199 - "There is a sense of something trying to invade my space…"](https://focusingresources.com/2009/11/11/september-22-2009-tip-199/)
-- [Focusing Tip #198 - "How do you do Focusing when you don't want to do Focusing?"](https://focusingresources.com/2009/10/17/september-8-2009-tip-198/)
-- [Focusing Tip #197 - "Carrying forward" is when what happens is just what was needed](https://focusingresources.com/2009/09/23/august-18-2009-tip-197/)
-- [Focusing Tip #196 - "It seems that Focusing language is a way to disidentify with the form…"](https://focusingresources.com/2009/09/16/july-28-2009-tip-196/)
-- [Focusing Tip #195 - "It takes a while to get there and then it's time to stop…"](https://focusingresources.com/2009/09/06/july-14-2009-tip-195/)
-- [Focusing Tip #194 - "I plan to start with a big issue but something else comes up…"](https://focusingresources.com/2009/08/28/june-30-2009-tip-194/)
-- [Focusing Tip #193 - The Power of Contact](https://focusingresources.com/2009/08/16/june-16-2009-tip-193/)
-- [Focusing Tip #192 - "What if I don't want to say everything to my Companion?"](https://focusingresources.com/2009/08/03/june-2-2009-tip-192/)
-- [Focusing Tip #191 - What about saying "want" instead of "should"?](https://focusingresources.com/2009/07/28/may-19-2009-tip-191/)
+- [Focusing Tip #200 – Focusing lets us go beyond assumptions and cultural norms](https://focusingresources.com/2009/11/21/october-6-2009-tip-200/)
+- [Focusing Tip #199 – "There is a sense of something trying to invade my space…"](https://focusingresources.com/2009/11/11/september-22-2009-tip-199/)
+- [Focusing Tip #198 – "How do you do Focusing when you don't want to do Focusing?"](https://focusingresources.com/2009/10/17/september-8-2009-tip-198/)
+- [Focusing Tip #197 – "Carrying forward" is when what happens is just what was needed](https://focusingresources.com/2009/09/23/august-18-2009-tip-197/)
+- [Focusing Tip #196 – "It seems that Focusing language is a way to disidentify with the form…"](https://focusingresources.com/2009/09/16/july-28-2009-tip-196/)
+- [Focusing Tip #195 – "It takes a while to get there and then it's time to stop…"](https://focusingresources.com/2009/09/06/july-14-2009-tip-195/)
+- [Focusing Tip #194 – "I plan to start with a big issue but something else comes up…"](https://focusingresources.com/2009/08/28/june-30-2009-tip-194/)
+- [Focusing Tip #193 – The Power of Contact](https://focusingresources.com/2009/08/16/june-16-2009-tip-193/)
+- [Focusing Tip #192 – "What if I don't want to say everything to my Companion?"](https://focusingresources.com/2009/08/03/june-2-2009-tip-192/)
+- [Focusing Tip #191 – What about saying "want" instead of "should"?](https://focusingresources.com/2009/07/28/may-19-2009-tip-191/)
 
 ### 0181 to 0190
-- [Focusing Tip #190 - The "More" to Anger](https://focusingresources.com/2009/07/15/may-5-2009-tip-190/)
+- [Focusing Tip #190 – The "More" to Anger](https://focusingresources.com/2009/07/15/may-5-2009-tip-190/)
 - [Focusing Tip #189 – Wouldn't the Focusing Approach to Cancer Be a Gentle One?](https://focusingresources.com/2009/07/01/april-21-2009-tip-189/)
 - [Focusing Tip #188 – Is There a Best Posture for Focusing?](https://focusingresources.com/2009/06/22/april-7-2009-tip-188/)
 - [Focusing Tip #187 – What about negotiating with negative beliefs?](https://focusingresources.com/2009/06/10/march-24-2009-187/)
