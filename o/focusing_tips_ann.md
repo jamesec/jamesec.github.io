@@ -367,6 +367,18 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #632 – “I keep on gaining weight”](https://focusingresources.com/2018/11/07/focusing-tip-632-i-keep-on-gaining-weight/)
 - [Focusing Tip #631 – “My parts don’t answer me.”](https://focusingresources.com/2018/10/31/focusing-tip-631-my-parts-dont-answer-me/)
 
+### 0621 to 0630
+- [Focusing Tip #630 – How can Focusing help with constant physical pain?](https://focusingresources.com/2018/10/24/focusing-tip-630-how-can-focusing-help-with-constant-physical-pain/)
+- [Focusing Tip #629 – “Just the idea of coming to a decision scares me.”](https://focusingresources.com/2018/10/17/focusing-tip-629-just-the-idea-of-coming-to-a-decision-scares-me/)
+- [Focusing Tip #628 – How much time does it take to feel some difference from Focusing?](https://focusingresources.com/2018/10/10/focusing-tip-628-how-much-time-does-it-take-to-feel-some-difference-from-focusing/)
+- [Focusing Tip #627 – When your trauma gets triggered by current events](https://focusingresources.com/2018/10/03/focusing-tip-627-when-your-trauma-gets-triggered-by-current-events/)
+- [Focusing Tip #626 – When your inner compass doesn’t work very well](https://focusingresources.com/2018/09/27/focusing-tip-626-when-your-inner-compass-doesnt-work-very-well/)
+- [Focusing Tip #625 – The timid and shy parts of you](https://focusingresources.com/2018/09/19/focusing-tip-625-the-timid-and-shy-parts-of-you/)
+- [Focusing Tip #624 – “Can you ‘overtrain’ Focusing? Do too much?”](https://focusingresources.com/2018/09/12/focusing-tip-624-can-you-overtrain-focusing-do-too-much/)
+- [Focusing Tip #623 – Procrastination and negative beliefs](https://focusingresources.com/2018/09/05/focusing-tip-623-procrastination-and-negative-beliefs/)
+- [Focusing Tip #622: What’s alive in depression](https://focusingresources.com/2018/08/29/focusing-tip-622-whats-alive-in-depression/)
+- [Focusing Tip #621: What IS Self-in-Presence, anyway?](https://focusingresources.com/2018/08/22/focusing-tip-621-what-is-self-in-presence-anyway/)
+
 <br>
 
 ---
