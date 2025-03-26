@@ -379,6 +379,18 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #622: What’s alive in depression](https://focusingresources.com/2018/08/29/focusing-tip-622-whats-alive-in-depression/)
 - [Focusing Tip #621: What IS Self-in-Presence, anyway?](https://focusingresources.com/2018/08/22/focusing-tip-621-what-is-self-in-presence-anyway/)
 
+### 0611 to 0620
+- [Focusing Tip #620 – How to cultivate Self-in-Presence when you don’t feel like it](https://focusingresources.com/2018/08/15/focusing-tip-620-how-to-cultivate-self-in-presence-when-you-dont-feel-like-it/)
+- [Focusing Tip #619 – When you feel so ashamed you just want to disappear](https://focusingresources.com/2018/08/08/focusing-tip-619-when-you-feel-so-ashamed-you-just-want-to-disappear/)
+- [Focusing Tip #618 – Focusing with a very intense feeling of suffocation and anger](https://focusingresources.com/2018/08/01/focusing-tip-618-focusing-with-a-very-intense-feeling-of-suffocation-and-anger/)
+- [Focusing Tip #617 – “Can I do Focusing while I’m in shock?”](https://focusingresources.com/2018/07/18/focusing-tip-617-can-i-do-focusing-while-im-in-shock/)
+- [Focusing Tip #616 – “I’m wondering if I have a block that I can’t detect”](https://focusingresources.com/2018/07/11/block-that-i-cant-detect/)
+- [Focusing Tip #615 – “I feel difficult emotions, but not a felt sense…”](https://focusingresources.com/2018/06/27/focusing-tip-615-i-feel-difficult-emotions-but-not-a-felt-sense/)
+- [Focusing Tip #614 – “Can Focusing bring actual changes in the external world, as opposed to just making me feel better about my life?”](https://focusingresources.com/2018/06/20/focusing-tip-614-can-focusing-bring-actual-changes-in-the-external-world-as-opposed-to-just-making-me-feel-better-about-my-life/)
+- [Focusing Tip #613 – “If I keep thinking about negative outcomes and expectations, I feel bad in my body…”](https://focusingresources.com/2018/06/13/focusing-tip-613-if-i-keep-thinking-about-negative-outcomes-and-expectations-i-feel-bad-in-my-body/)
+- [Focusing Tip #612 – “I don’t feel big enough to take care of a child part of me”](https://focusingresources.com/2018/06/06/focusing-tip-612-i-dont-feel-big-enough-to-take-care-of-a-child-part-of-me/)
+- [Focusing Tip #611 – What is the effect of childhood emotional wounds on your life today?](https://focusingresources.com/2018/05/30/focusing-tip-childhood-emotional-wounds/)
+
 <br>
 
 ---
