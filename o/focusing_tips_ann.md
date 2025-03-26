@@ -318,3 +318,23 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #673 – “I tend to be seduced by this part that loves sleeping and eating and not exercising.”](https://focusingresources.com/2019/09/18/focusing-tip-673-i-tend-to-be-seduced-by-this-part-that-loves-sleeping-and-eating-and-not-exercising/)
 - [Focusing Tip #672 – “I am so tired of the war inside”](https://focusingresources.com/2019/09/11/focusing-tip-672-i-am-so-tired-of-the-war-inside/)
 - [Focusing Tip #671 – “I feel tired all the time”](https://focusingresources.com/2019/09/04/focusing-tip-671-i-feel-tired-all-the-time/)
+
+---
+
+## 0101 to 0200
+### 0191 to 0200
+- [Focusing Tip #200 - Focusing lets us go beyond assumptions and cultural norms](https://focusingresources.com/2009/11/21/october-6-2009-tip-200/)
+- [Focusing Tip #199 - "There is a sense of something trying to invade my space…"](https://focusingresources.com/2009/11/11/september-22-2009-tip-199/)
+- [Focusing Tip #198 - "How do you do Focusing when you don't want to do Focusing?"](https://focusingresources.com/2009/10/17/september-8-2009-tip-198/)
+- [Focusing Tip #197 - "Carrying forward" is when what happens is just what was needed](https://focusingresources.com/2009/09/23/august-18-2009-tip-197/)
+- [Focusing Tip #196 - "It seems that Focusing language is a way to disidentify with the form…"](https://focusingresources.com/2009/09/16/july-28-2009-tip-196/)
+- [Focusing Tip #195 - "It takes a while to get there and then it's time to stop…"](https://focusingresources.com/2009/09/06/july-14-2009-tip-195/)
+- [Focusing Tip #194 - "I plan to start with a big issue but something else comes up…"](https://focusingresources.com/2009/08/28/june-30-2009-tip-194/)
+- [Focusing Tip #193 - The Power of Contact](https://focusingresources.com/2009/08/16/june-16-2009-tip-193/)
+- [Focusing Tip #192 - "What if I don't want to say everything to my Companion?"](https://focusingresources.com/2009/08/03/june-2-2009-tip-192/)
+- [Focusing Tip #191 - What about saying "want" instead of "should"?](https://focusingresources.com/2009/07/28/may-19-2009-tip-191/)
+
+### 0181 to 0190
+- [Focusing Tip #190 - The "More" to Anger](https://focusingresources.com/2009/07/15/may-5-2009-tip-190/)
+- [Focusing Tip #189 – Wouldn't the Focusing Approach to Cancer Be a Gentle One?](https://focusingresources.com/2009/07/01/april-21-2009-tip-189/)
+- [Focusing Tip #188 – Is There a Best Posture for Focusing?](https://focusingresources.com/2009/06/22/april-7-2009-tip-188/)
