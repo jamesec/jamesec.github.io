@@ -43,9 +43,9 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 ## 0801 to 0900
 ### 0891 to 0900
 - Focusing Tip #900 - "I can't keep up when opinions are flying around"
-- [Focusing Tip #899 - "A traumatized part won't let me sleep"](https://focusingresources.com/2024/07/24/focusing-tip-899-a-traumatized-part-wont-let-me-sleep/)
+- [Focusing Tip #899 – "A traumatized part won't let me sleep"](https://focusingresources.com/2024/07/24/focusing-tip-899-a-traumatized-part-wont-let-me-sleep/)
 - [Focusing Tip #898 – Merged with Parts – “I get lost in my negative pain”](https://focusingresources.com/2024/07/17/focusing-tip-898-merged-with-parts-i-get-lost-in-my-negative-pain/)
-- [Focusing Tip #897 - What about the over-permissive inner voice?](https://focusingresources.com/2024/07/10/focusing-tip-897-what-about-the-over-permissive-inner-voice/)
+- [Focusing Tip #897 – What about the over-permissive inner voice?](https://focusingresources.com/2024/07/10/focusing-tip-897-what-about-the-over-permissive-inner-voice/)
 - [Focusing Tip #896 – What if I want to stop?](https://focusingresources.com/2024/06/26/focusing-tip-896-what-if-i-want-to-stop/)
 - [Focusing Tip #895 – Is it safe to do Focusing?](https://focusingresources.com/2024/06/19/focusing-tip-895-is-it-safe-to-do-focusing/)
 - [Focusing Tip #894 – Can you weep as Self-in-Presence?](https://focusingresources.com/2024/06/12/focusing-tip-894-can-you-weep-as-self-in-presence/)
