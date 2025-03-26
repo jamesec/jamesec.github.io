@@ -452,6 +452,66 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #562 – “Focusing doesn’t work because all I get is fog.”](https://focusingresources.com/2017/05/31/focusing-doesnt-work-because-all-i-get-is-fog/)
 - [Focusing Tip #561 – A part of me is mean and emotionally abusive to me.](https://focusingresources.com/2017/05/24/a-part-of-me-is-mean-and-emotionally-abusive-to-me/)
 
+### 0551 to 0560
+- [Focusing Tip #560 – Are there negative thoughts and feelings?](https://focusingresources.com/2017/05/17/are-there-negative-thoughts-and-feelings/)
+- [Focusing Tip #559 – How do we work with ‘negative’ feelings without strengthening negative neural connections?](https://focusingresources.com/2017/05/10/how-do-we-work-with-negative-feelings-without-strengthening-negative-neural-connections/)
+- [Focusing Tip #558 – The Art of Focusing with Grief](https://focusingresources.com/2017/05/03/the-art-of-focusing-with-grief/)
+- [Focusing Tip #557 – Do you feel stuck when you don’t know what to do with angry feelings?](https://focusingresources.com/2017/04/26/do-you-feel-stuck-when-you-dont-know-what-to-do-with-angry-feelings/)
+- [Focusing Tip #556 – Do your therapy or coaching clients say they feel nothing?](https://focusingresources.com/2017/04/19/clients-say-they-feel-nothing/)
+- [Focusing Tip #555 – What can you do when feelings of anxiety are compounded by feelings of hating to feel that way?](https://focusingresources.com/2017/04/12/anxiety-compounded-by-hating-to-feel-that-way/)
+- [Focusing Tip #554 – Does it work best to speak TO the various inner parts of you, or ABOUT them?](https://focusingresources.com/2017/04/06/does-it-work-best-to-speak-to-the-various-inner-parts-of-you-or-about-them/)
+- [Focusing Tip #553 – What is the trouble with trying to understand why we feel how we feel?](https://focusingresources.com/2017/03/30/what-is-the-trouble-with-trying-to-understand-why-we-feel-how-we-feel/)
+- [Focusing Tip #552 – “Could I really stop seeing myself negatively?”](https://focusingresources.com/2017/03/28/could-i-really-stop-seeing-myself-negatively/)
+- [Focusing Tip #551 – “I am wondering if doing too much Focusing will make those parts resistant to change.”](https://focusingresources.com/2017/03/15/i-am-wondering-if-doing-too-much-focusing-will-make-those-parts-resistant-to-change/)
+
+### 0541 to 0550
+- [Focusing Tip #550](https://focusingresources.com/2017/03/08/get-rid-of-outside-beliefs/)
+- [Focusing Tip #549](https://focusingresources.com/2017/03/01/can-our-felt-senses-keep-us-from-making-mistakes/)
+- [Focusing Tip #548](https://focusingresources.com/2017/02/23/person-fix-problem-doesnt-address-addictive-behavior/)
+- [Focusing Tip #547](https://focusingresources.com/2017/02/15/reach-difficult-places/)
+- [Focusing Tip #546](https://focusingresources.com/2017/02/08/define-acceptance/)
+- [Focusing Tip #545](https://focusingresources.com/2017/02/01/youve-got-part-insists-tense-vigilant-wont-hurt-can/)
+- [Focusing Tip #544](https://focusingresources.com/2017/01/26/using-focusing-to-express-self/)
+- [Focusing Tip #543](https://focusingresources.com/2017/01/18/soon-recognizing-trigger-sadness-depression-best-time-healing-process-like-focusing/)
+- [Focusing Tip #542](https://focusingresources.com/2017/01/12/worried-focusing-youll-distance-emotions-life/)
+- [Focusing Tip #541](https://focusingresources.com/2017/01/05/wondering-work-toward-goals-without-becoming-tyrant/)
+
+### 0531 to 0540
+- [Focusing Tip #540](https://focusingresources.com/2016/12/22/ever-feel-like-family-trapped-web-unspoken-messages/)
+- [Focusing Tip #539](https://focusingresources.com/2016/12/14/struggle-feelings-like-anxiety-resistance-dont-even-notice-happening/)
+- [Focusing Tip #538](https://focusingresources.com/2016/12/07/get-dead-end-trying-bring-change-old-repetitive-traumas/)
+- [Focusing Tip #537](https://focusingresources.com/2016/11/30/set-goal-hasnt-happened-yet-keep-positive/)
+- [Focusing Tip #536](https://focusingresources.com/2016/11/23/focusing-and-goal-setting/)
+- [Focusing Tip #535](https://focusingresources.com/2016/11/16/often-get-days-feel-sad-even-overwhelmed-accompanied-lot-tears/)
+- [Focusing Tip #534](https://focusingresources.com/2016/11/09/finding-potential-possibility/)
+- [Focusing Tip #533](https://focusingresources.com/2016/11/02/possible-start-feel-forbidden-anger/)
+- [Focusing Tip #532](https://focusingresources.com/2016/10/26/old-memories-triggered/)
+- [Focusing Tip #531](https://focusingresources.com/2016/10/19/is-focusing-something-only-a-few-can-do/)
+
+### 0521 to 0530
+- [Focusing Tip #530](https://focusingresources.com/2016/10/12/focusing-for-conflict-resolution/)
+- [Focusing Tip #529](https://focusingresources.com/2016/10/06/too-stressed-for-healthy-activity/)
+- [Focusing Tip #528](https://focusingresources.com/2016/09/28/what-if-what-i-want-is-something-bad/)
+- [Focusing Tip #527](https://focusingresources.com/2016/09/21/how-do-i-come-back-to-something/)
+- [Focusing Tip #526](https://focusingresources.com/2016/09/14/starting-feel-overwhelmed-tasks/)
+- [Focusing Tip #525](https://focusingresources.com/2016/09/07/bracing-against-pain-makes-it-worse/)
+- [Focusing Tip #524](https://focusingresources.com/2016/08/31/going-down-dead-end-street/)
+- [Focusing Tip #523](https://focusingresources.com/2016/08/25/can-big-emotions-get-trapped-build/)
+- [Focusing Tip #522](https://focusingresources.com/2016/08/17/only-feel-body-sensations/)
+- [Focusing Tip #521](https://focusingresources.com/2016/08/10/remember-what-happened-focusing-session/)
+
+### 0511 to 0520
+- [Focusing Tip #520](https://focusingresources.com/2016/07/27/17048/)
+- [Focusing Tip #519](https://focusingresources.com/2016/07/20/heavy-dull-feeling-takes-over/)
+- [Focusing Tip #518](https://focusingresources.com/2016/07/13/unbearably-sad-about-whats-going-on/)
+- [Focusing Tip #517](https://focusingresources.com/2016/07/06/inner-critic-uses-mothers-voice/)
+- [Focusing Tip #516](https://focusingresources.com/2016/06/28/something-feels-tranquil-calm-right/)
+- [Focusing Tip #515](https://focusingresources.com/2016/06/22/recognizing-forward-steps-already-happening/)
+- [Focusing Tip #514](https://focusingresources.com/2016/06/15/the-feelings-are-always-hurt-anger-grief-hopelessness/)
+- [Focusing Tip #513 – “My parents interpreted a good majority of what I had to tell them as ‘complaining’.”](https://focusingresources.com/2016/06/08/my-parents-interpreted-a-good-majority-of-what-i-had-to-tell-them-as-complaining/)
+- [Focusing Tip #512 – “Impulsive in actions and words, arrogant, touchy, boastful… Can anything be done to influence such people?”](https://focusingresources.com/2016/06/01/impulsive-in-actions-and-words-arrogant-touchy-boastful-can-anything-be-done-to-influence-such-people/)
+- [Focusing Tip #511](https://focusingresources.com/2016/05/25/what-the-body-wants-for-you/)
+
 <br>
 
 ---
