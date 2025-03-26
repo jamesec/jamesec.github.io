@@ -308,7 +308,7 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #681 – “I get stuck in feeling the pain of the part.”](https://focusingresources.com/2019/11/20/focusing-tip-681-i-get-stuck-in-feeling-the-pain-of-the-part/)
 
 ### 0671 to 0680
-- [Fousing Tip #680 – “When Focusing, sometimes I just find a lot of pain.”](https://focusingresources.com/2019/11/06/fousing-tip-680-when-focusing-sometimes-i-just-find-a-lot-of-pain/)
+- [Focusing Tip #680 – “When Focusing, sometimes I just find a lot of pain.”](https://focusingresources.com/2019/11/06/fousing-tip-680-when-focusing-sometimes-i-just-find-a-lot-of-pain/)
 - [Focusing Tip #679 – “I’ve wasted my life so far, all that energy and nothing to show for it.”](https://focusingresources.com/2019/10/30/focusing-tip-679-ive-wasted-my-life-so-far-all-that-energy-and-nothing-to-show-for-it/)
 - [Focusing Tip #678 – “I feel trapped and desperate](https://focusingresources.com/2019/10/23/focusing-tip-678-i-feel-trapped-and-desperate/)
 - [Focusing Tip #677 – “Parts of me are truly unlovable.”](https://focusingresources.com/2019/10/16/focusing-tip-677-parts-of-me-are-truly-unlovable/)
