@@ -6,6 +6,7 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 
 ## 0901+
 ### 0921 to 0930
+- Focusing Tip #929 - If your client can't believe they can be Self-in-Presence
 - Focusing Tip #928 - "What part of me is aware of something in me?"
 - Focusing Tip #927 - Protector and Defender parts in Untangling
 - Focusing Tip #926 - "My mind wanders when I try to be patient"
