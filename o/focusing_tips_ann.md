@@ -350,6 +350,13 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #190 - The "More" to Anger](https://focusingresources.com/2009/07/15/may-5-2009-tip-190/)
 - [Focusing Tip #189 – Wouldn't the Focusing Approach to Cancer Be a Gentle One?](https://focusingresources.com/2009/07/01/april-21-2009-tip-189/)
 - [Focusing Tip #188 – Is There a Best Posture for Focusing?](https://focusingresources.com/2009/06/22/april-7-2009-tip-188/)
+- [Focusing Tip #187 – What about negotiating with negative beliefs?](https://focusingresources.com/2009/06/10/march-24-2009-187/)
+- [Focusing Tip #186 – Is Focusing "self-help" as in "You're doing too much self-help"?](https://focusingresources.com/2009/05/11/march-10-2009-186/)
+- [Focusing Tip #185 – What makes it safe to do Focusing with a partner?](https://focusingresources.com/2009/04/06/february-24-2009-185/)
+- [Focusing Tip #184 – When the sense of relief doesn’t last](https://focusingresources.com/2009/03/12/february-10-2009-184/)
+- [Focusing Tip #183 – Why I don't ask questions](https://focusingresources.com/2009/01/28/january-27-2009-183/)
+- [Focusing Tip #182 – What about "legitimate worries?"](https://focusingresources.com/2009/01/28/january-13-2009-182/)
+- [Focusing Tip #181 – Are You Worried?](https://focusingresources.com/2009/01/28/december-30-2008-181/)
 
 ## 0001 to 0100
 ### 0001 to 0010
