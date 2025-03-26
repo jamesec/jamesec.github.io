@@ -512,6 +512,115 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #512 – “Impulsive in actions and words, arrogant, touchy, boastful… Can anything be done to influence such people?”](https://focusingresources.com/2016/06/01/impulsive-in-actions-and-words-arrogant-touchy-boastful-can-anything-be-done-to-influence-such-people/)
 - [Focusing Tip #511](https://focusingresources.com/2016/05/25/what-the-body-wants-for-you/)
 
+### 0501 to 0510
+- [Focusing Tip #510](https://focusingresources.com/2016/05/18/people-violate-boundaries/)
+- [Focusing Tip #509](https://focusingresources.com/2016/05/11/dont-like-like-showing-off/)
+- [Focusing Tip #508](https://focusingresources.com/2016/05/04/what-can-i-do-dont-feel-heard/)
+- [Focusing Tip #507](https://focusingresources.com/2016/04/27/tell-people-focusing/)
+- [Focusing Tip #506](https://focusingresources.com/2016/04/20/change-possible-chronic-illness/)
+- [Focusing Tip #505](https://focusingresources.com/2016/04/13/what-if-im-sure-i-cant-change/)
+- [Focusing Tip #504](https://focusingresources.com/2016/04/06/life-forward-energy/)
+- [Focusing Tip #503](https://focusingresources.com/2016/03/30/unconscious-material-focusing/)
+- [Focusing Tip #502](https://focusingresources.com/2016/03/23/responding-to-gestures/)
+- [Focusing Tip #501](https://focusingresources.com/2016/03/17/when-focusing-client-is-silent/)
+
+## 0401 to 0500
+### 0491 to 0400
+- [Focusing Tip #500](https://focusingresources.com/2016/03/09/focusing-gift-sensitive-people/)
+- [Focusing Tip #499](https://focusingresources.com/2016/03/02/i-hate-myself/)
+- [Focusing Tip #498](https://focusingresources.com/2016/02/24/my-sister-treats-me-badly/)
+- [Focusing Tip #497](https://focusingresources.com/2016/02/17/16376/)
+- [Focusing Tip #496](https://focusingresources.com/2016/02/10/focusing-when-mentally-foggy/)
+- [Focusing Tip #495](https://focusingresources.com/2016/02/03/blocks-addiction-depression-and-longing/)
+- [Focusing Tip #494](https://focusingresources.com/2016/01/27/wanting-to-die/)
+- [Focusing Tip #493](https://focusingresources.com/2016/01/20/i-found-it-super-difficult-to-do-focusing-on-my-own/)
+- [Focusing Tip #492](https://focusingresources.com/2016/01/13/is-not-wanting-to-die-something-that-can-resolved/)
+- [Focusing Tip #491](https://focusingresources.com/2016/01/06/a-tangle-is-a-different-kind-of-problem/)
+
+### 0481 to 0490
+- [Focusing Tip #490](https://focusingresources.com/2015/12/16/a-focusing-take-on-forgiveness/)
+- [Focusing Tip #489](https://focusingresources.com/2015/12/09/the-trouble-with-asking-what-it-needs/)
+- [Focusing Tip #488](https://focusingresources.com/2015/12/03/using-felt-sense-choose-gift/)
+- [Focusing Tip #487](https://focusingresources.com/2015/11/18/i-write-compulsively-and-cant-stop/)
+- [Focusing Tip #486](https://focusingresources.com/2015/11/11/i-am-good-at-my-job-but-i-feel-incompetent/)
+- [Focusing Tip #485](https://focusingresources.com/2015/11/10/can-i-do-focusing-with-a-feeling-of-nausea/)
+- [Focusing Tip #484](https://focusingresources.com/2015/10/28/i-say-hello-to-the-depressed-part-but-it-refuses-to-talk-to-me/)
+- [Focusing Tip #483](https://focusingresources.com/2015/10/21/how-do-i-know-which-of-my-feelings-to-trust/)
+- [Focusing Tip #482](https://focusingresources.com/2015/10/16/there-is-no-comfort-from-saying-hello/)
+- [Focusing Tip #481](https://focusingresources.com/2015/09/30/sometimes-theres-just-no-relief/)
+
+### 0471 to 0480
+- [Focusing Tip #480](https://focusingresources.com/2015/09/23/my-creative-process-and-my-need-to-work-are-at-odds/)
+- [Focusing Tip #479](https://focusingresources.com/2015/09/16/i-got-a-traffic-ticket-and-it-ruined-my-whole-week/)
+- [Focusing Tip #478](https://focusingresources.com/2015/09/02/what-if-i-feel-guilty-for-feeling-good/)
+- [Focusing Tip #477](https://focusingresources.com/2015/08/26/how-do-i-deal-with-nasty-co-workers/)
+- [Focusing Tip #476](https://focusingresources.com/2015/08/19/a-part-of-me-is-continually-alert-to-danger/)
+- [Focusing Tip #475](https://focusingresources.com/2015/08/13/how-do-i-know-what-to-accept/)
+- [Focusing Tip #474](https://focusingresources.com/2015/08/05/how-to-release-a-block-to-receiving-inner-guidance/)
+- [Focusing Tip #473](https://focusingresources.com/2015/07/22/do-i-have-to-complete-a-focusing-process-in-one-session/)
+- [Focusing Tip #472](https://focusingresources.com/2015/07/15/ten-minutes-after-a-shift-the-same-feeling-comes-back/)
+- [Focusing Tip #471](https://focusingresources.com/2015/07/01/the-meaning-in-pain/)
+
+### 0461 to 0470
+- [Focusing Tip 0470](https://focusingresources.com/2015/06/24/am-i-just-making-this-up/)
+- [Focusing Tip 0469](https://focusingresources.com/2015/05/27/focusing-with-the-issue-of-nail-biting/)
+- [Focusing Tip 0468](https://focusingresources.com/2015/04/22/how-does-vulnerability-relate-to-intimacy/)
+- [Focusing Tip 0467](https://focusingresources.com/2015/04/16/shouldnt-my-focusing-be-relevant-to-my-life/)
+- [Focusing Tip 0466](https://focusingresources.com/2015/04/08/could-a-person-ever-do-too-much-focusing/)
+- [Focusing Tip 0465](https://focusingresources.com/2015/04/01/am-i-blocking-myself-from-going-deeper-by-crying/)
+- [Focusing Tip 0464](https://focusingresources.com/2015/03/25/my-body-feelings-tend-to-come-in-my-head/)
+- [Focusing Tip 0463](https://focusingresources.com/2015/03/18/i-cant-put-a-gentle-hand-on-my-body/)
+- [Focusing Tip 0462](https://focusingresources.com/2015/03/11/i-have-a-terrible-habit-of-comparing-myself-to-others/)
+- [Focusing Tip 0461](https://focusingresources.com/2015/03/04/feel-lost-life-like-leaf-blowing-wind/)
+
+### 0451 to 0460
+- [Focusing Tip #460](https://focusingresources.com/2015/02/25/whats-great-hearing-back-said/)
+- [Focusing Tip #459](https://focusingresources.com/2015/02/18/mothers-voice-inner-critic/)
+- [Focusing Tip #458](https://focusingresources.com/2015/02/11/focusing-tip-458-when-focusing-which-part-is-the-leader/)
+- [Focusing Tip #457](https://focusingresources.com/2015/02/04/focusing-tip-457-how-did-that-make-you-feel/)
+- [Focusing Tip #456](https://focusingresources.com/2015/01/29/focusing-tip-456-how-do-i-do-focusing-with-my-itching/)
+- [Focusing Tip #455](https://focusingresources.com/2015/01/21/focusing-tip-455-do-i-have-to-know-how-i-feel-to-do-focusing/)
+- [Focusing Tip #454](https://focusingresources.com/2015/01/14/focusing-tip-454-is-the-real-me-always-present/)
+- [Focusing Tip #453](https://focusingresources.com/2015/01/07/focusing-tip-453-what-happened-to-my-felt-shifts/)
+- [Focusing Tip #452](https://focusingresources.com/2014/12/17/focusing-tip-452-the-big-confusion-at-the-heart-of-weight-problems/)
+- [Focusing Tip #451](https://focusingresources.com/2014/12/10/focusing-tip-451-a-felt-sense-helps-find-just-the-right-gift/)
+
+### 0441 to 0450
+- [Focusing Tip #450](https://focusingresources.com/2014/12/03/focusing-tip-450-when-is-a-distraction-not-a-distraction/)
+- [Focusing Tip #449](https://focusingresources.com/2014/11/26/focusing-tip-449-when-we-suffer-for-other-peoples-suffering/)
+- [Focusing Tip #448](https://focusingresources.com/2014/11/20/focusing-tip-448-maybe-the-label-obsession-comes-from-another-part/)
+- [Focusing Tip #447](https://focusingresources.com/2014/11/12/focusing-tip-447-focusing-obsession/)
+- [Focusing Tip #446](https://focusingresources.com/2014/11/05/focusing-tip-446-can-bargain-parts/)
+- [Focusing Tip #445](https://focusingresources.com/2014/10/22/focusing-tip-445-specific-way-meditation-helps-focusing/)
+- [Focusing Tip #444](https://focusingresources.com/2014/10/15/focusing-tip-444-another-big-difference-focusing-meditation/)
+- [Focusing Tip #443](https://focusingresources.com/2014/10/09/focusing-tip-443-mindfulness-focusing/)
+- [Focusing Tip #442](https://focusingresources.com/2014/10/01/focusing-tip-442-mindfulness-kind-avoidance/)
+- [Focusing Tip #441](https://focusingresources.com/2014/09/24/focusing-tip-441-feelings-thoughts-listener/)
+
+### 0431 to 0440
+- [Focusing Tip #440](https://focusingresources.com/2014/09/17/focusing-tip-440-creativity-soul/)
+- [Focusing Tip #439](https://focusingresources.com/2014/09/10/focusing-tip-439-body-remembers-treated-baby/)
+- [Focusing Tip #438](https://focusingresources.com/2014/09/03/focusing-tip-438-being-bad-crying-to-be-heard/)
+- [Focusing Tip #437](https://focusingresources.com/2014/08/27/focusing-tip-437-transformation-happen-right-away/)
+- [Focusing Tip #436](https://focusingresources.com/2014/08/21/focusing-tip-436-body-sense-worlds-suffering/)
+- [Focusing Tip #435](https://focusingresources.com/2014/08/13/focusing-tip-435-really-unhappy/)
+- [Focusing Tip #434](https://focusingresources.com/2014/08/06/focusing-tip-434-ask-parts-truths/)
+- [Focusing Tip #433](https://focusingresources.com/2014/07/30/focusing-tip-433-find-way/)
+- [Focusing Tip #432](https://focusingresources.com/2014/07/23/focusing-tip-432-want-just/)
+- [Focusing Tip #431](https://focusingresources.com/2014/07/16/focusing-tip-431-going-slowly-traumatized-parts/)
+
+### 0421 to 0430
+- [Focusing Tip #430](https://focusingresources.com/2014/07/09/focusing-tip-430-looking-always/)
+- [Focusing Tip #429](https://focusingresources.com/2014/06/25/focusing-tip-429-part-calls-bad-wrong/)
+- [Focusing Tip #428](https://focusingresources.com/2014/06/11/focusing-tip-428-might-desire-change-coming-wrong-place/)
+- [Focusing Tip #427](https://focusingresources.com/2014/06/04/focusing-tip-427-feelings-lightness-joy-another-perspective/)
+- [Focusing Tip #426](https://focusingresources.com/2014/05/28/focusing-tip-426-feelings-lightness-joy-necessarily-parts/)
+- [Focusing Tip #425](https://focusingresources.com/2014/05/14/focusing-tip-425-makes-ideal-companion/)
+- [Focusing Tip #424](https://focusingresources.com/2014/04/30/focusing-tip-424-connect-images-issues/)
+- [Focusing Tip #423](https://focusingresources.com/2014/04/23/focusing-tip-423-focusing-healing-trauma/)
+- [Focusing Tip #422](https://focusingresources.com/2014/04/17/focusing-to-ease-seasickness/)
+- [Focusing Tip #421](https://focusingresources.com/2014/04/10/focusing-tip-421-many-sensations-start-session/)
+
 <br>
 
 ---
