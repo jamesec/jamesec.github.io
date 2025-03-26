@@ -428,6 +428,30 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #582 – Are your physical symptoms something to get rid of, or something to connect with and listen to?](https://focusingresources.com/2017/10/25/are-your-physical-symptoms-something-to-get-rid-of-or-something-to-connect-with-and-listen-to/)
 - [Focusing Tip #581 – Is this tightness a felt sense?](https://focusingresources.com/2017/10/18/is-this-tightness-a-felt-sense/)
 
+### 0571 to 0580
+- [Focusing Tip #580 – Why do I lose interest in so many things?](https://focusingresources.com/2017/10/11/lose-interest-many-things/)
+- [Focusing Tip #579 – Does it all feel like too much tragedy, too much upset and instability?](https://focusingresources.com/2017/10/04/does-it-all-feel-like-too-much-tragedy-too-much-upset-and-instability/)
+- [Focusing Tip #578 – Can Focusing help shift obsessive thoughts?](https://focusingresources.com/2017/09/27/can-focusing-help-shift-obsessive-thoughts/)
+- [Focusing Tip #577 -When early childhood trauma gets triggered](https://focusingresources.com/2017/09/20/when-early-childhood-trauma-gets-triggered/)
+- [Focusing Tip #576 – “I reassured the part that it could relax but…”](https://focusingresources.com/2017/09/13/i-reassured-the-part-that-it-could-relax-but/)
+- [Focusing Tip #575 – “I’m not getting any messages from this part…”](https://focusingresources.com/2017/09/06/im-not-getting-any-messages-from-this-part/)
+- [Focusing Tip #574 – How long does it take to untangle a tangle?](https://focusingresources.com/2017/08/30/how-long-does-it-take-to-untangle-a-tangle/)
+- [Focusing Tip #573 – I wish my anger would get bigger and stronger.](https://focusingresources.com/2017/08/23/i-wish-my-anger-would-get-bigger-and-stronger/)
+- [Focusing Tip #572 – “I struggle regularly with physical pain.”](https://focusingresources.com/2017/08/16/i-struggle-regularly-with-physical-pain/)
+- [Focusing Tip #571 – What to do when feelings are too big or overwhelming](https://focusingresources.com/2017/08/09/what-to-do-when-feelings-are-too-big-or-overwhelming/)
+
+### 0561 to 0570
+- [Focusing Tip #570 – Do your feelings disappear just when you want to learn something from them?](https://focusingresources.com/2017/08/02/do-your-feelings-disappear-just-when-you-want-to-learn-something-from-them/)
+- [Focusing Tip #569 – What good does it do to know that I was hurt in the past?](https://focusingresources.com/2017/07/26/what-good-does-it-do-to-know-that-i-was-hurt-in-the-past/)
+- [Focusing Tip #568 – When you aren’t hungry but you eat anyway](https://focusingresources.com/2017/07/19/when-you-arent-hungry-but-you-eat-anyway/)
+- [Focusing Tip #567 – What do you do when the different parts of you are talking to each other and getting nowhere?](https://focusingresources.com/2017/07/12/different-parts-talking-getting-nowhere/)
+- [Focusing Tip #566 – Not sure if you can trust what you feel](https://focusingresources.com/2017/07/05/not-sure-if-you-can-trust-what-you-feel/)
+- [Focusing Tip #565 – Do you have a hard time listening to your inner critic because you can’t hear it?](https://focusingresources.com/2017/06/21/do-you-have-a-hard-time-listening-to-your-inner-critic-because-you-cant-hear-it/)
+- [Focusing Tip #564 – Focusing with sadness and powerlessness about a medical procedure](https://focusingresources.com/2017/06/14/focusing-with-sadness-and-powerlessness-about-a-medical-procedure/)
+- [Focusing Tip #563 – Focusing to shift social anxiety – Ann’s story](https://focusingresources.com/2017/06/07/focusing-to-shift-social-anxiety-anns-story/)
+- [Focusing Tip #562 – “Focusing doesn’t work because all I get is fog.”](https://focusingresources.com/2017/05/31/focusing-doesnt-work-because-all-i-get-is-fog/)
+- [Focusing Tip #561 – A part of me is mean and emotionally abusive to me.](https://focusingresources.com/2017/05/24/a-part-of-me-is-mean-and-emotionally-abusive-to-me/)
+
 <br>
 
 ---
