@@ -293,3 +293,15 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #693 – “Can Focusing help with anxiety if you don’t know the cause?”](https://focusingresources.com/2020/02/26/focusing-tip-693-can-focusing-help-with-anxiety-if-you-dont-know-the-cause/)
 - [Focusing Tip #692 – “When I get triggered my thoughts explode…”](https://focusingresources.com/2020/02/19/focusing-tip-692-when-i-get-triggered-my-thoughts-explode/)
 - [Focusing Tip #691 – “What do I do with my anxiety and despair about the world?”](https://focusingresources.com/2020/02/12/focusing-tip-691-what-do-i-do-with-my-anxiety-and-despair-about-the-world/)
+
+### 0681 to 0690
+- [Focusing Tip #690 – “My daughter’s angry outbursts are really hard on me.”](https://focusingresources.com/2020/02/05/focusing-tip-690-my-daughters-angry-outbursts-are-really-hard-on-me/)
+- [Focusing Tip #689 – “It feels like all of me, not part of me.”](https://focusingresources.com/2020/01/29/focusing-tip-689-it-feels-like-all-of-me-not-part-of-me/)
+- [Focusing Tip #688 – “My son is developing a tendency to migraines”](https://focusingresources.com/2020/01/22/focusing-tip-688-my-son-is-developing-a-tendency-to-migraines/)
+- [Focusing Tip #687 – “I can’t get over my partner’s having kids with another woman.”](https://focusingresources.com/2020/01/15/focusing-tip-687-i-cant-get-over-my-partners-having-kids-with-another-woman/)
+- [Focusing Tip #686 – “I’m not at all sure I have a Self-in-Presence”](https://focusingresources.com/2020/01/08/focusing-tip-686-im-not-at-all-sure-i-have-a-self-in-presence/)
+- [Focusing Tip #685 – “My aging mother needs me, and I resent her…”](https://focusingresources.com/2019/12/18/focusing-tip-685-my-aging-mother-needs-me-and-i-resent-her/)
+- [Focusing Tip #684 – “I am feeling my mother’s hopelessness – it’s not mine”](https://focusingresources.com/2019/12/11/focusing-tip-684-i-am-feeling-my-mothers-hopelessness-its-not-mine/)
+- [Focusing Tip #683 – “I made a mistake and now I feel my guts turning around”](https://focusingresources.com/2019/12/04/focusing-tip-683-i-made-a-mistake-and-now-i-feel-my-guts-turning-around/)
+- [Focusing Tip #682 – “I don’t know how not to merge with my hurt parts when I am with my family.”](https://focusingresources.com/2019/11/27/focusing-tip-682-i-dont-know-how-not-to-merge-with-my-hurt-parts-when-i-am-with-my-family/)
+- [Focusing Tip #681 – “I get stuck in feeling the pain of the part.”](https://focusingresources.com/2019/11/20/focusing-tip-681-i-get-stuck-in-feeling-the-pain-of-the-part/)
