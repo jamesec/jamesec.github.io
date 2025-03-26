@@ -342,3 +342,4 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 ## 0001 to 0100
 ### 0001 to 0010
 - [Focusing Tip #001 - I decided to create a new weekly email newsletter for that very purpose — for you.](https://focusingresources.com/2005/10/26/march-8-2005/)
+  - `March 8 2005`
