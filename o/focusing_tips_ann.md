@@ -355,6 +355,18 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #642 – “I sabotaged my life…”](https://focusingresources.com/2019/01/30/focusing-tip-642-i-sabotaged-my-life/)
 - [Focusing Tip #641 – “I feel my emotions easily but I’m not so connected to my body”](https://focusingresources.com/2019/01/23/focusing-tip-641-i-feel-my-emotions-easily-but-im-not-so-connected-to-my-body/)
 
+### 0631 to 0640
+- [Focusing Tip #640 – What good is it to stay with a feeling of longing?](https://focusingresources.com/2019/01/16/focusing-tip-640-what-good-is-it-to-stay-with-a-feeling-of-longing/)
+- [Focusing Tip #639 – “Can I make progress with Focusing in 50 minute sessions?”](https://focusingresources.com/2019/01/09/focusing-tip-639-can-i-make-progress-with-focusing-in-50-minute-sessions/)
+- [Focusing Tip #638 – “Sometimes I need to slow down”](https://focusingresources.com/2019/01/03/focusing-tip-638-sometimes-i-need-to-slow-down/)
+- [Focusing Tip #637 – Looking back and looking forward](https://focusingresources.com/2018/12/20/focusing-tip-637-looking-back-and-looking-forward/)
+- [Focusing Tip #636 – “I need to find out the meaning of my felt sense.”](https://focusingresources.com/2018/12/12/focusing-tip-636-i-need-to-find-out-the-meaning-of-my-felt-sense/)
+- [Focusing Tip #635 – “This inner message is not my own…”](https://focusingresources.com/2018/12/05/focusing-tip-635-this-inner-message-is-not-my-own/)
+- [Focusing Tip #634 – “I can’t tell what gives my life meaning.”](https://focusingresources.com/2018/11/30/focusing-tip-634-i-cant-tell-what-gives-my-life-meaning/)
+- [Focusing Tip #633 – “What if there is actually something to worry about?”](https://focusingresources.com/2018/11/14/focusing-tip-633-what-if-there-is-actually-something-to-worry-about/)
+- [Focusing Tip #632 – “I keep on gaining weight”](https://focusingresources.com/2018/11/07/focusing-tip-632-i-keep-on-gaining-weight/)
+- [Focusing Tip #631 – “My parts don’t answer me.”](https://focusingresources.com/2018/10/31/focusing-tip-631-my-parts-dont-answer-me/)
+
 ---
 
 ## 0101 to 0200
