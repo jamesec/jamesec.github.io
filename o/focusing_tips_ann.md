@@ -306,3 +306,15 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #683 – “I made a mistake and now I feel my guts turning around”](https://focusingresources.com/2019/12/04/focusing-tip-683-i-made-a-mistake-and-now-i-feel-my-guts-turning-around/)
 - [Focusing Tip #682 – “I don’t know how not to merge with my hurt parts when I am with my family.”](https://focusingresources.com/2019/11/27/focusing-tip-682-i-dont-know-how-not-to-merge-with-my-hurt-parts-when-i-am-with-my-family/)
 - [Focusing Tip #681 – “I get stuck in feeling the pain of the part.”](https://focusingresources.com/2019/11/20/focusing-tip-681-i-get-stuck-in-feeling-the-pain-of-the-part/)
+
+### 0671 to 0680
+- [Fousing Tip #680 – “When Focusing, sometimes I just find a lot of pain.”](https://focusingresources.com/2019/11/06/fousing-tip-680-when-focusing-sometimes-i-just-find-a-lot-of-pain/)
+- [Focusing Tip #679 – “I’ve wasted my life so far, all that energy and nothing to show for it.”](https://focusingresources.com/2019/10/30/focusing-tip-679-ive-wasted-my-life-so-far-all-that-energy-and-nothing-to-show-for-it/)
+- [Focusing Tip #678 – “I feel trapped and desperate](https://focusingresources.com/2019/10/23/focusing-tip-678-i-feel-trapped-and-desperate/)
+- [Focusing Tip #677 – “Parts of me are truly unlovable.”](https://focusingresources.com/2019/10/16/focusing-tip-677-parts-of-me-are-truly-unlovable/)
+- [Focusing Tip #676 – “I have to get out of my job but I really need the money”](https://focusingresources.com/2019/10/09/focusing-tip-676-i-have-to-get-out-of-my-job-but-i-really-need-the-money/)
+- [Focusing Tip #675 – “I’m scared if I do Focusing I’ll have to change my life completely.”](https://focusingresources.com/2019/10/02/focusing-tip-675-im-scared-if-i-do-focusing-ill-have-to-change-my-life-completely/)
+- [Focusing Tip #674 – What’s the difference between guidance from an inner child vs. a felt sense?](https://focusingresources.com/2019/09/25/focusing-tip-674-whats-the-difference-between-guidance-from-an-inner-child-vs-a-felt-sense/)
+- [Focusing Tip #673 – “I tend to be seduced by this part that loves sleeping and eating and not exercising.”](https://focusingresources.com/2019/09/18/focusing-tip-673-i-tend-to-be-seduced-by-this-part-that-loves-sleeping-and-eating-and-not-exercising/)
+- [Focusing Tip #672 – “I am so tired of the war inside”](https://focusingresources.com/2019/09/11/focusing-tip-672-i-am-so-tired-of-the-war-inside/)
+- [Focusing Tip #671 – “I feel tired all the time”](https://focusingresources.com/2019/09/04/focusing-tip-671-i-feel-tired-all-the-time/)
