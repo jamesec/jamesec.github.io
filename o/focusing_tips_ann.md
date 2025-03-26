@@ -405,6 +405,28 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 
 ## 0501 to 0600
 ### 0591 to 0600
+- [Focusing Tip #600 – What does it mean to be a “person with a person”?](https://focusingresources.com/2018/03/14/what-does-it-mean-to-be-a-person-with-a-person/)
+- [Focusing Tip #599 – How can you discover the unconscious beliefs that may be limiting what is possible for you?](https://focusingresources.com/2018/03/07/how-can-you-discover-the-unconscious-beliefs-that-may-be-limiting-what-is-possible-for-you/)
+- [Focusing Tip #598 – If you have a negative core belief about yourself, how can you change it?](https://focusingresources.com/2018/02/28/if-you-have-a-negative-core-belief-about-yourself-how-can-you-change-it/)
+- [Focusing Tip #597 – How do you move from gentle empathic listening to energized action?](https://focusingresources.com/2018/02/21/how-do-you-move-from-gentle-empathic-listening-to-energized-action/)
+- [Focusing Tip #596 – How do you feel when people talk about love?](https://focusingresources.com/2018/02/14/how-do-you-feel-when-people-talk-about-love/)
+- [Focusing Tip #595 – “Avoiding conflict is a core aspect of who I am…”](https://focusingresources.com/2018/02/07/avoiding-conflict-is-a-core-aspect-of-who-i-am/)
+- [Focusing Tip #594 – “What good are my parts? They make my life miserable.”](https://focusingresources.com/2018/01/31/what-good-are-my-parts-they-make-my-life-miserable/)
+- [Focusing Tip #593 – “I cannot understand why there’s still a traumatized vulnerable child within me…”](https://focusingresources.com/2018/01/24/i-cannot-understand-why-theres-still-a-traumatized-vulnerable-child-within-me/)
+- [Focusing Tip #592 – Do you ever wonder why trying to fix yourself doesn’t work?](https://focusingresources.com/2018/01/17/trying-to-fix-doesnt-work/)
+- [Focusing Tip #591 – Have you ever tried to be like other people so they will like you?](https://focusingresources.com/2018/01/10/have-you-ever-tried-to-be-like-other-people-so-they-will-like-you/)
+
+### 0581 to 0590
+- [Focusing Tip #590 – “My parts don’t tell me anything new.”](https://focusingresources.com/2018/01/03/tip-590-my-parts-dont-tell-me-anything-new/)
+- [Focusing Tip #589 – I feel my parts have ruined my life](https://focusingresources.com/2017/12/13/focusing-tip-589-i-feel-my-parts-have-ruined-my-life/)
+- [Focusing Tip #588 – “My clients are identified with parts… and they reject my attempts to help them disidentify.”](https://focusingresources.com/2017/12/06/focusing-tip-588-my-clients-want-to-stay-merged-with-their-parts/)
+- [Focusing Tip #587 – I feel calmer, but is my life really changing?](https://focusingresources.com/2017/11/29/focusing-tip-587-i-feel-calmer-but-is-my-life-really-changing/)
+- [Focusing Tip #586 – If you are faced with illness or other losses, how do you remake a life?](https://focusingresources.com/2017/11/22/focusing-tip-586-if-you-are-faced-with-illness-or-other-losses-how-do-you-remake-a-life/)
+- [Focusing Tip #585 – My Life is at a Crossroads](https://focusingresources.com/2017/11/15/focusing-tip-585-my-life-is-at-a-crossroads/)
+- [Focusing Tip #584 – “Isn’t radical acceptance for everything in this world tantamount to allowing evil and cruel acts to occur?”](https://focusingresources.com/2017/11/08/isnt-radical-acceptance-for-everything-in-this-world-tantamount-to-allowing-evil-and-cruel-acts-to-occur/)
+- [Focusing Tip #583 – “I find it hard to have radical acceptance for myself.”](https://focusingresources.com/2017/11/01/radical-acceptance-for-myself-hard/)
+- [Focusing Tip #582 – Are your physical symptoms something to get rid of, or something to connect with and listen to?](https://focusingresources.com/2017/10/25/are-your-physical-symptoms-something-to-get-rid-of-or-something-to-connect-with-and-listen-to/)
+- [Focusing Tip #581 – Is this tightness a felt sense?](https://focusingresources.com/2017/10/18/is-this-tightness-a-felt-sense/)
 
 <br>
 
