@@ -841,15 +841,15 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 
 ### 0231 to 0240
 - [Focusing Tip #240 – Focusing with Shame](https://focusingresources.com/2010/08/04/august-3-2010-tip-240/)
-- [Focusing Tip #239](https://focusingresources.com/2010/07/28/july-27-2010-tip-239/)
-- [Focusing Tip #238](https://focusingresources.com/2010/07/21/july-20-2010-tip-238/)
-- [Focusing Tip #237](https://focusingresources.com/2010/07/14/july-13-2010-tip-237/)
-- [Focusing Tip #236](https://focusingresources.com/2010/07/06/july-6-2010-tip-236/)
-- [Focusing Tip #235](https://focusingresources.com/2010/06/30/june-29-2010-tip-235/)
-- [Focusing Tip #234](https://focusingresources.com/2010/06/23/june-22-2010-tip-234/)
-- [Focusing Tip #233](https://focusingresources.com/2010/06/16/june-15-2010-tip-233/)
-- [Focusing Tip #232](https://focusingresources.com/2010/06/09/june-8-2010-tip-232/)
-- [Focusing Tip #231](https://focusingresources.com/2010/06/02/june-1-2010-tip-231/)
+- [Focusing Tip #239 – “When I’m not ready to say ‘hello’ to a felt sense, I say ‘I hate you.'”](https://focusingresources.com/2010/07/28/july-27-2010-tip-239/)
+- [Focusing Tip #238 – “I noticed that my Focusing was a lot like a shamanic journey.”](https://focusingresources.com/2010/07/21/july-20-2010-tip-238/)
+- [Focusing Tip #237 – “I see hardly any references to feelings that have to do with sexuality.”](https://focusingresources.com/2010/07/14/july-13-2010-tip-237/)
+- [Focusing Tip #236 – “A part of me is terrified of going unconscious.”](https://focusingresources.com/2010/07/06/july-6-2010-tip-236/)
+- [Focusing Tip #235 – “There seems to be no forward movement happening.”](https://focusingresources.com/2010/06/30/june-29-2010-tip-235/)
+- [Focusing Tip #234 – The Power of Acknowledging the Obvious](https://focusingresources.com/2010/06/23/june-22-2010-tip-234/)
+- [Focusing Tip #233 – Is There a Safe Way to Work with Anger?](https://focusingresources.com/2010/06/16/june-15-2010-tip-233/)
+- [Focusing Tip #232 – “Something tells me I’m a bad person.”](https://focusingresources.com/2010/06/09/june-8-2010-tip-232/)
+- [Focusing Tip #231 – “Irritable Bowel syndrome restricts my freedom and is getting worse.”](https://focusingresources.com/2010/06/02/june-1-2010-tip-231/)
 
 ### 0221 to 0230
 - [Focusing Tip #230](https://focusingresources.com/2010/05/26/may-25-2010-tip-230/)
