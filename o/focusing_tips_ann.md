@@ -376,8 +376,8 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #625 – The timid and shy parts of you](https://focusingresources.com/2018/09/19/focusing-tip-625-the-timid-and-shy-parts-of-you/)
 - [Focusing Tip #624 – “Can you ‘overtrain’ Focusing? Do too much?”](https://focusingresources.com/2018/09/12/focusing-tip-624-can-you-overtrain-focusing-do-too-much/)
 - [Focusing Tip #623 – Procrastination and negative beliefs](https://focusingresources.com/2018/09/05/focusing-tip-623-procrastination-and-negative-beliefs/)
-- [Focusing Tip #622: What’s alive in depression](https://focusingresources.com/2018/08/29/focusing-tip-622-whats-alive-in-depression/)
-- [Focusing Tip #621: What IS Self-in-Presence, anyway?](https://focusingresources.com/2018/08/22/focusing-tip-621-what-is-self-in-presence-anyway/)
+- [Focusing Tip #622 – What’s alive in depression](https://focusingresources.com/2018/08/29/focusing-tip-622-whats-alive-in-depression/)
+- [Focusing Tip #621 – What IS Self-in-Presence, anyway?](https://focusingresources.com/2018/08/22/focusing-tip-621-what-is-self-in-presence-anyway/)
 
 ### 0611 to 0620
 - [Focusing Tip #620 – How to cultivate Self-in-Presence when you don’t feel like it](https://focusingresources.com/2018/08/15/focusing-tip-620-how-to-cultivate-self-in-presence-when-you-dont-feel-like-it/)
@@ -696,7 +696,7 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 
 ### 0351 to 0360
 - [Focusing Tip #360 – “My felt sense either floods me or slips away.”](https://focusingresources.com/2012/12/11/focusing-tip-360-my-felt-sense-either-floods-me-or-slips-away/)
-- [Focusing Tip #359: Working with Unfulfilled Desire](https://focusingresources.com/2012/12/05/focusing-tip-359-working-with-unfulfilled-desire/)
+- [Focusing Tip #359 – Working with Unfulfilled Desire](https://focusingresources.com/2012/12/05/focusing-tip-359-working-with-unfulfilled-desire/)
 - [Focusing Tip #358 – “Can we control how we feel?”](https://focusingresources.com/2012/11/27/focusing-tip-358-can-we-control-how-we-feel/)
 - [Focusing Tip #357 – “It was trying to kill the life-embracing part”](https://focusingresources.com/2012/11/14/focusing-tip-357-it-was-trying-to-kill-the-life-embracing-part/)
 - [Focusing Tip #356 – Focusing in a Hurricane & Other Stressful Times](https://focusingresources.com/2012/11/06/focusing-tip-356-focusing-in-a-hurricane-and-other-stressful-times/)
