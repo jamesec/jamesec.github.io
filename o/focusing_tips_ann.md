@@ -913,16 +913,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #181 – Are You Worried?](https://focusingresources.com/2009/01/28/december-30-2008-181/)
 
 ### 0171 to 0180
-- [Focusing Tip #180](https://focusingresources.com/2009/01/28/december-9-2008-180/)
-- [Focusing Tip #179](https://focusingresources.com/2008/12/03/november-25-2008-179/)
-- [Focusing Tip #178](https://focusingresources.com/2008/12/03/november-11-2008-178/)
-- [Focusing Tip #177](https://focusingresources.com/2008/12/03/october-28-2008-177/)
-- [Focusing Tip #176](https://focusingresources.com/2008/12/03/october-14-176/)
-- [Focusing Tip #175](https://focusingresources.com/2008/12/03/september-30-2008-175/)
-- [Focusing Tip #174](https://focusingresources.com/2008/12/02/september-16-2008-174/)
-- [Focusing Tip #173](https://focusingresources.com/2008/12/02/september-2-2008-173/)
-- [Focusing Tip #172](https://focusingresources.com/2008/12/02/august-19-2008-172/)
-- [Focusing Tip #171](https://focusingresources.com/2008/12/02/august-5-2008-171/)
+- [Focusing Tip #180 – "When the Unexpected Happens"](https://focusingresources.com/2009/01/28/december-9-2008-180/)
+- [Focusing Tip #179 – Do We Need to Give External Expression to Emotions?](https://focusingresources.com/2008/12/03/november-25-2008-179/)
+- [Focusing Tip #178 – "I say I'm feeling sad without really having a sense of my body"](https://focusingresources.com/2008/12/03/november-11-2008-178/)
+- [Focusing Tip #177 – "I'm a bad person … I'm stupid … I'm evil."](https://focusingresources.com/2008/12/03/october-28-2008-177/)
+- [Focusing Tip #176 – What If the Felt Sense Won't Talk?](https://focusingresources.com/2008/12/03/october-14-176/)
+- [Focusing Tip #175 – Got Some Reading to Do? How Focusing Can Help](https://focusingresources.com/2008/12/03/september-30-2008-175/)
+- [Focusing Tip #174 – More on Opposites and Focusing](https://focusingresources.com/2008/12/02/september-16-2008-174/)
+- [Focusing Tip #173 – Focusing with Bodywork and Chronic Patterns of Tension](https://focusingresources.com/2008/12/02/september-2-2008-173/)
+- [Focusing Tip #172 – Are Reminders the Same as Suggestions?](https://focusingresources.com/2008/12/02/august-19-2008-172/)
+- [Focusing Tip #171 – "It asks me, why am I terrified of it?"](https://focusingresources.com/2008/12/02/august-5-2008-171/)
 
 ### 0161 to 0170
 - [Focusing Tip #170](https://focusingresources.com/2008/12/02/july-22-2008-170/)
