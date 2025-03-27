@@ -804,16 +804,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #271 – "I'm feeling sad for all those people who are hurt."](https://focusingresources.com/2011/03/16/march-15-2011-tip-271/)
 
 ### 0261 to 0270
-- [Focusing Tip #270](https://focusingresources.com/2011/03/09/march-8-2011-tip-270/)
-- [Focusing Tip #269](https://focusingresources.com/2011/03/02/march-1-2011-tip-269/)
-- [Focusing Tip #268](https://focusingresources.com/2011/02/28/february-22-2011-tip-268/)
-- [Focusing Tip #267](https://focusingresources.com/2011/02/16/february-15-2011-tip-267/)
-- [Focusing Tip #266](https://focusingresources.com/2011/02/09/february-8-2011-tip-266/)
-- [Focusing Tip #265](https://focusingresources.com/2011/02/02/february-1-2011-tip-265/)
-- [Focusing Tip #264](https://focusingresources.com/2011/01/27/january-25-2011-tip-264/)
-- [Focusing Tip #263](https://focusingresources.com/2011/01/20/january-18-2011-tip-263/)
+- [Focusing Tip #270 – "The next day you were able to write… Was it really that easy?"](https://focusingresources.com/2011/03/09/march-8-2011-tip-270/)
+- [Focusing Tip #269 – "Can there be a 'feeling block' as well as an action block?"](https://focusingresources.com/2011/03/02/march-1-2011-tip-269/)
+- [Focusing Tip #268 – "I got so sleepy when Focusing it was almost like being drugged"](https://focusingresources.com/2011/02/28/february-22-2011-tip-268/)
+- [Focusing Tip #267 – "Does radical acceptance mean accepting the hurtful actions of others?"](https://focusingresources.com/2011/02/16/february-15-2011-tip-267/)
+- [Focusing Tip #266 – "Focusing seems to make me feel more vulnerable and open to people"](https://focusingresources.com/2011/02/09/february-8-2011-tip-266/)
+- [Focusing Tip #265 – "I got a huge opening–but how does it relate to my issue?"](https://focusingresources.com/2011/02/02/february-1-2011-tip-265/)
+- [Focusing Tip #264 – "I have huge problems in identifying where I am feeling the feeling"](https://focusingresources.com/2011/01/27/january-25-2011-tip-264/)
+- [Focusing Tip #263 – “It feels like I have an ‘upper limiter’ on my income…”](https://focusingresources.com/2011/01/20/january-18-2011-tip-263/)
 - [Focusing Tip #262 – What the Body Really Does With Memories](https://focusingresources.com/2011/01/12/january-11-2011-tip-262/)
-- [Focusing Tip #261](https://focusingresources.com/2011/01/06/january-4-2011-tip-261/)
+- [Focusing Tip #261 – “We are feeling unhappy and discouraged with Focusing”](https://focusingresources.com/2011/01/06/january-4-2011-tip-261/)
 
 ### 0251 to 0260
 - [Focusing Tip #260](https://focusingresources.com/2010/12/29/december-28-2010-tip-260/)
