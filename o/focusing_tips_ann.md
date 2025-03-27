@@ -816,15 +816,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #261 – “We are feeling unhappy and discouraged with Focusing”](https://focusingresources.com/2011/01/06/january-4-2011-tip-261/)
 
 ### 0251 to 0260
-- [Focusing Tip #260](https://focusingresources.com/2010/12/29/december-28-2010-tip-260/)
+- [Focusing Tip #260 – “What if I have trouble feeling in my body?”](https://focusingresources.com/2010/12/29/december-28-2010-tip-260/)
 - [Focusing Tip #259 – “Part of me hates my feelings.”](https://focusingresources.com/2010/12/22/december-21-2010-tip-259/)
-- [Focusing Tip #258 – “I’m convinced that I can’t change.”](https://focusingresources.com/2010/12/15/december-14-2010-tip-258/)- [Focusing Tip #257](https://focusingresources.com/2010/12/08/december-7-2010-tip-257/)
-- [Focusing Tip #256](https://focusingresources.com/2010/12/01/november-30-2010-tip-256/)
-- [Focusing Tip #255](https://focusingresources.com/2010/11/17/november-16-2010-tip-255/)
-- [Focusing Tip #254](https://focusingresources.com/2010/11/10/november-9-2010-tip-254/)
-- [Focusing Tip #253](https://focusingresources.com/2010/11/03/november-2-2010-tip-253/)
+- [Focusing Tip #258 – “I’m convinced that I can’t change.”](https://focusingresources.com/2010/12/15/december-14-2010-tip-258/)
+- [Focusing Tip #257 – “I’m mostly listening to the voices of parts…”](https://focusingresources.com/2010/12/08/december-7-2010-tip-257/)
+- [Focusing Tip #256 – “Something is afraid I’ll make a really bad choice…”](https://focusingresources.com/2010/12/01/november-30-2010-tip-256/)
+- [Focusing Tip #255 – “What do I do about a part that doesn’t want anything or anyone?”](https://focusingresources.com/2010/11/17/november-16-2010-tip-255/)
+- [Focusing Tip #254 – “I hated it when someone reflected my words back to me.”](https://focusingresources.com/2010/11/10/november-9-2010-tip-254/)
+- [Focusing Tip #253 – “My dad was insensitive and I want to let go of being annoyed.”](https://focusingresources.com/2010/11/03/november-2-2010-tip-253/)
 - [Focusing Tip #252 – “The inner critic was beating up the inner child.”](https://focusingresources.com/2010/10/28/october-26-2010-tip-252/)
-- [Focusing Tip #251](https://focusingresources.com/2010/10/20/october-19-2010-tip-251/)
+- [Focusing Tip #251 – “Is Focusing enough?”](https://focusingresources.com/2010/10/20/october-19-2010-tip-251/)
 
 ### 0241 to 0250
 - [Focusing Tip #250](https://focusingresources.com/2010/10/13/october-12-2010-tip-250/)
