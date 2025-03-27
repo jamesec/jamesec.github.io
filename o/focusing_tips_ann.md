@@ -828,16 +828,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #251 – “Is Focusing enough?”](https://focusingresources.com/2010/10/20/october-19-2010-tip-251/)
 
 ### 0241 to 0250
-- [Focusing Tip #250](https://focusingresources.com/2010/10/13/october-12-2010-tip-250/)
-- [Focusing Tip #249](https://focusingresources.com/2010/10/06/october-5-2010-tip-249/)
-- [Focusing Tip #248](https://focusingresources.com/2010/09/29/september-28-2010-tip-248/)
-- [Focusing Tip #247](https://focusingresources.com/2010/09/22/september-21-2010-tip-247/)
-- [Focusing Tip #246](https://focusingresources.com/2010/09/16/september-14-2010-tip-246/)
+- [Focusing Tip #250 – “My Focusing partner isn’t Focusing…”](https://focusingresources.com/2010/10/13/october-12-2010-tip-250/)
+- [Focusing Tip #249 – “Would you see Anorexia as an Inner Critic?”](https://focusingresources.com/2010/10/06/october-5-2010-tip-249/)
+- [Focusing Tip #248 – “Can I focus with my life partner during a relationship crisis?”](https://focusingresources.com/2010/09/29/september-28-2010-tip-248/)
+- [Focusing Tip #247 – How change happens from “just” being with it](https://focusingresources.com/2010/09/22/september-21-2010-tip-247/)
+- [Focusing Tip #246 – “My Focusing doesn’t ever bring insight or knowledge”](https://focusingresources.com/2010/09/16/september-14-2010-tip-246/)
 - [Focusing Tip #245 – How Focusing Lifted Hazel’s Depression](https://focusingresources.com/2010/09/08/september-7-2010-tip-245/)
 - [Focusing Tip #244 – “I can’t Focus if I feel depressed.”](https://focusingresources.com/2010/09/02/august-31-2010-tip-244/)
 - [Focusing Tip #243 – “My sister mocks and hurts me.”](https://focusingresources.com/2010/09/01/august-24-2010-tip-243/)
-- [Focusing Tip #242](https://focusingresources.com/2010/08/18/august-17-2010-tip-242/)
-- [Focusing Tip #241](https://focusingresources.com/2010/08/11/august-10-2010-tip-241/)
+- [Focusing Tip #242 – “I get a body feeling but no (emotion) words…”](https://focusingresources.com/2010/08/18/august-17-2010-tip-242/)
+- [Focusing Tip #241 – “What she heard was all negative toward herself…”](https://focusingresources.com/2010/08/11/august-10-2010-tip-241/)
 
 ### 0231 to 0240
 - [Focusing Tip #240 – Focusing with Shame](https://focusingresources.com/2010/08/04/august-3-2010-tip-240/)
@@ -1127,6 +1127,6 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #005](https://focusingresources.com/2005/10/26/april_5_2005/)
 - [Focusing Tip #004](https://focusingresources.com/2005/10/26/march_29_2005/)
 - [Focusing Tip #003](https://focusingresources.com/2005/10/26/march_22_2005/)
-- [Focusing Tip #002](https://focusingresources.com/2005/10/26/march_15_2005/)
+- [Focusing Tip #002 – You are trusting your partner’s process](https://focusingresources.com/2005/10/26/march_15_2005/)
 - [Focusing Tip #001 – I decided to create a new weekly email newsletter for that very purpose — for you.](https://focusingresources.com/2005/10/26/march-8-2005/)
   - `March 8 2005`
