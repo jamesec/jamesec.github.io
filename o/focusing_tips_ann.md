@@ -477,16 +477,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #541 – Wondering how to work toward your goals without becoming your own tyrant?](https://focusingresources.com/2017/01/05/wondering-work-toward-goals-without-becoming-tyrant/)
 
 ### 0531 to 0540
-- [Focusing Tip #540](https://focusingresources.com/2016/12/22/ever-feel-like-family-trapped-web-unspoken-messages/)
-- [Focusing Tip #539](https://focusingresources.com/2016/12/14/struggle-feelings-like-anxiety-resistance-dont-even-notice-happening/)
-- [Focusing Tip #538](https://focusingresources.com/2016/12/07/get-dead-end-trying-bring-change-old-repetitive-traumas/)
-- [Focusing Tip #537](https://focusingresources.com/2016/11/30/set-goal-hasnt-happened-yet-keep-positive/)
-- [Focusing Tip #536](https://focusingresources.com/2016/11/23/focusing-and-goal-setting/)
-- [Focusing Tip #535](https://focusingresources.com/2016/11/16/often-get-days-feel-sad-even-overwhelmed-accompanied-lot-tears/)
-- [Focusing Tip #534](https://focusingresources.com/2016/11/09/finding-potential-possibility/)
-- [Focusing Tip #533](https://focusingresources.com/2016/11/02/possible-start-feel-forbidden-anger/)
-- [Focusing Tip #532](https://focusingresources.com/2016/10/26/old-memories-triggered/)
-- [Focusing Tip #531](https://focusingresources.com/2016/10/19/is-focusing-something-only-a-few-can-do/)
+- [Focusing Tip #540 – Does it ever feel like being with your family is being trapped in a web of unspoken messages?](https://focusingresources.com/2016/12/22/ever-feel-like-family-trapped-web-unspoken-messages/)
+- [Focusing Tip #539 – Are you in a struggle with feelings like anxiety or resistance but you don’t even notice that it’s happening?](https://focusingresources.com/2016/12/14/struggle-feelings-like-anxiety-resistance-dont-even-notice-happening/)
+- [Focusing Tip #538 – Do you get into a dead end with trying to bring change in old repetitive traumas?](https://focusingresources.com/2016/12/07/get-dead-end-trying-bring-change-old-repetitive-traumas/)
+- [Focusing Tip #537 – When you set a goal and it hasn’t happened yet, how do you keep positive?](https://focusingresources.com/2016/11/30/set-goal-hasnt-happened-yet-keep-positive/)
+- [Focusing Tip #536 – How can you use your felt sense to come up with goals that are congruent with yourself?](https://focusingresources.com/2016/11/23/focusing-and-goal-setting/)
+- [Focusing Tip #535 – “Often I get days where I feel sad, even overwhelmed, accompanied by a lot of tears.”](https://focusingresources.com/2016/11/16/often-get-days-feel-sad-even-overwhelmed-accompanied-lot-tears/)
+- [Focusing Tip #534 – Finding potential and possibility in times of despair.](https://focusingresources.com/2016/11/09/finding-potential-possibility/)
+- [Focusing Tip #533 – “Is it possible to start to feel forbidden anger?”](https://focusingresources.com/2016/11/02/possible-start-feel-forbidden-anger/)
+- [Focusing Tip #532 – When old memories trigger difficult feelings…](https://focusingresources.com/2016/10/26/old-memories-triggered/)
+- [Focusing Tip #531 – “Is Focusing something that only a few people can do?”](https://focusingresources.com/2016/10/19/is-focusing-something-only-a-few-can-do/)
 
 ### 0521 to 0530
 - [Focusing Tip #530](https://focusingresources.com/2016/10/12/focusing-for-conflict-resolution/)
