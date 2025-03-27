@@ -489,16 +489,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #531 – “Is Focusing something that only a few people can do?”](https://focusingresources.com/2016/10/19/is-focusing-something-only-a-few-can-do/)
 
 ### 0521 to 0530
-- [Focusing Tip #530](https://focusingresources.com/2016/10/12/focusing-for-conflict-resolution/)
-- [Focusing Tip #529](https://focusingresources.com/2016/10/06/too-stressed-for-healthy-activity/)
-- [Focusing Tip #528](https://focusingresources.com/2016/09/28/what-if-what-i-want-is-something-bad/)
-- [Focusing Tip #527](https://focusingresources.com/2016/09/21/how-do-i-come-back-to-something/)
-- [Focusing Tip #526](https://focusingresources.com/2016/09/14/starting-feel-overwhelmed-tasks/)
-- [Focusing Tip #525](https://focusingresources.com/2016/09/07/bracing-against-pain-makes-it-worse/)
-- [Focusing Tip #524](https://focusingresources.com/2016/08/31/going-down-dead-end-street/)
-- [Focusing Tip #523](https://focusingresources.com/2016/08/25/can-big-emotions-get-trapped-build/)
-- [Focusing Tip #522](https://focusingresources.com/2016/08/17/only-feel-body-sensations/)
-- [Focusing Tip #521](https://focusingresources.com/2016/08/10/remember-what-happened-focusing-session/)
+- [Focusing Tip #530 – “What ways could Focusing be a vehicle for conflict resolution?”](https://focusingresources.com/2016/10/12/focusing-for-conflict-resolution/)
+- [Focusing Tip #529 – “Even when I have time to do something healthy for me, like exercise or meditate, I become an immovable blob in front of TV.”](https://focusingresources.com/2016/10/06/too-stressed-for-healthy-activity/)
+- [Focusing Tip #528 – “What if what I want is something bad, and other people are disgusted with me?”](https://focusingresources.com/2016/09/28/what-if-what-i-want-is-something-bad/)
+- [Focusing Tip #527 – “How do I come back to something that was there at the end of an earlier Focusing session?”](https://focusingresources.com/2016/09/21/how-do-i-come-back-to-something/)
+- [Focusing Tip #526 – “I am starting to feel overwhelmed by my tasks…”](https://focusingresources.com/2016/09/14/starting-feel-overwhelmed-tasks/)
+- [Focusing Tip #525 – “I have a tendency to brace against pain, which makes the pain worse.”](https://focusingresources.com/2016/09/07/bracing-against-pain-makes-it-worse/)
+- [Focusing Tip #524 – “I seem to be going down a dead end street.”](https://focusingresources.com/2016/08/31/going-down-dead-end-street/)
+- [Focusing Tip #523 – “Can big emotions get trapped and build up?”](https://focusingresources.com/2016/08/25/can-big-emotions-get-trapped-build/)
+- [Focusing Tip #522 – “I only feel body sensations, not what it’s about.”](https://focusingresources.com/2016/08/17/only-feel-body-sensations/)
+- [Focusing Tip #521 – “Do I need to remember what happened in Focusing?”](https://focusingresources.com/2016/08/10/remember-what-happened-focusing-session/)
 
 ### 0511 to 0520
 - [Focusing Tip #520](https://focusingresources.com/2016/07/27/17048/)
