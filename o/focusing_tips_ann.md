@@ -465,16 +465,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #551 – “I am wondering if doing too much Focusing will make those parts resistant to change.”](https://focusingresources.com/2017/03/15/i-am-wondering-if-doing-too-much-focusing-will-make-those-parts-resistant-to-change/)
 
 ### 0541 to 0550
-- [Focusing Tip #550](https://focusingresources.com/2017/03/08/get-rid-of-outside-beliefs/)
-- [Focusing Tip #549](https://focusingresources.com/2017/03/01/can-our-felt-senses-keep-us-from-making-mistakes/)
-- [Focusing Tip #548](https://focusingresources.com/2017/02/23/person-fix-problem-doesnt-address-addictive-behavior/)
-- [Focusing Tip #547](https://focusingresources.com/2017/02/15/reach-difficult-places/)
-- [Focusing Tip #546](https://focusingresources.com/2017/02/08/define-acceptance/)
-- [Focusing Tip #545](https://focusingresources.com/2017/02/01/youve-got-part-insists-tense-vigilant-wont-hurt-can/)
-- [Focusing Tip #544](https://focusingresources.com/2017/01/26/using-focusing-to-express-self/)
-- [Focusing Tip #543](https://focusingresources.com/2017/01/18/soon-recognizing-trigger-sadness-depression-best-time-healing-process-like-focusing/)
-- [Focusing Tip #542](https://focusingresources.com/2017/01/12/worried-focusing-youll-distance-emotions-life/)
-- [Focusing Tip #541](https://focusingresources.com/2017/01/05/wondering-work-toward-goals-without-becoming-tyrant/)
+- [Focusing Tip #550 – Are some of our feelings and beliefs introjected from the outside, and if so, can we just get rid of them?](https://focusingresources.com/2017/03/08/get-rid-of-outside-beliefs/)
+- [Focusing Tip #549 – “Mistakes can happen to anyone, but can our felt senses keep us from turning them into even bigger mistakes?”](https://focusingresources.com/2017/03/01/can-our-felt-senses-keep-us-from-making-mistakes/)
+- [Focusing Tip #548 – “When does the person fix the problem? Doesn’t she have to address her addictive behavior?”](https://focusingresources.com/2017/02/23/person-fix-problem-doesnt-address-addictive-behavior/)
+- [Focusing Tip #547 – “I can’t put a gentle hand in the center of my back without being a contortionist!”](https://focusingresources.com/2017/02/15/reach-difficult-places/)
+- [Focusing Tip #546 – “I want to be able to explain to my clients the kind of acceptance that leads to wellbeing and liberation.”](https://focusingresources.com/2017/02/08/define-acceptance/)
+- [Focusing Tip #545 – If you’ve got a part that insists on being tense and vigilant so you won’t be hurt again, what can you do?](https://focusingresources.com/2017/02/01/youve-got-part-insists-tense-vigilant-wont-hurt-can/)
+- [Focusing Tip #544 – What kind of Focusing questions might help me find the right way to express myself?](https://focusingresources.com/2017/01/26/using-focusing-to-express-self/)
+- [Focusing Tip #543 – How soon after recognizing a trigger of sadness or depression would be the best time to do a healing process like Focusing?](https://focusingresources.com/2017/01/18/soon-recognizing-trigger-sadness-depression-best-time-healing-process-like-focusing/)
+- [Focusing Tip #542 – Worried that if you do Focusing, you’ll distance yourself from your emotions and from life?](https://focusingresources.com/2017/01/12/worried-focusing-youll-distance-emotions-life/)
+- [Focusing Tip #541 – Wondering how to work toward your goals without becoming your own tyrant?](https://focusingresources.com/2017/01/05/wondering-work-toward-goals-without-becoming-tyrant/)
 
 ### 0531 to 0540
 - [Focusing Tip #540](https://focusingresources.com/2016/12/22/ever-feel-like-family-trapped-web-unspoken-messages/)
