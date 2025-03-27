@@ -937,16 +937,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #161 – Focusing and Life Purpose](https://focusingresources.com/2008/05/13/may-6-2008-161/)
 
 ### 0151 to 0160
-- [Focusing Tip #160](https://focusingresources.com/2008/05/13/april-29-2008-1/)
-- [Focusing Tip #159](https://focusingresources.com/2008/04/23/april-22-2008-1/)
-- [Focusing Tip #158](https://focusingresources.com/2008/04/21/april-15-2008-1/)
-- [Focusing Tip #157](https://focusingresources.com/2008/04/21/april-8-2008-15/)
-- [Focusing Tip #156](https://focusingresources.com/2008/04/21/april-1-2008-15/)
-- [Focusing Tip #155](https://focusingresources.com/2008/04/21/march-25-2008-1/)
-- [Focusing Tip #154](https://focusingresources.com/2008/04/21/march-18-2008-1/)
-- [Focusing Tip #153](https://focusingresources.com/2008/03/13/march-11-2008-1/)
-- [Focusing Tip #152](https://focusingresources.com/2008/03/05/march-4-2008-15/)
-- [Focusing Tip #151](https://focusingresources.com/2008/03/05/february-26-200/)
+- [Focusing Tip #160 – How we "know" what we don’t know](https://focusingresources.com/2008/05/13/april-29-2008-1/)
+- [Focusing Tip #159 – What’s Mind Got to Do with It?](https://focusingresources.com/2008/04/23/april-22-2008-1/)
+- [Focusing Tip #158 – Working with Long-Standing Issues](https://focusingresources.com/2008/04/21/april-15-2008-1/)
+- [Focusing Tip #157 – Working with Parts, Comparing Focusing to IFS](https://focusingresources.com/2008/04/21/april-8-2008-15/)
+- [Focusing Tip #156 – A Message from Presence](https://focusingresources.com/2008/04/21/april-1-2008-15/)
+- [Focusing Tip #155 – More About Getting Unblocked](https://focusingresources.com/2008/04/21/march-25-2008-1/)
+- [Focusing Tip #154 – Focusing with Anxiety about Too Much to Do](https://focusingresources.com/2008/04/21/march-18-2008-1/)
+- [Focusing Tip #153 – Emotions that are Hard to be in Presence With](https://focusingresources.com/2008/03/13/march-11-2008-1/)
+- [Focusing Tip #152 – An Action Block that Won’t Shift](https://focusingresources.com/2008/03/05/march-4-2008-15/)
+- [Focusing Tip #151 – Using Focusing at a Planning Meeting](https://focusingresources.com/2008/03/05/february-26-200/)
 
 ### 0141 to 0150
 - [Focusing Tip #150](https://focusingresources.com/2008/03/05/february-19-200/)
