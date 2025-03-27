@@ -925,16 +925,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #171 – "It asks me, why am I terrified of it?"](https://focusingresources.com/2008/12/02/august-5-2008-171/)
 
 ### 0161 to 0170
-- [Focusing Tip #170](https://focusingresources.com/2008/12/02/july-22-2008-170/)
-- [Focusing Tip #169](https://focusingresources.com/2008/12/02/july-8-2008-169/)
-- [Focusing Tip #168](https://focusingresources.com/2008/07/09/june-24-2008-168/)
-- [Focusing Tip #167](https://focusingresources.com/2008/07/09/june-17-2008-167/)
-- [Focusing Tip #166](https://focusingresources.com/2008/06/10/june-10-2008-166/)
-- [Focusing Tip #165](https://focusingresources.com/2008/06/10/june-3-2008-165/)
-- [Focusing Tip #164](https://focusingresources.com/2008/06/10/how-to-trust-the-inner-voice-a-few-weeks-ago-i-wrote-about-how-my-inner-sense-of/)
-- [Focusing Tip #163](https://focusingresources.com/2008/06/10/may-20-2008-163/)
-- [Focusing Tip #162](https://focusingresources.com/2008/05/13/may-13-2008-162/)
-- [Focusing Tip #161](https://focusingresources.com/2008/05/13/may-6-2008-161/)
+- [Focusing Tip #170 – Is What Part of Me Wants Already in Me?](https://focusingresources.com/2008/12/02/july-22-2008-170/)
+- [Focusing Tip #169 – Can I Push Myself into Too Much Focusing?](https://focusingresources.com/2008/12/02/july-8-2008-169/)
+- [Focusing Tip #168 – When It Feels Right But It’s Wrong](https://focusingresources.com/2008/07/09/june-24-2008-168/)
+- [Focusing Tip #167 – When Being with the “Now” Feels Overwhelming](https://focusingresources.com/2008/07/09/june-17-2008-167/)
+- [Focusing Tip #166 – Nagging Thoughts When You're Not Focusing](https://focusingresources.com/2008/06/10/june-10-2008-166/)
+- [Focusing Tip #165 – Does a Felt Sense Have an Opposite?](https://focusingresources.com/2008/06/10/june-3-2008-165/)
+- [Focusing Tip #164 – How to Trust the Inner Voice](https://focusingresources.com/2008/06/10/how-to-trust-the-inner-voice-a-few-weeks-ago-i-wrote-about-how-my-inner-sense-of/)
+- [Focusing Tip #163 – Using Focusing in Psychotherapy](https://focusingresources.com/2008/06/10/may-20-2008-163/)
+- [Focusing Tip #162 – The Purpose of Focusing](https://focusingresources.com/2008/05/13/may-13-2008-162/)
+- [Focusing Tip #161 – Focusing and Life Purpose](https://focusingresources.com/2008/05/13/may-6-2008-161/)
 
 ### 0151 to 0160
 - [Focusing Tip #160](https://focusingresources.com/2008/05/13/april-29-2008-1/)
