@@ -1094,16 +1094,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #031 – An Inner Relationship](https://focusingresources.com/2005/10/26/october_18_2005/)
 
 ### 0021 to 0030
-- [Focusing Tip #030 – ](https://focusingresources.com/2005/10/26/october_11_2005/)
-- [Focusing Tip #029 – ](https://focusingresources.com/2005/10/26/october_4_2005/)
-- [Focusing Tip #028 – ](https://focusingresources.com/2005/10/26/september_27_20/)
-- [Focusing Tip #027 – ](https://focusingresources.com/2005/10/26/september_20_20/)
-- [Focusing Tip #026 – ](https://focusingresources.com/2005/10/26/september_13_20/)
-- [Focusing Tip #025 – ](https://focusingresources.com/2005/10/26/september_9_200/)
-- [Focusing Tip #024 – ](https://focusingresources.com/2005/10/26/august_30_2005/)
-- [Focusing Tip #023 – ](https://focusingresources.com/2005/10/26/august_23_2005/)
-- [Focusing Tip #022 – ](https://focusingresources.com/2005/10/26/august_16_2005/)
-- [Focusing Tip #021 – ](https://focusingresources.com/2005/10/26/august_9_2005/)
+- [Focusing Tip #030 – Creative Originality](https://focusingresources.com/2005/10/26/october_11_2005/)
+- [Focusing Tip #029 – Know Thyself](https://focusingresources.com/2005/10/26/october_4_2005/)
+- [Focusing Tip #028 – Feeling “Too Little”](https://focusingresources.com/2005/10/26/september_27_20/)
+- [Focusing Tip #027 – Feeling “Too Much”](https://focusingresources.com/2005/10/26/september_20_20/)
+- [Focusing Tip #026 – Allowing a felt sense to form is already a relief to the problem!](https://focusingresources.com/2005/10/26/september_13_20/)
+- [Focusing Tip #025 – Living a Focusing life means getting closer and closer to knowing how you feel and what you want at each moment.](https://focusingresources.com/2005/10/26/september_9_200/)
+- [Focusing Tip #024 – Living a Focusing life means living in process…](https://focusingresources.com/2005/10/26/august_30_2005/)
+- [Focusing Tip #023 – Living a Focusing life means encountering each moment freshly](https://focusingresources.com/2005/10/26/august_23_2005/)
+- [Focusing Tip #022 – What is real: the here-and-now felt experience.](https://focusingresources.com/2005/10/26/august_16_2005/)
+- [Focusing Tip #021 – Your body is always ready to give you a felt sense of the situation you’re in. Like a wise inner guide who’s always with you!](https://focusingresources.com/2005/10/26/august_9_2005/)
 
 ### 0011 to 0020
 - [Focusing Tip #020 – ](https://focusingresources.com/2005/10/26/august_2_2005/)
