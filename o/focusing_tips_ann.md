@@ -1070,16 +1070,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #051 – It’s Not What You Think](https://focusingresources.com/2006/03/30/march_7_2006/)
 
 ### 0041 to 0050
-- [Focusing Tip #050 – ](https://focusingresources.com/2006/03/07/february_28_200/)
-- [Focusing Tip #049 – ](https://focusingresources.com/2006/03/07/february_21_200/)
-- [Focusing Tip #048 – ](https://focusingresources.com/2006/03/07/february_14_200/)
-- [Focusing Tip #047 – ](https://focusingresources.com/2006/02/13/february_7_2006/)
-- [Focusing Tip #046 – ](https://focusingresources.com/2006/02/13/january_31_2006/)
-- [Focusing Tip #045 – ](https://focusingresources.com/2006/02/13/january_24_2006/)
-- [Focusing Tip #044 – ](https://focusingresources.com/2006/02/13/january_17_2006/)
-- [Focusing Tip #043 – ](https://focusingresources.com/2006/02/13/january_10_2006/)
-- [Focusing Tip #042 – ](https://focusingresources.com/2006/02/13/january_3_2006/)
-- [Focusing Tip #041 – ](https://focusingresources.com/2006/02/13/december_27_200/)
+- [Focusing Tip #050 – If the opposite if criticism is feedback, then the opposite of defensiveness is curiosity.](https://focusingresources.com/2006/03/07/february_28_200/)
+- [Focusing Tip #049 – Why does the Focusing community emphasize Focusing with a partner?](https://focusingresources.com/2006/03/07/february_21_200/)
+- [Focusing Tip #048 – Love, Romance, and Focusing](https://focusingresources.com/2006/03/07/february_14_200/)
+- [Focusing Tip #047 – “My Mind is Keeping Me Away from My Body”](https://focusingresources.com/2006/02/13/february_7_2006/)
+- [Focusing Tip #046 – “I Wish I Didn’t Feel So Anxious”](https://focusingresources.com/2006/02/13/january_31_2006/)
+- [Focusing Tip #045 – Can you trust what you feel?](https://focusingresources.com/2006/02/13/january_24_2006/)
+- [Focusing Tip #044 – Images and Focusing, Part Two](https://focusingresources.com/2006/02/13/january_17_2006/)
+- [Focusing Tip #043 – Images and Focusing](https://focusingresources.com/2006/02/13/january_10_2006/)
+- [Focusing Tip #042 – Turning Over a New Calendar Page](https://focusingresources.com/2006/02/13/january_3_2006/)
+- [Focusing Tip #041 – Is it possible to have self-improvement without self-criticism?](https://focusingresources.com/2006/02/13/december_27_200/)
 
 ### 0031 to 0040
 - [Focusing Tip #040 – ](https://focusingresources.com/2006/02/13/december_20_200/)
