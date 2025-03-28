@@ -997,16 +997,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #111 – Feelings We Don’t Know the Reason For](https://focusingresources.com/2007/06/18/may_15_2007_111/)
 
 ### 0101 to 0110
-- [Focusing Tip #110](https://focusingresources.com/2007/05/24/may_8_2007_110/)
-- [Focusing Tip #109](https://focusingresources.com/2007/05/24/may_1_2007_109/)
-- [Focusing Tip #108](https://focusingresources.com/2007/05/24/april_24_2007_1/)
-- [Focusing Tip #107](https://focusingresources.com/2007/05/24/april_17_2007_1/)
-- [Focusing Tip #106](https://focusingresources.com/2007/05/24/april_10_2007_1/)
-- [Focusing Tip #105](https://focusingresources.com/2007/05/24/april_3_2007_10/)
-- [Focusing Tip #104](https://focusingresources.com/2007/05/24/march_27_2007_1/)
-- [Focusing Tip #103](https://focusingresources.com/2007/05/24/march_20_2007_1/)
-- [Focusing Tip #102](https://focusingresources.com/2007/05/01/march_13_2007_1/)
-- [Focusing Tip #101](https://focusingresources.com/2007/03/07/march_6_2007_10/)
+- [Focusing Tip #110 – "Is that the felt sense?"](https://focusingresources.com/2007/05/24/may_8_2007_110/)
+- [Focusing Tip #109 – "What if I want to kill this person?"](https://focusingresources.com/2007/05/24/may_1_2007_109/)
+- [Focusing Tip #108 – Does Being With an Experience Naturally Bring Change?](https://focusingresources.com/2007/05/24/april_24_2007_1/)
+- [Focusing Tip #107 – Sharing Focusing with People in My Daily Life](https://focusingresources.com/2007/05/24/april_17_2007_1/)
+- [Focusing Tip #106 – The Spiritual Path of Focusing](https://focusingresources.com/2007/05/24/april_10_2007_1/)
+- [Focusing Tip #105 – Relational Differences Between Focusing Partner and Therapist](https://focusingresources.com/2007/05/24/april_3_2007_10/)
+- [Focusing Tip #104 – "How can Focusing be used to transform our relationships?"](https://focusingresources.com/2007/05/24/march_27_2007_1/)
+- [Focusing Tip #103 – Using Focusing with Bodywork Clients](https://focusingresources.com/2007/05/24/march_20_2007_1/)
+- [Focusing Tip #102 – Using Focusing with Depression](https://focusingresources.com/2007/05/01/march_13_2007_1/)
+- [Focusing Tip #101 – "A pervasive and general unease"](https://focusingresources.com/2007/03/07/march_6_2007_10/)
 
 ## 0001 to 0100
 ### 0091 to 0100
