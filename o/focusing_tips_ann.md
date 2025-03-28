@@ -1112,7 +1112,7 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #017 – May Focusing be a constant friend to you in all that you do.](https://focusingresources.com/2005/10/26/july_12_2005/)
 - [Focusing Tip #016 – It’s so great to be living a Focusing life!](https://focusingresources.com/2005/10/26/july_5_2005/)
 - [Focusing Tip #015 – Sometimes the most valuable parts of a session emerge at the very end!](https://focusingresources.com/2005/10/26/june_28_2005/)
-- [Focusing Tip #014 – ](https://focusingresources.com/2005/10/26/june_21_2005/)
+- [Focusing Tip #014 – Treasure Maps to the Soul workshops](https://focusingresources.com/2005/10/26/june_21_2005/)
 - [Focusing Tip #013 – What a great life!](https://focusingresources.com/2005/10/26/june_14_2005/)
 - [Focusing Tip #012 – I’m convinced that Focusing brings out the best in people!](https://focusingresources.com/2005/10/26/june_7_2005/)
 - [Focusing Tip #011 – The Radical Acceptance of Everything](https://focusingresources.com/2005/10/26/may_24_2005/)
