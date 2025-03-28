@@ -501,7 +501,7 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #521 – “Do I need to remember what happened in Focusing?”](https://focusingresources.com/2016/08/10/remember-what-happened-focusing-session/)
 
 ### 0511 to 0520
-- [Focusing Tip #520 – When it’s a good idea to work with a therapist…](https://focusingresources.com/2016/07/27/17048/)
+- [Focusing Tip #520 – When it’s a good idea to work with a therapist…](https://focusingresources.com/2016/07/27/when-its-a-good-idea-to-work-with-a-therapist/)
 - [Focusing Tip #519 – What can you do when a heavy, dull feeling takes over?](https://focusingresources.com/2016/07/20/heavy-dull-feeling-takes-over/)
 - [Focusing Tip #518 – “I’m feeling unbearably sad about what’s going on.”](https://focusingresources.com/2016/07/13/unbearably-sad-about-whats-going-on/)
 - [Focusing Tip #517 – “My inner critic uses my mother’s voice.”](https://focusingresources.com/2016/07/06/inner-critic-uses-mothers-voice/)
@@ -529,7 +529,7 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #500 – Why Focusing is a gift to sensitive people.](https://focusingresources.com/2016/03/09/focusing-gift-sensitive-people/)
 - [Focusing Tip #499 – “I hate myself!”](https://focusingresources.com/2016/03/02/i-hate-myself/)
 - [Focusing Tip #498 – “My sister treats me badly.”](https://focusingresources.com/2016/02/24/my-sister-treats-me-badly/)
-- [Focusing Tip #497 – “Is it normal to feel other people’s feelings?”](https://focusingresources.com/2016/02/17/16376/)
+- [Focusing Tip #497 – “Is it normal to feel other people’s feelings?”](https://focusingresources.com/2016/02/17/is-it-normal-to-feel-other-peoples-feelings/)
 - [Focusing Tip #496 – Focusing When Mentally Foggy](https://focusingresources.com/2016/02/10/focusing-when-mentally-foggy/)
 - [Focusing Tip #495 – Blocks, Addiction, Depression, and Longing](https://focusingresources.com/2016/02/03/blocks-addiction-depression-and-longing/)
 - [Focusing Tip #494 – “I wake up wanting to die.”](https://focusingresources.com/2016/01/27/wanting-to-die/)
