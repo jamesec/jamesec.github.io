@@ -1022,16 +1022,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #091 – “Why are you still in this quandary?”](https://focusingresources.com/2007/01/25/december_19_200/)
 
 ### 0081 to 0090
-- [Focusing Tip #090](https://focusingresources.com/2007/01/25/december_12_200/)
-- [Focusing Tip #089](https://focusingresources.com/2006/12/09/december_5_2006/)
-- [Focusing Tip #088](https://focusingresources.com/2006/12/09/november_28_200/)
-- [Focusing Tip #087](https://focusingresources.com/2006/12/09/november_21_200/)
-- [Focusing Tip #086](https://focusingresources.com/2006/12/09/november_14_200/)
-- [Focusing Tip #085](https://focusingresources.com/2006/11/13/november_7_2006/)
-- [Focusing Tip #084](https://focusingresources.com/2006/11/13/october_31_2006/)
-- [Focusing Tip #083](https://focusingresources.com/2006/11/13/october_24_2006/)
-- [Focusing Tip #082](https://focusingresources.com/2006/11/13/october_17_2006/)
-- [Focusing Tip #081](https://focusingresources.com/2006/11/13/october_10_2006/)
+- [Focusing Tip #090 – “I was thinking that by Focusing I was being selfish”](https://focusingresources.com/2007/01/25/december-12-2006/)
+- [Focusing Tip #089 – “I always came to that same place of fear”](https://focusingresources.com/2006/12/09/december_5_2006/)
+- [Focusing Tip #088 – “Is There an End to This?”](https://focusingresources.com/2006/12/09/november_28_200/)
+- [Focusing Tip #087 – Good Boundaries and Your Focusing Partnership](https://focusingresources.com/2006/12/09/november_21_200/)
+- [Focusing Tip #086 – Focusing and Meditation Share a Long Path](https://focusingresources.com/2006/12/09/november_14_200/)
+- [Focusing Tip #085 – Radical Acceptance of How Much I Weigh](https://focusingresources.com/2006/11/13/november_7_2006/)
+- [Focusing Tip #084 – What Does “It’s Scary” Mean?](https://focusingresources.com/2006/11/13/october_31_2006/)
+- [Focusing Tip #083 – Nothing Inside You Wants to Hurt You](https://focusingresources.com/2006/11/13/october_24_2006/)
+- [Focusing Tip #082 – “That struggle is exhausting!”](https://focusingresources.com/2006/11/13/october_17_2006/)
+- [Focusing Tip #081 – “I have a hard time staying on track…”](https://focusingresources.com/2006/11/13/october_10_2006/)
 
 ### 0071 to 0080
 - [Focusing Tip #080](https://focusingresources.com/2006/10/10/and_then_the_pa/)
