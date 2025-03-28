@@ -985,16 +985,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #121 – Focusing and Falling Asleep](https://focusingresources.com/2007/07/24/july-24-2007-3/)
 
 ### 0111 to 0120
-- [Focusing Tip #120](https://focusingresources.com/2007/07/18/july-17-2007-12/)
-- [Focusing Tip #119](https://focusingresources.com/2007/07/10/july-10-2007-11/)
-- [Focusing Tip #118](https://focusingresources.com/2007/07/10/july-3-2007-118/)
-- [Focusing Tip #117](https://focusingresources.com/2007/06/26/june-26-2007-11/)
-- [Focusing Tip #116](https://focusingresources.com/2007/06/18/june_19_2007_11/)
-- [Focusing Tip #115](https://focusingresources.com/2007/06/18/june_12_2007_11/)
-- [Focusing Tip #114](https://focusingresources.com/2007/06/18/june_5_2007_114/)
-- [Focusing Tip #113](https://focusingresources.com/2007/06/18/may_29_2007_113/)
-- [Focusing Tip #112](https://focusingresources.com/2007/06/18/may_22_2007_112/)
-- [Focusing Tip #111](https://focusingresources.com/2007/06/18/may_15_2007_111/)
+- [Focusing Tip #120 – Parts and Wholeness](https://focusingresources.com/2007/07/18/july-17-2007-12/)
+- [Focusing Tip #119 – "I seemingly have two distinct experiences with Focusing."](https://focusingresources.com/2007/07/10/july-10-2007-11/)
+- [Focusing Tip #118 – "How often should I do Focusing?"](https://focusingresources.com/2007/07/10/july-3-2007-118/)
+- [Focusing Tip #117 – Was that image just distracting me?](https://focusingresources.com/2007/06/26/june-26-2007-11/)
+- [Focusing Tip #116 – “… a sensation of being detached…”](https://focusingresources.com/2007/06/18/june_19_2007_11/)
+- [Focusing Tip #115 – Focusing and Yoga](https://focusingresources.com/2007/06/18/june_12_2007_11/)
+- [Focusing Tip #114 – Focusing with "Psychosomatic" Illness](https://focusingresources.com/2007/06/18/june_5_2007_114/)
+- [Focusing Tip #113 – "It seems there is not enough time."](https://focusingresources.com/2007/06/18/may_29_2007_113/)
+- [Focusing Tip #112 – The Relationship between Presence and the Felt Sense](https://focusingresources.com/2007/06/18/may_22_2007_112/)
+- [Focusing Tip #111 – Feelings We Don’t Know the Reason For](https://focusingresources.com/2007/06/18/may_15_2007_111/)
 
 ### 0101 to 0110
 - [Focusing Tip #110](https://focusingresources.com/2007/05/24/may_8_2007_110/)
