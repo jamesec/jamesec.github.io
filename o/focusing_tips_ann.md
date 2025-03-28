@@ -949,16 +949,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #151 – Using Focusing at a Planning Meeting](https://focusingresources.com/2008/03/05/february-26-200/)
 
 ### 0141 to 0150
-- [Focusing Tip #150](https://focusingresources.com/2008/03/05/february-19-200/)
-- [Focusing Tip #149](https://focusingresources.com/2008/02/18/february-12-200/)
-- [Focusing Tip #148](https://focusingresources.com/2008/02/18/february-5-2008/)
-- [Focusing Tip #147](https://focusingresources.com/2008/02/18/january-29-2008/)
-- [Focusing Tip #146](https://focusingresources.com/2008/02/18/january-22-2008/)
-- [Focusing Tip #145](https://focusingresources.com/2008/01/15/january-15-2008/)
-- [Focusing Tip #144](https://focusingresources.com/2008/01/15/january-8-2008/)
-- [Focusing Tip #143](https://focusingresources.com/2008/01/15/january-1-2008/)
-- [Focusing Tip #142](https://focusingresources.com/2007/12/20/december-18-200/)
-- [Focusing Tip #141](https://focusingresources.com/2007/12/12/december-2007-1/)
+- [Focusing Tip #150 – When Lots of Things Come at the Start](https://focusingresources.com/2008/03/05/february-19-200/)
+- [Focusing Tip #149 – Focusing with Chronic Holding Patterns](https://focusingresources.com/2008/02/18/february-12-200/)
+- [Focusing Tip #148 – "My Whole Body Became Like Stone"](https://focusingresources.com/2008/02/18/february-5-2008/)
+- [Focusing Tip #147 – The Wanted Feeling in Every Part](https://focusingresources.com/2008/02/18/january-29-2008/)
+- [Focusing Tip #146 – Feeling "Burdened, Guilty, and Ugly"](https://focusingresources.com/2008/02/18/january-22-2008/)
+- [Focusing Tip #145 – Focusing with Traumatic Memories](https://focusingresources.com/2008/01/15/january-15-2008/)
+- [Focusing Tip #144 – Can I Say ‘No’ to My Parts?](https://focusingresources.com/2008/01/15/january-8-2008/)
+- [Focusing Tip #143 – Are You Being Gentle with Yourself?](https://focusingresources.com/2008/01/15/january-1-2008/)
+- [Focusing Tip #142 – Holding All of Me, Including that Part of Me…](https://focusingresources.com/2007/12/20/december-18-200/)
+- [Focusing Tip #141 – Focusing with Intimate Partners](https://focusingresources.com/2007/12/12/december-2007-1/)
 
 ### 0131 to 0140
 - [Focusing Tip #140](https://focusingresources.com/2007/12/05/december-4-2007/)
