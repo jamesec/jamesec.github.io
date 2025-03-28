@@ -961,16 +961,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #141 – Focusing with Intimate Partners](https://focusingresources.com/2007/12/12/december-2007-1/)
 
 ### 0131 to 0140
-- [Focusing Tip #140](https://focusingresources.com/2007/12/05/december-4-2007/)
-- [Focusing Tip #139](https://focusingresources.com/2007/12/05/november-27-200/)
-- [Focusing Tip #138](https://focusingresources.com/2007/12/05/november-20-200/)
-- [Focusing Tip #137](https://focusingresources.com/2007/12/05/november-13-200/)
-- [Focusing Tip #136](https://focusingresources.com/2007/11/12/november-6-2007/)
-- [Focusing Tip #135](https://focusingresources.com/2007/11/12/october-30-2007/)
-- [Focusing Tip #134](https://focusingresources.com/2007/10/23/october-23-2007/)
-- [Focusing Tip #133](https://focusingresources.com/2007/10/18/october-16-2007/)
-- [Focusing Tip #132](https://focusingresources.com/2007/10/11/october-9-2007/)
-- [Focusing Tip #131](https://focusingresources.com/2007/10/11/october-2-2007/)
+- [Focusing Tip #140 – Focusing and Panic Attacks](https://focusingresources.com/2007/12/05/december-4-2007/)
+- [Focusing Tip #139 – Focusing vs. The Law of Attraction](https://focusingresources.com/2007/12/05/november-27-200/)
+- [Focusing Tip #138 – Protecting the Focusing Space](https://focusingresources.com/2007/12/05/november-20-200/)
+- [Focusing Tip #137 – Scary Part or Scared Part?](https://focusingresources.com/2007/12/05/november-13-200/)
+- [Focusing Tip #136 – Is There Such a Thing as a "Sensitive Person"?](https://focusingresources.com/2007/11/12/november-6-2007/)
+- [Focusing Tip #135 – Presence with Tough Places Focusing Alone](https://focusingresources.com/2007/11/12/october-30-2007/)
+- [Focusing Tip #134 – Focusing with Intense Pain](https://focusingresources.com/2007/10/23/october-23-2007/)
+- [Focusing Tip #133 – Focusing When You Already Feel Good](https://focusingresources.com/2007/10/18/october-16-2007/)
+- [Focusing Tip #132 – The Inner Child and Focusing](https://focusingresources.com/2007/10/11/october-9-2007/)
+- [Focusing Tip #131 – "I feel awkward saying Hello to something I know is me."](https://focusingresources.com/2007/10/11/october-2-2007/)
 
 ### 0121 to 0130
 - [Focusing Tip #130](https://focusingresources.com/2007/10/11/september-25-20/)
