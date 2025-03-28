@@ -1046,16 +1046,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #071 – “I Used to Do Focusing…”](https://focusingresources.com/2006/08/31/aug_1_2006/)
 
 ### 0061 to 0070
-- [Focusing Tip #070](https://focusingresources.com/2006/08/31/july_25_2006/)
-- [Focusing Tip #069](https://focusingresources.com/2006/08/31/july_18_2006/)
-- [Focusing Tip #068](https://focusingresources.com/2006/08/31/july_11_2006/)
-- [Focusing Tip #067](https://focusingresources.com/2006/08/10/july_4_2006/)
-- [Focusing Tip #066](https://focusingresources.com/2006/07/05/june_27_2006/)
-- [Focusing Tip #065](https://focusingresources.com/2006/07/05/june_20_2006/)
-- [Focusing Tip #064](https://focusingresources.com/2006/07/05/june_13_2006/)
-- [Focusing Tip #063](https://focusingresources.com/2006/07/05/june_6_2006/)
-- [Focusing Tip #062](https://focusingresources.com/2006/07/05/may_30_2006/)
-- [Focusing Tip #061](https://focusingresources.com/2006/05/30/may_23_2006/)
+- [Focusing Tip #070 – Finding Treasure in Relationships…](https://focusingresources.com/2006/08/31/july_25_2006/)
+- [Focusing Tip #069 – The Part that Doesn’t Want To](https://focusingresources.com/2006/08/31/july_18_2006/)
+- [Focusing Tip #068 – “I Don’t Want to Know”](https://focusingresources.com/2006/08/31/july_11_2006/)
+- [Focusing Tip #067 – “So What is Focusing Anyway?”](https://focusingresources.com/2006/08/10/july_4_2006/)
+- [Focusing Tip #066 – The Tears are Too Close](https://focusingresources.com/2006/07/05/june_27_2006/)
+- [Focusing Tip #065 – The Recipe for “Stuck”](https://focusingresources.com/2006/07/05/june_20_2006/)
+- [Focusing Tip #064 – The Language of Opening and Flowing](https://focusingresources.com/2006/07/05/june_13_2006/)
+- [Focusing Tip #063 – Say “Yes” to What Comes](https://focusingresources.com/2006/07/05/june_6_2006/)
+- [Focusing Tip #062 – “I Don’t Like This Feeling!”](https://focusingresources.com/2006/07/05/may_30_2006/)
+- [Focusing Tip #061 – Distractions Are Us](https://focusingresources.com/2006/05/30/may_23_2006/)
 
 ### 0051 to 0060
 - [Focusing Tip #060](https://focusingresources.com/2006/05/30/may_16_2006/)
