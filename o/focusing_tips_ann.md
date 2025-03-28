@@ -973,16 +973,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #131 – "I feel awkward saying Hello to something I know is me."](https://focusingresources.com/2007/10/11/october-2-2007/)
 
 ### 0121 to 0130
-- [Focusing Tip #130](https://focusingresources.com/2007/10/11/september-25-20/)
-- [Focusing Tip #129](https://focusingresources.com/2007/09/19/september-18-20/)
-- [Focusing Tip #128](https://focusingresources.com/2007/09/12/september-11-20/)
-- [Focusing Tip #127](https://focusingresources.com/2007/09/12/september-4-200/)
-- [Focusing Tip #126](https://focusingresources.com/2007/08/29/august-28-2007/)
-- [Focusing Tip #125](https://focusingresources.com/2007/08/27/august-21-2007/)
-- [Focusing Tip #124](https://focusingresources.com/2007/08/27/august-14-2007/)
-- [Focusing Tip #123](https://focusingresources.com/2007/08/07/august-7-2007-1/)
-- [Focusing Tip #122](https://focusingresources.com/2007/08/01/july-31-2007-12/)
-- [Focusing Tip #121](https://focusingresources.com/2007/07/24/july-24-2007-3/)
+- [Focusing Tip #130 – Does meditation exile part of us?](https://focusingresources.com/2007/10/11/september-25-20/)
+- [Focusing Tip #129 – What About Feelings in the Face and Neck?](https://focusingresources.com/2007/09/19/september-18-20/)
+- [Focusing Tip #128 – Why It’s Important to Feel the Whole Thing](https://focusingresources.com/2007/09/12/september-11-20/)
+- [Focusing Tip #127 – When Something Won't Move](https://focusingresources.com/2007/09/12/september-4-200/)
+- [Focusing Tip #126 – When You Get Sleepy During Focusing](https://focusingresources.com/2007/08/29/august-28-2007/)
+- [Focusing Tip #125 – Getting Unstuck](https://focusingresources.com/2007/08/27/august-21-2007/)
+- [Focusing Tip #124 – The Felt Sense is Not the Usual Emotions](https://focusingresources.com/2007/08/27/august-14-2007/)
+- [Focusing Tip #123 – The Felt Sense is Always the Difference](https://focusingresources.com/2007/08/07/august-7-2007-1/)
+- [Focusing Tip #122 – Focusing and Hypnotherapy](https://focusingresources.com/2007/08/01/july-31-2007-12/)
+- [Focusing Tip #121 – Focusing and Falling Asleep](https://focusingresources.com/2007/07/24/july-24-2007-3/)
 
 ### 0111 to 0120
 - [Focusing Tip #120](https://focusingresources.com/2007/07/18/july-17-2007-12/)
