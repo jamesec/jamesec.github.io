@@ -1117,7 +1117,7 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #012 – I’m convinced that Focusing brings out the best in people!](https://focusingresources.com/2005/10/26/june_7_2005/)
 - [Focusing Tip #011 – The Radical Acceptance of Everything](https://focusingresources.com/2005/10/26/may_24_2005/)
 
-### 00000 to 0010
+### 0000 to 0010
 - [Focusing Tip #010 – With Focusing, you are with yourself, aligned with how you are, in touch and in the moment. Where truth is.](https://focusingresources.com/2005/10/26/may_17_2005/)
 - [Focusing Tip #009 – Focusing is deep listening, sinking into the present moment, how it is for you right now.](https://focusingresources.com/2005/10/26/may_10_2005/)
 - [Focusing Tip #008 – “What’s so marvelous about this process is that you can be the listener and let your body speak.”](https://focusingresources.com/2005/10/26/may_3_2005/)
