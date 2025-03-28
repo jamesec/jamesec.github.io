@@ -1034,16 +1034,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #081 – “I have a hard time staying on track…”](https://focusingresources.com/2006/11/13/october_10_2006/)
 
 ### 0071 to 0080
-- [Focusing Tip #080](https://focusingresources.com/2006/10/10/and_then_the_pa/)
-- [Focusing Tip #079](https://focusingresources.com/2006/10/10/september_26_20/)
-- [Focusing Tip #078](https://focusingresources.com/2006/10/10/september_19_20/)
-- [Focusing Tip #077](https://focusingresources.com/2006/09/26/september_12_20/)
-- [Focusing Tip #076](https://focusingresources.com/2006/09/26/september_5_200/)
-- [Focusing Tip #075](https://focusingresources.com/2006/08/31/aug_29_2006/)
-- [Focusing Tip #074](https://focusingresources.com/2006/08/31/aug_22_2006/)
-- [Focusing Tip #073](https://focusingresources.com/2006/08/31/aug_15_2006/)
-- [Focusing Tip #072](https://focusingresources.com/2006/08/31/aug_8_2006/)
-- [Focusing Tip #071](https://focusingresources.com/2006/08/31/aug_1_2006/)
+- [Focusing Tip #080 – And then the pain went away…](https://focusingresources.com/2006/10/10/october-3-2006/)
+- [Focusing Tip #079 – When Something is Hiding](https://focusingresources.com/2006/10/10/september_26_20/)
+- [Focusing Tip #078 – Focusing with Specific Issues](https://focusingresources.com/2006/10/10/september_19_20/)
+- [Focusing Tip #077 – When We Want Change Too Much](https://focusingresources.com/2006/09/26/september_12_20/)
+- [Focusing Tip #076 – More About Using Focusing in Group Settings](https://focusingresources.com/2006/09/26/september_5_200/)
+- [Focusing Tip #075 – How Can We Use Focusing in Group Settings?](https://focusingresources.com/2006/08/31/aug_29_2006/)
+- [Focusing Tip #074 – How Do I Start Focusing without Awkwardness?](https://focusingresources.com/2006/08/31/aug_22_2006/)
+- [Focusing Tip #073 – How Do Get Calm Enough to Start Focusing?](https://focusingresources.com/2006/08/31/aug_15_2006/)
+- [Focusing Tip #072 – Your Burning Question about Focusing](https://focusingresources.com/2006/08/31/aug_8_2006/)
+- [Focusing Tip #071 – “I Used to Do Focusing…”](https://focusingresources.com/2006/08/31/aug_1_2006/)
 
 ### 0061 to 0070
 - [Focusing Tip #070](https://focusingresources.com/2006/08/31/july_25_2006/)
