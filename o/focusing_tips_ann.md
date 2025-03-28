@@ -1010,16 +1010,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 
 ## 0001 to 0100
 ### 0091 to 0100
-- [Focusing Tip #100](https://focusingresources.com/2007/03/07/february_27_200/)
-- [Focusing Tip #099](https://focusingresources.com/2007/02/23/february_20_200/)
-- [Focusing Tip #098](https://focusingresources.com/2007/02/23/february_13_200/)
-- [Focusing Tip #097](https://focusingresources.com/2007/02/23/february_6_2007/)
-- [Focusing Tip #096](https://focusingresources.com/2007/02/23/january_20_2007/)
-- [Focusing Tip #095](https://focusingresources.com/2007/02/23/january_23_2007/)
-- [Focusing Tip #094](https://focusingresources.com/2007/02/05/january_16_2007/)
-- [Focusing Tip #093](https://focusingresources.com/2007/02/05/january_9_2007/)
-- [Focusing Tip #092](https://focusingresources.com/2007/02/05/january_2_2007/)
-- [Focusing Tip #091](https://focusingresources.com/2007/01/25/december_19_200/)
+- [Focusing Tip #100 – "It seemed like the first thing they needed was to find Presence."](https://focusingresources.com/2007/03/07/february_27_200/)
+- [Focusing Tip #099 – "How Do You Present Focusing to a Client...?"](https://focusingresources.com/2007/02/23/february_20_200/)
+- [Focusing Tip #098 – "How Do I Start with Nothing There?"](https://focusingresources.com/2007/02/23/february_13_200/)
+- [Focusing Tip #097 – "How Can I Focus Alone?"](https://focusingresources.com/2007/02/23/february_6_2007/)
+- [Focusing Tip #096 – "Thanks for listening!"](https://focusingresources.com/2007/02/23/january_20_2007/)
+- [Focusing Tip #095 – "How Can I Give My Daughter Some Focusing Insights?"](https://focusingresources.com/2007/02/23/january_23_2007/)
+- [Focusing Tip #094 – Is the Critic Really Positive?](https://focusingresources.com/2007/02/05/january_16_2007/)
+- [Focusing Tip #093 – Managing Stress](https://focusingresources.com/2007/02/05/january_9_2007/)
+- [Focusing Tip #092 – The Journey Towards Peace](https://focusingresources.com/2007/02/05/january_2_2007/)
+- [Focusing Tip #091 – “Why are you still in this quandary?”](https://focusingresources.com/2007/01/25/december_19_200/)
 
 ### 0081 to 0090
 - [Focusing Tip #090](https://focusingresources.com/2007/01/25/december_12_200/)
