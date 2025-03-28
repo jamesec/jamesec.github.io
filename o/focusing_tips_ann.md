@@ -1082,16 +1082,16 @@ Weekly Tips & Support for Focusing by Ann Weiser Cornell
 - [Focusing Tip #041 – Is it possible to have self-improvement without self-criticism?](https://focusingresources.com/2006/02/13/december_27_200/)
 
 ### 0031 to 0040
-- [Focusing Tip #040 – ](https://focusingresources.com/2006/02/13/december_20_200/)
-- [Focusing Tip #039 – ](https://focusingresources.com/2006/02/13/december_13_200/)
-- [Focusing Tip #038 – ](https://focusingresources.com/2006/02/13/december_6_2005/)
-- [Focusing Tip #037 – ](https://focusingresources.com/2006/02/13/november_29_200/)
-- [Focusing Tip #036 – ](https://focusingresources.com/2006/02/13/november_22_200/)
-- [Focusing Tip #035 – ](https://focusingresources.com/2006/02/13/november_15_200/)
-- [Focusing Tip #034 – ](https://focusingresources.com/2006/02/13/november_8_2005/)
-- [Focusing Tip #033 – ](https://focusingresources.com/2006/02/13/november_1_2005/)
-- [Focusing Tip #032 – ](https://focusingresources.com/2005/10/26/october_25_2005/)
-- [Focusing Tip #031 – ](https://focusingresources.com/2005/10/26/october_18_2005/)
+- [Focusing Tip #040 – Focusing and Gift Shopping](https://focusingresources.com/2006/02/13/december_20_200/)
+- [Focusing Tip #039 – More on Focusing in the Midst of Life](https://focusingresources.com/2006/02/13/december_13_200/)
+- [Focusing Tip #038 – The Fastest Way to Get Back to Myself](https://focusingresources.com/2006/02/13/december_6_2005/)
+- [Focusing Tip #037 – Focusing allows us to be a friend to a part of us that is in pain.](https://focusingresources.com/2006/02/13/november_29_200/)
+- [Focusing Tip #036 – Focusing allows us to experience physical symptoms in a different way.](https://focusingresources.com/2006/02/13/november_22_200/)
+- [Focusing Tip #035 – Focusing is a fresh entering into our experience of life and situations, right now, just as we are.](https://focusingresources.com/2006/02/13/november_15_200/)
+- [Focusing Tip #034 – Slowing Down While Focusing](https://focusingresources.com/2006/02/13/november_8_2005/)
+- [Focusing Tip #033 – Focusing let’s us experience strong emotions in a different way, from a larger perspective, not being caught up in our feelings but being WITH them. ](https://focusingresources.com/2006/02/13/november_1_2005/)
+- [Focusing Tip #032 – Focusing offers a fresh way of approaching all the issues in our lives, not mired in the familiar stuck process, but sensing how it is NOW…](https://focusingresources.com/2005/10/26/october_25_2005/)
+- [Focusing Tip #031 – An Inner Relationship](https://focusingresources.com/2005/10/26/october_18_2005/)
 
 ### 0021 to 0030
 - [Focusing Tip #030 – ](https://focusingresources.com/2005/10/26/october_11_2005/)
