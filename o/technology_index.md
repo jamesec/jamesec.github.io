@@ -1,5 +1,6 @@
 # Technology
 
+- [Reading PDFs in dark mode on macOS with Skim PDF reader](s.htm?p=pdf_dark_skim)
 - Some mac apps
 - Browsers as the most important tools
 - [Best way to save your chat history with ChatGPT](s.htm?p=export_chatgpt)
