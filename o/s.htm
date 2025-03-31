@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="/assets/images/Extra_Terrestrial_alien.png">
+    <link rel="stylesheet" href="/assets/styles/mvp_1.15.css">
+    <link rel="stylesheet" href="/assets/styles/styles_evenc.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="module" src="/assets/scripts/zero-md.min_2.5.4_evenc.js"></script>
+    <base target="_blank">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="/" title="Go to the homepage" target="_self"><img alt="James Even Chen" src="/assets/images/Extra_Terrestrial_alien.png" height="66"></a>
+            <ul>
+                <li><a href="/" title="Go to the homepage" target="_self">Home</a></li>
+                <li><a href="/now/" title="What I'm doing now" target="_self">Now</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                const searchParams = new URLSearchParams(window.location.search);
+                var md_file = searchParams.get('p');
+                var isURL = md_file && (md_file.startsWith('http://') || md_file.startsWith('https://'));
+    
+                // Check if the 'p' parameter contains a URL or a local file
+                if (isURL) {
+                    // If it's a URL, handle HTTP/HTTPS markdown files
+                    loadRemoteMarkdown(md_file);
+                } else {
+                    // If it's a local file, append ".md" and check if the file exists
+                    md_file = md_file + ".md";
+                    checkLocalFile(md_file);
+                }
+    
+                // Function to load a remote markdown file (HTTP/HTTPS)
+                function loadRemoteMarkdown(url) {
+                    fetch(url, { method: 'HEAD' })
+                        .then(response => {
+                            if (response.ok) {
+                                // If the remote file exists, load it
+                                var zeroMdElement = document.querySelector('zero-md');
+                                zeroMdElement.setAttribute('src', url);
+    
+                                // Wait for zero-md to finish loading and rendering
+                                zeroMdElement.addEventListener('zero-md-rendered', function() {
+                                    updateTitle(zeroMdElement);
+                                });
+                            } else {
+                                // If the remote file doesn't exist, show an alert
+                                alert("The markdown file you're trying to load doesn't exist:\n" + url);
+                                console.error("Remote markdown file not found: " + url);
+                            }
+                        })
+                        .catch(error => {
+                            // If there's a network error (e.g., DNS issues), show an alert
+                            alert("There was an error loading the remote markdown file:\n" + error);
+                            console.error("Error loading remote file: " + error);
+                        });
+                }
+    
+                // Function to check if a local markdown file exists
+                function checkLocalFile(file) {
+                    fetch(file, { method: 'HEAD' })
+                        .then(response => {
+                            if (response.ok) {
+                                // If the local file exists, load it
+                                loadLocalMarkdown(file);
+                            } else {
+                                // If the local file doesn't exist, redirect to the 404 page
+                                window.location.href = '/404';  // Adjust the path if your 404 page is in a different location
+                            }
+                        })
+                        .catch(error => {
+                            // If there's an error checking the file (e.g., network issues), redirect to 404
+                            window.location.href = '/404';  // Adjust the path if your 404 page is in a different location
+                            console.error("Error checking local file: " + error);
+                        });
+                }
+    
+                // Function to load a local markdown file
+                function loadLocalMarkdown(file) {
+                    var zeroMdElement = document.querySelector('zero-md');
+                    zeroMdElement.setAttribute('src', file);
+    
+                    // Wait for zero-md to finish loading and rendering
+                    zeroMdElement.addEventListener('zero-md-rendered', function() {
+                        updateTitle(zeroMdElement);
+                    });
+                }
+    
+                // Function to update the title of the page after rendering the markdown
+                function updateTitle(zeroMdElement) {
+                    const h1Element = zeroMdElement.shadowRoot.querySelector('h1');
+                    const title = h1Element ? h1Element.textContent : 'Untitled';
+                    document.title = title + " - James Even Chen";
+                }
+            });
+        </script>
+    
+        <zero-md></zero-md>
+    
+        <!-- This will only display if JavaScript is disabled -->
+        <noscript>
+            <p>JavaScript is necessary to display this page. Enable it and refresh to continue.</p>
+        </noscript>
+    </main>
+
+    <footer>
+        <hr>
+        <p class="right-aligned">
+            <a href="/" title="Go to the homepage" target="_self">James Even Chen</a><br>
+        </p>
+    </footer>
+</body>
+</html>
