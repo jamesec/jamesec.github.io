@@ -36,13 +36,13 @@ Weekly Tips & Support for Focusing by [Ann Weiser Cornell](https://focusingresou
 - Focusing Tip #906 – Resolving a family conflict about needs
 - Focusing Tip #905 – On waking up with an uncomfortable body feeling
 - Focusing Tip #904 – How to know what to Focus on
-- Focusing Tip #903 – Deciding between two job options
-- Focusing Tip #902 – "It doesn't always feel like just something in me"
-- Focusing Tip #901 – "A lot of my thoughts are rooted in some sort of worry"
+- [Focusing Tip #903 – Deciding between two job options](https://focusingresources.com/2024/08/28/focusing-tip-903-deciding-between-two-job-options/)
+- [Focusing Tip #902 – "It doesn't always feel like just something in me"](https://focusingresources.com/2024/08/21/focusing-tip-902-parts-it-doesnt-always-feel-like-just-something-in-me/)
+- [Focusing Tip #901 – "A lot of my thoughts are rooted in some sort of worry"](https://focusingresources.com/2024/08/15/focusing-tip-901-anxious-parts-a-lot-of-my-thoughts-are-rooted-in-some-sort-of-worry/)
 
 ## 0801 to 0900
 ### 0891 to 0900
-- Focusing Tip #900 – "I can't keep up when opinions are flying around"
+- [Focusing Tip #900 – "I can't keep up when opinions are flying around"](https://focusingresources.com/2024/08/27/focusing-tip-900-slowing-down-i-cant-keep-up-when-opinions-are-flying-around/)
 - [Focusing Tip #899 – "A traumatized part won't let me sleep"](https://focusingresources.com/2024/07/24/focusing-tip-899-a-traumatized-part-wont-let-me-sleep/)
 - [Focusing Tip #898 – Merged with Parts – “I get lost in my negative pain”](https://focusingresources.com/2024/07/17/focusing-tip-898-merged-with-parts-i-get-lost-in-my-negative-pain/)
 - [Focusing Tip #897 – What about the over-permissive inner voice?](https://focusingresources.com/2024/07/10/focusing-tip-897-what-about-the-over-permissive-inner-voice/)
