@@ -5,6 +5,9 @@ Weekly Tips & Support for Focusing by [Ann Weiser Cornell](https://focusingresou
 - [Ann's Weekly Focusing Tips – Sign up here](https://focusingresources.com/anns-weekly-tips/)
 
 ## 0901+
+### 0931 to 0940
+- Focusing Tip #931 – "I don't feel anything."
+
 ### 0921 to 0930
 - Focusing Tip #930 – "With pain... how do we make sure we’re not ‘belittling’ the feeling?"
 - Focusing Tip #929 – If your client can't believe they can be Self-in-Presence
