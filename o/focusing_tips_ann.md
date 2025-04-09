@@ -32,10 +32,10 @@ Weekly Tips & Support for Focusing by [Ann Weiser Cornell](https://focusingresou
 - Focusing Tip #910 – "Do you say back a negative statement in a positive light?"
 - Focusing Tip #909 – "Do you do Focusing when you're agitated or when you're calm?"
 - Focusing Tip #908 – "For me it felt like words only"
-- Focusing Tip #907 – "I have to get free from my eating disorder."
-- Focusing Tip #906 – Resolving a family conflict about needs
-- Focusing Tip #905 – On waking up with an uncomfortable body feeling
-- Focusing Tip #904 – How to know what to Focus on
+- [Focusing Tip #907 – "I have to get free from my eating disorder."](https://focusingresources.com/2024/09/25/focusing-tip-907-i-have-to-get-free-from-my-eating-disorder/)
+- [Focusing Tip #906 – Resolving a family conflict about needs](https://focusingresources.com/2024/09/18/focusing-tip-906-resolving-a-family-conflict-about-needs/)
+- [Focusing Tip #905 – On waking up with an uncomfortable body feeling](https://focusingresources.com/2024/09/11/focusing-tip-905-on-waking-up-with-an-uncomfortable-body-feeling/)
+- [Focusing Tip #904 – How to know what to Focus on](https://focusingresources.com/2024/09/04/focusing-tip-904-how-to-know-what-to-focus-on/)
 - [Focusing Tip #903 – Deciding between two job options](https://focusingresources.com/2024/08/28/focusing-tip-903-deciding-between-two-job-options/)
 - [Focusing Tip #902 – "It doesn't always feel like just something in me"](https://focusingresources.com/2024/08/21/focusing-tip-902-parts-it-doesnt-always-feel-like-just-something-in-me/)
 - [Focusing Tip #901 – "A lot of my thoughts are rooted in some sort of worry"](https://focusingresources.com/2024/08/15/focusing-tip-901-anxious-parts-a-lot-of-my-thoughts-are-rooted-in-some-sort-of-worry/)
