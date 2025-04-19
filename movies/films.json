@@ -1,0 +1,105 @@
+[
+  {
+    "title": "Amadeus",
+    "year": 1984,
+    "imdb_id": "tt0086879",
+    "tmdb_id": 279,
+    "poster_path": "/i3OzDlVauzqzrpTUlMwqwSu6YjW.jpg",
+    "categories": [
+      "Wisdom.1",
+      "Transcendence.4"
+    ]
+  },
+  {
+    "title": "Aviator",
+    "year": 2004,
+    "imdb_id": "tt0338751",
+    "tmdb_id": 2567,
+    "poster_path": "/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg",
+    "categories": [
+      "Wisdom.1"
+    ]
+  },
+  {
+    "title": "A Beautiful Mind",
+    "year": 2001,
+    "imdb_id": "tt0268978",
+    "tmdb_id": 453,
+    "poster_path": "/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
+    "categories": [
+      "Wisdom.1",
+      "Wisdom.4"
+    ]
+  },
+  {
+    "title": "Freedom Writers",
+    "year": 2007,
+    "imdb_id": "tt0463998",
+    "tmdb_id": 1646,
+    "poster_path": "/81AdeUQT99N0xPg3j6RVh0YGOTk.jpg",
+    "categories": [
+      "Wisdom.1"
+    ]
+  },
+  {
+    "title": "The Sessions",
+    "year": 2012,
+    "imdb_id": "tt1866249",
+    "tmdb_id": 113947,
+    "poster_path": "/57o1DBc5DfJXVc8wArAblSbZ8sD.jpg",
+    "categories": [
+      "Wisdom.1"
+    ]
+  },
+  {
+    "title": "The Terminal",
+    "year": 2004,
+    "imdb_id": "tt0362227",
+    "tmdb_id": 594,
+    "poster_path": "/vRYbjHs129MARMq1VDbnk9Jboen.jpg",
+    "categories": [
+      "Wisdom.1",
+      "Wisdom.3"
+    ]
+  },
+  {
+    "title": "Walk the Line",
+    "year": 2005,
+    "imdb_id": "tt0358273",
+    "tmdb_id": 69,
+    "poster_path": "/zMkD6FVikyPNnigoupO7vD5ti9p.jpg",
+    "categories": [
+      "Wisdom.1"
+    ]
+  },
+  {
+    "title": "Alice in Wonderland",
+    "year": 2010,
+    "imdb_id": "tt1014759",
+    "tmdb_id": 12155,
+    "poster_path": "/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg",
+    "categories": [
+      "Wisdom.2"
+    ]
+  },
+  {
+    "title": "The Best Exotic Marigold Hotel",
+    "year": 2012,
+    "imdb_id": "tt1412386",
+    "tmdb_id": 74534,
+    "poster_path": "/gNWiOKTWDvPTpr7QfPWk18gLftz.jpg",
+    "categories": [
+      "Wisdom.2"
+    ]
+  },
+  {
+    "title": "Following",
+    "year": 1998,
+    "imdb_id": "tt0154506",
+    "tmdb_id": 11660,
+    "poster_path": "/3bX6VVSMf0dvzk5pMT4ALG5A92d.jpg",
+    "categories": [
+      "Wisdom.2"
+    ]
+  }
+]
