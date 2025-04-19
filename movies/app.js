@@ -8,7 +8,7 @@ fetch("films.json")
       card.className = "film-card";
 
       const img = document.createElement("img");
-      img.src = `https://image.tmdb.org/t/p/w185${film.poster_path}`;
+      img.src = `https://image.tmdb.org/t/p/w780${film.poster_path}`;
       img.alt = film.title;
 
       const title = document.createElement("div");
