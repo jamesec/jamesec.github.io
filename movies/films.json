@@ -912,14 +912,6 @@
     "categories": null
   },
   {
-    "title": "Joyeux Noel",
-    "year": 0,
-    "imdb_id": "tt0424205",
-    "tmdb_id": 11661,
-    "poster_path": "/9Ka8lKCIiWjnZiMslPQeakS5UhW.jpg",
-    "categories": null
-  },
-  {
     "title": "Lars and the Real Girl",
     "year": 2007,
     "imdb_id": "tt0805564",
@@ -1105,7 +1097,7 @@
   },
   {
     "title": "The Girl With the Dragon Tattoo",
-    "year": 2009,
+    "year": 2011,
     "imdb_id": "tt1568346",
     "tmdb_id": 65754,
     "poster_path": "/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
