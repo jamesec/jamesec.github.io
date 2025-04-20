@@ -96,11 +96,11 @@
     "categories": null
   },
   {
-    "title": "Matrix, The",
+    "title": "The Matrix",
     "year": 1999,
-    "imdb_id": "tt0438231",
-    "tmdb_id": 0,
-    "poster_path": "",
+    "imdb_id": "tt0133093",
+    "tmdb_id": 603,
+    "poster_path": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
     "categories": null
   },
   {
@@ -400,11 +400,11 @@
     "categories": null
   },
   {
-    "title": "Endurance, The",
+    "title": "The Endurance",
     "year": 2000,
-    "imdb_id": "tt18566042",
-    "tmdb_id": 0,
-    "poster_path": "",
+    "imdb_id": "tt0264578",
+    "tmdb_id": 32567,
+    "poster_path": "/7zWvRlfnDTbmcGw8F28PEx7KX2k.jpg",
     "categories": null
   },
   {
@@ -1360,11 +1360,11 @@
     "categories": null
   },
   {
-    "title": "Way, The",
+    "title": "The Way",
     "year": 2010,
-    "imdb_id": "tt0331175",
-    "tmdb_id": 17001,
-    "poster_path": "/a83O7SAIcHyUuXESl1cfhcwnhf.jpg",
+    "imdb_id": "tt1441912",
+    "tmdb_id": 59468,
+    "poster_path": "/uaRfG7n92IiuYcKLl7LJo2gr6qO.jpg",
     "categories": null
   }
 ]
