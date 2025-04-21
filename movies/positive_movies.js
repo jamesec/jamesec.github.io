@@ -5,7 +5,7 @@ fetch("positive_movies.json")
   .then(films => {
     films.forEach(film => {
       const link = document.createElement("a");
-      link.href = `/o/s.htm?p=/movies/_${film.imdb_id}`;
+      link.href = `/o/s.htm?p=/movies/${film.imdb_id}`;
       link.className = "film-link"; // optional: for styling
       link.target = "_blank"; // optional: open in new tab
 
