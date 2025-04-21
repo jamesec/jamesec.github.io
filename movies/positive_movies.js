@@ -1,6 +1,6 @@
 const grid = document.getElementById("film-grid");
 
-fetch("films.json")
+fetch("positive_movies.json")
   .then(res => res.json())
   .then(films => {
     films.forEach(film => {
