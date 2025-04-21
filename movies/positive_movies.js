@@ -22,5 +22,5 @@ fetch("positive_movies.json")
   })
   .catch(err => {
     grid.innerHTML = "<p>Error loading films.</p>";
-    console.error("Failed to load films.json", err);
+    console.error("Failed to load positive_movies.json", err);
   });
