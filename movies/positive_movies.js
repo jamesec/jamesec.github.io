@@ -22,7 +22,11 @@ function loadNextBatch() {
   if (loading || filmsLoaded >= allFilms.length) return;
 
   loading = true;
-  loadingMessage.style.display = "block";
+  
+  // Show the "Loading..." message with a small delay
+  setTimeout(() => {
+    loadingMessage.style.display = "block";
+  }, 200); // Delay the display for 200ms to show the "Loading..." message
 
   const batch = allFilms.slice(filmsLoaded, filmsLoaded + batchSize);
   batch.forEach(film => {
@@ -55,7 +59,11 @@ function loadNextBatch() {
 
   filmsLoaded += batch.length;
   loading = false;
-  loadingMessage.style.display = "none";
+
+  // Hide "Loading..." message after content is loaded
+  setTimeout(() => {
+    loadingMessage.style.display = "none";
+  }, 200); // Hide the message after a short delay to make it visible for a moment
 
   if (filmsLoaded >= allFilms.length) {
     window.removeEventListener("scroll", handleScroll);
