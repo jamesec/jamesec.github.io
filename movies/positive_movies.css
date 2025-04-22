@@ -1,0 +1,72 @@
+/* Filter controls container */
+.filter-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em;
+  margin-bottom: 1em;
+}
+
+/* Dropdowns and button styling */
+.filter-controls select,
+.filter-controls button {
+  padding: 0.5em;
+  font-size: 1em;
+  min-width: 160px;
+  height: 2.5em; /* Align vertically with same height */
+  box-sizing: border-box;
+}
+
+/* Layout for film grid */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 1.5rem;
+  padding: 2rem;
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* Film card styles */
+.film-card {
+  background: white;
+  border-radius: 6px;
+  overflow: hidden;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease;
+}
+
+.film-card:hover {
+  transform: translateY(-4px);
+}
+
+.film-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.film-title {
+  padding: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #747474;
+}
+
+/* Reset button specific overrides */
+#reset-filters {
+  background-color: #ff5722;
+  color: white;
+  border: none;
+  padding: 0.5em 1em;
+  cursor: pointer;
+  font-size: 1em;
+  height: 2.5em; /* Matches selects */
+  box-sizing: border-box;
+}
+
+#reset-filters:hover {
+  background-color: #ff3d00;
+}
