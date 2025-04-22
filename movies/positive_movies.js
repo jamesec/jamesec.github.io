@@ -6,6 +6,57 @@ let filmsLoaded = 0;
 const batchSize = 15;
 let loading = false;
 
+// Virtues data mapping (categories -> virtues)
+const virtuesData = {
+  Wisdom: [
+    "Creativity", "Curiosity", "Judgment", "Love of Learning", "Perspective"
+  ],
+  Courage: [
+    "Bravery", "Perseverance", "Honesty", "Zest"
+  ],
+  Humanity: [
+    "Love", "Kindness", "Social Intelligence"
+  ],
+  Justice: [
+    "Teamwork", "Fairness", "Leadership"
+  ],
+  Temperance: [
+    "Forgiveness", "Humility", "Prudence", "Self-Regulation"
+  ],
+  Transcendence: [
+    "Appreciation of Beauty and Excellence", "Gratitude", "Hope", "Humor", "Spirituality"
+  ]
+};
+
+// Populate the virtue dropdown dynamically based on category
+const categorySelect = document.getElementById("category-select");
+const virtueSelect = document.getElementById("virtue-select");
+
+categorySelect.addEventListener("change", function() {
+  const category = categorySelect.value;
+  const virtues = virtuesData[category] || [];
+  virtueSelect.innerHTML = "<option value=''>Select Virtue</option>"; // Reset virtues list
+
+  virtues.forEach(virtue => {
+    const option = document.createElement("option");
+    option.value = virtue;
+    option.textContent = virtue;
+    virtueSelect.appendChild(option);
+  });
+
+  // Reset film grid when category/virtue changes
+  filmsLoaded = 0;
+  grid.innerHTML = "";
+  loadNextBatch();
+});
+
+virtueSelect.addEventListener("change", function() {
+  filmsLoaded = 0;
+  grid.innerHTML = "";
+  loadNextBatch();
+});
+
+// Fetch films and load initially
 fetch("positive_movies.json")
   .then(res => res.json())
   .then(films => {
@@ -22,13 +73,21 @@ function loadNextBatch() {
   if (loading || filmsLoaded >= allFilms.length) return;
 
   loading = true;
-  
-  // Show the "Loading..." message with a small delay
-  setTimeout(() => {
-    loadingMessage.style.display = "block";
-  }, 200); // Delay the display for 200ms to show the "Loading..." message
+  loadingMessage.style.display = "block";
 
-  const batch = allFilms.slice(filmsLoaded, filmsLoaded + batchSize);
+  // Filter films based on selected category and virtue
+  const selectedCategory = categorySelect.value;
+  const selectedVirtue = virtueSelect.value;
+
+  const filteredFilms = allFilms.filter(film => {
+    const virtues = film.virtues || [];
+    return (
+      (!selectedCategory || virtues.some(v => v.startsWith(selectedCategory))) &&
+      (!selectedVirtue || virtues.includes(`${selectedCategory}.1`))
+    );
+  });
+
+  const batch = filteredFilms.slice(filmsLoaded, filmsLoaded + batchSize);
   batch.forEach(film => {
     const card = document.createElement("div");
     card.className = "film-card";
@@ -59,13 +118,9 @@ function loadNextBatch() {
 
   filmsLoaded += batch.length;
   loading = false;
+  loadingMessage.style.display = "none";
 
-  // Hide "Loading..." message after content is loaded
-  setTimeout(() => {
-    loadingMessage.style.display = "none";
-  }, 200); // Hide the message after a short delay to make it visible for a moment
-
-  if (filmsLoaded >= allFilms.length) {
+  if (filmsLoaded >= filteredFilms.length) {
     window.removeEventListener("scroll", handleScroll);
   }
 }
