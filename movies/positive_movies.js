@@ -149,9 +149,9 @@ function loadNextBatch() {
       link.href = `/o/s.htm?p=/movies/${film.imdb_id}`;
       link.target = "_blank";
       link.appendChild(card);
-      grid.insertBefore(link, loadingMessage);
+      grid.appendChild(link);
     } else {
-      grid.insertBefore(card, loadingMessage);
+      grid.appendChild(card);
     }
   });
 
