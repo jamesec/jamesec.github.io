@@ -7,7 +7,7 @@ let allFilms = [];
 let filmsLoaded = 0;
 const batchSize = 15;
 let loading = false;
-let cardHeight = 220; // This is an estimated height for a film card
+let cardHeight = 220; // Estimated height for a film card
 let cardsNeededToFillHeight = 0;
 
 // Category and virtue mapping
@@ -94,6 +94,8 @@ function resetFilters() {
   resetOption.textContent = "Show all / reset filters";
   virtueSelect.appendChild(resetOption);
 
+  // Recalculate the number of cards needed to fill the height of the window after reset
+  recalculateCardsNeededToFillHeight();
   resetAndLoad();
 }
 
