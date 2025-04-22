@@ -3,14 +3,13 @@
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   gap: 0.5em;
   margin-bottom: 1em;
 }
 
-/* Dropdowns and reset button styling */
-.filter-controls select,
-.filter-controls button {
+/* Dropdowns styling */
+.filter-controls select {
   padding: 0.5em;
   font-size: 1em;
   min-width: 160px;
