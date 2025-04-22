@@ -5,6 +5,9 @@ User-agent: TurnitinBot
 Disallow: /
 
 User-agent: *
+Disallow: /*.json$
+
+User-agent: *
 Disallow: /*.md$
 
 User-agent: *
