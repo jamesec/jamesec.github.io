@@ -24,12 +24,29 @@
 
     <main>
       <h1>Great movies featuring positive psychology virtues</h1>
-      <!-- Future dropdown filters will go here -->
-        
-      <section id="film-grid" class="grid-container">
-        <!-- Posters will be inserted here by JS -->
-        <div id="loading-message" style="text-align: center; padding: 1em; display: none;">Loading…</div>
-      </section>
+        <!-- Filter Controls -->
+        <div class="filter-controls">
+          <select id="category-select">
+            <option value="">Select Category</option>
+            <option value="Wisdom">Wisdom</option>
+            <option value="Courage">Courage</option>
+            <option value="Humanity">Humanity</option>
+            <option value="Justice">Justice</option>
+            <option value="Temperance">Temperance</option>
+            <option value="Transcendence">Transcendence</option>
+          </select>
+          
+          <select id="virtue-select">
+            <option value="">Select Virtue</option>
+            <!-- Options will be populated dynamically -->
+          </select>
+        </div>
+
+        <!-- Film Grid Section -->
+        <section id="film-grid" class="grid-container">
+          <!-- Film cards and loading message will be inserted by JS -->
+          <div id="loading-message" style="text-align: center; padding: 1em; display: none;">Loading…</div>
+        </section>
     </main>
 
     <footer>
