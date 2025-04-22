@@ -80,8 +80,8 @@ virtueSelect.addEventListener("change", () => {
 
 function resetAndLoad() {
   filmsLoaded = 0;
-  grid.innerHTML = "";
-  loadNextBatch();  // Load the first batch of films, even after reset
+  grid.innerHTML = "";  // Clear current grid content
+  loadNextBatch();  // Load the first batch of films after reset
 }
 
 // Fetch and initialize
@@ -90,8 +90,8 @@ fetch("positive_movies.json")
   .then(films => {
     console.log("Loaded films:", films);
     allFilms = films;
-    loadNextBatch();
-    window.addEventListener("scroll", handleScroll);
+    loadNextBatch();  // Load first batch when films are fetched
+    window.addEventListener("scroll", handleScroll);  // Listen for scroll to load more
   })
   .catch(err => {
     grid.innerHTML = "<p>Error loading films.</p>";
@@ -163,7 +163,10 @@ function loadNextBatch() {
   loading = false;
   loadingMessage.style.display = "none";
 
-  if (filmsLoaded >= filteredFilms.length) {
+  // Continue lazy loading if we haven't loaded all films
+  if (filmsLoaded < filteredFilms.length) {
+    window.addEventListener("scroll", handleScroll);
+  } else {
     window.removeEventListener("scroll", handleScroll);
   }
 }
@@ -188,5 +191,7 @@ resetButton.addEventListener("click", () => {
   location.hash = "";
 
   // Reload films with no filters and maintain lazy loading behavior
-  resetAndLoad();
+  filmsLoaded = 0;
+  grid.innerHTML = "";
+  loadNextBatch();  // Start loading first batch after reset
 });
