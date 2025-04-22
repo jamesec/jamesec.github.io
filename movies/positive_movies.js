@@ -100,10 +100,9 @@ function resetFilters() {
 function resetAndLoad() {
   filmsLoaded = 0;
   grid.innerHTML = "";
-  recalculateCardsNeededToFillHeight();
+  loadNextBatch(batchSize);
 
-  loadNextBatch(cardsNeededToFillHeight);
-
+  // Re-attach scroll listener after reset
   window.removeEventListener("scroll", handleScroll);
   window.addEventListener("scroll", handleScroll);
 }
@@ -113,10 +112,10 @@ fetch("positive_movies.json")
   .then(res => res.json())
   .then(films => {
     allFilms = films;
-    recalculateCardsNeededToFillHeight();
-    loadNextBatch(cardsNeededToFillHeight);
+    loadNextBatch(batchSize); // Initial load, only 15
     window.addEventListener("scroll", handleScroll);
     window.addEventListener("resize", recalculateCardsNeededToFillHeight);
+    recalculateCardsNeededToFillHeight(); // Recalculate on first load
   })
   .catch(err => {
     grid.innerHTML = "<p>Error loading films.</p>";
