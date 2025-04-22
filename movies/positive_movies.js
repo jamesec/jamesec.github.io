@@ -101,7 +101,7 @@ function resetFilters() {
 
 function resetAndLoad() {
   filmsLoaded = 0;
-  grid.innerHTML = "";
+  grid.innerHTML = "";  // Clear the grid
   loadNextBatch();
 
   // Re-attach scroll listener after reset
@@ -129,7 +129,6 @@ function recalculateCardsNeededToFillHeight() {
   // Recalculate the number of cards needed to fill the height of the window
   const cardsInView = Math.floor(window.innerHeight / cardHeight);
   cardsNeededToFillHeight = cardsInView > 0 ? cardsInView : 1; // Ensure we load at least one card
-  loadNextBatch();
 }
 
 function loadNextBatch() {
@@ -156,7 +155,7 @@ function loadNextBatch() {
     return true;
   });
 
-  // Load at least enough cards to fill the screen or 15 cards
+  // Load at least enough cards to fill the screen or 15 cards (whichever is larger)
   const batch = filteredFilms.slice(filmsLoaded, filmsLoaded + Math.max(batchSize, cardsNeededToFillHeight));
 
   batch.forEach(film => {
