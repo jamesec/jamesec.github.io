@@ -78,14 +78,10 @@ virtueSelect.addEventListener("change", () => {
   resetAndLoad();
 });
 
-function resetAndLoad(loadAll = false) {
+function resetAndLoad() {
   filmsLoaded = 0;
   grid.innerHTML = "";
-  if (loadAll) {
-    loadAllFilms(); // Call to load all films immediately
-  } else {
-    loadNextBatch(); // Default behavior (lazy loading)
-  }
+  loadNextBatch();  // Load the first batch of films, even after reset
 }
 
 // Fetch and initialize
@@ -102,61 +98,7 @@ fetch("positive_movies.json")
     console.error("Failed to load positive_movies.json", err);
   });
 
-// Function to load all films immediately (bypassing lazy loading)
-function loadAllFilms() {
-  const selectedCategory = categorySelect.value;
-  const selectedVirtue = virtueSelect.value;
-
-  let filteredFilms = allFilms;
-
-  filteredFilms = allFilms.filter(film => {
-    const virtues = film.virtues || [];
-
-    // Filter by category
-    if (selectedCategory && !virtues.some(v => v.startsWith(selectedCategory + "."))) {
-      return false;
-    }
-
-    // Filter by specific virtue
-    if (selectedVirtue) {
-      const virtueCode = virtueCodeMap[selectedVirtue];
-      if (!virtueCode || !virtues.includes(virtueCode)) {
-        return false;
-      }
-    }
-
-    return true;
-  });
-
-  filteredFilms.forEach(film => {
-    const card = document.createElement("div");
-    card.className = "film-card";
-
-    const img = document.createElement("img");
-    img.src = `https://image.tmdb.org/t/p/w780${film.poster_path}`;
-    img.alt = film.title;
-    img.loading = "lazy";
-
-    const title = document.createElement("div");
-    title.className = "film-title";
-    title.textContent = `${film.title} (${film.year})`;
-
-    card.appendChild(img);
-    card.appendChild(title);
-
-    if (film.has_review) {
-      const link = document.createElement("a");
-      link.href = `/o/s.htm?p=/movies/${film.imdb_id}`;
-      link.target = "_blank";
-      link.appendChild(card);
-      grid.appendChild(link);
-    } else {
-      grid.appendChild(card);
-    }
-  });
-}
-
-// Load the next batch of films for lazy loading
+// Function to load the next batch of films for lazy loading
 function loadNextBatch() {
   if (loading) return;
 
@@ -168,6 +110,7 @@ function loadNextBatch() {
 
   let filteredFilms = allFilms;
 
+  // Apply filters (if any) for category and virtue
   filteredFilms = allFilms.filter(film => {
     const virtues = film.virtues || [];
 
@@ -235,7 +178,7 @@ function handleScroll() {
 // Get the reset button
 const resetButton = document.getElementById("reset-filters");
 
-// Reset button functionality: Load All Films
+// Reset button functionality: Reset filters but maintain lazy loading
 resetButton.addEventListener("click", () => {
   // Clear the selected values
   categorySelect.value = "";
@@ -244,6 +187,6 @@ resetButton.addEventListener("click", () => {
   // Clear the hash (URL)
   location.hash = "";
 
-  // Reload films without filters (load all)
-  resetAndLoad(true);  // Pass `true` to ignore filtering and load everything
+  // Reload films with no filters and maintain lazy loading behavior
+  resetAndLoad();
 });
