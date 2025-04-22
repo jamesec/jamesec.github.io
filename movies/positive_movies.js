@@ -100,11 +100,15 @@ function resetFilters() {
 function resetAndLoad() {
   filmsLoaded = 0;
   grid.innerHTML = "";
-  loadNextBatch();
 
-  // Re-attach scroll listener after reset
-  window.removeEventListener("scroll", handleScroll);
-  window.addEventListener("scroll", handleScroll);
+  // Recalculate cards needed to fill height before loading batch
+  recalculateCardsNeededToFillHeight(() => {
+    loadNextBatch();
+
+    // Re-attach scroll listener after reset
+    window.removeEventListener("scroll", handleScroll);
+    window.addEventListener("scroll", handleScroll);
+  });
 }
 
 // Fetch and initialize
@@ -112,22 +116,29 @@ fetch("positive_movies.json")
   .then(res => res.json())
   .then(films => {
     allFilms = films;
-    loadNextBatch();
-    window.addEventListener("scroll", handleScroll);
-    window.addEventListener("resize", recalculateCardsNeededToFillHeight);
-    recalculateCardsNeededToFillHeight(); // Recalculate on first load
+
+    recalculateCardsNeededToFillHeight(() => {
+      loadNextBatch();
+      window.addEventListener("scroll", handleScroll);
+    });
+
+    window.addEventListener("resize", () => {
+      recalculateCardsNeededToFillHeight();
+    });
   })
   .catch(err => {
     grid.innerHTML = "<p>Error loading films.</p>";
     console.error("Failed to load positive_movies.json", err);
   });
 
-// Function to recalculate the number of cards needed to fill the viewport height
-function recalculateCardsNeededToFillHeight() {
-  // Recalculate the number of cards needed to fill the height of the window
+// Recalculate and optionally run callback when done
+function recalculateCardsNeededToFillHeight(callback) {
   const cardsInView = Math.floor(window.innerHeight / cardHeight);
-  cardsNeededToFillHeight = cardsInView > 0 ? cardsInView : 1; // Ensure we load at least one card
-  loadNextBatch();
+  cardsNeededToFillHeight = cardsInView > 0 ? cardsInView : 1;
+
+  if (typeof callback === "function") {
+    callback();
+  }
 }
 
 function loadNextBatch() {
@@ -154,7 +165,6 @@ function loadNextBatch() {
     return true;
   });
 
-  // Load at least enough cards to fill the screen or 15 cards
   const batch = filteredFilms.slice(filmsLoaded, filmsLoaded + Math.max(batchSize, cardsNeededToFillHeight));
 
   batch.forEach(film => {
