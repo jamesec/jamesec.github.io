@@ -142,9 +142,12 @@ function loadNextBatch() {
     return true;
   });
 
-  // Calculate how many more films are needed to fill the viewport height
-  const cardsInView = Math.ceil(window.innerHeight / 220); // 220px is an estimated card height
-  const batch = filteredFilms.slice(filmsLoaded, filmsLoaded + Math.max(batchSize, cardsInView));
+  // Calculate how many cards are needed to fill the viewport height dynamically
+  const cardHeight = 220; // Estimated card height in px
+  const cardsNeededToFillHeight = Math.ceil(window.innerHeight / cardHeight); // How many cards are needed to fill the viewport
+
+  // Load at least 15 cards or the number needed to fill the height
+  const batch = filteredFilms.slice(filmsLoaded, filmsLoaded + Math.max(batchSize, cardsNeededToFillHeight));
 
   batch.forEach(film => {
     const card = document.createElement("div");
