@@ -10,24 +10,12 @@ let loading = false;
 
 // Category and virtue mapping
 const virtuesData = {
-  Wisdom: [
-    "Creativity", "Curiosity", "Judgment", "Love of Learning", "Perspective"
-  ],
-  Courage: [
-    "Bravery", "Perseverance", "Honesty", "Zest"
-  ],
-  Humanity: [
-    "Love", "Kindness", "Social Intelligence"
-  ],
-  Justice: [
-    "Teamwork", "Fairness", "Leadership"
-  ],
-  Temperance: [
-    "Forgiveness", "Humility", "Prudence", "Self-Regulation"
-  ],
-  Transcendence: [
-    "Appreciation of Beauty and Excellence", "Gratitude", "Hope", "Humor", "Spirituality"
-  ]
+  Wisdom: ["Creativity", "Curiosity", "Judgment", "Love of Learning", "Perspective"],
+  Courage: ["Bravery", "Perseverance", "Honesty", "Zest"],
+  Humanity: ["Love", "Kindness", "Social Intelligence"],
+  Justice: ["Teamwork", "Fairness", "Leadership"],
+  Temperance: ["Forgiveness", "Humility", "Prudence", "Self-Regulation"],
+  Transcendence: ["Appreciation of Beauty and Excellence", "Gratitude", "Hope", "Humor", "Spirituality"]
 };
 
 // Map virtue names to codes like "Wisdom.1"
@@ -58,12 +46,17 @@ const virtueCodeMap = {
   "Spirituality": "Transcendence.5"
 };
 
-// Populate virtues dropdown on category selection
+// Handle category change
 categorySelect.addEventListener("change", () => {
+  if (categorySelect.value === "__reset__") {
+    resetFilters();
+    return;
+  }
+
   const category = categorySelect.value;
   virtueSelect.innerHTML = "<option value=''>Select Virtue</option>";
-  const virtues = virtuesData[category] || [];
 
+  const virtues = virtuesData[category] || [];
   virtues.forEach(virtue => {
     const option = document.createElement("option");
     option.value = virtue;
@@ -71,34 +64,60 @@ categorySelect.addEventListener("change", () => {
     virtueSelect.appendChild(option);
   });
 
+  // Add reset option at the end
+  const resetOption = document.createElement("option");
+  resetOption.value = "__reset__";
+  resetOption.textContent = "Show all / reset filters";
+  virtueSelect.appendChild(resetOption);
+
   resetAndLoad();
 });
 
+// Handle virtue change
 virtueSelect.addEventListener("change", () => {
+  if (virtueSelect.value === "__reset__") {
+    resetFilters();
+    return;
+  }
+
   resetAndLoad();
 });
+
+function resetFilters() {
+  categorySelect.value = "";
+  virtueSelect.innerHTML = "<option value=''>Select Virtue</option>";
+
+  const resetOption = document.createElement("option");
+  resetOption.value = "__reset__";
+  resetOption.textContent = "Show all / reset filters";
+  virtueSelect.appendChild(resetOption);
+
+  resetAndLoad();
+}
 
 function resetAndLoad() {
   filmsLoaded = 0;
-  grid.innerHTML = "";  // Clear current grid content
-  loadNextBatch();  // Load the first batch of films after reset
+  grid.innerHTML = "";
+  loadNextBatch();
+
+  // Re-attach scroll listener after reset
+  window.removeEventListener("scroll", handleScroll);
+  window.addEventListener("scroll", handleScroll);
 }
 
 // Fetch and initialize
 fetch("positive_movies.json")
   .then(res => res.json())
   .then(films => {
-    console.log("Loaded films:", films);
     allFilms = films;
-    loadNextBatch();  // Load first batch when films are fetched
-    window.addEventListener("scroll", handleScroll);  // Listen for scroll to load more
+    loadNextBatch();
+    window.addEventListener("scroll", handleScroll);
   })
   .catch(err => {
     grid.innerHTML = "<p>Error loading films.</p>";
     console.error("Failed to load positive_movies.json", err);
   });
 
-// Function to load the next batch of films for lazy loading
 function loadNextBatch() {
   if (loading) return;
 
@@ -108,23 +127,16 @@ function loadNextBatch() {
   const selectedCategory = categorySelect.value;
   const selectedVirtue = virtueSelect.value;
 
-  let filteredFilms = allFilms;
-
-  // Apply filters (if any) for category and virtue
-  filteredFilms = allFilms.filter(film => {
+  const filteredFilms = allFilms.filter(film => {
     const virtues = film.virtues || [];
 
-    // Filter by category
-    if (selectedCategory && !virtues.some(v => v.startsWith(selectedCategory + "."))) {
-      return false;
+    if (selectedCategory && selectedCategory !== "__reset__") {
+      if (!virtues.some(v => v.startsWith(selectedCategory + "."))) return false;
     }
 
-    // Filter by specific virtue
-    if (selectedVirtue) {
+    if (selectedVirtue && selectedVirtue !== "__reset__") {
       const virtueCode = virtueCodeMap[selectedVirtue];
-      if (!virtueCode || !virtues.includes(virtueCode)) {
-        return false;
-      }
+      if (!virtueCode || !virtues.includes(virtueCode)) return false;
     }
 
     return true;
@@ -163,10 +175,7 @@ function loadNextBatch() {
   loading = false;
   loadingMessage.style.display = "none";
 
-  // Continue lazy loading if we haven't loaded all films
-  if (filmsLoaded < filteredFilms.length) {
-    window.addEventListener("scroll", handleScroll);
-  } else {
+  if (filmsLoaded >= filteredFilms.length) {
     window.removeEventListener("scroll", handleScroll);
   }
 }
@@ -177,21 +186,3 @@ function handleScroll() {
     loadNextBatch();
   }
 }
-
-// Get the reset button
-const resetButton = document.getElementById("reset-filters");
-
-// Reset button functionality: Reset filters but maintain lazy loading
-resetButton.addEventListener("click", () => {
-  // Clear the selected values
-  categorySelect.value = "";
-  virtueSelect.value = "";
-
-  // Clear the hash (URL)
-  location.hash = "";
-
-  // Reload films with no filters and maintain lazy loading behavior
-  filmsLoaded = 0;
-  grid.innerHTML = "";
-  loadNextBatch();  // Start loading first batch after reset
-});
