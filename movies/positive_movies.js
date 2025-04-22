@@ -5,10 +5,10 @@ const virtueSelect = document.getElementById("virtue-select");
 
 let allFilms = [];
 let filmsLoaded = 0;
-const batchSize = 15;
+const batchSize = 15; // A fallback to load 15 if dynamic load fails
 let loading = false;
 let cardHeight = 220; // Estimated height for a film card
-let cardsNeededToFillHeight = 0;
+let cardsNeededToFillHeight = 0; // Dynamically calculated cards needed to fill height
 
 // Category and virtue mapping
 const virtuesData = {
@@ -114,10 +114,11 @@ fetch("positive_movies.json")
   .then(res => res.json())
   .then(films => {
     allFilms = films;
+    // Initial calculation of how many cards are needed to fill the height
+    recalculateCardsNeededToFillHeight();
     loadNextBatch();
     window.addEventListener("scroll", handleScroll);
     window.addEventListener("resize", recalculateCardsNeededToFillHeight);
-    recalculateCardsNeededToFillHeight(); // Recalculate on first load
   })
   .catch(err => {
     grid.innerHTML = "<p>Error loading films.</p>";
