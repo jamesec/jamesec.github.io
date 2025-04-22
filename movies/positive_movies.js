@@ -78,10 +78,10 @@ virtueSelect.addEventListener("change", () => {
   resetAndLoad();
 });
 
-function resetAndLoad() {
+function resetAndLoad(loadAll = false) {
   filmsLoaded = 0;
   grid.innerHTML = "";
-  loadNextBatch();
+  loadNextBatch(loadAll);
 }
 
 // Fetch and initialize
@@ -98,7 +98,7 @@ fetch("positive_movies.json")
     console.error("Failed to load positive_movies.json", err);
   });
 
-function loadNextBatch() {
+function loadNextBatch(loadAll = false) {
   if (loading) return;
 
   loading = true;
@@ -107,24 +107,28 @@ function loadNextBatch() {
   const selectedCategory = categorySelect.value;
   const selectedVirtue = virtueSelect.value;
 
-  const filteredFilms = allFilms.filter(film => {
-    const virtues = film.virtues || [];
+  let filteredFilms = allFilms;
 
-    // Filter by category
-    if (selectedCategory && !virtues.some(v => v.startsWith(selectedCategory + "."))) {
-      return false;
-    }
+  if (!loadAll) {
+    filteredFilms = allFilms.filter(film => {
+      const virtues = film.virtues || [];
 
-    // Filter by specific virtue
-    if (selectedVirtue) {
-      const virtueCode = virtueCodeMap[selectedVirtue];
-      if (!virtueCode || !virtues.includes(virtueCode)) {
+      // Filter by category
+      if (selectedCategory && !virtues.some(v => v.startsWith(selectedCategory + "."))) {
         return false;
       }
-    }
 
-    return true;
-  });
+      // Filter by specific virtue
+      if (selectedVirtue) {
+        const virtueCode = virtueCodeMap[selectedVirtue];
+        if (!virtueCode || !virtues.includes(virtueCode)) {
+          return false;
+        }
+      }
+
+      return true;
+    });
+  }
 
   const batch = filteredFilms.slice(filmsLoaded, filmsLoaded + batchSize);
 
@@ -174,7 +178,7 @@ function handleScroll() {
 // Get the reset button
 const resetButton = document.getElementById("reset-filters");
 
-// Reset button functionality
+// Reset button functionality: Load All Films
 resetButton.addEventListener("click", () => {
   // Clear the selected values
   categorySelect.value = "";
@@ -183,6 +187,6 @@ resetButton.addEventListener("click", () => {
   // Clear the hash (URL)
   location.hash = "";
 
-  // Reload films without filters
-  resetAndLoad();
+  // Reload films without filters (load all)
+  resetAndLoad(true);  // Pass `true` to ignore filtering and load everything
 });
