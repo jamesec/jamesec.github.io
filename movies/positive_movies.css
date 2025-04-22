@@ -1,3 +1,8 @@
+/* Filter controls container */
+.filter-controls {
+  display: flex;
+}
+
 /* Layout for film grid */
 .grid-container {
   display: grid;
