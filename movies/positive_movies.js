@@ -88,6 +88,7 @@ function resetAndLoad() {
 fetch("positive_movies.json")
   .then(res => res.json())
   .then(films => {
+    console.log("Loaded films:", films);
     allFilms = films;
     loadNextBatch();
     window.addEventListener("scroll", handleScroll);
