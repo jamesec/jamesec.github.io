@@ -26,22 +26,22 @@
       <h1>Great movies featuring positive psychology virtues</h1>
         <!-- Filter Controls -->
         <div class="filter-controls">
-          <select id="category-select">
-            <option value="">Select Category</option>
-            <option value="Wisdom">Wisdom</option>
-            <option value="Courage">Courage</option>
-            <option value="Humanity">Humanity</option>
-            <option value="Justice">Justice</option>
-            <option value="Temperance">Temperance</option>
-            <option value="Transcendence">Transcendence</option>
-          </select>
-          
-          <select id="virtue-select">
-            <option value="">Select Virtue</option>
-            <!-- Options will be populated dynamically -->
-            </select>
-            <!-- Reset Button -->
-            <button id="reset-filters">Clear Filters</button>
+        <select id="category-select">
+          <option value="">Select Category</option>
+          <option value="Wisdom">Wisdom</option>
+          <option value="Courage">Courage</option>
+          <option value="Humanity">Humanity</option>
+          <option value="Justice">Justice</option>
+          <option value="Temperance">Temperance</option>
+          <option value="Transcendence">Transcendence</option>
+          <option value="__reset__">Show all / reset filters</option>
+        </select>
+        
+        <select id="virtue-select">
+          <option value="">Select Virtue</option>
+          <!-- Dynamically populated virtues go here -->
+          <option value="__reset__">Show all / reset filters</option>
+        </select>
         </div>
 
         <!-- Film Grid Section -->
