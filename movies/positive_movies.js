@@ -170,3 +170,19 @@ function handleScroll() {
     loadNextBatch();
   }
 }
+
+// Get the reset button
+const resetButton = document.getElementById("reset-filters");
+
+// Reset button functionality
+resetButton.addEventListener("click", () => {
+  // Clear the selected values
+  categorySelect.value = "";
+  virtueSelect.value = "";
+
+  // Clear the hash (URL)
+  location.hash = "";
+
+  // Reload films without filters
+  resetAndLoad();
+});
