@@ -105,6 +105,7 @@ function resetAndLoad() {
   // Re-attach scroll listener after reset
   window.removeEventListener("scroll", handleScroll);
   window.addEventListener("scroll", handleScroll);
+  recalculateCardsNeededToFillHeight(); // Recalculate number of cards based on new height
 }
 
 // Fetch and initialize
@@ -124,7 +125,6 @@ fetch("positive_movies.json")
 
 // Function to recalculate the number of cards needed to fill the viewport height
 function recalculateCardsNeededToFillHeight() {
-  // Recalculate the number of cards needed to fill the height of the window
   const cardsInView = Math.floor(window.innerHeight / cardHeight);
   cardsNeededToFillHeight = cardsInView > 0 ? cardsInView : 1; // Ensure we load at least one card
   loadNextBatch();
