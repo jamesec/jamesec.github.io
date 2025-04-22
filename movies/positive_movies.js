@@ -5,10 +5,9 @@ const virtueSelect = document.getElementById("virtue-select");
 
 let allFilms = [];
 let filmsLoaded = 0;
-const batchSize = 15;
 let loading = false;
-let cardHeight = 220; // Estimated height of a film card
-let cardsNeededToFillHeight = 0;
+const cardHeight = 220;
+const batchSize = 15;
 
 // Category and virtue mapping
 const virtuesData = {
@@ -20,35 +19,16 @@ const virtuesData = {
   Transcendence: ["Appreciation of Beauty and Excellence", "Gratitude", "Hope", "Humor", "Spirituality"]
 };
 
-// Virtue name to code map
 const virtueCodeMap = {
-  "Creativity": "Wisdom.1",
-  "Curiosity": "Wisdom.2",
-  "Judgment": "Wisdom.3",
-  "Love of Learning": "Wisdom.4",
-  "Perspective": "Wisdom.5",
-  "Bravery": "Courage.1",
-  "Perseverance": "Courage.2",
-  "Honesty": "Courage.3",
-  "Zest": "Courage.4",
-  "Love": "Humanity.1",
-  "Kindness": "Humanity.2",
-  "Social Intelligence": "Humanity.3",
-  "Teamwork": "Justice.1",
-  "Fairness": "Justice.2",
-  "Leadership": "Justice.3",
-  "Forgiveness": "Temperance.1",
-  "Humility": "Temperance.2",
-  "Prudence": "Temperance.3",
-  "Self-Regulation": "Temperance.4",
-  "Appreciation of Beauty and Excellence": "Transcendence.1",
-  "Gratitude": "Transcendence.2",
-  "Hope": "Transcendence.3",
-  "Humor": "Transcendence.4",
-  "Spirituality": "Transcendence.5"
+  "Creativity": "Wisdom.1", "Curiosity": "Wisdom.2", "Judgment": "Wisdom.3", "Love of Learning": "Wisdom.4", "Perspective": "Wisdom.5",
+  "Bravery": "Courage.1", "Perseverance": "Courage.2", "Honesty": "Courage.3", "Zest": "Courage.4",
+  "Love": "Humanity.1", "Kindness": "Humanity.2", "Social Intelligence": "Humanity.3",
+  "Teamwork": "Justice.1", "Fairness": "Justice.2", "Leadership": "Justice.3",
+  "Forgiveness": "Temperance.1", "Humility": "Temperance.2", "Prudence": "Temperance.3", "Self-Regulation": "Temperance.4",
+  "Appreciation of Beauty and Excellence": "Transcendence.1", "Gratitude": "Transcendence.2",
+  "Hope": "Transcendence.3", "Humor": "Transcendence.4", "Spirituality": "Transcendence.5"
 };
 
-// Handle category change
 categorySelect.addEventListener("change", () => {
   if (categorySelect.value === "__reset__") {
     resetFilters();
@@ -66,7 +46,6 @@ categorySelect.addEventListener("change", () => {
     virtueSelect.appendChild(option);
   });
 
-  // Add reset option
   const resetOption = document.createElement("option");
   resetOption.value = "__reset__";
   resetOption.textContent = "Show all / reset filters";
@@ -75,7 +54,6 @@ categorySelect.addEventListener("change", () => {
   resetAndLoad();
 });
 
-// Handle virtue change
 virtueSelect.addEventListener("change", () => {
   if (virtueSelect.value === "__reset__") {
     resetFilters();
@@ -85,11 +63,9 @@ virtueSelect.addEventListener("change", () => {
   resetAndLoad();
 });
 
-// Reset filters
 function resetFilters() {
   categorySelect.value = "";
   virtueSelect.innerHTML = "<option value=''>Select Virtue</option>";
-
   const resetOption = document.createElement("option");
   resetOption.value = "__reset__";
   resetOption.textContent = "Show all / reset filters";
@@ -98,44 +74,27 @@ function resetFilters() {
   resetAndLoad();
 }
 
-// Fetch data and initialize
-fetch("positive_movies.json")
-  .then(res => res.json())
-  .then(films => {
-    allFilms = films;
-    window.addEventListener("scroll", handleScroll);
-    window.addEventListener("resize", () => recalculateCardsNeededToFillHeight());
-    recalculateCardsNeededToFillHeight(true); // Fill screen on first load
-  })
-  .catch(err => {
-    grid.innerHTML = "<p>Error loading films.</p>";
-    console.error("Failed to load positive_movies.json", err);
-  });
-
-// Reset grid and reload
 function resetAndLoad() {
   filmsLoaded = 0;
   grid.innerHTML = "";
-  recalculateCardsNeededToFillHeight(true); // Fill screen on reset
+  loadUntilFilled(); // <-- Key function
 
   window.removeEventListener("scroll", handleScroll);
   window.addEventListener("scroll", handleScroll);
 }
 
-// Recalculate how many cards fit in the current viewport
-function recalculateCardsNeededToFillHeight(forceLoad = false) {
-  const cardsInView = Math.floor(window.innerHeight / cardHeight);
-  cardsNeededToFillHeight = cardsInView > 0 ? cardsInView : 1;
-
-  if (forceLoad) {
-    loadNextBatch(true);
-  }
+// Calculate how many cards are needed to fill the viewport
+function getCardsNeededToFillScreen() {
+  return Math.ceil(window.innerHeight / cardHeight);
 }
 
-// Load next batch of films
-function loadNextBatch(forceFill = false) {
-  if (loading) return;
+function loadUntilFilled() {
+  const needed = Math.max(batchSize, getCardsNeededToFillScreen());
+  loadNextBatch(needed);
+}
 
+function loadNextBatch(count = batchSize) {
+  if (loading) return;
   loading = true;
   loadingMessage.style.display = "block";
 
@@ -144,22 +103,17 @@ function loadNextBatch(forceFill = false) {
 
   const filteredFilms = allFilms.filter(film => {
     const virtues = film.virtues || [];
-
     if (selectedCategory && selectedCategory !== "__reset__") {
       if (!virtues.some(v => v.startsWith(selectedCategory + "."))) return false;
     }
-
     if (selectedVirtue && selectedVirtue !== "__reset__") {
       const virtueCode = virtueCodeMap[selectedVirtue];
       if (!virtueCode || !virtues.includes(virtueCode)) return false;
     }
-
     return true;
   });
 
-  const batchCount = forceFill ? Math.max(batchSize, cardsNeededToFillHeight) : batchSize;
-  const batch = filteredFilms.slice(filmsLoaded, filmsLoaded + batchCount);
-
+  const batch = filteredFilms.slice(filmsLoaded, filmsLoaded + count);
   batch.forEach(film => {
     const card = document.createElement("div");
     card.className = "film-card";
@@ -196,10 +150,23 @@ function loadNextBatch(forceFill = false) {
   }
 }
 
-// Scroll event handler for lazy loading
 function handleScroll() {
   const nearBottom = window.innerHeight + window.scrollY >= document.body.offsetHeight - (window.innerHeight * 0.1);
   if (nearBottom && !loading) {
     loadNextBatch();
   }
 }
+
+// Fetch and init
+fetch("positive_movies.json")
+  .then(res => res.json())
+  .then(films => {
+    allFilms = films;
+    loadUntilFilled();
+    window.addEventListener("scroll", handleScroll);
+    window.addEventListener("resize", () => {}); // optional
+  })
+  .catch(err => {
+    grid.innerHTML = "<p>Error loading films.</p>";
+    console.error("Failed to load positive_movies.json", err);
+  });
