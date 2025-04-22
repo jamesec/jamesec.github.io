@@ -100,7 +100,9 @@ function resetFilters() {
 function resetAndLoad() {
   filmsLoaded = 0;
   grid.innerHTML = "";
-  loadNextBatch();
+
+  // Recalculate cards needed and force full-height load
+  recalculateCardsNeededToFillHeight(true);
 
   // Re-attach scroll listener after reset
   window.removeEventListener("scroll", handleScroll);
@@ -123,14 +125,18 @@ fetch("positive_movies.json")
   });
 
 // Function to recalculate the number of cards needed to fill the viewport height
-function recalculateCardsNeededToFillHeight() {
-  // Recalculate the number of cards needed to fill the height of the window
+// Modified to optionally force fill-screen behavior
+function recalculateCardsNeededToFillHeight(forceLoad = false) {
   const cardsInView = Math.floor(window.innerHeight / cardHeight);
-  cardsNeededToFillHeight = cardsInView > 0 ? cardsInView : 1; // Ensure we load at least one card
-  loadNextBatch();
+  cardsNeededToFillHeight = cardsInView > 0 ? cardsInView : 1;
+
+  if (forceLoad) {
+    loadNextBatch(true); // Pass the flag to trigger fill-screen logic
+  }
 }
 
-function loadNextBatch() {
+// Add `forceFill` param to allow special loading behavior
+function loadNextBatch(forceFill = false) {
   if (loading) return;
 
   loading = true;
@@ -153,6 +159,45 @@ function loadNextBatch() {
 
     return true;
   });
+
+  const batchCount = forceFill ? Math.max(batchSize, cardsNeededToFillHeight) : batchSize;
+  const batch = filteredFilms.slice(filmsLoaded, filmsLoaded + batchCount);
+
+  batch.forEach(film => {
+    const card = document.createElement("div");
+    card.className = "film-card";
+
+    const img = document.createElement("img");
+    img.src = `https://image.tmdb.org/t/p/w780${film.poster_path}`;
+    img.alt = film.title;
+    img.loading = "lazy";
+
+    const title = document.createElement("div");
+    title.className = "film-title";
+    title.textContent = `${film.title} (${film.year})`;
+
+    card.appendChild(img);
+    card.appendChild(title);
+
+    if (film.has_review) {
+      const link = document.createElement("a");
+      link.href = `/o/s.htm?p=/movies/${film.imdb_id}`;
+      link.target = "_blank";
+      link.appendChild(card);
+      grid.appendChild(link);
+    } else {
+      grid.appendChild(card);
+    }
+  });
+
+  filmsLoaded += batch.length;
+  loading = false;
+  loadingMessage.style.display = "none";
+
+  if (filmsLoaded >= filteredFilms.length) {
+    window.removeEventListener("scroll", handleScroll);
+  }
+}
 
   // Load at least enough cards to fill the screen or 15 cards
   const batch = filteredFilms.slice(filmsLoaded, filmsLoaded + Math.max(batchSize, cardsNeededToFillHeight));
