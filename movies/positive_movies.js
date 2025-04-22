@@ -7,7 +7,6 @@ let allFilms = [];
 let filmsLoaded = 0;
 const batchSize = 15;
 let loading = false;
-let isScrollListenerAdded = false; // To track if the scroll listener is added
 
 // Category and virtue mapping
 const virtuesData = {
@@ -102,26 +101,22 @@ function resetAndLoad() {
   loadNextBatch();
 
   // Re-attach scroll listener after reset
-  if (!isScrollListenerAdded) {
-    window.addEventListener("scroll", handleScroll);
-    isScrollListenerAdded = true;
-  }
+  window.removeEventListener("scroll", handleScroll);
+  window.addEventListener("scroll", handleScroll);
 }
 
 // Fetch and initialize
-async function fetchFilms() {
-  try {
-    const response = await fetch("positive_movies.json");
-    const films = await response.json();
+fetch("positive_movies.json")
+  .then(res => res.json())
+  .then(films => {
     allFilms = films;
     loadNextBatch();
-  } catch (err) {
+    window.addEventListener("scroll", handleScroll);
+  })
+  .catch(err => {
     grid.innerHTML = "<p>Error loading films.</p>";
     console.error("Failed to load positive_movies.json", err);
-  }
-}
-
-fetchFilms();
+  });
 
 function loadNextBatch() {
   if (loading) return;
