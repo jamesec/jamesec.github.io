@@ -7,6 +7,7 @@ let allFilms = [];
 let filmsLoaded = 0;
 const batchSize = 15;
 let loading = false;
+let cardsNeededToFillHeight = 0;
 
 // Category and virtue mapping
 const virtuesData = {
@@ -112,11 +113,19 @@ fetch("positive_movies.json")
     allFilms = films;
     loadNextBatch();
     window.addEventListener("scroll", handleScroll);
+    window.addEventListener("resize", recalculateCardsNeededToFillHeight);
   })
   .catch(err => {
     grid.innerHTML = "<p>Error loading films.</p>";
     console.error("Failed to load positive_movies.json", err);
   });
+
+// Function to recalculate the number of cards needed to fill the viewport height
+function recalculateCardsNeededToFillHeight() {
+  const cardHeight = 220; // Estimated card height in px
+  cardsNeededToFillHeight = Math.ceil(window.innerHeight / cardHeight); // Calculate how many cards are needed to fill the viewport
+  loadNextBatch();
+}
 
 function loadNextBatch() {
   if (loading) return;
@@ -142,11 +151,7 @@ function loadNextBatch() {
     return true;
   });
 
-  // Calculate how many cards are needed to fill the viewport height dynamically
-  const cardHeight = 220; // Estimated card height in px
-  const cardsNeededToFillHeight = Math.ceil(window.innerHeight / cardHeight); // How many cards are needed to fill the viewport
-
-  // Load at least 15 cards or the number needed to fill the height
+  // Load at least enough cards to fill the screen or 15 cards
   const batch = filteredFilms.slice(filmsLoaded, filmsLoaded + Math.max(batchSize, cardsNeededToFillHeight));
 
   batch.forEach(film => {
