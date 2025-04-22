@@ -58,7 +58,7 @@
     justify-content: flex-start;  /* Left align the filter controls */
   }
 
-  /* Make the select dropdowns appear on the same row */
+/* Make the select dropdowns appear on the same row */
   .filter-controls select {
     min-width: 200px;  /* Optional, increases the width of the dropdowns */
   }
