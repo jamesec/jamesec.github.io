@@ -1,15 +1,20 @@
-.filter-bar {
+.filter-controls {
   display: flex;
-  gap: 1em;
   flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5em;
   margin-bottom: 1em;
 }
 
-.filter-bar select {
-  flex: 1 1 200px;
-  max-width: 300px;
+.filter-controls select,
+.filter-controls button {
   padding: 0.5em;
   font-size: 1em;
+  min-width: 160px;
+}
+
+.filter-controls {
+  justify-content: center;
 }
 
 .grid-container {
