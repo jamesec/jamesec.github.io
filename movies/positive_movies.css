@@ -46,3 +46,17 @@
   font-weight: 500;
   color: #747474;
 }
+
+#reset-filters {
+  background-color: #ff5722;
+  color: white;
+  border: none;
+  padding: 0.5em 1em;
+  cursor: pointer;
+  margin-left: 1em;
+  font-size: 1em;
+}
+
+#reset-filters:hover {
+  background-color: #ff3d00;
+}
