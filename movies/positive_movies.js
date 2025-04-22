@@ -81,7 +81,11 @@ virtueSelect.addEventListener("change", () => {
 function resetAndLoad(loadAll = false) {
   filmsLoaded = 0;
   grid.innerHTML = "";
-  loadNextBatch(loadAll);
+  if (loadAll) {
+    loadAllFilms(); // Call to load all films immediately
+  } else {
+    loadNextBatch(); // Default behavior (lazy loading)
+  }
 }
 
 // Fetch and initialize
@@ -98,7 +102,62 @@ fetch("positive_movies.json")
     console.error("Failed to load positive_movies.json", err);
   });
 
-function loadNextBatch(loadAll = false) {
+// Function to load all films immediately (bypassing lazy loading)
+function loadAllFilms() {
+  const selectedCategory = categorySelect.value;
+  const selectedVirtue = virtueSelect.value;
+
+  let filteredFilms = allFilms;
+
+  filteredFilms = allFilms.filter(film => {
+    const virtues = film.virtues || [];
+
+    // Filter by category
+    if (selectedCategory && !virtues.some(v => v.startsWith(selectedCategory + "."))) {
+      return false;
+    }
+
+    // Filter by specific virtue
+    if (selectedVirtue) {
+      const virtueCode = virtueCodeMap[selectedVirtue];
+      if (!virtueCode || !virtues.includes(virtueCode)) {
+        return false;
+      }
+    }
+
+    return true;
+  });
+
+  filteredFilms.forEach(film => {
+    const card = document.createElement("div");
+    card.className = "film-card";
+
+    const img = document.createElement("img");
+    img.src = `https://image.tmdb.org/t/p/w780${film.poster_path}`;
+    img.alt = film.title;
+    img.loading = "lazy";
+
+    const title = document.createElement("div");
+    title.className = "film-title";
+    title.textContent = `${film.title} (${film.year})`;
+
+    card.appendChild(img);
+    card.appendChild(title);
+
+    if (film.has_review) {
+      const link = document.createElement("a");
+      link.href = `/o/s.htm?p=/movies/${film.imdb_id}`;
+      link.target = "_blank";
+      link.appendChild(card);
+      grid.appendChild(link);
+    } else {
+      grid.appendChild(card);
+    }
+  });
+}
+
+// Load the next batch of films for lazy loading
+function loadNextBatch() {
   if (loading) return;
 
   loading = true;
@@ -109,26 +168,24 @@ function loadNextBatch(loadAll = false) {
 
   let filteredFilms = allFilms;
 
-  if (!loadAll) {
-    filteredFilms = allFilms.filter(film => {
-      const virtues = film.virtues || [];
+  filteredFilms = allFilms.filter(film => {
+    const virtues = film.virtues || [];
 
-      // Filter by category
-      if (selectedCategory && !virtues.some(v => v.startsWith(selectedCategory + "."))) {
+    // Filter by category
+    if (selectedCategory && !virtues.some(v => v.startsWith(selectedCategory + "."))) {
+      return false;
+    }
+
+    // Filter by specific virtue
+    if (selectedVirtue) {
+      const virtueCode = virtueCodeMap[selectedVirtue];
+      if (!virtueCode || !virtues.includes(virtueCode)) {
         return false;
       }
+    }
 
-      // Filter by specific virtue
-      if (selectedVirtue) {
-        const virtueCode = virtueCodeMap[selectedVirtue];
-        if (!virtueCode || !virtues.includes(virtueCode)) {
-          return false;
-        }
-      }
-
-      return true;
-    });
-  }
+    return true;
+  });
 
   const batch = filteredFilms.slice(filmsLoaded, filmsLoaded + batchSize);
 
