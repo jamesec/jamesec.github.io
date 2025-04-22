@@ -8,14 +8,19 @@
   margin-bottom: 1em;
 }
 
-/* Dropdowns and button styling */
+/* Dropdowns and reset button styling */
 .filter-controls select,
 .filter-controls button {
   padding: 0.5em;
   font-size: 1em;
   min-width: 160px;
-  height: 2.5em; /* Align vertically with same height */
+  height: 2.5em;
   box-sizing: border-box;
+  line-height: 1.5em;
+  vertical-align: middle;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* Layout for film grid */
@@ -55,7 +60,7 @@
   color: #747474;
 }
 
-/* Reset button specific overrides */
+/* Reset button specific tweaks */
 #reset-filters {
   background-color: #ff5722;
   color: white;
@@ -63,8 +68,10 @@
   padding: 0.5em 1em;
   cursor: pointer;
   font-size: 1em;
-  height: 2.5em; /* Matches selects */
+  height: 2.5em;
   box-sizing: border-box;
+  margin-left: 1em;
+  margin-top: 1px; /* Nudge for perfect vertical alignment */
 }
 
 #reset-filters:hover {
