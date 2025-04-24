@@ -6,6 +6,7 @@ Weekly Tips & Support for Focusing by [Ann Weiser Cornell](https://focusingresou
 
 ## 0901+
 ### 0931 to 0940
+- Focusing Tip #933 – "The same emotions come up over and over"
 - Focusing Tip #932 – "Do I have to be with what comes up the strongest?"
 - Focusing Tip #931 – "I don't feel anything."
 
