@@ -38,7 +38,7 @@ Weekly Tips & Support for Focusing by [Ann Weiser Cornell](https://focusingresou
 ### 0901 to 0910
 - Focusing Tip #910 – "Do you say back a negative statement in a positive light?"
 - Focusing Tip #909 – "Do you do Focusing when you're agitated or when you're calm?"
-- Focusing Tip #908 – "For me it felt like words only"
+- [Focusing Tip #908 – "For me it felt like words only"](https://focusingresources.com/2024/10/09/focusing-tip-908-for-me-it-felt-like-words-only/)
 - [Focusing Tip #907 – "I have to get free from my eating disorder."](https://focusingresources.com/2024/09/25/focusing-tip-907-i-have-to-get-free-from-my-eating-disorder/)
 - [Focusing Tip #906 – Resolving a family conflict about needs](https://focusingresources.com/2024/09/18/focusing-tip-906-resolving-a-family-conflict-about-needs/)
 - [Focusing Tip #905 – On waking up with an uncomfortable body feeling](https://focusingresources.com/2024/09/11/focusing-tip-905-on-waking-up-with-an-uncomfortable-body-feeling/)
