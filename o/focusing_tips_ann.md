@@ -33,10 +33,10 @@ Weekly Tips & Support for Focusing by [Ann Weiser Cornell](https://focusingresou
 - Focusing Tip #914 – "My body moves when I'm Focusing, sometimes a lot"
 - Focusing Tip #913 – Can Focusing help me not have to take medication?
 - Focusing Tip #912 – Focusing with feeling stunned and heartbroken
-- Focusing Tip #911 – If you're anxious about the US election (or anything else)
+- [Focusing Tip #911 – If you're anxious about the US election (or anything else)](https://focusingresources.com/2024/10/30/focusing-tip-911-if-youre-anxious-about-the-us-election-or-anything-else/)
 
 ### 0901 to 0910
-- Focusing Tip #910 – "Do you say back a negative statement in a positive light?"
+- [Focusing Tip #910 – "Do you say back a negative statement in a positive light?"](https://focusingresources.com/2024/10/23/focusing-tip-910-do-you-say-back-a-negative-statement-in-a-positive-light/)
 - [Focusing Tip #909 – "Do you do Focusing when you're agitated or when you're calm?"](https://focusingresources.com/2024/10/16/focusing-tip-909-strong-emotions-do-you-do-focusing-when-youre-agitated-or-when-youre-calm/)
 - [Focusing Tip #908 – "For me it felt like words only"](https://focusingresources.com/2024/10/09/focusing-tip-908-for-me-it-felt-like-words-only/)
 - [Focusing Tip #907 – "I have to get free from my eating disorder."](https://focusingresources.com/2024/09/25/focusing-tip-907-i-have-to-get-free-from-my-eating-disorder/)
