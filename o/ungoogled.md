@@ -48,14 +48,18 @@ https://github.com/NeverDecaf/chromium-web-store
 ## Extensions
 - [uBlock Origin](https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
   - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [Session Buddy](https://chromewebstore.google.com/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
+  - Session Buddy is a tab manager that can save all the tabs in your browser with a single click.
+- [Awesome Screen Recorder & Screenshot](https://chromewebstore.google.com/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj)
+
+### These extensions help enhance privacy, cybersecurity, and online protection.
 - [WebRTC Control](https://chromewebstore.google.com/detail/fjkmabmdepjfammlpliljpnbhleegehm)
   - Turn it on.
   - Test WebRTC Leak: Your browser is NOT leaking webrtc ip-address.
+  - Have control over WebRTC (disable | enable) and protect your IP address.
 - [Don't track me Google](https://chromewebstore.google.com/detail/gdbofhhdmcladcmmfjolgndfkpobecpg)
-- [Session Buddy](https://chromewebstore.google.com/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
-  - Session Buddy is a tab manager that can save all the tabs in your browser with a single click.
 - [Privacy Badger](https://chromewebstore.google.com/detail/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
-- [Awesome Screen Recorder & Screenshot](https://chromewebstore.google.com/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj)
+  - Privacy Badger automatically learns to block invisible trackers.
 
 ## References
 - [UnGoogled Chromium browser with extensions - archived](s.htm?p=ungoogled_archived)
