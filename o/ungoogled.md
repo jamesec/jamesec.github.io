@@ -1,5 +1,5 @@
 # UnGoogled Chromium browser with extensions
-`April 23, 2024`
+`Updated: May 8, 2025 / April 23, 2024`
 
 This article outlines the steps on a Mac.
 
@@ -10,9 +10,6 @@ https://techspot.com/downloads/7181-ungoogled-chromium.html
 A lightweight approach to removing Google web service dependency.
 
 It claims to be `Certified 100% clean`, and I've used it for a long time with no issues. But it's a pre-compiled binary, so use at your own risk.
-
-Another link to download it:  
-https://ungoogled-software.github.io/ungoogled-chromium-binaries/
 
 Alternatively, you can compile it from the source code:
 
@@ -48,58 +45,17 @@ https://github.com/NeverDecaf/chromium-web-store
 	- If this happens you can refresh the page to fix it.
 - Usage: Pin the Chromium Web Store badge in your browser's toolbar. (Badges are hidden by default)
 
-## Extensions, sorted by how strongly I recommend it
-### uBlock Origin
-[uBlock Origin](https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+## Extensions
+- [uBlock Origin](https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+  - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [WebRTC Control](https://chromewebstore.google.com/detail/fjkmabmdepjfammlpliljpnbhleegehm)
+  - Turn it on.
+  - Test WebRTC Leak: Your browser is NOT leaking webrtc ip-address.
+- [Don't track me Google](https://chromewebstore.google.com/detail/gdbofhhdmcladcmmfjolgndfkpobecpg)
+- [Session Buddy](https://chromewebstore.google.com/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
+  - Session Buddy is a tab manager that can save all the tabs in your browser with a single click.
+- [Privacy Badger](https://chromewebstore.google.com/detail/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
+- [Awesome Screen Recorder & Screenshot](https://chromewebstore.google.com/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj)
 
-Latest version as of Apr 23, 2024, **on Chrome Web Store: 1.57.0**
-
-uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-
-[uBlock Origin - GitHub](https://github.com/gorhill/uBlock/releases/latest)
-
-Latest version as of Apr 23, 2024, **on GitHub: 1.57.2**
-
-Initially, we've manually installed the `Chromium Web Store` extension. To use the latest version of uBlock Origin, **manually install it too**.
-
-So, **Step 4:** Manually install the uBlock Origin extension.
-- Download uBlock0_1.57.2.chromium.zip from [here](https://github.com/gorhill/uBlock/releases/tag/1.57.2).
-- Unpack it into a folder.
-- In Chromium, Load unpacked, choose the folder in the above step.
-- For these manually installed extensions, give them specific folders:
-	- Such as, ~/Downloads/Chromium Extensions/uBlock 1.57.2/
-
-**Step 5:** Install the following recommended extensions as you want, and configure them accordingly.
-
-Simply click on the link of an extension, then click the blue button `Add to Chrome`.
-
-### WebRTC Control
-[WebRTC Control](https://chromewebstore.google.com/detail/fjkmabmdepjfammlpliljpnbhleegehm)
-
-Latest version as of Apr 23, 2024: 0.3.2
-- Turn it on.
-- Test WebRTC Leak: Your browser is NOT leaking webrtc ip-address.
-
-### Don't track me Google
-[Don't track me Google](https://chromewebstore.google.com/detail/gdbofhhdmcladcmmfjolgndfkpobecpg)
-
-Latest version as of Apr 23, 2024: 4.28
-
-### Sessionic
-[Sessionic](https://chromewebstore.google.com/detail/mdakbhkahkmdafnfhdikbddkngcbhenc)
-
-A web extension to save, manage and restore sessions, windows and tabs.
-
-Latest version as of Apr 23, 2024: 1.7.1
-
-### Privacy Badger
-[Privacy Badger](https://chromewebstore.google.com/detail/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
-
-Latest version as of Apr 23, 2024: 2024.2.6
-
-### Take Webpage Screenshots Entirely - FireShot
-[Take Webpage Screenshots Entirely - FireShot](https://chromewebstore.google.com/detail/mcbpblocgmgfnpjjppndjkmgjaogfceg)
-
-Latest version as of Apr 23, 2024: 1.12.18
-
-**Probably better:** [Awesome Screen Recorder & Screenshot](https://chromewebstore.google.com/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj)
+## References
+- [UnGoogled Chromium browser with extensions - archived](s.htm?p=ungoogled_archived)
