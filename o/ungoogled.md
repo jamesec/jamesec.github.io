@@ -44,9 +44,9 @@ https://github.com/NeverDecaf/chromium-web-store
 
 - [uBlock Origin](https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
   - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [Session Buddy](https://chromewebstore.google.com/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
+- [Session Buddy](https://chromewebstore.google.com/detail/edacconmaakjimmfgnblocblbcdcpbko)
   - Session Buddy is a tab manager that can save all the tabs in your browser with a single click.
-- [SingleFile](https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle)
+- [SingleFile](https://chromewebstore.google.com/detail/mpiodijhokgodhhofbcjdecpffjipkle)
   - Save a complete page into a single HTML file.
   - This is one example of how it can be used: [Best way to save your chat history with ChatGPT](s.htm?p=export_chatgpt)
 - [Awesome Screen Recorder & Screenshot](https://chromewebstore.google.com/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj)
@@ -61,7 +61,7 @@ https://github.com/NeverDecaf/chromium-web-store
   - Privacy Badger automatically learns to block invisible trackers.
 - [Don't track me Google](https://chromewebstore.google.com/detail/gdbofhhdmcladcmmfjolgndfkpobecpg)
   - Removes the annoying link-conversion at Google Search/maps/...
-- [Google Analytics Opt-out Add-on (by Google)](https://chromewebstore.google.com/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh)
+- [Google Analytics Opt-out Add-on (by Google)](https://chromewebstore.google.com/detail/fllaojicojecljbmefodhfapmkghcbnh)
   - Tells the Google Analytics JavaScript not to send information to Google Analytics.
 
 ## References
