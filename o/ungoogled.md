@@ -23,7 +23,7 @@ As you manually install the downloaded `UnGoogled Chromium` App, click this butt
 	- If you use Chromium Browser to download the .crx file, it will disappear! 
 - Change the extension name from .crx to **.cab**
 - Use the Keka App to unpack it into a folder.
-	- https://keka.io/en/ Download the Keka App **directly from the website** (there's a small link, something like:  Download v1.3.8), instead of downloading it from the Mac App Store - unless you want to pay $4.99 as a kind of donation.
+	- https://keka.io/en/ Download the Keka App **directly from the website** (there's a small link, something like:  Download v1.4.8), instead of downloading it from the Mac App Store - unless you want to pay $4.99 as a kind of donation.
 - Open `chrome://extensions/` in Chromium, then turn on "Developer mode".
 - For these manually installed extensions, give them specific folders:
 	- Such as, ~/Downloads/Chromium Extensions/Chromium.Web.Store 1.5.4.3/
