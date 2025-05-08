@@ -52,6 +52,9 @@ https://github.com/NeverDecaf/chromium-web-store
   - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [Session Buddy](https://chromewebstore.google.com/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
   - Session Buddy is a tab manager that can save all the tabs in your browser with a single click.
+- [SingleFile](https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle)
+  - Save a complete page into a single HTML file.
+  - This is one example of how it can be used: [Best way to save your chat history with ChatGPT](s.htm?p=export_chatgpt)
 - [Awesome Screen Recorder & Screenshot](https://chromewebstore.google.com/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj)
   - I use this screenshot tool to capture full webpages.
 
