@@ -25,7 +25,6 @@ As you manually install the downloaded `UnGoogled Chromium` App, click this butt
 ### Manually install an extension
 - **Use Safari Browser** to download the .crx file.
 	- [Chromium Web Store extension](https://github.com/NeverDecaf/chromium-web-store/releases/latest)
-		- Latest version as of Apr 23, 2024: 1.5.4.2
 	- If you use Chromium Browser to download the .crx file, it will disappear! 
 - Change the extension name from .crx to **.cab**
 - Use the Keka App to unpack it into a folder.
