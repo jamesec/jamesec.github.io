@@ -53,6 +53,7 @@ https://github.com/NeverDecaf/chromium-web-store
 - [Session Buddy](https://chromewebstore.google.com/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
   - Session Buddy is a tab manager that can save all the tabs in your browser with a single click.
 - [Awesome Screen Recorder & Screenshot](https://chromewebstore.google.com/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj)
+  - I use this screenshot tool to capture full webpages.
 
 ### These extensions help enhance privacy, cybersecurity, and online protection.
 - [WebRTC Control](https://chromewebstore.google.com/detail/fjkmabmdepjfammlpliljpnbhleegehm)
