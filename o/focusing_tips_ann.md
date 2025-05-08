@@ -6,6 +6,7 @@ Weekly Tips & Support for Focusing by [Ann Weiser Cornell](https://focusingresou
 
 ## 0901+
 ### 0931 to 0940
+- Focusing Tip #935 – "How do I help someone stay with a felt sense?"
 - Focusing Tip #934 – Three ways to start a Focusing session
 - Focusing Tip #933 – "The same emotions come up over and over"
 - Focusing Tip #932 – "Do I have to be with what comes up the strongest?"
