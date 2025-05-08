@@ -57,9 +57,12 @@ https://github.com/NeverDecaf/chromium-web-store
   - Turn it on.
   - Test WebRTC Leak: Your browser is NOT leaking webrtc ip-address.
   - Have control over WebRTC (disable | enable) and protect your IP address.
-- [Don't track me Google](https://chromewebstore.google.com/detail/gdbofhhdmcladcmmfjolgndfkpobecpg)
 - [Privacy Badger](https://chromewebstore.google.com/detail/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
   - Privacy Badger automatically learns to block invisible trackers.
+- [Don't track me Google](https://chromewebstore.google.com/detail/gdbofhhdmcladcmmfjolgndfkpobecpg)
+  - Removes the annoying link-conversion at Google Search/maps/...
+- [Google Analytics Opt-out Add-on (by Google)](https://chromewebstore.google.com/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh)
+  - Tells the Google Analytics JavaScript not to send information to Google Analytics.
 
 ## References
 - [UnGoogled Chromium browser with extensions - archived](s.htm?p=ungoogled_archived)
