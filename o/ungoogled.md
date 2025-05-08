@@ -63,7 +63,7 @@ https://github.com/NeverDecaf/chromium-web-store
 - [Don't track me Google](https://chromewebstore.google.com/detail/gdbofhhdmcladcmmfjolgndfkpobecpg)
   - Removes the annoying link-conversion at Google Search/maps/...
 - [Google Analytics Opt-out Add-on (by Google)](https://chromewebstore.google.com/detail/fllaojicojecljbmefodhfapmkghcbnh)
-  - Tells the Google Analytics JavaScript not to send information to Google Analytics.
+  - "Ideal for web developers who don't want to include their footprint on their projects causing inaccurate data."
 
 ## References
 - [UnGoogled Chromium browser with extensions - archived](s.htm?p=ungoogled_archived)
