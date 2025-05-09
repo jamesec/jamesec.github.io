@@ -64,4 +64,7 @@ https://github.com/NeverDecaf/chromium-web-store
   - Removes the annoying link-conversion at Google Search/maps/...
 
 ## References
+- [Note to Those Perhaps Hesitant to Install Ungoogled Chromium](https://www.reddit.com/r/browsers/comments/16ceot2/note_to_those_perhaps_hesitant_to_install/?rdt=48071)
+  - "Why would I use chromium and contribute to the blink monopoly."
+    - "Because the blink monopoly is already established and some websites I use on a daily basis don't fully work over firefox."
 - [UnGoogled Chromium browser with extensions - archived](s.htm?p=ungoogled_archived)
