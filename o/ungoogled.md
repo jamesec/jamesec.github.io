@@ -19,7 +19,7 @@ As you manually install the downloaded `UnGoogled Chromium` App, click this butt
 
 Run the `UnGoogled Chromium` app you downloaded, and it will display the page: `chrome://ungoogled-first-run/`, which includes the instructions:
 - Set `chrome://flags/#extension-mime-request-handling` to `Always prompt for install` and relaunch.
-- Then click on the latest `Chromium.Web.Store.crx` link on [the extension's Releases page](https://github.com/NeverDecaf/chromium-web-store/releases/latest).
+- Then click on the latest `Chromium.Web.Store.crx` link on [the extension's Releases page](https://github.com/NeverDecaf/chromium-web-store/releases/latest) (as shown in Step 3 below).
 
 ## Extension - Chromium Web Store
 **Step 3:** Install the `Chromium Web Store` extension.
