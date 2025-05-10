@@ -27,12 +27,16 @@ https://github.com/NeverDecaf/chromium-web-store
 ## Extension - Chromium Web Store
 **Step 3:** Install the `Chromium Web Store` extension. You may need to install it manually.
 
+[Chromium Web Store extension](https://github.com/NeverDecaf/chromium-web-store/releases/latest)  
+Click on "Chromium.Web.Store.crx", it will then prompt: Add "Chromium Web Store"?  
+Click "Add extension" - done.  
+That is to say, it successfully installs this `Chromium Web Store extension`, and you can skip the manual installation steps outlined below.
+
 ### Manually install an extension
+Starting the manual installation steps. 
 - **Use Safari Browser** to download the .crx file.
 	- [Chromium Web Store extension](https://github.com/NeverDecaf/chromium-web-store/releases/latest)
-	- If you use Chromium Browser to download the .crx file, it will disappear! 
-- <span style="border-bottom:1.5px solid; border-bottom-color:#f55066;">Drag this .crx file into the UnGoogled Chromium window you just downloaded.</span> If it successfully installs this `Chromium Web Store extension`, you can skip the manual installation steps outlined below.
-- Starting the manual installation steps. Change the extension name from .crx to **.cab**
+- Change the extension name from .crx to **.cab**
 - Use the Keka App to unpack it into a folder.
 	- https://keka.io/en/ Download the Keka App **directly from the website** (there's a small link, something like:  Download v1.4.8), instead of downloading it from the Mac App Store - unless you want to pay $4.99 as a kind of donation.
 - Open `chrome://extensions/` in Chromium, then turn on "Developer mode".
