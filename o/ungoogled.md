@@ -7,8 +7,7 @@ This article outlines the steps on a Mac.
 https://techspot.com/downloads/7181-ungoogled-chromium.html  
 A lightweight approach to removing Google web service dependency.
 
-I've used it for a long time with no issues. However, since it's a precompiled binary, use it at your own risk.
-
+I've used it for a long time with no issues. However, since it's a precompiled binary, use it at your own risk.  
 Alternatively, you can compile it from [the source code](https://github.com/ungoogled-software/ungoogled-chromium).
 
 As you manually install the downloaded `UnGoogled Chromium` App, click this button to allow it to run:  
