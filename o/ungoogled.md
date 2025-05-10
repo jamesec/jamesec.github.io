@@ -32,7 +32,6 @@ Usage: Pin the `Chromium Web Store` badge in your browser's toolbar. (Badges are
 For certain older versions of `UnGoogled Chromium`, you may need to install this extension manually.
 
 ### Manually install an extension
-Starting the manual installation steps. 
 - **Use Safari Browser** to download the .crx file.
 	- [Chromium Web Store extension](https://github.com/NeverDecaf/chromium-web-store/releases/latest)
 - Change the extension name from .crx to **.cab**
@@ -41,7 +40,7 @@ Starting the manual installation steps.
 - Open `chrome://extensions/` in Chromium, then turn on "Developer mode".
 - For these manually installed extensions, give them specific folders:
 	- Such as, ~/Downloads/Chromium Extensions/Chromium.Web.Store 1.5.4.3/
-- Load unpacked, then choose the folder from the previous steps.
+- Load unpacked, then choose the folder from the previous step.
 
 ## Extensions
 <span style="border-bottom:1.5px solid; border-bottom-color:#f55066;">If you rarely use an extension, disable it at `chrome://extensions/` and re-enable it when needed.</span> For example, I only enable the `Awesome Screen Recorder & Screenshot` extension when I want to capture a full-page screenshot of a webpage.
