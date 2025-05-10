@@ -49,6 +49,7 @@ For certain older versions of `UnGoogled Chromium`, you may need to install this
   - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [Session Buddy](https://chromewebstore.google.com/detail/edacconmaakjimmfgnblocblbcdcpbko)
   - Session Buddy is a tab manager that can save all the tabs in your browser with a single click.
+  - Settings → Other → Enable single-click close and delete
 - [SingleFile](https://chromewebstore.google.com/detail/mpiodijhokgodhhofbcjdecpffjipkle)
   - Save a complete page into a single HTML file.
   - Configure `SingleFile` like this: Options → File format → self-extracting ZIP (universal).
