@@ -3,12 +3,11 @@
 
 This article outlines the steps on a Mac.
 
-**Step 1:** Download `UnGoogled Chromium` and install it.  
+**Step 1:** Download and install `UnGoogled Chromium`.  
 https://techspot.com/downloads/7181-ungoogled-chromium.html  
 A lightweight approach to removing Google web service dependency.
 
-I've used it for a long time with no issues. However, since it's a precompiled binary, use it at your own risk.  
-Alternatively, you can compile it from [the source code](https://github.com/ungoogled-software/ungoogled-chromium).
+I've used it for a long time with no issues. However, since it's a precompiled binary, use it at your own risk. Alternatively, you can compile it from [the source code](https://github.com/ungoogled-software/ungoogled-chromium).
 
 As you manually install the downloaded `UnGoogled Chromium` App, click this button to allow it to run:  
 (macOS) System Settings → Privacy & Security → Security → Open Anyway
@@ -27,7 +26,7 @@ Run the `UnGoogled Chromium` app you downloaded, and it will display the page: `
 Click on `Chromium.Web.Store.crx`. A prompt will appear: Add "Chromium Web Store"?  
 Click "Add extension", done.  
 It has been successfully installed, and you can skip the manual installation steps outlined below.  
-Usage: Pin the `Chromium Web Store` badge in your browser's toolbar. (Badges are hidden by default)
+Pin the `Chromium Web Store` badge in your browser's toolbar. (Badges are hidden by default)
 
 For certain older versions of `UnGoogled Chromium`, you may need to install this extension manually.
 
