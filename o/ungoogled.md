@@ -15,13 +15,11 @@ As you manually install the downloaded `UnGoogled Chromium` App, click this butt
 (macOS) System Settings → Privacy & Security → Security → Open Anyway
 
 ## Change this Chromium flag
-**Step 2:** Change this Chromium flag and restart the Chromium App so that in the following steps, you can install extensions from the real Chromium Web Store, and there's no need to manually install them.
+**Step 2:** Change this Chromium flag and restart the Chromium App.
 
-Run the `UnGoogled Chromium` app you downloaded, and it will display the page: `chrome://ungoogled-first-run/`.
-
-https://github.com/NeverDecaf/chromium-web-store
-- `In the Read this first section` If you are using `ungoogled-chromium`:
-	- You must **change the flag** `chrome://flags/#extension-mime-request-handling` to `Always prompt for install`.
+Run the `UnGoogled Chromium` app you downloaded, and it will display the page: `chrome://ungoogled-first-run/`, which includes the instructions:
+- Set `chrome://flags/#extension-mime-request-handling` to `Always prompt for install` and relaunch.
+- Then click on the latest `Chromium.Web.Store.crx` link on [the extension's Releases page](https://github.com/NeverDecaf/chromium-web-store/releases/latest).
 
 ## Extension - Chromium Web Store
 **Step 3:** Install the `Chromium Web Store` extension.
