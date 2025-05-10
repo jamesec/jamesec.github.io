@@ -37,9 +37,9 @@ For certain older versions of `UnGoogled Chromium`, you may need to install this
 - Change the extension name from .crx to **.cab**
 - Use the Keka App to unpack it into a folder.
 	- https://keka.io/en/ Download the Keka App **directly from the website** (there's a small link, something like:  Download v1.4.8), instead of downloading it from the Mac App Store - unless you want to pay $4.99 as a kind of donation.
-- Open `chrome://extensions/` in Chromium, then turn on "Developer mode".
 - For these manually installed extensions, give them specific folders:
 	- Such as, ~/Downloads/Chromium Extensions/Chromium.Web.Store 1.5.4.3/
+- Open `chrome://extensions/` in Chromium, then turn on "Developer mode".
 - Click "Load unpacked", then choose the folder from the previous step.
 
 ## Extensions
