@@ -17,6 +17,8 @@ As you manually install the downloaded `UnGoogled Chromium` App, click this butt
 ## Change this Chromium flag
 **Step 2:** Change this Chromium flag and restart the Chromium App so that in the following steps, you can install extensions from the real Chromium Web Store, and there's no need to manually install them.
 
+Run the `UnGoogled Chromium` app you downloaded; it will display the page: `chrome://ungoogled-first-run/`.
+
 https://github.com/NeverDecaf/chromium-web-store
 - `In the Read this first section` If you are using `ungoogled-chromium`:
 	- You must **change the flag** `chrome://flags/#extension-mime-request-handling` to `Always prompt for install`.
