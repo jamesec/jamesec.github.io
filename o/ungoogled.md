@@ -15,7 +15,7 @@ As you manually install the downloaded `UnGoogled Chromium` App, click this butt
 (macOS) System Settings → Privacy & Security → Security → Open Anyway
 
 ## Change this Chromium flag
-**Step 2:** Change this Chromium flag and restart the Chromium App.
+**Step 2:** Change this Chromium flag and relaunch the app.
 
 Run the `UnGoogled Chromium` app you downloaded, and it will display the page: `chrome://ungoogled-first-run/`, which includes the instructions:
 - Set `chrome://flags/#extension-mime-request-handling` to `Always prompt for install` and relaunch.
