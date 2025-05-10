@@ -22,7 +22,6 @@ Run the `UnGoogled Chromium` app you downloaded, and it will display the page: `
 https://github.com/NeverDecaf/chromium-web-store
 - `In the Read this first section` If you are using `ungoogled-chromium`:
 	- You must **change the flag** `chrome://flags/#extension-mime-request-handling` to `Always prompt for install`.
-- Usage: Pin the Chromium Web Store badge in your browser's toolbar. (Badges are hidden by default)
 
 ## Extension - Chromium Web Store
 **Step 3:** Install the `Chromium Web Store` extension.
@@ -31,6 +30,8 @@ https://github.com/NeverDecaf/chromium-web-store
 Click on "Chromium.Web.Store.crx". A prompt will appear: Add "Chromium Web Store"?  
 Click "Add extension", done.  
 It has been successfully installed, and you can skip the manual installation steps outlined below.  
+Usage: Pin the `Chromium Web Store` badge in your browser's toolbar. (Badges are hidden by default)
+
 For certain older versions of `UnGoogled Chromium`, you may need to install this extension manually.
 
 ### Manually install an extension
