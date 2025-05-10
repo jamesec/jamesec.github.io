@@ -14,8 +14,18 @@ Alternatively, you can compile it from [the source code](https://github.com/ungo
 As you manually install the downloaded `UnGoogled Chromium` App, click this button to allow it to run:  
 (macOS) System Settings → Privacy & Security → Security → Open Anyway
 
+## Change this Chromium flag
+**Step 2:** Change this Chromium flag and restart the Chromium App so that in the following steps, you can install extensions from the real Chromium Web Store, and there's no need to manually install them.
+
+https://github.com/NeverDecaf/chromium-web-store
+- `In the Read this first section` If you are using `ungoogled-chromium`:
+	- You must **change the flag** `chrome://flags/#extension-mime-request-handling` to `Always prompt for install`.
+- The "Add to Chrome" button will sometimes be disabled when navigating around the web store.
+	- If this happens you can refresh the page to fix it.
+- Usage: Pin the Chromium Web Store badge in your browser's toolbar. (Badges are hidden by default)
+
 ## Extension - Chromium Web Store
-**Step 2:** Manually install the `Chromium Web Store` extension.
+**Step 3:** Install the `Chromium Web Store` extension. You may need to install it manually.
 
 ### Manually install an extension
 - **Use Safari Browser** to download the .crx file.
@@ -29,16 +39,6 @@ As you manually install the downloaded `UnGoogled Chromium` App, click this butt
 - For these manually installed extensions, give them specific folders:
 	- Such as, ~/Downloads/Chromium Extensions/Chromium.Web.Store 1.5.4.3/
 - Load unpacked, then choose the folder from the previous steps.
-
-## Change this Chromium flag
-**Step 3:** Change this Chromium flag and restart the Chromium App so that in the following steps, you can install extensions from the real Chromium Web Store, and there's no need to manually install them.
-
-https://github.com/NeverDecaf/chromium-web-store
-- `In the Read this first section` If you are using `ungoogled-chromium`:
-	- You must **change the flag** `chrome://flags/#extension-mime-request-handling` to `Always prompt for install`.
-- The "Add to Chrome" button will sometimes be disabled when navigating around the web store.
-	- If this happens you can refresh the page to fix it.
-- Usage: Pin the Chromium Web Store badge in your browser's toolbar. (Badges are hidden by default)
 
 ## Extensions
 <span style="border-bottom:1.5px solid; border-bottom-color:#f55066;">If you rarely use an extension, disable it at `chrome://extensions/` and re-enable it when needed.</span> For example, I only enable the `Awesome Screen Recorder & Screenshot` extension when I want to capture a full-page screenshot of a webpage.
