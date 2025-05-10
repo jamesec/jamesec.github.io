@@ -22,8 +22,6 @@ Run the `UnGoogled Chromium` app you downloaded; it will display the page: `chro
 https://github.com/NeverDecaf/chromium-web-store
 - `In the Read this first section` If you are using `ungoogled-chromium`:
 	- You must **change the flag** `chrome://flags/#extension-mime-request-handling` to `Always prompt for install`.
-- The "Add to Chrome" button will sometimes be disabled when navigating around the web store.
-	- If this happens you can refresh the page to fix it.
 - Usage: Pin the Chromium Web Store badge in your browser's toolbar. (Badges are hidden by default)
 
 ## Extension - Chromium Web Store
