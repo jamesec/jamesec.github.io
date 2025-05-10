@@ -40,7 +40,7 @@ For certain older versions of `UnGoogled Chromium`, you may need to install this
 - Open `chrome://extensions/` in Chromium, then turn on "Developer mode".
 - For these manually installed extensions, give them specific folders:
 	- Such as, ~/Downloads/Chromium Extensions/Chromium.Web.Store 1.5.4.3/
-- Load unpacked, then choose the folder from the previous step.
+- Click "Load unpacked", then choose the folder from the previous step.
 
 ## Extensions
 <span style="border-bottom:1.5px solid; border-bottom-color:#f55066;">If you rarely use an extension, disable it at `chrome://extensions/` and re-enable it when needed.</span> For example, I only enable the `Awesome Screen Recorder & Screenshot` extension when I want to capture a full-page screenshot of a webpage.
