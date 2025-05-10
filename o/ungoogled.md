@@ -52,7 +52,7 @@ For certain older versions of `UnGoogled Chromium`, you may need to install this
   - Settings → Other → Enable single-click close and delete
 - [SingleFile](https://chromewebstore.google.com/detail/mpiodijhokgodhhofbcjdecpffjipkle)
   - Save a complete page into a single HTML file.
-  - Configure `SingleFile` like this: Options → File format → self-extracting ZIP (universal).
+  - Options → File format → self-extracting ZIP (universal)
   - This is one example of how it can be used: [Best way to save your chat history with ChatGPT](s.htm?p=export_chatgpt)
 - [Awesome Screen Recorder & Screenshot](https://chromewebstore.google.com/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj)
   - I use this screenshot tool to capture full webpages.
