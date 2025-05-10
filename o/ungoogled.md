@@ -28,9 +28,9 @@ https://github.com/NeverDecaf/chromium-web-store
 **Step 3:** Install the `Chromium Web Store` extension. You may need to install it manually.
 
 [Chromium Web Store extension](https://github.com/NeverDecaf/chromium-web-store/releases/latest)  
-Click on "Chromium.Web.Store.crx", it will then prompt: Add "Chromium Web Store"?  
-Click "Add extension" - done.  
-That is to say, it successfully installs this `Chromium Web Store extension`, and you can skip the manual installation steps outlined below.
+Click on "Chromium.Web.Store.crx". A prompt will appear: Add "Chromium Web Store"?  
+Click "Add extension" — and you're done.  
+This means the "Chromium Web Store extension" has been successfully installed, and you can skip the manual installation steps outlined below.
 
 ### Manually install an extension
 Starting the manual installation steps. 
