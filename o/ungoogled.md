@@ -30,7 +30,8 @@ https://github.com/NeverDecaf/chromium-web-store
 [Chromium Web Store extension](https://github.com/NeverDecaf/chromium-web-store/releases/latest)  
 Click on "Chromium.Web.Store.crx". A prompt will appear: Add "Chromium Web Store"?  
 Click "Add extension" — and you're done.  
-This means the "Chromium Web Store extension" has been successfully installed, and you can skip the manual installation steps outlined below.
+This means the "Chromium Web Store extension" has been successfully installed, and you can skip the manual installation steps outlined below.  
+For certain older versions of UnGoogled Chromium, you may need to install it manually.
 
 ### Manually install an extension
 Starting the manual installation steps. 
