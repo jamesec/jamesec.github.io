@@ -50,6 +50,7 @@ For certain older versions of `UnGoogled Chromium`, you may need to install this
   - Session Buddy is a tab manager that can save all the tabs in your browser with a single click.
 - [SingleFile](https://chromewebstore.google.com/detail/mpiodijhokgodhhofbcjdecpffjipkle)
   - Save a complete page into a single HTML file.
+  - Configure `SingleFile` like this: Options → File format → self-extracting ZIP (universal).
   - This is one example of how it can be used: [Best way to save your chat history with ChatGPT](s.htm?p=export_chatgpt)
 - [Awesome Screen Recorder & Screenshot](https://chromewebstore.google.com/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj)
   - I use this screenshot tool to capture full webpages.
