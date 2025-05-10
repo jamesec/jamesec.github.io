@@ -25,13 +25,13 @@ https://github.com/NeverDecaf/chromium-web-store
 - Usage: Pin the Chromium Web Store badge in your browser's toolbar. (Badges are hidden by default)
 
 ## Extension - Chromium Web Store
-**Step 3:** Install the `Chromium Web Store` extension. You may need to install it manually.
+**Step 3:** Install the `Chromium Web Store` extension.
 
 [Chromium Web Store extension](https://github.com/NeverDecaf/chromium-web-store/releases/latest)  
 Click on "Chromium.Web.Store.crx". A prompt will appear: Add "Chromium Web Store"?  
 Click "Add extension" — and you're done.  
 This means the "Chromium Web Store extension" has been successfully installed, and you can skip the manual installation steps outlined below.  
-For certain older versions of UnGoogled Chromium, you may need to install it manually.
+For certain older versions of `UnGoogled Chromium`, you may need to install it manually.
 
 ### Manually install an extension
 Starting the manual installation steps. 
