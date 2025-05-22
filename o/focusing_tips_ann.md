@@ -6,6 +6,8 @@ Weekly Tips & Support for Focusing by [Ann Weiser Cornell](https://focusingresou
 
 ## 0901+
 ### 0931 to 0940
+- Focusing Tip #937 - "Can I just thank my parts and move on?"
+- Focusing Tip #936 - If a part is angry at you for saying Hello
 - Focusing Tip #935 – "How do I help someone stay with a felt sense?"
 - Focusing Tip #934 – Three ways to start a Focusing session
 - Focusing Tip #933 – "The same emotions come up over and over"
@@ -22,18 +24,18 @@ Weekly Tips & Support for Focusing by [Ann Weiser Cornell](https://focusingresou
 - Focusing Tip #924 – "Is it the felt sense of a part that we listen to?"
 - Focusing Tip #923 – "I'm struggling with these challenging times"
 - Focusing Tip #922 – "Do I do what my parts tell me to do?"
-- Focusing Tip #921 – "Is a felt sense the same as a gut instinct?"
+- [Focusing Tip #921 – "Is a felt sense the same as a gut instinct?"](https://focusingresources.com/2025/01/29/focusing-tip-921-is-a-felt-sense-the-same-as-a-gut-instinct/)
 
 ### 0911 to 0920
-- Focusing Tip #920 – "Do I need to meditate to get ready for Focusing?"
-- Focusing Tip #919 – "Is the feeling trying to control me?"
-- Focusing Tip #918 – "My critical parts have no positive purpose."
-- Focusing Tip #917 – "Something prevents me from using Focusing."
+- [Focusing Tip #920 – "Do I need to meditate to get ready for Focusing?"](https://focusingresources.com/2025/01/22/focusing-tip-920-do-i-need-to-meditate-to-get-ready-for-focusing/)
+- [Focusing Tip #919 – "Is the feeling trying to control me?"](https://focusingresources.com/2025/01/15/focusing-tip-919-focusing-and-parts-is-the-feeling-trying-to-control-me/)
+- [Focusing Tip #918 – "My critical parts have no positive purpose."](https://focusingresources.com/2025/01/08/focusing-tip-918-inner-critcs-my-critical-parts-have-no-positive-purpose/)
+- [Focusing Tip #917 – "Something prevents me from using Focusing."](https://focusingresources.com/2024/12/18/focusing-tip-917-overwhelming-emotions-something-prevents-me-from-using-focusing/)
 - Focusing Tip #916 – "My part says I'm not good enough."
-- Focusing Tip #915 – "My felt senses disappear..."
-- Focusing Tip #914 – "My body moves when I'm Focusing, sometimes a lot"
-- Focusing Tip #913 – Can Focusing help me not have to take medication?
-- Focusing Tip #912 – Focusing with feeling stunned and heartbroken
+- [Focusing Tip #915 – "My felt senses disappear..."](https://focusingresources.com/2024/12/04/focusing-tip-915-my-felt-senses-disappear/)
+- [Focusing Tip #914 – "My body moves when I'm Focusing, sometimes a lot"](https://focusingresources.com/2024/11/20/focusing-tip-914-my-body-moves-when-im-focusing-sometimes-a-lot/)
+- [Focusing Tip #913 – Can Focusing help me not have to take medication?](https://focusingresources.com/2024/11/13/focusing-tip-913-physical-health-can-focusing-help-me-not-have-to-take-medication/)
+- [Focusing Tip #912 – Focusing with feeling stunned and heartbroken](https://focusingresources.com/2024/11/06/focusing-tip-912-difficult-feelings-focusing-with-feeling-stunned-and-heartbroken/)
 - [Focusing Tip #911 – If you're anxious about the US election (or anything else)](https://focusingresources.com/2024/10/30/focusing-tip-911-if-youre-anxious-about-the-us-election-or-anything-else/)
 
 ### 0901 to 0910
