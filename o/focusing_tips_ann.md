@@ -1,4 +1,5 @@
 # Ann's Weekly Focusing Tips
+`Updated: May 28, 2025`
 
 Weekly Tips & Support for Focusing by [Ann Weiser Cornell](https://focusingresources.com/team/ann-weiser-cornell/)
 - [Ann's Weekly Focusing Tips - Focusing Resources](https://focusingresources.com/category/tips/)
@@ -6,6 +7,7 @@ Weekly Tips & Support for Focusing by [Ann Weiser Cornell](https://focusingresou
 
 ## 0901+
 ### 0931 to 0940
+- Focusing Tip #938 - "What if my client never stops talking?"
 - Focusing Tip #937 - "Can I just thank my parts and move on?"
 - Focusing Tip #936 - If a part is angry at you for saying Hello
 - Focusing Tip #935 - "How do I help someone stay with a felt sense?"
