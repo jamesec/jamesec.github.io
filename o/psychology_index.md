@@ -16,6 +16,7 @@
 - [Radical acceptance, by Ann Weiser Cornell](s.htm?p=radical)
 - [Focusing in Haruki Murakami's Novels - Akira Ikemi (2013, 2016, 2023)](s.htm?p=focusing_haruki)
   - [PDF on the author's website](https://akira-ikemi.net/ewExternalFiles/H.MurakamiFinal.pdf)
+  - [Essays - Akira Ikemi](https://akira-ikemi.net/essays.html)
 
 ## Transactional analysis
 - [Eric Berne (1992)](s.htm?p=eric_berne)
