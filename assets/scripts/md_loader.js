@@ -1,91 +1,65 @@
 /*!
- * md_loader.js - Markdown Loader Script
- * Version: 1.1.0
+ * md_loader.js - Resilient Markdown Loader Script
+ * Version: 1.2.0 Last Updated: 2025-05-29
  * Author: James Even Chen https://evenc.org/
  * Description: Dynamically loads and renders Markdown files into <zero-md> elements.
- * Last Updated: 2025-05-28
- * Notes:
- *   - Retries loading if Markdown content doesn't render.
- *   - Displays fallback message after max retries.
+ * - Supports: Remote URLs, Absolute paths, Relative files
+ * - Includes: Retry logic, jitter delay, and custom 404 redirect
+ * 1.1.0 Notes:
+ * - Retries loading if Markdown content doesn't render.
+ * - Displays fallback message after max retries.
  */
 
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
     const searchParams = new URLSearchParams(window.location.search);
     let md_file = searchParams.get('p');
 
     if (!md_file) {
-        alert("No markdown file specified.");
+        console.warn("No markdown file specified in the URL (e.g. ?p=page1).");
         return;
     }
 
-    let isFullURL = md_file.startsWith('http://') || md_file.startsWith('https://');
-    let isAbsolutePath = md_file.startsWith('/');
+    // Normalize file path
+    const isFullURL = md_file.startsWith('http://') || md_file.startsWith('https://');
+    const isAbsolutePath = md_file.startsWith('/');
+    if (!md_file.endsWith('.md')) {
+        md_file += '.md';
+    }
 
     if (isFullURL) {
-        loadRemoteMarkdown(md_file);
-    } else if (isAbsolutePath) {
-        // Add .md if it doesn't end with .md
-        if (!md_file.endsWith('.md')) {
-            md_file += ".md";
-        }
-        checkAbsoluteFile(md_file);
+        // Skip checking, just load
+        applyJitterThenLoad(md_file);
     } else {
-        // Local relative file in same folder as HTML
-        if (!md_file.endsWith('.md')) {
-            md_file += ".md";
-        }
-        checkLocalFile(md_file);
-    }
+        // Check if local/absolute file exists first
+        const filePath = isAbsolutePath ? md_file : './' + md_file;
 
-    function loadRemoteMarkdown(url) {
-        fetch(url, { method: 'HEAD' })
+        fetch(filePath, { method: 'HEAD' })
             .then(response => {
                 if (response.ok) {
-                    setMarkdownSrc(url);
+                    applyJitterThenLoad(filePath);
                 } else {
-                    alert("The markdown file you're trying to load doesn't exist:\n" + url);
-                    console.error("Remote markdown file not found: " + url);
-                }
-            })
-            .catch(error => {
-                alert("There was an error loading the remote markdown file:\n" + error);
-                console.error("Error loading remote file: " + error);
-            });
-    }
-
-    function checkAbsoluteFile(file) {
-        fetch(file, { method: 'HEAD' })
-            .then(response => {
-                if (response.ok) {
-                    setMarkdownSrc(file);
-                } else {
+                    console.warn(`Markdown file not found: ${filePath}`);
                     window.location.href = '/404';
                 }
             })
             .catch(error => {
-                console.error("Error checking absolute file: " + error);
+                console.error("Error checking markdown file:", error);
                 window.location.href = '/404';
             });
     }
 
-    function checkLocalFile(file) {
-        fetch(file, { method: 'HEAD' })
-            .then(response => {
-                if (response.ok) {
-                    setMarkdownSrc(file);
-                } else {
-                    window.location.href = '/404';
-                }
-            })
-            .catch(error => {
-                console.error("Error checking local file: " + error);
-                window.location.href = '/404';
-            });
+    // Slight random delay to avoid burst loads when many tabs are opened
+    function applyJitterThenLoad(file) {
+        const jitterDelay = Math.floor(Math.random() * 300); // 0–300ms
+        setTimeout(() => {
+            loadMarkdown(file);
+        }, jitterDelay);
     }
 
-    function setMarkdownSrc(file, retryCount = 0) {
-        const MAX_RETRIES = 2;
-        const TIMEOUT = 3000; // 3 seconds
+    function loadMarkdown(file, retryCount = 0) {
+        const MAX_RETRIES = 3;
+        const BASE_DELAY = 2000; // 2 seconds
+        const RETRY_DELAY = BASE_DELAY * Math.pow(2, retryCount); // exponential
 
         const zeroMdElement = document.querySelector('zero-md');
         if (!zeroMdElement) {
@@ -94,33 +68,36 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         zeroMdElement.setAttribute('src', file);
-
         let rendered = false;
 
-        // Listen for rendering event
-        zeroMdElement.addEventListener('zero-md-rendered', function() {
+        const renderHandler = () => {
             rendered = true;
             updateTitle(zeroMdElement);
-        }, { once: true });
+        };
 
-        // Check if render didn't happen within TIMEOUT
+        zeroMdElement.addEventListener('zero-md-rendered', renderHandler, { once: true });
+
         setTimeout(() => {
             if (!rendered) {
-                console.warn(`Markdown not rendered in time. Retry #${retryCount + 1}`);
+                console.warn(`Retry ${retryCount + 1}/${MAX_RETRIES} for: ${file}`);
+                zeroMdElement.removeEventListener('zero-md-rendered', renderHandler);
+
                 if (retryCount < MAX_RETRIES) {
-                    setMarkdownSrc(file, retryCount + 1);
+                    loadMarkdown(file, retryCount + 1);
                 } else {
-                    alert("Failed to load markdown content after multiple attempts.");
+                    console.error("Failed to load markdown content after multiple attempts.");
+                    alert("Failed to load content. Please refresh the page or try again later.");
+
                     const fallback = document.getElementById('md-fallback');
                     if (fallback) fallback.style.display = 'block';
                 }
             }
-        }, TIMEOUT);
+        }, RETRY_DELAY);
     }
 
     function updateTitle(zeroMdElement) {
-        const h1Element = zeroMdElement.shadowRoot.querySelector('h1');
+        const h1Element = zeroMdElement.shadowRoot?.querySelector('h1');
         const title = h1Element ? h1Element.textContent : 'Untitled';
-        document.title = title + " - James Even Chen";
+        document.title = `${title} - James Even Chen`;
     }
 });
