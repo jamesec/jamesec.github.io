@@ -1,4 +1,4 @@
-# Thinking, Translating, and Transcribing
+# Thinking, translating, and transcribing
 
 ## Thinking
 - [Fake it till you make it?](s.htm?p=make_it)
