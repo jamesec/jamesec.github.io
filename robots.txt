@@ -6,12 +6,6 @@ Disallow: /
 
 User-agent: *
 Disallow: /*.json$
-
-User-agent: *
 Disallow: /*.pdf$
-
-User-agent: *
 Disallow: /*.md$
-
-User-agent: *
 Crawl-delay: 5
