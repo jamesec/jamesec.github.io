@@ -1,0 +1,84 @@
+/* General styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+#container {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#bookContent {
+    line-height: 1.6;
+    margin-top: 20px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Dark Mode styles */
+body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+body.dark-mode #container {
+    background-color: #1e1e1e;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+body.dark-mode button {
+    background-color: #333;
+    color: #bbb;
+}
+
+body.dark-mode button:hover {
+    background-color: #444;
+}
+
+/* Text blocks */
+.block {
+    margin: 10px 0;
+}
+
+.word {
+    margin-right: 5px;
+}
+
+.spacer {
+    height: 20px;
+}
+
+/* Page Break */
+.pageBreak {
+    height: 2px;
+    border-top: 1px solid #ddd;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* Styling for different font sizes */
+.headline {
+    font-size: 2em;
+    text-align: center;
+    font-weight: bold;
+}
