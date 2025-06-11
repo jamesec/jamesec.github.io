@@ -1,62 +1,70 @@
-// This function loads the JSON file from the URL query parameter and renders it
-function loadBookPage() {
-    const urlParams = new URLSearchParams(window.location.search);
-    const jsonFile = urlParams.get('p');  // Fetch the 'p' parameter (e.g., 'chapter1.json')
-
-    if (!jsonFile) {
-        alert('Error: No chapter file specified!');
-        return;
-    }
-
-    fetch(jsonFile)
+// This function loads the JSON and processes it to render text blocks.
+function loadBookContent(jsonUrl) {
+    fetch(jsonUrl)
         .then(response => response.json())
-        .then(data => renderPage(data))
-        .catch(error => console.error('Error loading the JSON file:', error));
+        .then(data => {
+            renderBookPage(data);
+        })
+        .catch(error => console.error("Error loading the JSON:", error));
 }
 
-// This function takes the JSON data and formats it into HTML
-function renderPage(data) {
-    const contentDiv = document.getElementById('content');
-    
-    // Title
-    const title = document.createElement('div');
-    title.classList.add('title');
-    title.textContent = data.title || 'Untitled Page';
-    contentDiv.appendChild(title);
+// This function renders the book page, styling each block as needed.
+function renderBookPage(data) {
+    const bookContent = document.getElementById("bookContent");
+    bookContent.innerHTML = ""; // Clear previous content.
 
-    // Process each block in the JSON
     data.blocks.forEach(block => {
-        if (block.type === 'spacer') {
-            contentDiv.appendChild(createSpacer(block.size));
-        } else if (block.type === 'text') {
-            contentDiv.appendChild(createTextBlock(block));
+        const blockDiv = document.createElement("div");
+        blockDiv.classList.add("block");
+
+        if (block.type === "text") {
+            block.words.forEach(wordObj => {
+                const wordSpan = document.createElement("span");
+                wordSpan.classList.add("word");
+                
+                // Check if the word should be italic
+                if (wordObj.style === "style3") {
+                    wordSpan.style.fontStyle = "italic";
+                }
+                
+                wordSpan.innerText = wordObj.text;
+
+                blockDiv.appendChild(wordSpan);
+            });
         }
+        
+        if (block.type === "spacer") {
+            blockDiv.classList.add("spacer");
+        }
+
+        if (block.type === "page_break") {
+            const pageBreakDiv = document.createElement("div");
+            pageBreakDiv.classList.add("pageBreak");
+            blockDiv.appendChild(pageBreakDiv);
+        }
+
+        bookContent.appendChild(blockDiv);
     });
 }
 
-// This function creates a block of text from the JSON data
-function createTextBlock(block) {
-    const blockDiv = document.createElement('div');
-    blockDiv.classList.add('block');
+// This function toggles between light and dark mode.
+function toggleDarkMode() {
+    const body = document.body;
+    body.classList.toggle("dark-mode");
 
-    let textContent = block.words.map(word => word.text).join(' ');
-    
-    // Apply alignment
-    if (block.align === 'center') {
-        blockDiv.classList.add('center');
+    const button = document.getElementById("darkModeToggle");
+    if (body.classList.contains("dark-mode")) {
+        button.innerText = "🌞 Light Mode";
+    } else {
+        button.innerText = "🌙 Dark Mode";
     }
-
-    blockDiv.textContent = textContent;
-    return blockDiv;
 }
 
-// This function creates a spacer element based on the size
-function createSpacer(size) {
-    const spacerDiv = document.createElement('div');
-    spacerDiv.classList.add('spacer');
-    spacerDiv.style.height = `${size * 20}px`;  // Adjust height based on the spacer size
-    return spacerDiv;
+// Check for query parameter for the JSON file and load it
+const urlParams = new URLSearchParams(window.location.search);
+const jsonFile = urlParams.get('p');
+if (jsonFile) {
+    loadBookContent(jsonFile);
+} else {
+    alert("No JSON file specified!");
 }
-
-// Load the book page when the window loads
-window.onload = loadBookPage;
