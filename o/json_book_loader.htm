@@ -3,43 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Book Page Loader</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        #content {
-            width: 80%;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: white;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            max-width: 900px;
-            font-size: 1.2em;
-        }
-        .title {
-            text-align: center;
-            font-size: 2em;
-            font-weight: bold;
-            margin-bottom: 20px;
-        }
-        .block {
-            margin: 10px 0;
-        }
-        .block.center {
-            text-align: center;
-        }
-        .spacer {
-            height: 20px;
-        }
-    </style>
+    <title>JSON Book Loader</title>
+    <link rel="stylesheet" href="json_book_loader.css">
 </head>
 <body>
 
-    <div id="content"></div>
+    <div id="container">
+        <button id="darkModeToggle" onclick="toggleDarkMode()">🌙 Dark Mode</button>
+        <div id="bookContent"></div>
+    </div>
 
     <script src="json_book_loader.js"></script>
 </body>
