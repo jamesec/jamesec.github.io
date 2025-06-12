@@ -1,73 +1,96 @@
-// Function to toggle dark mode
-function toggleDarkMode() {
-    const body = document.body;
-    const currentMode = body.classList.contains('dark-mode');
-    body.classList.toggle('dark-mode', !currentMode);
-}
+function loadJsonAndRender() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const fileName = urlParams.get('p');
 
-// Function to fetch and render the book data from JSON
-function loadBookData(url) {
-    fetch(url)
+    if (!fileName) {
+        alert('No file specified.');
+        return;
+    }
+
+    fetch(fileName)
         .then(response => response.json())
-        .then(data => renderBookPage(data))
-        .catch(error => console.error('Error loading the book:', error));
+        .then(data => renderPage(data))
+        .catch(error => {
+            console.error('Error loading JSON:', error);
+            alert('Error loading the chapter file.');
+        });
 }
 
-// Function to render the book data into the page
-function renderBookPage(data) {
-    const bookContent = document.getElementById("bookContent");
-    bookContent.innerHTML = ""; // Clear previous content.
+function renderPage(data) {
+    const container = document.getElementById('content');
+    container.innerHTML = ''; // Clear any previous content
 
+    // Loop through each block in the JSON
     data.blocks.forEach(block => {
-        const blockDiv = document.createElement("div");
-        blockDiv.classList.add("block");
-
-        if (block.type === "text") {
-            block.words.forEach(wordObj => {
-                const wordSpan = document.createElement("span");
-                wordSpan.classList.add("word");
-
-                // Check if the word should be italic
-                if (wordObj.style === "style3") {
-                    wordSpan.style.fontStyle = "italic";
-                }
-
-                // Check for breaks and handle word concatenation
-                if (wordObj.break_map) {
-                    let fullText = "";
-
-                    // Concatenate all parts of the word if split by the break map
-                    let leftPart = wordObj.break_map.left ? wordObj.break_map.left.text : '';
-                    let rightPart = wordObj.break_map.right ? wordObj.break_map.right.text : '';
-
-                    fullText = leftPart + rightPart;
-
-                    wordSpan.innerText = fullText; // Set the concatenated word
-                } else {
-                    wordSpan.innerText = wordObj.text; // Regular word with no break
-                }
-
-                blockDiv.appendChild(wordSpan);
-            });
+        if (block.type === 'spacer') {
+            container.appendChild(createSpacer(block));
+        } else if (block.type === 'text') {
+            container.appendChild(createTextBlock(block));
+        } else if (block.type === 'page_break') {
+            container.appendChild(createPageBreak());
         }
-
-        if (block.type === "spacer") {
-            blockDiv.classList.add("spacer");
-        }
-
-        if (block.type === "page_break") {
-            const pageBreakDiv = document.createElement("div");
-            pageBreakDiv.classList.add("pageBreak");
-            blockDiv.appendChild(pageBreakDiv);
-        }
-
-        bookContent.appendChild(blockDiv);
     });
 }
 
-// Wait for the document to load before fetching the book data
+function createSpacer(block) {
+    const spacer = document.createElement('div');
+    spacer.style.height = `${block.size * 1.2}em`;
+    return spacer;
+}
+
+function createTextBlock(block) {
+    const textBlock = document.createElement('div');
+    textBlock.style.textAlign = block.align || 'left';
+    textBlock.style.fontSize = `${block.size}em`;
+    textBlock.style.marginLeft = `${block.block_indent || 0}em`;
+    textBlock.style.marginRight = `${block.right_indent || 0}em`;
+    textBlock.style.marginBottom = '1em';
+    textBlock.style.fontFamily = 'Arial, sans-serif';
+
+    block.words.forEach(word => {
+        let wordElement = document.createElement('span');
+        wordElement.textContent = handleBreakMap(word);
+
+        // If the word has style or font, apply it
+        if (word.style === 'style3') {
+            wordElement.style.fontStyle = 'italic';
+        }
+
+        textBlock.appendChild(wordElement);
+    });
+
+    return textBlock;
+}
+
+function handleBreakMap(word) {
+    if (word.break_map) {
+        // Handle word breaks
+        const leftText = word.break_map.left ? word.break_map.left.text : '';
+        const rightText = word.break_map.right ? word.break_map.right.text : '';
+        return leftText + rightText;
+    } else {
+        return word.text;
+    }
+}
+
+function createPageBreak() {
+    const pageBreak = document.createElement('div');
+    pageBreak.style.pageBreakBefore = 'always';
+    pageBreak.style.height = '2em';  // Visual separation for page breaks
+    return pageBreak;
+}
+
+// Dark Mode Toggle
+function toggleDarkMode() {
+    const body = document.body;
+    body.classList.toggle('dark-mode');
+}
+
 document.addEventListener('DOMContentLoaded', function () {
-    const params = new URLSearchParams(window.location.search);
-    const bookFile = params.get('p') || 'chapter1.json'; // Default to 'chapter1.json' if no 'p' param
-    loadBookData(bookFile);
+    loadJsonAndRender();
+
+    const darkModeToggle = document.getElementById('dark-mode-toggle');
+    if (darkModeToggle) {
+        darkModeToggle.addEventListener('click', toggleDarkMode);
+    }
 });
