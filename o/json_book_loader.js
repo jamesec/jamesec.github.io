@@ -36,20 +36,26 @@ function renderBookPage(data) {
             block.words.forEach(wordObj => {
                 const wordSpan = document.createElement("span");
                 wordSpan.classList.add("word");
-                
-                // Debugging: Check if we have a break_map
+
+                // Check if the word has a break_map (split word)
                 if (wordObj.break_map) {
-                    console.log('Word split with break_map:', wordObj.break_map); // Debugging
                     const leftText = wordObj.break_map.left ? wordObj.break_map.left.text : '';
                     const rightText = wordObj.break_map.right ? wordObj.break_map.right.text : '';
-                    wordSpan.innerText = leftText + rightText;  // Combine the split parts
-                } else {
-                    wordSpan.innerText = wordObj.text;  // Use the word as it is if no split
-                }
 
-                // Check if the word should be italic
-                if (wordObj.style === "style3") {
-                    wordSpan.style.fontStyle = "italic";
+                    // Combine the parts
+                    wordSpan.innerText = leftText + rightText;  // Joining the left and right parts
+
+                    // Check if the word should be italicized
+                    if (wordObj.style === "style3") {
+                        wordSpan.style.fontStyle = "italic";
+                    }
+                } else {
+                    wordSpan.innerText = wordObj.text;  // Normal word rendering
+
+                    // Check if the word should be italicized
+                    if (wordObj.style === "style3") {
+                        wordSpan.style.fontStyle = "italic";
+                    }
                 }
 
                 blockDiv.appendChild(wordSpan);
