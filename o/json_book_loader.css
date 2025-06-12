@@ -5,6 +5,8 @@ body {
     padding: 0;
     background-color: #f4f4f4;
     color: #333;
+    line-height: 1.6;
+    word-wrap: break-word;
 }
 
 #container {
@@ -17,8 +19,9 @@ body {
 }
 
 #bookContent {
-    line-height: 1.6;
     margin-top: 20px;
+    word-wrap: break-word;
+    white-space: pre-wrap; /* Ensure that text breaks as needed */
 }
 
 button {
@@ -58,12 +61,15 @@ body.dark-mode button:hover {
 /* Text blocks */
 .block {
     margin: 10px 0;
+    display: block;
 }
 
 .word {
     margin-right: 5px;
+    display: inline-block;
 }
 
+/* Spacer */
 .spacer {
     height: 20px;
 }
@@ -81,4 +87,10 @@ body.dark-mode button:hover {
     font-size: 2em;
     text-align: center;
     font-weight: bold;
+}
+
+/* Handle word wrapping and line breaks */
+.word {
+    word-wrap: break-word;
+    display: inline-block;
 }
