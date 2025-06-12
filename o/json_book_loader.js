@@ -17,17 +17,19 @@ function renderBookPage(data) {
         const blockDiv = document.createElement("div");
         blockDiv.classList.add("block");
 
-        if (block.type === "text") {
+        if (block.type === "text" && Array.isArray(block.words)) {
             block.words.forEach(wordObj => {
                 const wordSpan = document.createElement("span");
                 wordSpan.classList.add("word");
-                
+
                 // Check if the word should be italic
                 if (wordObj.style === "style3") {
                     wordSpan.style.fontStyle = "italic";
                 }
 
-                wordSpan.innerText = wordObj.text;
+                // Fix undefined by ensuring .text exists
+                const wordText = wordObj.text !== undefined ? wordObj.text : "";
+                wordSpan.innerText = wordText;
 
                 blockDiv.appendChild(wordSpan);
             });
