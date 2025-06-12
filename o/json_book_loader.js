@@ -26,7 +26,7 @@ function renderBookPage(data) {
                 if (wordObj.style === "style3") {
                     wordSpan.style.fontStyle = "italic";
                 }
-                
+
                 wordSpan.innerText = wordObj.text;
 
                 blockDiv.appendChild(wordSpan);
