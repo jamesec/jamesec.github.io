@@ -7,12 +7,18 @@ function loadJsonAndRender() {
         return;
     }
 
+    // Try fetching the JSON file from the given URL
     fetch(fileName)
-        .then(response => response.json())
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Failed to load file');
+            }
+            return response.json();
+        })
         .then(data => renderPage(data))
         .catch(error => {
             console.error('Error loading JSON:', error);
-            alert('Error loading the chapter file.');
+            alert('Error loading the chapter file. Please ensure the file exists.');
         });
 }
 
@@ -62,12 +68,12 @@ function createTextBlock(block) {
     return textBlock;
 }
 
+// Function to handle word breaks and properly concatenate split words
 function handleBreakMap(word) {
     if (word.break_map) {
-        // Handle word breaks
         const leftText = word.break_map.left ? word.break_map.left.text : '';
         const rightText = word.break_map.right ? word.break_map.right.text : '';
-        return leftText + rightText;
+        return leftText + rightText; // Combine the split words properly
     } else {
         return word.text;
     }
