@@ -1,4 +1,3 @@
-// This function loads the JSON and processes it to render text blocks.
 function loadBookContent(jsonUrl) {
     fetch(jsonUrl)
         .then(response => response.json())
@@ -8,10 +7,9 @@ function loadBookContent(jsonUrl) {
         .catch(error => console.error("Error loading the JSON:", error));
 }
 
-// This function renders the book page, styling each block as needed.
 function renderBookPage(data) {
     const bookContent = document.getElementById("bookContent");
-    bookContent.innerHTML = ""; // Clear previous content.
+    bookContent.innerHTML = "";
 
     data.blocks.forEach(block => {
         const blockDiv = document.createElement("div");
@@ -22,19 +20,20 @@ function renderBookPage(data) {
                 const wordSpan = document.createElement("span");
                 wordSpan.classList.add("word");
 
-                // Check if the word should be italic
                 if (wordObj.style === "style3") {
                     wordSpan.style.fontStyle = "italic";
                 }
 
-                // Fix undefined by ensuring .text exists
-                const wordText = wordObj.text !== undefined ? wordObj.text : "";
+                const wordText = wordObj.text
+                    ?? (wordObj.break_map && wordObj.break_map.text)
+                    ?? "";
+
                 wordSpan.innerText = wordText;
 
                 blockDiv.appendChild(wordSpan);
             });
         }
-        
+
         if (block.type === "spacer") {
             blockDiv.classList.add("spacer");
         }
@@ -49,7 +48,6 @@ function renderBookPage(data) {
     });
 }
 
-// This function toggles between light and dark mode.
 function toggleDarkMode() {
     const body = document.body;
     body.classList.toggle("dark-mode");
@@ -62,7 +60,6 @@ function toggleDarkMode() {
     }
 }
 
-// Check for query parameter for the JSON file and load it
 const urlParams = new URLSearchParams(window.location.search);
 const jsonFile = urlParams.get('p');
 if (jsonFile) {
