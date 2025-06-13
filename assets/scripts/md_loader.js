@@ -3,6 +3,20 @@
  * Version: 2.0 Last Updated: 2025-06-13
  * Author: James Even Chen https://evenc.org/
  * Description: Dynamically loads and renders Markdown files into <zero-md> elements.
+ 
+### Features:
+- Supports loading markdown files from:
+  - Remote URLs (http/https)
+  - Absolute paths (starting with `/`)
+  - Relative file paths
+- Checks file existence via HTTP HEAD before loading
+- Implements retry logic with exponential backoff (up to 3 attempts)
+- Adds jitter delay (0-300ms) to stagger load requests when opening multiple tabs
+- Updates document title dynamically from the first `<h1>` in the markdown content
+- Directly updates `<title>` tag with a small delay for reliable browser support
+- Handles missing or invalid markdown files gracefully with custom 404 redirect
+- Includes fallback UI display on persistent load failures
+
  * 1.2.0 Notes:
  * - Supports: Remote URLs, Absolute paths, Relative files
  * - Includes: Retry logic, jitter delay, and custom 404 redirect
