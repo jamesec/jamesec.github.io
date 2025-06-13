@@ -1,3 +1,16 @@
+/*!
+ * md_loader.js - Resilient Markdown Loader Script
+ * Version: 2.0 Last Updated: 2025-06-13
+ * Author: James Even Chen https://evenc.org/
+ * Description: Dynamically loads and renders Markdown files into <zero-md> elements.
+ * 1.2.0 Notes:
+ * - Supports: Remote URLs, Absolute paths, Relative files
+ * - Includes: Retry logic, jitter delay, and custom 404 redirect
+ * 1.1.0 Notes:
+ * - Retries loading if Markdown content doesn't render.
+ * - Displays fallback message after max retries.
+ */
+
 document.addEventListener('DOMContentLoaded', function () {
   const searchParams = new URLSearchParams(window.location.search);
   let md_file = searchParams.get('p');
