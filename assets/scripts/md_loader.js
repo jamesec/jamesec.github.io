@@ -4,7 +4,7 @@
  * Author: James Even Chen https://evenc.org/
  * Description: Dynamically loads and renders Markdown files into <zero-md> elements.
  
-### Features:
+Features:
 - Supports loading markdown files from:
   - Remote URLs (http/https)
   - Absolute paths (starting with `/`)
@@ -17,10 +17,10 @@
 - Handles missing or invalid markdown files gracefully with custom 404 redirect
 - Includes fallback UI display on persistent load failures
 
- * 1.2.0 Notes:
+ 1.2.0 Notes:
  * - Supports: Remote URLs, Absolute paths, Relative files
  * - Includes: Retry logic, jitter delay, and custom 404 redirect
- * 1.1.0 Notes:
+ 1.1.0 Notes:
  * - Retries loading if Markdown content doesn't render.
  * - Displays fallback message after max retries.
  */
