@@ -82,5 +82,5 @@ fetch('focusing_tips_ann.json')
     });
   })
   .catch(error => {
-    console.error('Error loading tips.json:', error);
+    console.error('Error loading focusing_tips_ann.json:', error);
   });
