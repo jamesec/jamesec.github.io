@@ -1,5 +1,5 @@
 // Fetch the data from the JSON file
-fetch('tips.json')
+fetch('focusing_tips_ann.json')
   .then(response => response.json())
   .then(tips => {
     // Grouping the tips by ranges like "0901+" or "0931 to 0940"
