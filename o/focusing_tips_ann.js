@@ -5,6 +5,8 @@ fetch('focusing_tips_ann.json')
     // Grouping the tips by ranges like "0901+" or "0931 to 0940"
     const grouped = tips.reduce((acc, tip) => {
       let group = '';
+      
+      // Adjusted group conditions to make sure all groups are captured
       if (tip.number >= 931) {
         group = '0931 to 0940';
       } else if (tip.number >= 901) {
@@ -51,7 +53,7 @@ fetch('focusing_tips_ann.json')
           link.textContent = `Focusing Tip #${tip.number} - "${tip.title}"`;
           li.appendChild(link);
         } else {
-          li.textContent = `Focusing Tip #${tip.number} - "${tip.title}"`;
+          li.textContent = `Focusing Tip #${tip.number} - "${tip.title}" (No link available)`;
         }
         
         ul.appendChild(li);
@@ -64,9 +66,11 @@ fetch('focusing_tips_ann.json')
     // Handle "0801 to 0900" group first, followed by "0891 to 0900" under it
     if (grouped['0801 to 0900']) {
       renderGroup('0801 to 0900', grouped['0801 to 0900']);
-      if (grouped['0891 to 0900']) {
-        renderGroup('0891 to 0900', grouped['0891 to 0900']);
-      }
+    }
+
+    // Now render the "0891 to 0900" group specifically
+    if (grouped['0891 to 0900']) {
+      renderGroup('0891 to 0900', grouped['0891 to 0900']);
     }
 
     // Render the rest of the groups
