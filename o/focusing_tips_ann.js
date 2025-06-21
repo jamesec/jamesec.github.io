@@ -13,6 +13,12 @@ fetch('focusing_tips_ann.json')
         group = '0891 to 0900';
       } else if (tip.number >= 801) {
         group = '0801 to 0900';
+      } else if (tip.number >= 91) {
+        group = '0091 to 0100';
+      } else if (tip.number >= 81) {
+        group = '0081 to 0090';
+      } else if (tip.number >= 1) {
+        group = '0001 to 0100';
       } else {
         group = 'Other';
       }
@@ -28,65 +34,52 @@ fetch('focusing_tips_ann.json')
     // Render the grouped tips
     const container = document.getElementById('tips-container');
 
-    // Handle "0801 to 0900" group first, followed by "0891 to 0900" under it
-    if (grouped['0801 to 0900']) {
+    // Function to render group
+    const renderGroup = (groupName, tipsInGroup) => {
       const groupDiv = document.createElement('div');
       const groupTitle = document.createElement('h2');
-      groupTitle.textContent = '0801 to 0900';
+      groupTitle.textContent = groupName;
       groupDiv.appendChild(groupTitle);
 
-      // Handle sub-group "0891 to 0900"
-      if (grouped['0891 to 0900']) {
-        const subGroupDiv = document.createElement('div');
-        const subGroupTitle = document.createElement('h3');
-        subGroupTitle.textContent = '0891 to 0900';
-        subGroupDiv.appendChild(subGroupTitle);
+      tipsInGroup.forEach(tip => {
+        const ul = document.createElement('ul');
+        const li = document.createElement('li');
+        
+        if (tip.url) {
+          const link = document.createElement('a');
+          link.href = tip.url;
+          link.textContent = `Focusing Tip #${tip.number} - "${tip.title}"`;
+          li.appendChild(link);
+        } else {
+          li.textContent = `Focusing Tip #${tip.number} - "${tip.title}" (No link available)`;
+        }
+        
+        ul.appendChild(li);
+        groupDiv.appendChild(ul);
+      });
 
-        // Render each tip in the "0891 to 0900" group
-        grouped['0891 to 0900'].forEach(tip => {
-          const tipDiv = document.createElement('div');
-          tipDiv.classList.add('tip');
-          if (tip.url) {
-            const tipLink = document.createElement('a');
-            tipLink.href = tip.url;
-            tipLink.textContent = `Focusing Tip #${tip.number} - "${tip.title}"`;
-            tipDiv.appendChild(tipLink);
-          } else {
-            tipDiv.textContent = `Focusing Tip #${tip.number} - "${tip.title}" (No link available)`;
-          }
-          subGroupDiv.appendChild(tipDiv);
-        });
-
-        groupDiv.appendChild(subGroupDiv);
-      }
       container.appendChild(groupDiv);
-    }
+    };
 
-    // Render the other groups
-    for (const [group, tipsInGroup] of Object.entries(grouped)) {
-      if (group !== '0801 to 0900' && group !== '0891 to 0900') {
-        const groupDiv = document.createElement('div');
-        const groupTitle = document.createElement('h2');
-        groupTitle.textContent = group;
-        groupDiv.appendChild(groupTitle);
-
-        tipsInGroup.forEach(tip => {
-          const tipDiv = document.createElement('div');
-          tipDiv.classList.add('tip');
-          if (tip.url) {
-            const tipLink = document.createElement('a');
-            tipLink.href = tip.url;
-            tipLink.textContent = `Focusing Tip #${tip.number} - "${tip.title}"`;
-            tipDiv.appendChild(tipLink);
-          } else {
-            tipDiv.textContent = `Focusing Tip #${tip.number} - "${tip.title}" (No link available)`;
-          }
-          groupDiv.appendChild(tipDiv);
-        });
-
-        container.appendChild(groupDiv);
+    // Handle "0801 to 0900" group first, followed by "0891 to 0900" under it
+    if (grouped['0801 to 0900']) {
+      renderGroup('0801 to 0900', grouped['0801 to 0900']);
+      if (grouped['0891 to 0900']) {
+        renderGroup('0891 to 0900', grouped['0891 to 0900']);
       }
     }
+
+    // Render the rest of the groups
+    const groupOrder = [
+      '0901+', '0931 to 0940', '0921 to 0930', 
+      '0091 to 0100', '0081 to 0090', '0001 to 0100'
+    ];
+    
+    groupOrder.forEach(group => {
+      if (grouped[group]) {
+        renderGroup(group, grouped[group]);
+      }
+    });
   })
   .catch(error => {
     console.error('Error loading tips.json:', error);
