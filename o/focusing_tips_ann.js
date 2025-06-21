@@ -1,96 +1,73 @@
-// Sample JSON Data (Assumed structure)
-const jsonData = [
-    {
-        "start": 939,
-        "end": 939,
-        "url": "https://focusingresources.com/2024/08/29/focusing-tip-939/",
-        "title": "How to listen when a friend is going through a hard time"
-    },
-    {
-        "start": 938,
-        "end": 938,
-        "url": "https://focusingresources.com/2024/08/28/focusing-tip-938/",
-        "title": "What if my client never stops talking?"
-    },
-    {
-        "start": 931,
-        "end": 931,
-        "url": "https://focusingresources.com/2024/08/27/focusing-tip-931/",
-        "title": "I don't feel anything."
-    },
-    // Add more data here...
-];
+fetch('focusing_tips_ann.json')
+  .then(response => response.json())
+  .then(data => {
+    const grouped = {};
 
-// Function to group data by 100 and then by 10
-function groupTips(data) {
-    let groups = {};
-
-    // Group by 100s
     data.forEach(item => {
-        const groupStart = Math.floor(item.start / 100) * 100;
-        const groupEnd = Math.floor(item.end / 100) * 100;
+      const tipNum = item.start;
 
-        // Add group if not already there
-        if (!groups[groupStart]) {
-            groups[groupStart] = [];
-        }
+      const group100Start = Math.floor(tipNum / 100) * 100;
+      const group10Start = Math.floor(tipNum / 10) * 10;
 
-        // Group by 10s within each 100 range
-        let subGroupStart = Math.floor(item.start / 10) * 10;
-        let subGroupEnd = Math.floor(item.end / 10) * 10;
+      if (!grouped[group100Start]) {
+        grouped[group100Start] = {};
+      }
 
-        if (!groups[groupStart][subGroupStart]) {
-            groups[groupStart][subGroupStart] = [];
-        }
+      if (!grouped[group100Start][group10Start]) {
+        grouped[group100Start][group10Start] = [];
+      }
 
-        groups[groupStart][subGroupStart].push(item);
+      grouped[group100Start][group10Start].push(item);
     });
 
-    return groups;
-}
-
-// Function to render HTML structure
-function renderHTML(groups) {
     const container = document.getElementById('tips-container');
-    container.innerHTML = '';  // Clear existing content
 
-    // Sort groups by key in descending order
-    const sortedGroups = Object.keys(groups).sort((a, b) => b - a);
+    const sorted100s = Object.keys(grouped)
+      .map(n => parseInt(n))
+      .sort((a, b) => b - a);
 
-    sortedGroups.forEach(groupStart => {
-        const group = groups[groupStart];
-        const groupHeader = document.createElement('h2');
-        groupHeader.textContent = groupStart < 900 ? `${groupStart} to ${(parseInt(groupStart) + 99)}` : `${groupStart}+`;
-        container.appendChild(groupHeader);
+    sorted100s.forEach(group100 => {
+      const h2 = document.createElement('h2');
+      h2.textContent = group100 >= 900 ? `${String(group100).padStart(4, '0')}+` : `${String(group100).padStart(4, '0')} to ${String(group100 + 99).padStart(4, '0')}`;
+      container.appendChild(h2);
 
-        // Sort subgroups (by 10s)
-        const sortedSubGroups = Object.keys(group).sort((a, b) => b - a);
+      const subgroups = grouped[group100];
+      const sorted10s = Object.keys(subgroups)
+        .map(n => parseInt(n))
+        .sort((a, b) => b - a);
 
-        sortedSubGroups.forEach(subGroupStart => {
-            const subGroup = group[subGroupStart];
-            const subGroupHeader = document.createElement('h3');
-            subGroupHeader.textContent = `${subGroupStart} to ${parseInt(subGroupStart) + 9}`;
-            container.appendChild(subGroupHeader);
+      sorted10s.forEach(group10 => {
+        let labelStart = group10;
+        let labelEnd = group10 + 9;
 
-            // Create unordered list of links for the subgroup
-            const ul = document.createElement('ul');
-            subGroup.forEach(item => {
-                const li = document.createElement('li');
-                if (item.url) {
-                    const a = document.createElement('a');
-                    a.href = item.url;
-                    a.textContent = `Focusing Tip #${item.start} - ${item.title}`;
-                    li.appendChild(a);
-                } else {
-                    li.textContent = `Focusing Tip #${item.start} - ${item.title}`;
-                }
-                ul.appendChild(li);
-            });
-            container.appendChild(ul);
-        });
+        // Special case for the first block
+        if (group10 === 0) {
+          labelStart = 0;
+          labelEnd = 10;
+        }
+
+        const h3 = document.createElement('h3');
+        h3.textContent = `${String(labelStart).padStart(4, '0')} to ${String(labelEnd).padStart(4, '0')}`;
+        container.appendChild(h3);
+
+        const ul = document.createElement('ul');
+        subgroups[group10]
+          .sort((a, b) => b.start - a.start)
+          .forEach(item => {
+            const li = document.createElement('li');
+            if (item.url) {
+              const a = document.createElement('a');
+              a.href = item.url;
+              a.textContent = `Focusing Tip #${item.start} - ${item.title}`;
+              li.appendChild(a);
+            } else {
+              li.textContent = `Focusing Tip #${item.start} - ${item.title}`;
+            }
+            ul.appendChild(li);
+          });
+
+        container.appendChild(ul);
+      });
     });
-}
-
-// Execute the grouping and rendering
-const groupedTips = groupTips(jsonData);
-renderHTML(groupedTips);
+  })
+  .catch(error => console.error('Error loading focusing_tips_ann.json:', error));
