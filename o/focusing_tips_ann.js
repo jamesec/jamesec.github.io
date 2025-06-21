@@ -53,7 +53,7 @@ fetch('focusing_tips_ann.json')
           link.textContent = `Focusing Tip #${tip.number} - "${tip.title}"`;
           li.appendChild(link);
         } else {
-          li.textContent = `Focusing Tip #${tip.number} - "${tip.title}" (No link available)`;
+          li.textContent = `Focusing Tip #${tip.number} - "${tip.title}"`;
         }
         
         ul.appendChild(li);
