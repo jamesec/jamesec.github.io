@@ -1,4 +1,4 @@
-# Ann's Weekly Focusing Tips
+# Ann's weekly focusing tips
 `Last Updated: Jun 20, 2025`
 
 Weekly Tips & Support for Focusing by [Ann Weiser Cornell](https://focusingresources.com/team/ann-weiser-cornell/)
