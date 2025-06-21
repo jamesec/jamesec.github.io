@@ -1021,7 +1021,7 @@ Weekly Tips & Support for Focusing by [Ann Weiser Cornell](https://focusingresou
 - [Focusing Tip #102 - Using Focusing with Depression](https://focusingresources.com/2007/05/01/march_13_2007_1/)
 - [Focusing Tip #101 - "A pervasive and general unease"](https://focusingresources.com/2007/03/07/march_6_2007_10/)
 
-## 0001 to 0100
+## 0000 to 0100
 ### 0091 to 0100
 - [Focusing Tip #100 - "It seemed like the first thing they needed was to find Presence."](https://focusingresources.com/2007/03/07/february_27_200/)
 - [Focusing Tip #099 - "How Do You Present Focusing to a Client...?"](https://focusingresources.com/2007/02/23/february_20_200/)
