@@ -63,19 +63,10 @@ fetch('focusing_tips_ann.json')
       container.appendChild(groupDiv);
     };
 
-    // Handle "0801 to 0900" group first, followed by "0891 to 0900" under it
-    if (grouped['0801 to 0900']) {
-      renderGroup('0801 to 0900', grouped['0801 to 0900']);
-    }
-
-    // Now render the "0891 to 0900" group specifically
-    if (grouped['0891 to 0900']) {
-      renderGroup('0891 to 0900', grouped['0891 to 0900']);
-    }
-
-    // Render the rest of the groups
+    // Render the groups in reverse order, starting from the largest range
     const groupOrder = [
-      '0901+', '0931 to 0940', '0921 to 0930', 
+      '0931 to 0940', '0921 to 0930', '0901+', 
+      '0891 to 0900', '0881 to 0890', '0801 to 0900',
       '0091 to 0100', '0081 to 0090', '0001 to 0100'
     ];
     
