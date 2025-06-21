@@ -1,5 +1,5 @@
 // Fetch the data from the JSON file
-fetch('focusing_tips_ann.json')
+fetch('tips.json')
   .then(response => response.json())
   .then(tips => {
     // Grouping the tips by ranges like "0901+" or "0931 to 0940"
@@ -11,6 +11,8 @@ fetch('focusing_tips_ann.json')
         group = '0901+';
       } else if (tip.number >= 891) {
         group = '0891 to 0900';
+      } else if (tip.number >= 801) {
+        group = '0801 to 0900';
       } else {
         group = 'Other';
       }
@@ -26,26 +28,64 @@ fetch('focusing_tips_ann.json')
     // Render the grouped tips
     const container = document.getElementById('tips-container');
 
-    // Render each group with title and tips
-    for (const [group, tipsInGroup] of Object.entries(grouped)) {
-      // Create section for the group
+    // Handle "0801 to 0900" group first, followed by "0891 to 0900" under it
+    if (grouped['0801 to 0900']) {
       const groupDiv = document.createElement('div');
       const groupTitle = document.createElement('h2');
-      groupTitle.textContent = group;
+      groupTitle.textContent = '0801 to 0900';
       groupDiv.appendChild(groupTitle);
 
-      // Render each tip in the group
-      tipsInGroup.forEach(tip => {
-        const tipDiv = document.createElement('div');
-        tipDiv.classList.add('tip');
-        const tipLink = document.createElement('a');
-        tipLink.href = tip.url;
-        tipLink.textContent = `Focusing Tip #${tip.number} - "${tip.title}"`;
-        tipDiv.appendChild(tipLink);
-        groupDiv.appendChild(tipDiv);
-      });
+      // Handle sub-group "0891 to 0900"
+      if (grouped['0891 to 0900']) {
+        const subGroupDiv = document.createElement('div');
+        const subGroupTitle = document.createElement('h3');
+        subGroupTitle.textContent = '0891 to 0900';
+        subGroupDiv.appendChild(subGroupTitle);
 
+        // Render each tip in the "0891 to 0900" group
+        grouped['0891 to 0900'].forEach(tip => {
+          const tipDiv = document.createElement('div');
+          tipDiv.classList.add('tip');
+          if (tip.url) {
+            const tipLink = document.createElement('a');
+            tipLink.href = tip.url;
+            tipLink.textContent = `Focusing Tip #${tip.number} - "${tip.title}"`;
+            tipDiv.appendChild(tipLink);
+          } else {
+            tipDiv.textContent = `Focusing Tip #${tip.number} - "${tip.title}" (No link available)`;
+          }
+          subGroupDiv.appendChild(tipDiv);
+        });
+
+        groupDiv.appendChild(subGroupDiv);
+      }
       container.appendChild(groupDiv);
+    }
+
+    // Render the other groups
+    for (const [group, tipsInGroup] of Object.entries(grouped)) {
+      if (group !== '0801 to 0900' && group !== '0891 to 0900') {
+        const groupDiv = document.createElement('div');
+        const groupTitle = document.createElement('h2');
+        groupTitle.textContent = group;
+        groupDiv.appendChild(groupTitle);
+
+        tipsInGroup.forEach(tip => {
+          const tipDiv = document.createElement('div');
+          tipDiv.classList.add('tip');
+          if (tip.url) {
+            const tipLink = document.createElement('a');
+            tipLink.href = tip.url;
+            tipLink.textContent = `Focusing Tip #${tip.number} - "${tip.title}"`;
+            tipDiv.appendChild(tipLink);
+          } else {
+            tipDiv.textContent = `Focusing Tip #${tip.number} - "${tip.title}" (No link available)`;
+          }
+          groupDiv.appendChild(tipDiv);
+        });
+
+        container.appendChild(groupDiv);
+      }
     }
   })
   .catch(error => {
