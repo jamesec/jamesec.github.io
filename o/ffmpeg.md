@@ -1,7 +1,7 @@
 # Some useful ffmpeg commands
 `Jun 22, 2025`
 
-I wanted to share a few ffmpeg commands I’ve been using lately.
+Here are some ffmpeg commands I’ve recently used and found useful.
 
 ## Upscaling DVD video clips and adding hard subtitles
 
