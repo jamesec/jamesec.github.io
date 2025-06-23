@@ -34,11 +34,11 @@ If you want to duplicate the right channel instead, you'd use `c0=c1|c1=c1`.
 ffmpeg -i v.mp4 -af "pan=stereo|c0=c1|c1=c1" -c:v copy output.mp4
 ```
 
-## Getting FFmpeg for Apple Silicon and making it available system-side
+## References - getting ffmpeg for Apple Silicon and making it available system-side
 - Download ffmpeg from [OSXExperts](https://osxexperts.net/)
   - Download ffmpeg 7.1.1 (Apple Silicon)
 
-### Make it system-wide available
+### Making it available system-side
 Put ffmpeg into this folder: `~/Downloads/App/`
 
 Use [nano](https://freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-nano-quit-command/) to edit Zsh configuration file.
