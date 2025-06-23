@@ -34,7 +34,7 @@ If you want to duplicate the right channel instead, you'd use `c0=c1|c1=c1`.
 ffmpeg -i v.mp4 -af "pan=stereo|c0=c1|c1=c1" -c:v copy output.mp4
 ```
 
-## References - get ffmpeg for Apple Silicon and make it system-wide available
+## Getting FFmpeg for Apple Silicon and making it available system-side
 - Download ffmpeg from [OSXExperts](https://osxexperts.net/)
   - Download ffmpeg 7.1.1 (Apple Silicon)
 
