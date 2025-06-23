@@ -23,8 +23,15 @@ ffmpeg -i v.mp4 -vf subtitles=s.srt -c:v libx264 -c:a copy output.mp4
 
 ## Duplicating an audio channel in video files
 
+This duplicates the left audio channel to both left and right channels, keeps the video unchanged, and saves the result to output.mp4.
+
 ```
 ffmpeg -i v.mp4 -af "pan=stereo|c0=c0|c1=c0" -c:v copy output.mp4
+```
+
+If you want to duplicate the right channel instead, you'd use `c0=c1|c1=c1`.
+```
+ffmpeg -i v.mp4 -af "pan=stereo|c0=c1|c1=c1" -c:v copy output.mp4
 ```
 
 ## References - get ffmpeg for Apple Silicon and make it system-wide available
