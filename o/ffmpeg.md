@@ -22,7 +22,7 @@ ffmpeg -i v.mp4 -vf subtitles=s.vtt -c:v libx264 -c:a copy output.mp4
 Problem 2 to be solved:
 
 ```
-ffmpeg -i video.mp4 -af "pan=stereo|c0=c0|c1=c0" -c:v copy output.mp4
+ffmpeg -i v.mp4 -af "pan=stereo|c0=c0|c1=c0" -c:v copy output.mp4
 ```
 
 ## References - get ffmpeg for Apple Silicon and make it system-wide available
