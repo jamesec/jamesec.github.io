@@ -3,23 +3,25 @@
 
 Just take some notes on ffmpeg commands that I used recently.
 
-## Upscale DVD video clips and add hard subtitles
+## Upscaling DVD video clips and adding hard subtitles
 
 I want to add embedded (hard) subtitles to some DVD clips so they can be played in the Obsidian Slides or Keynote app. Since the resolution of the original footage is relatively low (720×480 pixels is the standard resolution for NTSC DVDs, and 720×576 pixels for PAL DVDs), I plan to upscale the video first, then embed the subtitles. Otherwise, the subtitles in the final video may appear blurry due to the low original resolution.
+
+Upscaling DVD video clips:
 
 ```
 ffmpeg -i v.mp4 -vf "scale=1280:720:flags=lanczos" -c:a copy upscaled.mp4
 ```
 
-```
-ffmpeg -i v.mp4 -vf subtitles=s.srt -c:v libx264 -c:a copy output.mp4
-```
+Adding hard subtitles:
 
 ```
 ffmpeg -i v.mp4 -vf subtitles=s.vtt -c:v libx264 -c:a copy output.mp4
+or
+ffmpeg -i v.mp4 -vf subtitles=s.srt -c:v libx264 -c:a copy output.mp4
 ```
 
-Problem 2 to be solved:
+## Problem 2 to be solved
 
 ```
 ffmpeg -i v.mp4 -af "pan=stereo|c0=c0|c1=c0" -c:v copy output.mp4
