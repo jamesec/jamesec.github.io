@@ -32,12 +32,14 @@ ffmpeg -i v.mp4 -af "pan=stereo|c0=c0|c1=c0" -c:v copy output.mp4
 ### Make it system-wide available
 Put ffmpeg into this folder: `~/Downloads/App/`
 
+Use [nano](https://freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-nano-quit-command/) to edit Zsh configuration file.
+
 ```
 nano ~/.zshrc
 ```
 
 Add this line into the file: `export PATH=~/Downloads/App/:$PATH`  
-Save the file. 
+Save the file. (Ctrl + X will quit the nano editor and you will be asked if you want to save your changes.)
 
 ```
 source ~/.zshrc
