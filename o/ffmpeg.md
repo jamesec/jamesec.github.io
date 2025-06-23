@@ -26,5 +26,9 @@ ffmpeg -i video.mp4 -af "pan=stereo|c0=c0|c1=c0" -c:v copy output.mp4
 ```
 
 ## References - get ffmpeg for Apple Silicon and make it system-wide available
-https://osxexperts.net/
-- Download ffmpeg 7.1.1 (Apple Silicon)
+- Download ffmpeg from [OSXExperts](https://osxexperts.net/)
+  - Download ffmpeg 7.1.1 (Apple Silicon)
+
+```
+chmod +x ffmpeg
+```
