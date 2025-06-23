@@ -21,7 +21,7 @@ or
 ffmpeg -i v.mp4 -vf subtitles=s.srt -c:v libx264 -c:a copy output.mp4
 ```
 
-## Problem 2 to be solved
+## Duplicating an audio channel in video files
 
 ```
 ffmpeg -i v.mp4 -af "pan=stereo|c0=c0|c1=c0" -c:v copy output.mp4
