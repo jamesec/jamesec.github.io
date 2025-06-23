@@ -39,6 +39,32 @@ ffmpeg -i v.mp4 -af "pan=stereo|c0=c1|c1=c1" -c:v copy output.mp4
   - Download ffmpeg 7.1.1 (Apple Silicon)
 
 ### Making it available system-side
+Put ffmpeg in this folder: `~/Downloads/App/`
+
+Open your zsh config file with nano:
+```
+nano ~/.zshrc
+```
+
+Add this line to the file: `export PATH=~/Downloads/App/:$PATH`
+Save and exit (press `Ctrl + X`, then `Y`, then `Enter`).
+
+Reload the config:
+```
+source ~/.zshrc
+```
+
+Make ffmpeg executable:
+```
+chmod +x ~/Downloads/App/ffmpeg
+```
+
+Check if ffmpeg works:
+```
+ffmpeg --version
+```
+
+// my own version as below
 Put ffmpeg into this folder: `~/Downloads/App/`
 
 Use [nano](https://freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-nano-quit-command/) to edit Zsh configuration file.
