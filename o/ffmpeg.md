@@ -36,7 +36,7 @@ Put ffmpeg into this folder: `~/Downloads/App/`
 nano ~/.zshrc
 ```
 
-Add this line into the file: `export PATH=~/Downloads/App/:$PATH`
+Add this line into the file: `export PATH=~/Downloads/App/:$PATH`  
 Save the file. 
 
 ```
@@ -47,7 +47,7 @@ source ~/.zshrc
 chmod +x ffmpeg
 ```
 
-Test it
+Test it.
 ```
 ffmpeg --version
 ```
