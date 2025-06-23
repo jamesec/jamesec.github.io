@@ -41,7 +41,7 @@ ffmpeg -i v.mp4 -af "pan=stereo|c0=c1|c1=c1" -c:v copy output.mp4
 ### Making it available system-side
 Put ffmpeg in this folder: `~/Downloads/App/`
 
-Open your zsh config file with nano:
+Use [nano](https://freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-nano-quit-command/) to edit your zsh configuration file:
 ```
 nano ~/.zshrc
 ```
@@ -60,31 +60,6 @@ chmod +x ~/Downloads/App/ffmpeg
 ```
 
 Check if ffmpeg works:
-```
-ffmpeg --version
-```
-
-// my own version as below
-Put ffmpeg into this folder: `~/Downloads/App/`
-
-Use [nano](https://freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-nano-quit-command/) to edit Zsh configuration file.
-
-```
-nano ~/.zshrc
-```
-
-Add this line into the file: `export PATH=~/Downloads/App/:$PATH`  
-Save the file. (Ctrl + X will quit the nano editor and you will be asked if you want to save your changes.)
-
-```
-source ~/.zshrc
-```
-
-```
-chmod +x ffmpeg
-```
-
-Test it.
 ```
 ffmpeg --version
 ```
