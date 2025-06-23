@@ -3,9 +3,9 @@
 
 Just take some notes on ffmpeg commands that I used recently.
 
-Problem 1 to be solved:
+## Upscale DVD video clips and add hard subtitles
 
-720×480 pixels is the standard resolution for NTSC DVDs and 720×576 pixels for PAL DVDs.
+I want to add embedded (hard) subtitles to some DVD clips so they can be played in the Obsidian Slides or Keynote app. Since the resolution of the original footage is relatively low (720×480 pixels is the standard resolution for NTSC DVDs, and 720×576 pixels for PAL DVDs), I plan to upscale the video first, then embed the subtitles. Otherwise, the subtitles in the final video may appear blurry due to the low original resolution.
 
 ```
 ffmpeg -i v.mp4 -vf "scale=1280:720:flags=lanczos" -c:a copy upscaled.mp4
