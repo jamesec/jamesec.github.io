@@ -1,5 +1,5 @@
-# Some useful ffmpeg commands
-`Jun 22, 2025`
+# Upscaling DVD video clips with ffmpeg
+`Jun 23, 2025`
 
 Here are some ffmpeg commands I’ve recently used and found useful.
 
@@ -19,19 +19,6 @@ Adding hard subtitles:
 ffmpeg -i v.mp4 -vf subtitles=s.vtt -c:v libx264 -c:a copy output.mp4
 or
 ffmpeg -i v.mp4 -vf subtitles=s.srt -c:v libx264 -c:a copy output.mp4
-```
-
-## Duplicating an audio channel in video files
-
-This duplicates the left audio channel to both left and right channels, keeps the video unchanged, and saves the result to output.mp4.
-
-```
-ffmpeg -i v.mp4 -af "pan=stereo|c0=c0|c1=c0" -c:v copy output.mp4
-```
-
-If you want to duplicate the right channel instead, you'd use `c0=c1|c1=c1`.
-```
-ffmpeg -i v.mp4 -af "pan=stereo|c0=c1|c1=c1" -c:v copy output.mp4
 ```
 
 ## References - getting ffmpeg for Apple Silicon and making it available system-side
