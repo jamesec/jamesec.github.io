@@ -49,5 +49,5 @@ chmod +x ~/Downloads/App/ffmpeg
 
 Check if ffmpeg works:
 ```
-ffmpeg --version
+ffmpeg -version
 ```
