@@ -1,11 +1,11 @@
 # Upscaling DVD video clips with ffmpeg
 `Jun 23, 2025`
 
-Here are some ffmpeg commands I’ve recently used and found useful.
+I want to add embedded (hard) subtitles to some DVD clips so they can be played in the Obsidian Slides or Keynote app.
 
-## Upscaling DVD video clips and adding hard subtitles
+Since the resolution of the original footage is relatively low (720×480 pixels is the standard resolution for NTSC DVDs, and 720×576 pixels for PAL DVDs), I plan to upscale the video first, then embed the subtitles.
 
-I want to add embedded (hard) subtitles to some DVD clips so they can be played in the Obsidian Slides or Keynote app. Since the resolution of the original footage is relatively low (720×480 pixels is the standard resolution for NTSC DVDs, and 720×576 pixels for PAL DVDs), I plan to upscale the video first, then embed the subtitles. Otherwise, the subtitles in the final video may appear blurry due to the low original resolution.
+Otherwise, the subtitles in the final video may appear blurry due to the low original resolution.
 
 Upscaling DVD video clips:
 
