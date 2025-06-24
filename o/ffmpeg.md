@@ -1,7 +1,7 @@
 # Upscaling DVD video clips with ffmpeg
 `Jun 23, 2025`
 
-I want to add embedded (hard) subtitles to some DVD clips so they can be played in the Obsidian Slides or Keynote app.
+I want to add embedded (hard) subtitles to some DVD clips so they can be played in the Obsidian slides or Keynote app.
 
 Since the resolution of the original footage is relatively low (720×480 pixels is the standard resolution for NTSC DVDs, and 720×576 pixels for PAL DVDs), I plan to upscale the video first, then embed the subtitles.
 
@@ -33,7 +33,7 @@ Use [nano](https://freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-n
 nano ~/.zshrc
 ```
 
-Add this line to the file: `export PATH=~/Downloads/App/:$PATH`
+Add this line to the file: `export PATH=~/Downloads/App/:$PATH`  
 Save and exit (press `Ctrl + X`, then `Y`, then `Enter`).
 
 Reload the config:
