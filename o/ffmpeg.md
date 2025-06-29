@@ -3,9 +3,7 @@
 
 I want to add embedded (hard) subtitles to some DVD clips so they can be played in the Obsidian slides or Keynote app.
 
-Since the resolution of the original footage is relatively low (720×480 pixels is the standard resolution for NTSC DVDs, and 720×576 pixels for PAL DVDs), I plan to upscale the video first, then embed the subtitles.
-
-Otherwise, the subtitles in the final video may appear blurry due to the low original resolution.
+Since the resolution of the original footage is relatively low (720×480 pixels is the standard resolution for NTSC DVDs, and 720×576 pixels for PAL DVDs), so I plan to upscale the video first, then embed the subtitles. Otherwise, the subtitles in the final video may appear blurry due to the low original resolution.
 
 Upscale DVD video clips:
 
@@ -21,11 +19,13 @@ or
 ffmpeg -i v.mp4 -vf subtitles=s.srt -c:v libx264 -c:a copy output.mp4
 ```
 
-## References - getting ffmpeg for Apple Silicon and making it available system-side
+Job done!
+
+## References - get ffmpeg for Apple Silicon and make it available system-side
 - Download ffmpeg from [OSXExperts](https://osxexperts.net/)
   - Download ffmpeg 7.1.1 (Apple Silicon)
 
-### Making it available system-side
+### Make it available system-side
 Put ffmpeg in this folder: `~/Downloads/App/`
 
 Use [nano](https://freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-nano-quit-command/) to edit your zsh configuration file:
