@@ -12,9 +12,9 @@ ffmpeg -i v.mp4 -vf "scale=1280:720:flags=lanczos" -c:a copy upscaled.mp4
 
 Add hard subtitles:
 ```
-ffmpeg -i v.mp4 -vf subtitles=s.vtt -c:v libx264 -c:a copy output.mp4
+ffmpeg -i upscaled.mp4 -vf subtitles=s.vtt -c:v libx264 -c:a copy output.mp4
 or
-ffmpeg -i v.mp4 -vf subtitles=s.srt -c:v libx264 -c:a copy output.mp4
+ffmpeg -i upscaled.mp4 -vf subtitles=s.srt -c:v libx264 -c:a copy output.mp4
 ```
 
 Job done!
