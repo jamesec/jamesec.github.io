@@ -3,16 +3,14 @@
 
 I want to add embedded (hard) subtitles to some DVD clips so they can be played in the Obsidian slides or Keynote app.
 
-Since the resolution of the original footage is relatively low (720×480 pixels is the standard resolution for NTSC DVDs, and 720×576 pixels for PAL DVDs), so I plan to upscale the video first, then embed the subtitles. Otherwise, the subtitles in the final video may appear blurry due to the low original resolution.
+Since the resolution of the original footage is relatively low (720×480 pixels is the standard resolution for NTSC DVDs, and 720×576 pixels for PAL DVDs), I plan to upscale the video first, then embed the subtitles. Otherwise, the subtitles in the final video may appear blurry due to the low original resolution.
 
 Upscale DVD video clips:
-
 ```
 ffmpeg -i v.mp4 -vf "scale=1280:720:flags=lanczos" -c:a copy upscaled.mp4
 ```
 
 Add hard subtitles:
-
 ```
 ffmpeg -i v.mp4 -vf subtitles=s.vtt -c:v libx264 -c:a copy output.mp4
 or
