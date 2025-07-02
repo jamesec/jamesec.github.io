@@ -1,7 +1,6 @@
 # 卡尔・罗杰斯重新定义什么是「共情」  
 译者：陈艺文、田婴 / 2025 年 7 月 1 日  
 译自：[Carl Rogers discusses Gene Gendlin's concept of experiencing](https://youtube.com/embed/fN03Z6xp2QA)  
-`July 1, 2025`
 
 <iframe width="560" height="315" src="https://youtube.com/embed/fN03Z6xp2QA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
