@@ -5,7 +5,10 @@ Weekly Tips & Support for Focusing by [Ann Weiser Cornell](https://focusingresou
 - [Ann's Weekly Focusing Tips - Focusing Resources](https://focusingresources.com/category/tips/)
 - [Ann's Weekly Focusing Tips - Sign up here](https://focusingresources.com/anns-weekly-tips/)
 
-## 0901+
+## 0901 to 1000
+### 0941 to 0950
+- Focusing Tip #941 - How we change by not trying to change
+
 ### 0931 to 0940
 - Focusing Tip #940 - When a family member has a terminal illness
 - Focusing Tip #939 - How to listen when a friend is going through a hard time
@@ -22,8 +25,8 @@ Weekly Tips & Support for Focusing by [Ann Weiser Cornell](https://focusingresou
 - Focusing Tip #930 - "With pain... how do we make sure we’re not ‘belittling’ the feeling?"
 - Focusing Tip #929 - If your client can't believe they can be Self-in-Presence
 - Focusing Tip #928 - "What part of me is aware of something in me?"
-- Focusing Tip #927 - Protector and Defender parts in Untangling
-- Focusing Tip #926 - "My mind wanders when I try to be patient"
+- [Focusing Tip #927 - Protector and Defender parts in Untangling](https://focusingresources.com/2025/03/12/focusing-tip-927-parts-work-protector-and-defender-parts-in-untangling/)
+- [Focusing Tip #926 - "My mind wanders when I try to be patient"](https://focusingresources.com/2025/03/05/focusing-tip-926-my-mind-wanders-when-i-try-to-be-patient/)
 - [Focusing Tip #925 - How can we do Focusing with hate?](https://focusingresources.com/2025/02/26/focusing-tip-925-black-history-month-how-can-we-do-focusing-with-hate/)
 - [Focusing Tip #924 - "Is it the felt sense of a part that we listen to?"](https://focusingresources.com/2025/02/19/focusingtip924-irf-and-parts-is-it-the-felt-sense-of-a-part-that-we-listen-to/)
 - [Focusing Tip #923 - "I'm struggling with these challenging times"](https://focusingresources.com/2025/02/12/focusing-tip-923-im-struggling-with-these-challenging-times/)
