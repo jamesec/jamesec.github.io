@@ -1,4 +1,4 @@
-# 卡尔・罗杰斯重新定义什么是「共情」  
+# 卡尔・罗杰斯重新定义「共情」  
 译者：陈艺文、田婴 / 2025 年 7 月 1 日  
 译自：[Carl Rogers discusses Gene Gendlin's concept of experiencing](https://youtube.com/embed/fN03Z6xp2QA)  
 
