@@ -1,14 +1,12 @@
-# 卡尔・罗杰斯重新定义什么是「共情」<br>
-译者：陈艺文、田婴 / 2025 年 7 月 1 日<br>
-译自：[Carl Rogers discusses Gene Gendlin's concept of experiencing](https://youtube.com/embed/fN03Z6xp2QA)<br>
+# 卡尔・罗杰斯重新定义什么是「共情」  
+译者：陈艺文、田婴 / 2025 年 7 月 1 日  
+译自：[Carl Rogers discusses Gene Gendlin's concept of experiencing](https://youtube.com/embed/fN03Z6xp2QA)  
 `July 1, 2025`
 
 <iframe width="560" height="315" src="https://youtube.com/embed/fN03Z6xp2QA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Carl Rogers discusses Gene Gendlin's concept of experiencing](https://youtube.com/watch?v=fN03Z6xp2QA)
-
-Video uploaded: Mar 21, 2023
-
+- [Carl Rogers discusses Gene Gendlin's concept of experiencing](https://youtube.com/watch?v=fN03Z6xp2QA)
+  - Video uploaded: Mar 21, 2023
 - 卡尔・罗杰斯在 1974 年，基于简德林的体验过程概念，重新定义什么是「共情」。
 - Carl Rogers 卡尔・罗杰斯在他 1974 年关于共情的讲座中讨论了 Gene Gendlin 提出的「体验流/体验过程」概念。
 - 共情是一种过程，而不是一种状态。
