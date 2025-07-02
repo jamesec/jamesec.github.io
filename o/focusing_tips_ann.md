@@ -1,5 +1,5 @@
 # Ann's weekly focusing tips
-`Last Updated: Jun 29, 2025`
+`Last Updated: July 2, 2025`
 
 Weekly Tips & Support for Focusing by [Ann Weiser Cornell](https://focusingresources.com/team/ann-weiser-cornell/)
 - [Ann's Weekly Focusing Tips - Focusing Resources](https://focusingresources.com/category/tips/)
@@ -24,10 +24,10 @@ Weekly Tips & Support for Focusing by [Ann Weiser Cornell](https://focusingresou
 - Focusing Tip #928 - "What part of me is aware of something in me?"
 - Focusing Tip #927 - Protector and Defender parts in Untangling
 - Focusing Tip #926 - "My mind wanders when I try to be patient"
-- Focusing Tip #925 - How can we do Focusing with hate?
-- Focusing Tip #924 - "Is it the felt sense of a part that we listen to?"
-- Focusing Tip #923 - "I'm struggling with these challenging times"
-- Focusing Tip #922 - "Do I do what my parts tell me to do?"
+- [Focusing Tip #925 - How can we do Focusing with hate?](https://focusingresources.com/2025/02/26/focusing-tip-925-black-history-month-how-can-we-do-focusing-with-hate/)
+- [Focusing Tip #924 - "Is it the felt sense of a part that we listen to?"](https://focusingresources.com/2025/02/19/focusingtip924-irf-and-parts-is-it-the-felt-sense-of-a-part-that-we-listen-to/)
+- [Focusing Tip #923 - "I'm struggling with these challenging times"](https://focusingresources.com/2025/02/12/focusing-tip-923-im-struggling-with-these-challenging-times/)
+- [Focusing Tip #922 - "Do I do what my parts tell me to do?"](https://focusingresources.com/2025/02/05/focusing-tip-922-parts-work-do-i-do-what-my-parts-tell-me-to-do/)
 - [Focusing Tip #921 - "Is a felt sense the same as a gut instinct?"](https://focusingresources.com/2025/01/29/focusing-tip-921-is-a-felt-sense-the-same-as-a-gut-instinct/)
 
 ### 0911 to 0920
