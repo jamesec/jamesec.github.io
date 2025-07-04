@@ -1,45 +1,43 @@
-<style>
-    body {
-        background: #afaaaa;
-        font-family: Helvetica, Arial, sans-serif;
-        overflow: hidden;
-    }
-    section {
-        background: #fafafa;
-        border: 1pt solid #fff;
-        border-radius: .25em;
-        box-shadow: 0 0 .1em .1em #888;
-        color: #111;
-        overflow: hidden;
-        padding: 35px;
-        margin: 0;
-        position: absolute;
-        -webkit-transition: left .3s;
-        -moz-transition:    left .3s;
-        -o-transition:      left .3s;
-        transition:         left .3s;
-    }
-    section img {
-        height: 90%;
-    }
-    footer, header {
-        color: #777;
-        font-size: 50%;
-        width: 90%;
-        position: absolute;
-    }
-    footer {
-        bottom: 10px;
-        text-align: center;
-    }
-    header {
-        top: 10px;
-        text-align: left;
-    }
-    h1, h2, h3, h4 {margin: 0; padding: 0;}
-    h1 {font-size: 120%;}
-    h2 {font-size: 110%;}
-    p, pre, code, ul, ol {margin: 0.5em 0 0.5em 0;}
-    p {color: #222;}
-    pre, code {background: #ddd}
-</style>
+body {
+    background: #afaaaa;
+    font-family: Helvetica, Arial, sans-serif;
+    overflow: hidden;
+}
+section {
+    background: #fafafa;
+    border: 1pt solid #fff;
+    border-radius: .25em;
+    box-shadow: 0 0 .1em .1em #888;
+    color: #111;
+    overflow: hidden;
+    padding: 35px;
+    margin: 0;
+    position: absolute;
+    -webkit-transition: left .3s;
+    -moz-transition:    left .3s;
+    -o-transition:      left .3s;
+    transition:         left .3s;
+}
+section img {
+    height: 90%;
+}
+footer, header {
+    color: #777;
+    font-size: 50%;
+    width: 90%;
+    position: absolute;
+}
+footer {
+    bottom: 10px;
+    text-align: center;
+}
+header {
+    top: 10px;
+    text-align: left;
+}
+h1, h2, h3, h4 {margin: 0; padding: 0;}
+h1 {font-size: 120%;}
+h2 {font-size: 110%;}
+p, pre, code, ul, ol {margin: 0.5em 0 0.5em 0;}
+p {color: #222;}
+pre, code {background: #ddd}
