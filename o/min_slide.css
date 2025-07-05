@@ -42,14 +42,9 @@ p, pre, code, ul, ol {margin: 0.5em 0 0.5em 0;}
 p { color: #111; } /* was #222 */
 pre, code {background: #ddd}
 
-.video-wrapper {
-    display: flex;
-    justify-content: center; /* horizontal centering */
-    align-items: center;     /* vertical centering */
-    height: 100%;
-}
-
 .centered-video {
+    display: block;
+    margin: 0 auto;
     width: 60%;
     height: auto;
 }
