@@ -1,3 +1,4 @@
+/* Forked from https://github.com/rwos/minslide */
 var show = 0;
 var slides = document.getElementsByTagName("section");
 function update() {
