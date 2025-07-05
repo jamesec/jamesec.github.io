@@ -1,3 +1,4 @@
+/* Forked from https://github.com/rwos/minslide */
 body {
     background: #afaaaa;
     font-family: Helvetica, Arial, sans-serif;
@@ -5,7 +6,7 @@ body {
     color: #555555;
 }
 section {
-    background: #e8e8e8; /* was #fafafa */
+    background: #e8e8e8;
     border: 1pt solid #fff;
     border-radius: .25em;
     box-shadow: 0 0 .1em .1em #888;
@@ -40,13 +41,13 @@ h1, h2, h3, h4 {margin: 0; padding: 0;}
 h1 {font-size: 120%;}
 h2 {font-size: 110%;}
 p, pre, code, ul, ol {margin: 0.5em 0 0.5em 0;}
-p { color: #111; } /* was #222 */
+p { color: #111; }
 pre, code {background: #ddd}
 small {color: #555555;}
 
 .centered-video {
     display: block;
-    margin: 30px auto 0; /* top margin 20px, horizontal auto to center, bottom 0 */
+    margin: 30px auto 0;
     width: 60%;
     height: auto;
 }
