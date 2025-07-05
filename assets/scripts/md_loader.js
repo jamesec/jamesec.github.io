@@ -19,8 +19,6 @@
  * - Handles missing or invalid markdown files gracefully with custom 404 redirect
  * - Includes fallback UI display on persistent load failures
  *
- * Version Notes:
- *
  * 2.1.0 Notes:
  *  - Fixed missing closing brace that broke execution in v2.0
  *  - Waits for <zero-md> element before attempting to load markdown
