@@ -46,7 +46,7 @@ pre, code {background: #ddd}
     display: flex;
     justify-content: center; /* horizontal centering */
     align-items: center;     /* vertical centering */
-    height: 500px;           /* or % if the parent has height */
+    height: 100%;           /* or % if the parent has height */
 }
 
 .centered-video {
