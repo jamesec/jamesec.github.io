@@ -2,7 +2,7 @@ body {
     background: #afaaaa;
     font-family: Helvetica, Arial, sans-serif;
     overflow: hidden;
-    color: #747474;
+    color: #555555;
 }
 section {
     background: #e8e8e8; /* was #fafafa */
@@ -42,7 +42,7 @@ h2 {font-size: 110%;}
 p, pre, code, ul, ol {margin: 0.5em 0 0.5em 0;}
 p { color: #111; } /* was #222 */
 pre, code {background: #ddd}
-small {color: #747474;}
+small {color: #555555;}
 
 .centered-video {
     display: block;
