@@ -18,8 +18,8 @@
       "slide_content": "<h1>copyright</h1><ul><li>CC0 (public domain)</li><li>do with it whatever you want</li></ul>"
     },
    {
-    "slide_number": 4,
-    "slide_content": "<h1>腹式深呼吸的原理</h1><video class='centered-video' src='/assets/files/Take a deep breath - theory.mp4' controls></video><p class='comment'>Source: https://youtu.be/pa2d45Ix7aQ</p>"
+      "slide_number": 4,
+      "slide_content": "<h1>腹式深呼吸的原理</h1><video class='centered-video' src='/assets/files/Take a deep breath - theory.mp4' controls></video><p class='comment'>Source: https://youtu.be/pa2d45Ix7aQ</p>"
   }
   ]
 }
