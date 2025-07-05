@@ -1,28 +1,45 @@
 /*!
  * md_loader.js - Resilient Markdown Loader Script
- * Version: 2.0 Last Updated: 2025-06-13
+ * Version: 2.1
+ * Last Updated: 2025-07-05
  * Author: James Even Chen https://evenc.org/
  * Description: Dynamically loads and renders Markdown files into <zero-md> elements.
- 
-Features:
-- Supports loading markdown files from:
-  - Remote URLs (http/https)
-  - Absolute paths (starting with `/`)
-  - Relative file paths
-- Checks file existence via HTTP HEAD before loading
-- Implements retry logic with exponential backoff (up to 3 attempts)
-- Adds jitter delay (0-300ms) to stagger load requests when opening multiple tabs
-- Updates document title dynamically from the first `<h1>` in the markdown content
-- Directly updates `<title>` tag with a small delay for reliable browser support
-- Handles missing or invalid markdown files gracefully with custom 404 redirect
-- Includes fallback UI display on persistent load failures
-
- 1.2.0 Notes:
- * - Supports: Remote URLs, Absolute paths, Relative files
- * - Includes: Retry logic, jitter delay, and custom 404 redirect
- 1.1.0 Notes:
- * - Retries loading if Markdown content doesn't render.
- * - Displays fallback message after max retries.
+ *
+ * Features:
+ * - Supports loading markdown files from:
+ *   - Remote URLs (http/https)
+ *   - Absolute paths (starting with `/`)
+ *   - Relative file paths
+ * - Auto-appends `.md` extension if missing
+ * - Checks file existence via HTTP HEAD before loading
+ * - Waits for <zero-md> element to be available before setting `src`
+ * - Implements retry logic with exponential backoff (up to 3 attempts)
+ * - Adds jitter delay (0–300ms) to stagger load requests when opening multiple tabs
+ * - Updates document title dynamically from the first `<h1>` in the markdown content
+ * - Directly updates `<title>` tag with a small delay for reliable browser support
+ * - Handles missing or invalid markdown files gracefully with custom 404 redirect
+ * - Includes fallback UI display on persistent load failures
+ *
+ * Version Notes:
+ *
+ * 2.1.0 Notes:
+ *  - Fixed missing closing brace that broke execution in v2.0
+ *  - Waits for <zero-md> element before attempting to load markdown
+ *  - Improved .md extension handling to prevent duplication
+ *  - Minor refactor for clarity and robustness
+ *
+ * 2.0.0 Notes:
+ *  - Major refactor of structure and logic
+ *  - Added robust URL normalization and error handling
+ *  - Introduced jittered load timing and exponential retry logic
+ *
+ * 1.2.0 Notes:
+ *  - Supports: Remote URLs, Absolute paths, Relative files
+ *  - Includes: Retry logic, jitter delay, and custom 404 redirect
+ *
+ * 1.1.0 Notes:
+ *  - Retries loading if Markdown content doesn't render.
+ *  - Displays fallback message after max retries.
  */
 
 document.addEventListener('DOMContentLoaded', function () {
