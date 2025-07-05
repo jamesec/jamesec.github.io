@@ -42,6 +42,7 @@ h2 {font-size: 110%;}
 p, pre, code, ul, ol {margin: 0.5em 0 0.5em 0;}
 p { color: #111; } /* was #222 */
 pre, code {background: #ddd}
+small {color: #747474;}
 
 .centered-video {
     display: block;
