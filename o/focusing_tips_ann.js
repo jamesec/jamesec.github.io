@@ -42,11 +42,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 const subSections = grouped[majorKey];
                 // Sort subsection keys descending
                 Object.keys(subSections)
-                    .sort((a, b) => b.localeCompare(a))  // descending order
+                    .sort((a, b) => b.localeCompare(a))
                     .forEach(subKey => {
                         const h3 = document.createElement('h3');
                         h3.textContent = subKey;
                         container.appendChild(h3);
+
+                        // Sort items inside subsection by number descending
+                        subSections[subKey].sort((a, b) => b.number - a.number);
 
                         const ul = document.createElement('ul');
                         subSections[subKey].forEach(item => {
