@@ -11,72 +11,65 @@ document.addEventListener('DOMContentLoaded', () => {
             return response.json();
         })
         .then(data => {
-            // Sort data from highest to lowest number globally
+            // Sort from highest to lowest number
             data.sort((a, b) => b.number - a.number);
 
             const grouped = {};
 
+            // Group data by major section (e.g. 0901–1000) and sub-section (e.g. 0931–0940)
             data.forEach(item => {
                 const number = item.number;
 
-                // Major group: floor to nearest 100 + 1
-                const majorStart = Math.floor((number - 1) / 100) * 100 + 1;
+                const majorStart = Math.floor(number / 100) * 100 + 1;
                 const majorEnd = majorStart + 99;
                 const majorKey = `${String(majorStart).padStart(4, '0')} to ${String(majorEnd).padStart(4, '0')}`;
 
-                // Sub group: floor to nearest 10 + 1 (corrected)
-                const subStart = Math.floor((number - 1) / 10) * 10 + 1;
+                const subStart = Math.floor(number / 10) * 10 + 1;
                 const subEnd = subStart + 9;
                 const subKey = `${String(subStart).padStart(4, '0')} to ${String(subEnd).padStart(4, '0')}`;
 
                 if (!grouped[majorKey]) grouped[majorKey] = {};
                 if (!grouped[majorKey][subKey]) grouped[majorKey][subKey] = [];
-
                 grouped[majorKey][subKey].push(item);
             });
 
-            // Render groups
-            Object.keys(grouped)
-                .sort()       // ascending order
-                .reverse()    // descending order (highest major group first)
-                .forEach(majorKey => {
-                    const h2 = document.createElement('h2');
-                    h2.textContent = majorKey;
-                    container.appendChild(h2);
+            // Render to DOM
+            Object.keys(grouped).sort().reverse().forEach(majorKey => {
+                const h2 = document.createElement('h2');
+                h2.textContent = majorKey;
+                container.appendChild(h2);
 
-                    const subSections = grouped[majorKey];
-                    Object.keys(subSections)
-                        .sort()  // ascending subgroups like 0921 to 0930
-                        .forEach(subKey => {
-                            const h3 = document.createElement('h3');
-                            h3.textContent = subKey;
-                            container.appendChild(h3);
+                const subSections = grouped[majorKey];
+                // Sort subsection keys descending
+                Object.keys(subSections)
+                    .sort((a, b) => b.localeCompare(a))  // descending order
+                    .forEach(subKey => {
+                        const h3 = document.createElement('h3');
+                        h3.textContent = subKey;
+                        container.appendChild(h3);
 
-                            // Sort items inside subsection descending by number
-                            subSections[subKey].sort((a, b) => b.number - a.number);
+                        const ul = document.createElement('ul');
+                        subSections[subKey].forEach(item => {
+                            const li = document.createElement('li');
+                            const text = `Focusing Tip #${item.number} - ${item.title}`;
 
-                            const ul = document.createElement('ul');
-                            subSections[subKey].forEach(item => {
-                                const li = document.createElement('li');
-                                const text = `Focusing Tip #${item.number} - ${item.title}`;
+                            if (item.url) {
+                                const a = document.createElement('a');
+                                a.href = item.url;
+                                a.textContent = text;
+                                a.target = '_blank';
+                                a.rel = 'noopener noreferrer';
+                                li.appendChild(a);
+                            } else {
+                                li.textContent = text;
+                            }
 
-                                if (item.url) {
-                                    const a = document.createElement('a');
-                                    a.href = item.url;
-                                    a.textContent = text;
-                                    a.target = '_blank';
-                                    a.rel = 'noopener noreferrer';
-                                    li.appendChild(a);
-                                } else {
-                                    li.textContent = text;
-                                }
-
-                                ul.appendChild(li);
-                            });
-
-                            container.appendChild(ul);
+                            ul.appendChild(li);
                         });
-                });
+
+                        container.appendChild(ul);
+                    });
+            });
         })
         .catch(err => {
             console.error('Error loading or processing JSON:', err);
