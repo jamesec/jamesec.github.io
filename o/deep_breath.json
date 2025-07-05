@@ -3,7 +3,7 @@
   "slides": [
     {
       "slide_number": 0,
-      "slide_content": "<h1>Take a deep breath 腹式深呼吸</h1><p><br><br><br><br><br><br><small>请用键盘左 ← 、右 → 键切换上一页与下一页</small></p>"
+      "slide_content": "<h1>Take a deep breath 腹式深呼吸</h1><br><br><br><br><br><br><p class='comment'>请用键盘左 ← 、右 → 键切换上一页与下一页</p>"
     },
     {
       "slide_number": 1,
