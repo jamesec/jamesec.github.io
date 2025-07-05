@@ -1,7 +1,7 @@
 # Ann's weekly focusing tips
 `Last Updated: July 2, 2025`
 
-This is an archived page and won't be updated, see updated page here: [Ann's weekly focusing tips](https://evenc.org/o/focusing_tips_ann.htm).
+This is an archived page and will not be updated. See the updated page here: [Ann's weekly focusing tips](https://evenc.org/o/focusing_tips_ann.htm).
 
 ---
 
