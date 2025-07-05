@@ -1,7 +1,6 @@
 /*!
  * md_loader.js - Resilient Markdown Loader Script
- * Version: 2.1
- * Last Updated: 2025-07-05
+ * Version: 2.1 Last Updated: 2025-07-05
  * Author: James Even Chen https://evenc.org/
  * Description: Dynamically loads and renders Markdown files into <zero-md> elements.
  *
