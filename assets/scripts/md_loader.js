@@ -139,7 +139,7 @@ document.addEventListener('DOMContentLoaded', function () {
    
      // Update the title with the desired format
      if (h1Element) {
-       document.title = `${h1Element.textContent} - ${parentTitle}`;
+       document.title = `${h1Element.textContent} --- ${parentTitle}`;
      } else {
        document.title = parentTitle;
      }
