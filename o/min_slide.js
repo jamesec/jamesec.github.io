@@ -63,3 +63,27 @@ function initializeSlides() {
 
     update();
 }
+
+// Touch support for mobile devices
+let touchStartX = null;
+
+document.addEventListener('touchstart', function(e) {
+    touchStartX = e.changedTouches[0].screenX;
+}, false);
+
+document.addEventListener('touchend', function(e) {
+    if (touchStartX === null) return;
+    let touchEndX = e.changedTouches[0].screenX;
+    let deltaX = touchEndX - touchStartX;
+
+    if (Math.abs(deltaX) > 50) { // minimum swipe distance
+        if (deltaX > 0) {
+            show--; // swipe right → previous slide
+        } else {
+            show++; // swipe left → next slide
+        }
+        update();
+    }
+
+    touchStartX = null;
+}, false);
