@@ -1,5 +1,4 @@
 /* Forked from https://github.com/rwos/minslide */
-
 /* Base styles */
 body {
     background: #afaaaa;
@@ -13,13 +12,16 @@ body {
 section {
     background: #e8e8e8;
     border: 1pt solid #fff;
-    border-radius: 0.25em;
-    box-shadow: 0 0 0.1em 0.1em #888;
+    border-radius: .25em;
+    box-shadow: 0 0 .1em .1em #888;
     overflow: hidden;
-    padding: 2.2em;
+    padding: 35px;
     margin: 0;
     position: absolute;
-    transition: left 0.3s ease;
+    -webkit-transition: left .3s;
+    -moz-transition:    left .3s;
+    -o-transition:      left .3s;
+    transition:         left .3s;
 }
 
 /* Headings centered */
@@ -28,26 +30,19 @@ h1, h2, h3, h4 {
     padding: 0;
     text-align: center;
 }
-h1 {
-    font-size: 1.2em;
-}
-h2 {
-    font-size: 1.1em;
-}
+h1 { font-size: 120%; }
+h2 { font-size: 110%; }
 
 /* Body text */
 p, pre, code, ul, ol {
-    margin: 0.5em 0;
+    margin: 0.5em 0 0.5em 0;
 }
-p {
-    color: #111;
-}
+p { color: #111; }
 
 /* Footer and header */
-footer,
-header {
+footer, header {
     color: #777;
-    font-size: 0.5em;
+    font-size: 50%;
     width: 90%;
     position: absolute;
     text-align: center;
@@ -57,7 +52,6 @@ footer {
 }
 header {
     top: 10px;
-    text-align: left;
 }
 
 /* Images centered and responsive */
@@ -86,7 +80,7 @@ small {
 /* Centered, responsive video */
 .centered-video {
     display: block;
-    margin: 2em auto 0;
+    margin: 30px auto 0;
     width: 60%;
     height: auto;
     max-width: 100%;
@@ -96,20 +90,20 @@ small {
 /* Responsive tweaks for smaller screens */
 @media (max-width: 768px) {
     section {
-        padding: 1.5em;
+        padding: 20px;
     }
 
     h1 {
-        font-size: 1.1em;
+        font-size: 110%;
     }
 
     h2 {
-        font-size: 1em;
+        font-size: 100%;
     }
 
     .centered-video {
         width: 90%;
-        margin-top: 1.5em;
+        margin-top: 20px;
     }
 
     section img {
