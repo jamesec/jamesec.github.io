@@ -45,14 +45,13 @@ footer, header {
     font-size: 50%;
     width: 90%;
     position: absolute;
+    text-align: center;
 }
 footer {
     bottom: 10px;
-    text-align: center;
 }
 header {
     top: 10px;
-    text-align: left;
 }
 
 /* Images centered and responsive */
