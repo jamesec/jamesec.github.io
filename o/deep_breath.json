@@ -7,11 +7,11 @@
     },
     {
       "slide_number": 1,
-      "slide_content": "<h1>features</h1><ul><li>single file</li><li>self-contained</li><li>doesn't need web access</li><li>doesn't do stuff you don't need</li><li>resolution independend (more or less)</li></ul>"
+      "slide_content": "<h1>深呼吸</h1>一个简单的深呼吸过程是这样的：<br>深深吸气，缓缓吐气，<em>吐气</em>时充分觉察，空气从体内经过气管、鼻腔流出去的感觉，感受胸部、腹部缩小，直到完全吐完空气为止。<br>这时，轻轻闭气一会儿，同时觉察这个不吸不吐的宁静空间，然后再度开始吸气。"
     },
     {
       "slide_number": 2,
-      "slide_content": "<h1>does not provide</h1><ul><li>fancy styling</li><li>too much cross-browser support</li><li>speaker's notes</li><li>table of contents</li><li>print version</li><li>...</li></ul>"
+      "slide_content": "吸气的时候，觉察空气流过鼻腔、气管进入肺部的感觉，感受胸部、腹部的膨胀；<br>当吸气吸到饱和点时，轻轻闭气一会儿，跟刚刚一样觉察这个不吸不吐的宁静，<br>然后再度开始吐气，展开新的一次深呼吸。"
     },
     {
       "slide_number": 3,
