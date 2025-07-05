@@ -37,22 +37,18 @@ document.addEventListener('DOMContentLoaded', function () {
   // Normalize file path
   const isFullURL = md_file.startsWith('http://') || md_file.startsWith('https://');
   const isAbsolutePath = md_file.startsWith('/');
-  if (!md_file.endsWith('.md')) {
+  if (!md_file.toLowerCase().endsWith('.md')) {
     md_file += '.md';
   }
 
   if (isFullURL) {
-    // Skip checking, just load
-    applyJitterThenLoad(md_file);
+    applyJitterThenLoad(() => waitForZeroMdThenLoad(md_file));
   } else {
-    // Normalize file path more robustly
     let filePath;
     try {
       if (isAbsolutePath) {
-        // Absolute path from root
         filePath = new URL(md_file, window.location.origin).href;
       } else {
-        // Relative to current location
         filePath = new URL(md_file, window.location.href).href;
       }
     } catch (e) {
@@ -65,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function () {
     fetch(filePath, { method: 'HEAD' })
       .then(response => {
         if (response.ok) {
-          applyJitterThenLoad(filePath);
+          applyJitterThenLoad(() => waitForZeroMdThenLoad(filePath));
         } else {
           console.warn(`Markdown file not found: ${filePath}`);
           window.location.href = '/404';
@@ -78,11 +74,27 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   // Slight random delay to avoid burst loads when many tabs are opened
-  function applyJitterThenLoad(file) {
+  function applyJitterThenLoad(callback) {
     const jitterDelay = Math.floor(Math.random() * 300); // 0–300ms
-    setTimeout(() => {
-      loadMarkdown(file);
-    }, jitterDelay);
+    setTimeout(callback, jitterDelay);
+  }
+
+  function waitForZeroMdThenLoad(file) {
+    const checkInterval = 100;
+    const maxAttempts = 30;
+    let attempts = 0;
+
+    const interval = setInterval(() => {
+      const zeroMdElement = document.querySelector('zero-md');
+      if (zeroMdElement) {
+        clearInterval(interval);
+        loadMarkdown(file);
+      } else if (++attempts > maxAttempts) {
+        clearInterval(interval);
+        console.error("zero-md element not found after waiting.");
+        alert("Page failed to load properly. Please refresh or contact support.");
+      }
+    }, checkInterval);
   }
 
   function loadMarkdown(file, retryCount = 0) {
@@ -96,14 +108,12 @@ document.addEventListener('DOMContentLoaded', function () {
       return;
     }
 
-    // Set src only if different to avoid unnecessary reloads
     if (zeroMdElement.getAttribute('src') !== file) {
       zeroMdElement.setAttribute('src', file);
     }
 
     let rendered = false;
 
-    // Define handler as named function to allow proper removal
     function renderHandler() {
       rendered = true;
       updateTitle(zeroMdElement);
@@ -134,11 +144,10 @@ document.addEventListener('DOMContentLoaded', function () {
     const h1Element = zeroMdElement.shadowRoot?.querySelector('h1');
     const parentTitle = document.title;
 
-     // Update the title with the desired format
-     if (h1Element) {
-       document.title = `${h1Element.textContent} - ${parentTitle}`;
-     } else {
-       document.title = parentTitle;
-     }
+    if (h1Element) {
+      document.title = `${h1Element.textContent} - ${parentTitle}`;
+    } else {
+      document.title = parentTitle;
+    }
   }
 });
