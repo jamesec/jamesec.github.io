@@ -143,4 +143,4 @@ document.addEventListener('DOMContentLoaded', function () {
      } else {
        document.title = parentTitle;
      }
-   }
+   };
