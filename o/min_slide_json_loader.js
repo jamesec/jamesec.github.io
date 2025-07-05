@@ -62,3 +62,16 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 });
+
+// Update document title: "value_in_h1_slide_0 - original_title"
+const originalTitle = document.title || 'the_title';
+
+if (data.slides.length > 0) {
+  // Extract h1 text from slide_0's content
+  const tempDiv = document.createElement('div');
+  tempDiv.innerHTML = data.slides[0].slide_content || '';
+  const h1 = tempDiv.querySelector('h1');
+  if (h1 && h1.textContent.trim() !== '') {
+    document.title = `${h1.textContent.trim()} - ${originalTitle}`;
+  }
+}
