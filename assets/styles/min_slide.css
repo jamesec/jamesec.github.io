@@ -110,6 +110,11 @@ small {
     margin-top: 1em;
 }
 
+.centered-iframe {
+    display: block;
+    margin: 30px auto 0;
+}
+
 /* Centered, responsive video */
 .centered-video {
     display: block;
@@ -118,9 +123,4 @@ small {
     height: auto;
     max-width: 100%;
     box-sizing: border-box;
-}
-
-.centered-iframe {
-    display: block;
-    margin: 30px auto 0;
 }
