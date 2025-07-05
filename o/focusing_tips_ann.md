@@ -1,6 +1,8 @@
 # Ann's weekly focusing tips
 `Last Updated: July 2, 2025`
 
+This is an archived page, see updated page here: [Ann's weekly focusing tips](https://evenc.org/o/focusing_tips_ann.htm).
+
 Weekly Tips & Support for Focusing by [Ann Weiser Cornell](https://focusingresources.com/team/ann-weiser-cornell/)
 - [Ann's Weekly Focusing Tips - Focusing Resources](https://focusingresources.com/category/tips/)
 - [Ann's Weekly Focusing Tips - Sign up here](https://focusingresources.com/anns-weekly-tips/)
