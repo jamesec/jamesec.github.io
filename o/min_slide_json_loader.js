@@ -1,7 +1,6 @@
 // min_slide_json_loader.js
 
 document.addEventListener('DOMContentLoaded', () => {
-    // Get 'i' parameter from URL query string, default to 'default'
     const params = new URLSearchParams(window.location.search);
     const slideName = params.get('i') || 'default';
 
@@ -19,35 +18,38 @@ document.addEventListener('DOMContentLoaded', () => {
                 return;
             }
 
-            container.innerHTML = ''; // Clear container
+            container.innerHTML = '';
 
             // Create and append each slide section
             data.slides.forEach((slide, index) => {
                 const section = document.createElement('section');
                 section.id = `slide_${index}`;
-
-                // slide_content is raw HTML string, inject safely here
                 section.innerHTML = slide.slide_content;
-
                 container.appendChild(section);
             });
 
-            // Remove any existing footer in body
+            // Update document title using <h1> from first slide
+            const firstSlide = container.querySelector('#slide_0');
+            const h1 = firstSlide ? firstSlide.querySelector('h1') : null;
+            if (h1 && h1.textContent.trim()) {
+                const originalTitle = document.title;
+                document.title = `${h1.textContent.trim()} - ${originalTitle}`;
+            }
+
+            // Add global footer to all slides except slide 0
             const existingFooter = document.querySelector('footer');
             if (existingFooter) existingFooter.remove();
-            
+
             data.slides.forEach((slide, index) => {
-              if (index === 0) return; // skip first slide
-            
-              const section = container.querySelector(`#slide_${index}`);
-              if (section) {
-                const footer = document.createElement('footer');
-                footer.textContent = data.global_footer || '';
-                section.appendChild(footer);
-              }
+                if (index === 0) return;
+                const section = container.querySelector(`#slide_${index}`);
+                if (section) {
+                    const footer = document.createElement('footer');
+                    footer.textContent = data.global_footer || '';
+                    section.appendChild(footer);
+                }
             });
-            
-            // Initialize slide navigation & sizing
+
             if (typeof initializeSlides === 'function') {
                 initializeSlides();
             } else {
@@ -62,16 +64,3 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 });
-
-// Update document title: "value_in_h1_slide_0 - original_title"
-const originalTitle = document.title || 'the_title';
-
-if (data.slides.length > 0) {
-  // Extract h1 text from slide_0's content
-  const tempDiv = document.createElement('div');
-  tempDiv.innerHTML = data.slides[0].slide_content || '';
-  const h1 = tempDiv.querySelector('h1');
-  if (h1 && h1.textContent.trim() !== '') {
-    document.title = `${h1.textContent.trim()} - ${originalTitle}`;
-  }
-}
