@@ -50,7 +50,7 @@ footer, header {
 footer {
     position: absolute;
     bottom: 10px;
-    width: calc(100% - 70px); /* subtract padding: 35px * 2 */
+    width: calc(100% - 70px);
     text-align: center;
     color: #777;
     font-size: 50%;
