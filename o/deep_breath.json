@@ -2,34 +2,24 @@
   "global_footer": "global footer",
   "slides": [
     {
-      "header": null,
-      "h1": "minslide",
-      "h2": "minimal html5 slide deck",
-      "slide_content": "<p><small>(navigate with cursor keys)</small></p>"
+      "slide_number": 0,
+      "slide_content": "<h1>minslide</h1><h2>minimal html5 slide deck</h2><p><small>(navigate with cursor keys)</small></p>"
     },
     {
-      "header": "local header",
-      "h1": "features",
-      "h2": null,
-      "slide_content": "<ul><li>single file</li><li>self-contained</li><li>doesn't need web access</li><li>doesn't do stuff you don't need</li><li>resolution independend (more or less)</li><li>slides link-able (<code>#</code>slide)</li></ul>"
+      "slide_number": 1,
+      "slide_content": "<h1>features</h1><ul><li>single file</li><li>self-contained</li><li>doesn't need web access</li><li>doesn't do stuff you don't need</li><li>resolution independend (more or less)</li><li>slides link-able (<code>#</code>slide)</li></ul>"
     },
     {
-      "header": "another header",
-      "h1": "does not provide",
-      "h2": null,
-      "slide_content": "<ul><li>fancy styling</li><li>too much cross-browser support</li><li>speaker's notes</li><li>table of contents</li><li>print version</li><li>...</li></ul>"
+      "slide_number": 2,
+      "slide_content": "<h1>does not provide</h1><ul><li>fancy styling</li><li>too much cross-browser support</li><li>speaker's notes</li><li>table of contents</li><li>print version</li><li>...</li></ul>"
     },
     {
-      "header": null,
-      "h1": "copyright",
-      "h2": null,
-      "slide_content": "<ul><li>CC0 (public domain)</li><li>do with it whatever you want</li></ul>"
+      "slide_number": 3,
+      "slide_content": "<h1>copyright</h1><ul><li>CC0 (public domain)</li><li>do with it whatever you want</li></ul>"
     },
     {
-      "header": null,
-      "h1": "get it",
-      "h2": null,
-      "slide_content": "<p>at <a href=\"http://github.com/rwos/minslide\">http://github.com/rwos/minslide</a></p>"
+      "slide_number": 4,
+      "slide_content": "<h1>get it</h1><p>at <a href=\"http://github.com/rwos/minslide\">http://github.com/rwos/minslide</a></p>"
     }
   ]
 }
