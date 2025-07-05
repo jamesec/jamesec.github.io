@@ -130,17 +130,14 @@ document.addEventListener('DOMContentLoaded', function () {
     }, RETRY_DELAY);
   }
 
-   function updateTitle() {
-     // Fetch the title from the parent HTML page
-     const parentTitle = document.title;
-   
-     // Get the h1 element from the markdown content
-     const h1Element = document.querySelector('h1');
-   
+  function updateTitle(zeroMdElement) {
+    const h1Element = zeroMdElement.shadowRoot?.querySelector('h1');
+    const parentTitle = document.title;
+
      // Update the title with the desired format
      if (h1Element) {
-       document.title = `${h1Element.textContent} yyy ${parentTitle}`;
+       document.title = `${h1Element.textContent} - ${parentTitle}`;
      } else {
        document.title = parentTitle;
      }
-   };
+});
