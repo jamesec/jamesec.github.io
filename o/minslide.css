@@ -4,7 +4,7 @@ body {
     overflow: hidden;
 }
 section {
-    background: #fafafa;
+    background: #e8e8e8; /* was #fafafa */
     border: 1pt solid #fff;
     border-radius: .25em;
     box-shadow: 0 0 .1em .1em #888;
@@ -39,5 +39,5 @@ h1, h2, h3, h4 {margin: 0; padding: 0;}
 h1 {font-size: 120%;}
 h2 {font-size: 110%;}
 p, pre, code, ul, ol {margin: 0.5em 0 0.5em 0;}
-p {color: #222;}
+p { color: #111; } /* was #222 */
 pre, code {background: #ddd}
