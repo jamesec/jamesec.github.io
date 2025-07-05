@@ -20,11 +20,13 @@ document.addEventListener('DOMContentLoaded', () => {
             data.forEach(item => {
                 const number = item.number;
 
-                const majorStart = Math.floor(number / 100) * 100 + 1;
+                // Major section range
+                const majorStart = Math.floor((number - 1) / 100) * 100 + 1;
                 const majorEnd = majorStart + 99;
                 const majorKey = `${String(majorStart).padStart(4, '0')} to ${String(majorEnd).padStart(4, '0')}`;
 
-                const subStart = Math.floor(number / 10) * 10 + 1;
+                // Sub-section range - FIXED HERE:
+                const subStart = Math.floor((number - 1) / 10) * 10 + 1;
                 const subEnd = subStart + 9;
                 const subKey = `${String(subStart).padStart(4, '0')} to ${String(subEnd).padStart(4, '0')}`;
 
