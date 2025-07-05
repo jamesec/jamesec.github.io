@@ -9,7 +9,7 @@ section {
     border: 1pt solid #fff;
     border-radius: .25em;
     box-shadow: 0 0 .1em .1em #888;
-    color: #111;
+    /* color: #111; */
     overflow: hidden;
     padding: 35px;
     margin: 0;
