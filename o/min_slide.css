@@ -44,7 +44,7 @@ pre, code {background: #ddd}
 
 .centered-video {
     display: block;
-    margin: 20px auto 0; /* top margin 20px, horizontal auto to center, bottom 0 */
+    margin: 30px auto 0; /* top margin 20px, horizontal auto to center, bottom 0 */
     width: 60%;
     height: auto;
 }
