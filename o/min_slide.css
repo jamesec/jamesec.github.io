@@ -50,8 +50,6 @@ pre, code {background: #ddd}
 }
 
 .centered-video {
-    display: block;
-    margin: 0 auto;
     width: 60%;
     height: auto;
 }
