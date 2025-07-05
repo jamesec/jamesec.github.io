@@ -87,3 +87,13 @@ ol li {
     background: rgb(53, 57, 64);
   }
 }
+
+/* Style <code> elements outside ZeroMD */
+code:not(:is(zero-md code, zero-md pre code)) {
+  background-color: #f4f4f4;
+  color: #333;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-family: monospace;
+  font-size: 0.95em;
+}
