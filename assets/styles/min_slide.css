@@ -124,3 +124,14 @@ small {
     max-width: 100%;
     box-sizing: border-box;
 }
+
+a {
+  text-decoration: none;
+  color: #777;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #999;
+  text-decoration: none;
+}
