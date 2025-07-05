@@ -130,24 +130,17 @@ document.addEventListener('DOMContentLoaded', function () {
     }, RETRY_DELAY);
   }
 
-  function updateTitle(zeroMdElement) {
-    const h1Element = zeroMdElement.shadowRoot?.querySelector('h1');
-    const title = h1Element ? h1Element.textContent : 'Untitled';
-    const fullTitle = `${title} - James Even Chen`;
-
-    setTimeout(() => {
-      // Update document.title
-      if (document.title !== fullTitle) {
-        document.title = fullTitle;
-      }
-
-      // Also update the <title> tag in <head> directly:
-      let titleTag = document.querySelector('head > title');
-      if (!titleTag) {
-        titleTag = document.createElement('title');
-        document.head.appendChild(titleTag);
-      }
-      titleTag.textContent = fullTitle;
-    }, 50); // 50ms delay to ensure browser repaints
-  }
-});
+   function updateTitle() {
+     // Fetch the title from the parent HTML page
+     const parentTitle = document.title;
+   
+     // Get the h1 element from the markdown content
+     const h1Element = document.querySelector('h1');
+   
+     // Update the title with the desired format
+     if (h1Element) {
+       document.title = `${h1Element.textContent} - ${parentTitle}`;
+     } else {
+       document.title = parentTitle;
+     }
+   }
