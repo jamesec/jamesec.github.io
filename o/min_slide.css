@@ -116,3 +116,11 @@ small {
         max-height: 300px;
     }
 }
+
+.comment {
+    font-size: 0.75em;
+    color: #888;
+    font-style: italic;
+    text-align: center;
+    margin-top: 1em;
+}
