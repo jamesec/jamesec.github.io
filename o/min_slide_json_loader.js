@@ -32,14 +32,23 @@ document.addEventListener('DOMContentLoaded', () => {
                 container.appendChild(section);
             });
 
-            // Handle global footer
-            let footer = document.querySelector('footer');
-            if (!footer) {
-                footer = document.createElement('footer');
-                document.body.appendChild(footer);
-            }
+            // Remove any existing footer in body
+            const existingFooter = document.querySelector('footer');
+            if (existingFooter) existingFooter.remove();
+            
+            // Create footer element
+            const footer = document.createElement('footer');
             footer.textContent = data.global_footer || '';
-
+            
+            // Append footer inside the first slide (slide_0)
+            const firstSlide = container.querySelector('section#slide_0');
+            if (firstSlide) {
+              firstSlide.appendChild(footer);
+            } else {
+              // fallback: append to body if no slides
+              document.body.appendChild(footer);
+            }
+            
             // Initialize slide navigation & sizing
             if (typeof initializeSlides === 'function') {
                 initializeSlides();
