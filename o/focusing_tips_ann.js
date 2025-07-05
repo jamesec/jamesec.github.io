@@ -11,34 +11,34 @@ document.addEventListener('DOMContentLoaded', () => {
             return response.json();
         })
         .then(data => {
-            // Sort from highest to lowest number
+            // Sort data from highest to lowest number globally
             data.sort((a, b) => b.number - a.number);
 
             const grouped = {};
 
-            // Group data by major section (e.g. 0901 to 1000) and sub-section (e.g. 0921 to 0930)
             data.forEach(item => {
                 const number = item.number;
 
-                // Major group: 4-digit start and end (e.g., 0901 to 1000)
-                const majorStart = Math.floor(number / 100) * 100 + 1;
+                // Major group: floor to nearest 100 + 1
+                const majorStart = Math.floor((number - 1) / 100) * 100 + 1;
                 const majorEnd = majorStart + 99;
                 const majorKey = `${String(majorStart).padStart(4, '0')} to ${String(majorEnd).padStart(4, '0')}`;
 
-                // Sub-group: 4-digit start and end (e.g., 0921 to 0930)
-                const subStart = Math.floor(number / 10) * 10 + 1;
+                // Sub group: floor to nearest 10 + 1 (corrected)
+                const subStart = Math.floor((number - 1) / 10) * 10 + 1;
                 const subEnd = subStart + 9;
                 const subKey = `${String(subStart).padStart(4, '0')} to ${String(subEnd).padStart(4, '0')}`;
 
                 if (!grouped[majorKey]) grouped[majorKey] = {};
                 if (!grouped[majorKey][subKey]) grouped[majorKey][subKey] = [];
+
                 grouped[majorKey][subKey].push(item);
             });
 
-            // Render to DOM
+            // Render groups
             Object.keys(grouped)
-                .sort()       // ascending order: 0901 to 1000, 0801 to 0900, etc.
-                .reverse()    // reverse to descending: 0901 to 1000 first
+                .sort()       // ascending order
+                .reverse()    // descending order (highest major group first)
                 .forEach(majorKey => {
                     const h2 = document.createElement('h2');
                     h2.textContent = majorKey;
@@ -46,11 +46,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
                     const subSections = grouped[majorKey];
                     Object.keys(subSections)
-                        .sort()  // ascending: 0921 to 0930, then 0931 to 0940, etc.
+                        .sort()  // ascending subgroups like 0921 to 0930
                         .forEach(subKey => {
                             const h3 = document.createElement('h3');
                             h3.textContent = subKey;
                             container.appendChild(h3);
+
+                            // Sort items inside subsection descending by number
+                            subSections[subKey].sort((a, b) => b.number - a.number);
 
                             const ul = document.createElement('ul');
                             subSections[subKey].forEach(item => {
