@@ -15,7 +15,6 @@
  * - Implements retry logic with exponential backoff (up to 3 attempts)
  * - Adds jitter delay (0–300ms) to stagger load requests when opening multiple tabs
  * - Updates document title dynamically from the first `<h1>` in the markdown content
- * - Directly updates `<title>` tag with a small delay for reliable browser support
  * - Handles missing or invalid markdown files gracefully with custom 404 redirect
  * - Includes fallback UI display on persistent load failures
  *
