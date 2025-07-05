@@ -48,7 +48,14 @@ footer, header {
     text-align: center;
 }
 footer {
+    position: absolute;
     bottom: 10px;
+    width: calc(100% - 70px); /* subtract padding: 35px * 2 */
+    text-align: center;
+    color: #777;
+    font-size: 50%;
+    left: 35px;
+    box-sizing: border-box;
 }
 header {
     top: 10px;
