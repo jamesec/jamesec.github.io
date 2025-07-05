@@ -108,11 +108,6 @@ small {
         font-size: 100%;
     }
 
-    .centered-video {
-        width: 90%;
-        margin-top: 20px;
-    }
-
     section img {
         max-height: 300px;
     }
@@ -123,4 +118,32 @@ small {
     color: #777;
     text-align: center;
     margin-top: 1em;
+}
+
+.centered-video {
+    width: 90%;
+    margin-top: 20px;
+}
+
+/* Wrapper to maintain aspect ratio and center video/iframe */
+.video-wrapper {
+  position: relative;
+  width: 60%;
+  max-width: 100%;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  margin: 30px auto 0;
+  height: 0;
+  box-sizing: border-box;
+}
+
+/* iframe or video fills the wrapper */
+.video-wrapper iframe,
+.video-wrapper video {
+  position: absolute;
+  top: 0; 
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  display: block;
 }
