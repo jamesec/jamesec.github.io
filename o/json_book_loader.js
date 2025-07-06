@@ -1,3 +1,4 @@
+// This function loads the JSON and processes it to render text blocks.
 function loadBookContent(jsonUrl) {
     fetch(jsonUrl)
         .then(response => response.json())
@@ -7,37 +8,17 @@ function loadBookContent(jsonUrl) {
         .catch(error => console.error("Error loading the JSON:", error));
 }
 
+// This function renders the book page, styling each block as needed.
 function renderBookPage(data) {
     const bookContent = document.getElementById("bookContent");
-    bookContent.innerHTML = "";
+    bookContent.innerHTML = ""; // Clear previous content.
 
     data.blocks.forEach(block => {
         const blockDiv = document.createElement("div");
         blockDiv.classList.add("block");
 
         if (block.type === "text" || block.type === "composite") {
-            const words = block.type === "composite" ? block.words : block.words;
-
-            words.forEach(wordObj => {
-                const wordSpan = document.createElement("span");
-                wordSpan.classList.add("word");
-
-                // Use break_map.text if available, else fallback to wordObj.text
-                const displayText = wordObj?.break_map?.text || wordObj?.text;
-                if (!displayText) return; // Skip if still undefined
-
-                if (wordObj.style === "style3") {
-                    wordSpan.style.fontStyle = "italic";
-                }
-
-                wordSpan.innerText = displayText;
-                blockDiv.appendChild(wordSpan);
-
-                // Add space after each word unless it's punctuation
-                if (!/[.,!?;:\u201d”]/.test(displayText.slice(-1))) {
-                    blockDiv.appendChild(document.createTextNode(" "));
-                }
-            });
+            renderWords(block.words, blockDiv);
         }
 
         if (block.type === "spacer") {
@@ -54,6 +35,29 @@ function renderBookPage(data) {
     });
 }
 
+// Helper to render word objects safely
+function renderWords(words, container) {
+    words.forEach(wordObj => {
+        if (!wordObj || typeof wordObj.text !== "string") return;
+
+        const wordSpan = document.createElement("span");
+        wordSpan.classList.add("word");
+
+        if (wordObj.style === "style3") {
+            wordSpan.style.fontStyle = "italic";
+        }
+
+        wordSpan.innerText = wordObj.text;
+        container.appendChild(wordSpan);
+
+        // Add space unless punctuation
+        if (!/[.,!?;:”’"]$/.test(wordObj.text)) {
+            container.appendChild(document.createTextNode(" "));
+        }
+    });
+}
+
+// Toggle light/dark mode
 function toggleDarkMode() {
     const body = document.body;
     body.classList.toggle("dark-mode");
@@ -64,8 +68,9 @@ function toggleDarkMode() {
         : "🌙 Dark Mode";
 }
 
+// Load JSON from query string
 const urlParams = new URLSearchParams(window.location.search);
-const jsonFile = urlParams.get("p");
+const jsonFile = urlParams.get('p');
 if (jsonFile) {
     loadBookContent(jsonFile);
 } else {
