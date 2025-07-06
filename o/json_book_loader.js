@@ -1,4 +1,3 @@
-// This function loads the JSON and processes it to render text blocks.
 function loadBookContent(jsonUrl) {
     fetch(jsonUrl)
         .then(response => response.json())
@@ -8,17 +7,25 @@ function loadBookContent(jsonUrl) {
         .catch(error => console.error("Error loading the JSON:", error));
 }
 
-// This function renders the book page, styling each block as needed.
 function renderBookPage(data) {
     const bookContent = document.getElementById("bookContent");
-    bookContent.innerHTML = ""; // Clear previous content.
+    bookContent.innerHTML = ""; // Clear previous content
 
     data.blocks.forEach(block => {
         const blockDiv = document.createElement("div");
         blockDiv.classList.add("block");
 
-        if (block.type === "text" || block.type === "composite") {
-            renderWords(block.words, blockDiv);
+        if (block.type === "text") {
+            block.words.forEach(wordObj => {
+                appendWordToBlock(blockDiv, wordObj);
+            });
+        }
+
+        if (block.type === "composite") {
+            // composite blocks contain a `words` array
+            block.words.forEach(wordObj => {
+                appendWordToBlock(blockDiv, wordObj);
+            });
         }
 
         if (block.type === "spacer") {
@@ -35,29 +42,20 @@ function renderBookPage(data) {
     });
 }
 
-// Helper to render word objects safely
-function renderWords(words, container) {
-    words.forEach(wordObj => {
-        if (!wordObj || typeof wordObj.text !== "string") return;
+function appendWordToBlock(blockDiv, wordObj) {
+    const wordSpan = document.createElement("span");
+    wordSpan.classList.add("word");
 
-        const wordSpan = document.createElement("span");
-        wordSpan.classList.add("word");
+    if (wordObj?.style === "style3") {
+        wordSpan.style.fontStyle = "italic";
+    }
 
-        if (wordObj.style === "style3") {
-            wordSpan.style.fontStyle = "italic";
-        }
+    // Fallback safely to avoid undefined
+    wordSpan.innerText = wordObj?.text ?? "";
 
-        wordSpan.innerText = wordObj.text;
-        container.appendChild(wordSpan);
-
-        // Add space unless punctuation
-        if (!/[.,!?;:”’"]$/.test(wordObj.text)) {
-            container.appendChild(document.createTextNode(" "));
-        }
-    });
+    blockDiv.appendChild(wordSpan);
 }
 
-// Toggle light/dark mode
 function toggleDarkMode() {
     const body = document.body;
     body.classList.toggle("dark-mode");
@@ -68,7 +66,7 @@ function toggleDarkMode() {
         : "🌙 Dark Mode";
 }
 
-// Load JSON from query string
+// Load JSON based on query parameter
 const urlParams = new URLSearchParams(window.location.search);
 const jsonFile = urlParams.get('p');
 if (jsonFile) {
