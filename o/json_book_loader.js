@@ -1,4 +1,3 @@
-// Load JSON and render book content
 function loadBookContent(jsonUrl) {
   fetch(jsonUrl)
     .then(r => r.json())
@@ -6,7 +5,6 @@ function loadBookContent(jsonUrl) {
     .catch(err => console.error("Error loading JSON:", err));
 }
 
-// Render all blocks in #bookContent
 function renderBookPage(data) {
   const container = document.getElementById("bookContent");
   container.innerHTML = "";
@@ -16,14 +14,11 @@ function renderBookPage(data) {
     div.classList.add("block");
 
     if (block.type === "text") {
-      const text = extractTextFromBlock(block);
-      appendTextToDiv(div, text, block.words);
+      appendWords(block.words, div);
     }
-
     if (block.type === "spacer") {
       div.classList.add("spacer");
     }
-
     if (block.type === "page_break") {
       const pb = document.createElement("div");
       pb.classList.add("pageBreak");
@@ -34,66 +29,36 @@ function renderBookPage(data) {
   });
 }
 
-// Convert a block’s words list into a clean string
-function extractTextFromBlock(block) {
-  if (!block?.words?.length) return "";
-  return block.words
-    .map(w => {
-      if (w.type === "composite" && Array.isArray(w.words)) {
-        return w.words.map(extractSimple).join("");
-      }
-      return extractSimple(w);
-    })
-    .filter(Boolean)
-    .join(" ")
-    .replace(/\s+([.,;:!?”’"])/g, "$1") // tidy punctuation spacing
-    .trim();
-}
-
-// Extract text from a simple word object
-function extractSimple(w) {
-  if (!w) return "";
-
-  if (w.break_map?.text) return w.break_map.text;
-  if (typeof w.text === "string") return w.text;
-
-  return "";
-}
-
-// Put text into spans, preserving styling and footnote links
-function appendTextToDiv(div, text, words) {
-  const segments = text.split(/(\u00b9)/); // split for footnote marker "¹"
-
-  let wordIdx = 0;
-  segments.forEach(seg => {
-    if (seg === "\u00b9") {
-      const foot = document.createElement("a");
-      foot.href = "#comment-" + (wordIdx++);
-      foot.textContent = seg;
-      foot.classList.add("footnote-link");
-      div.appendChild(foot);
-      div.appendChild(document.createTextNode(" "));
-      return;
+function appendWords(wordsArray, container) {
+  wordsArray.forEach(wordObj => {
+    if (wordObj.type === "composite" && Array.isArray(wordObj.words)) {
+      wordObj.words.forEach(inner => appendSingle(inner, container));
+    } else {
+      appendSingle(wordObj, container);
     }
-
-    seg.split(" ").forEach(token => {
-      const span = document.createElement("span");
-      span.classList.add("word");
-
-      // Apply italic if original style is style3
-      const orig = words[wordIdx++];
-      if (orig?.style === "style3") {
-        span.style.fontStyle = "italic";
-      }
-
-      span.textContent = token;
-      div.appendChild(span);
-      div.appendChild(document.createTextNode(" "));
-    });
   });
 }
 
-// Dark mode toggle (optional)
+function appendSingle(w, container) {
+  const text = w?.break_map?.text || w?.text;
+  if (!text) return;
+
+  const span = document.createElement("span");
+  span.classList.add("word");
+
+  // 🟢 Preserve style class from JSON
+  if (w.style) {
+    span.classList.add(w.style);
+  }
+
+  span.textContent = text;
+  container.appendChild(span);
+
+  if (!/[.,!?;:”’"]$/.test(text)) {
+    container.appendChild(document.createTextNode(" "));
+  }
+}
+
 function toggleDarkMode() {
   const b = document.body;
   b.classList.toggle("dark-mode");
@@ -101,7 +66,6 @@ function toggleDarkMode() {
     b.classList.contains("dark-mode") ? "🌞 Light Mode" : "🌙 Dark Mode";
 }
 
-// Initialize on page load
 const p = new URLSearchParams(window.location.search).get("p");
 if (p) loadBookContent(p);
 else alert("No JSON file specified!");
