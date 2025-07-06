@@ -1,4 +1,3 @@
-// This function loads the JSON and processes it to render text blocks.
 function loadBookContent(jsonUrl) {
     fetch(jsonUrl)
         .then(response => response.json())
@@ -8,31 +7,39 @@ function loadBookContent(jsonUrl) {
         .catch(error => console.error("Error loading the JSON:", error));
 }
 
-// This function renders the book page, styling each block as needed.
 function renderBookPage(data) {
     const bookContent = document.getElementById("bookContent");
-    bookContent.innerHTML = ""; // Clear previous content.
+    bookContent.innerHTML = "";
 
     data.blocks.forEach(block => {
         const blockDiv = document.createElement("div");
         blockDiv.classList.add("block");
 
-        if (block.type === "text") {
-            block.words.forEach(wordObj => {
+        if (block.type === "text" || block.type === "composite") {
+            const words = block.type === "composite" ? block.words : block.words;
+
+            words.forEach(wordObj => {
                 const wordSpan = document.createElement("span");
                 wordSpan.classList.add("word");
-                
-                // Check if the word should be italic
+
+                // Use break_map.text if available, else fallback to wordObj.text
+                const displayText = wordObj?.break_map?.text || wordObj?.text;
+                if (!displayText) return; // Skip if still undefined
+
                 if (wordObj.style === "style3") {
                     wordSpan.style.fontStyle = "italic";
                 }
 
-                wordSpan.innerText = wordObj.text;
-
+                wordSpan.innerText = displayText;
                 blockDiv.appendChild(wordSpan);
+
+                // Add space after each word unless it's punctuation
+                if (!/[.,!?;:\u201d”]/.test(displayText.slice(-1))) {
+                    blockDiv.appendChild(document.createTextNode(" "));
+                }
             });
         }
-        
+
         if (block.type === "spacer") {
             blockDiv.classList.add("spacer");
         }
@@ -47,22 +54,18 @@ function renderBookPage(data) {
     });
 }
 
-// This function toggles between light and dark mode.
 function toggleDarkMode() {
     const body = document.body;
     body.classList.toggle("dark-mode");
 
     const button = document.getElementById("darkModeToggle");
-    if (body.classList.contains("dark-mode")) {
-        button.innerText = "🌞 Light Mode";
-    } else {
-        button.innerText = "🌙 Dark Mode";
-    }
+    button.innerText = body.classList.contains("dark-mode")
+        ? "🌞 Light Mode"
+        : "🌙 Dark Mode";
 }
 
-// Check for query parameter for the JSON file and load it
 const urlParams = new URLSearchParams(window.location.search);
-const jsonFile = urlParams.get('p');
+const jsonFile = urlParams.get("p");
 if (jsonFile) {
     loadBookContent(jsonFile);
 } else {
