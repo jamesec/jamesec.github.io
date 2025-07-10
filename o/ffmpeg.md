@@ -28,7 +28,7 @@ Use [nano](https://freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-n
 nano ~/.zshrc
 ```
 
-Add this line to the file: `export PATH=$HOME/Downloads/App:$PATH`  
+Add this line to the file: `export PATH="$HOME/Downloads/App:$PATH"`  
 Save and exit (press `Ctrl + X`, then `Y`, then `Enter`).
 
 Reload the config:
