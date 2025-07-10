@@ -45,7 +45,9 @@ Using a Markdown parser/loader is not ideal for search engine optimization (SEO)
 ## 2FAS Authenticator for GitHub
 To log in to GitHub, you need a two-factor authentication or a one-time password app. 
 
-I've replaced Raivo with [2FAS Auth Mobile App](https://2fas.com/auth/) on iPhone.
+I've replaced Raivo with [2FAS Auth Mobile App](https://2fas.com/auth/) on my iPhone, as Raivo’s acquisition by Mobime has raised privacy concerns about the popular authenticator app.
+- [From Raivo OTP to 2FAS](https://www.brycewray.com/posts/2023/07/from-raivo-otp-to-2fas/)
+- [Raivo Acquisition Raises Privacy Concerns](https://safenotscammed.com/raivo-acquisition-raises-privacy-concerns/)
 
 <del>I recommend using [Raivo Authenticator](https://raivo-otp.com/), which I use on my iPhone.</del>
 
