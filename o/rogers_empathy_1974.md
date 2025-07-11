@@ -2,7 +2,7 @@
 译者：陈艺文、田婴 / 2025 年 7 月 1 日  
 译自：[Carl Rogers discusses Gene Gendlin's concept of experiencing - YouTube](https://youtube.com/watch?v=fN03Z6xp2QA)  
 
-<video class='centered-video' src='/assets/files/Carl Rogers 1974 Empathy as a process.mp4' controls></video>
+<video width="560" height="315" src='/assets/files/Carl Rogers 1974 Empathy as a process.mp4' controls></video>
 
 - [Carl Rogers discusses Gene Gendlin's concept of experiencing](https://youtube.com/watch?v=fN03Z6xp2QA)
   - Video uploaded: Mar 21, 2023
