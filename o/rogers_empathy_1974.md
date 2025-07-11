@@ -1,8 +1,8 @@
 # 卡尔・罗杰斯重新定义「共情」  
 译者：陈艺文、田婴 / 2025 年 7 月 1 日  
-译自：[Carl Rogers discusses Gene Gendlin's concept of experiencing - YouTube](https://youtube.com/watch?v=fN03Z6xp2QA)  
+译自：[Carl Rogers discusses Gene Gendlin's concept of experiencing](https://youtube.com/watch?v=fN03Z6xp2QA)  
 
-<video width="560" height="315" src='/assets/files/Carl Rogers 1974 Empathy as a process.mp4' controls></video>
+<iframe width="560" height="315" src="https://youtube.com/embed/fN03Z6xp2QA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [Carl Rogers discusses Gene Gendlin's concept of experiencing](https://youtube.com/watch?v=fN03Z6xp2QA)
   - Video uploaded: Mar 21, 2023
