@@ -1,10 +1,10 @@
 # Amo el olor a libro nuevo
 `July 12, 2025`
 
-Recently, I bought a paperback book from the [Busca Libre online bookstore](https://buscalibre.com/), and they sent me a paper bookmark with the book.  
+Recently, I bought a paperback book from the [Busca Libre online bookstore](https://buscalibre.com/), and they sent me a bookmark too.
 It says, "Amo el olor a libro nuevo." I went ahead and gathered many translations of this phrase using [DeepL](https://deepl.com/en/translator/) and [Google Translate](https://translate.google.com/).
 
-<img src="/assets/images/libro_nuevo.jpg" alt="A paper bookmark that says 'Amo el olor a libro nuevo'" height="200" />
+<img src="/assets/images/libro_nuevo.jpg" alt="A bookmark that says 'Amo el olor a libro nuevo'" height="360" />
 
 New book, universal joy - one phrase, many languages.
 
