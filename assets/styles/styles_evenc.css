@@ -48,6 +48,19 @@ ol li {
   padding: 0;
 }
 
+.video-wrapper {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 ratio */
+}
+
+.video-wrapper video {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     background: rgb(26, 27, 38);
@@ -86,17 +99,4 @@ ol li {
   code {
     background: rgb(53, 57, 64);
   }
-}
-
-.video-wrapper {
-  position: relative;
-  width: 100%;
-  padding-top: 56.25%; /* 16:9 ratio */
-}
-
-.video-wrapper video {
-  position: absolute;
-  top: 0; left: 0;
-  width: 100%;
-  height: 100%;
 }
