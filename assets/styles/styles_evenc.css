@@ -81,18 +81,12 @@ ol li {
   a:hover {
     color: rgb(125, 207, 255);
   }
-
-  pre,
-  code {
-    background: #ff0000;
-  }
   
-  /*
   pre,
   code {
     background: rgb(53, 57, 64);
   }
-  */
+}
 
 .video-wrapper {
   position: relative;
