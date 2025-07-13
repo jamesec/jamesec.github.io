@@ -97,8 +97,8 @@ ol li {
 
   pre,
   code {
-    background: #2e2e3a;
     color: rgb(185, 195, 240);
+    background: rgb(58, 58, 58);
     font-family: monospace;
   }
   
