@@ -5,7 +5,7 @@
 
 <img 
   src="/assets/images/learning_EFT_2004.gif" 
-  alt="Learning Emotion-Focused Therapy (2004), by Robert Elliott, etc." 
+  alt="Learning Emotion-Focused Therapy (2004) by Robert Elliott, etc." 
   title="Learning Emotion-Focused Therapy (2004)" 
   height="200" 
 />
