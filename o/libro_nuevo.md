@@ -10,7 +10,6 @@ New book, universal joy - one phrase, many languages.
 
 - Amo el olor a libro nuevo. `Spanish`
 	- `Love the smell of book new.`
-- Adoro o cheiro de um livro novo. `Portuguese`
 - Λατρεύω τη μυρωδιά ενός καινούργιου βιβλίου. `Greek`
 
 ## Germanic languages
@@ -21,6 +20,7 @@ New book, universal joy - one phrase, many languages.
 
 ## Romance languages
 - Adoro il profumo di un libro nuovo. `Italian`
+- Adoro o cheiro de um livro novo. `Portuguese`
 - J'aime l'odeur d'un nouveau livre. `French`
 - Îmi place mirosul unei cărți noi. `Romanian`
 
