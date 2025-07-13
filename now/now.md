@@ -11,8 +11,6 @@ I especially love the rhythm and the music. My top episodes for the first two se
 - S02E05 Get Schwifty
 - S02E06 The Ricks Must Be Crazy
 
-<img title="Rick and Morty" src="/assets/images/rick_morty.jpg" width="66%">
-
 <img 
   src="/assets/images/rick_morty.jpg" 
   alt="Rick and Morty family photo" 
