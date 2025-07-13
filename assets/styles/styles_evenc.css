@@ -95,11 +95,13 @@ ol li {
     color: rgb(125, 207, 255);
   }
 
+/**  
   pre,
   code {
     background: slategray;
   }
-  
+**/
+
 /**
   pre,
   code {
