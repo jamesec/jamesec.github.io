@@ -3,7 +3,12 @@
 
 `How strongly I recommend it: 7/10`
 
-<img title="The structure and dynamics of organizations and groups (1963)" src="/assets/images/structure_dynamics_1963.jpg" height="200">
+<img 
+  src="/assets/images/structure_dynamics_1963.jpg" 
+  alt="The structure and dynamics of organizations and groups (1963), by Eric Berne" 
+  title="The structure and dynamics of organizations and groups (1963)" 
+  height="200" 
+/>
 
 Berne, E. (1963). *The structure and dynamics of organizations and groups*. J. B. Lippincott Company.
 
