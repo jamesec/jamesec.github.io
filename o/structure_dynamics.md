@@ -5,7 +5,7 @@
 
 <img 
   src="/assets/images/structure_dynamics_1963.jpg" 
-  alt="The structure and dynamics of organizations and groups (1963), by Eric Berne" 
+  alt="The structure and dynamics of organizations and groups (1963) by Eric Berne" 
   title="The structure and dynamics of organizations and groups (1963)" 
   height="200" 
 />
