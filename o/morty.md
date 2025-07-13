@@ -29,4 +29,9 @@ He's the one true Morty!
 Keep it down!<br>
 Ohhhhh!
 
-<img title="One True Morty" src="/assets/images/one_true_morty.jpg" width="66%">
+<img 
+  src="/assets/images/one_true_morty.jpg" 
+  alt="One True Morty, from: Rick and Morty S01.E10" 
+  title="One True Morty" 
+  width="66%"
+/>
