@@ -95,6 +95,13 @@ ol li {
     color: rgb(125, 207, 255);
   }
 
+  pre,
+  code {
+    background: #2e2e3a;
+    color: rgb(185, 195, 240);
+    font-family: monospace;
+  }
+  
 /**  
   pre,
   code {
@@ -106,6 +113,7 @@ ol li {
   pre,
   code {
     background: rgb(53, 57, 64);
+    background: rgb(185, 195, 240);
   }
 **/
 }
