@@ -3,7 +3,12 @@
 
 `How strongly I recommend it: 8/10`
 
-<img title="Learning Emotion-Focused Therapy (2004)" src="/assets/images/learning_EFT_2004.gif" height="200">
+<img 
+  src="/assets/images/learning_EFT_2004.gif" 
+  alt="Learning Emotion-Focused Therapy (2004), by Robert Elliott, etc." 
+  title="Learning Emotion-Focused Therapy (2004)" 
+  height="200" 
+/>
 
 Learning Emotion-Focused Therapy: The Process-Experiential Approach to Change (2004)  
 Authors: Robert Elliott, Jeanne C. Watson, Rhonda N. Goldman, Leslie S. Greenberg
