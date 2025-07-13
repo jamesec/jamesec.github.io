@@ -33,5 +33,5 @@ Ohhhhh!
   src="/assets/images/one_true_morty.jpg" 
   alt="One True Morty, from: Rick and Morty S01.E10" 
   title="One True Morty" 
-  width="66%"
+  style="width: 66%;"
 />
