@@ -82,6 +82,11 @@ ol li {
     color: rgb(125, 207, 255);
   }
 
+  pre,
+  code {
+    background: #ff0000;
+  }
+  
   /*
   pre,
   code {
