@@ -13,6 +13,13 @@ I especially love the rhythm and the music. My top episodes for the first two se
 
 <img title="Rick and Morty" src="/assets/images/rick_morty.jpg" width="66%">
 
+<img 
+  src="/assets/images/rick_morty.jpg" 
+  alt="Rick and Morty family photo" 
+  title="Rick and Morty" 
+  style="width: 66%;" 
+/>
+
 [One True Morty](/o/s.htm?p=morty), from S01E10 - Close Rick-Counters of the Rick Kind, is therapeutic and healing. 
 
 ## Learning several things
