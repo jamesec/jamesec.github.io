@@ -9,6 +9,7 @@
     font-family: 'Carlito', sans-serif;
     font-size: 90%;
   }
+  
   table {
     border: 1px solid lightgray; /* thin outer frame */
     border-collapse: collapse;   /* clean cell borders */
@@ -20,6 +21,7 @@
     padding: 8px;
     text-align: left;
   }
+  
   a {
     text-decoration: none;
     color: #777;
@@ -29,20 +31,38 @@
     color: #999;
     text-decoration: none;
   }
+  
+  .head-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .head-table td {
+    border: none;
+    padding: 4px 0; /* optional: for spacing */
+  }
+
+  .left-align {
+    text-align: left;
+  }
+
+  .right-align {
+    text-align: right;
+  }
 </style>
 
 <textarea>
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="text-align: left; border: none;">Date:_________________</td>
-    <td style="text-align: right; border: none;">Supervisor:___________</td>
-  </tr>
-  <tr>
-    <td style="text-align: left; border: none;">Observed by:___________</td>
-    <td style="text-align: right; border: none;">Supervisee:___________</td>
-  </tr>
-</table>
-
+  <table class="head-table">
+    <tr>
+      <td class="left-align">Date:_________________</td>
+      <td class="right-align">Supervisor:___________</td>
+    </tr>
+    <tr>
+      <td class="left-align">Observed by:___________</td>
+      <td class="right-align">Supervisee:___________</td>
+    </tr>
+  </table>
+  
 ### Eight core EFT supervisor competencies: Coding Sheet (v. 2)
 by [Robert Elliott, Ph.D.](https://iseft.org/boardmembers)
   
