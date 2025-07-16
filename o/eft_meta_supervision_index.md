@@ -12,5 +12,6 @@
   - 6.3. Examples of "Look at what the client does next"
   - 6.4. Examples of "Saying what you would do"
   - 6.5. Examples of "Tune in and speak out"
+- `PDF` [Emotion Focused Therapy Supervisor Competency Framework - EFT@EU](https://emotionfocusedtherapy.eu/wp-content/uploads/2023/12/FC-EFT-Competency-v1.04.pdf)
 - `DVD` [Emotion-Focused Therapy Supervision (2016)](https://apa.org/pubs/videos/4310952)
 - `Book` [Supervision Essentials for Emotion-Focused Therapy (2016)](https://apa.org/pubs/books/4317429)
