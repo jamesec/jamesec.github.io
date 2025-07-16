@@ -2,6 +2,7 @@
 `July 16, 2025`
 
 - [Eight core EFT supervisor competencies: Coding Sheet](https://evenc.org/o/eft_meta_supervision.htm)
+  - by [Robert Elliott, Ph.D.](https://iseft.org/boardmembers)
   - You can print this page in your browser by disabling "headers and footers" and setting the scale to 90%, or simply download [the generated PDF file from here](/assets/files/eft_meta_supervision.pdf).
 
 ## Recommended resources
