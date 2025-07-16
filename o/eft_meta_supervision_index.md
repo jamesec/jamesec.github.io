@@ -1,4 +1,4 @@
-# EFT meta supervision
+# EFT meta-supervision
 `July 16, 2025`
 
 - [Eight core EFT supervisor competencies: Coding Sheet](https://evenc.org/o/eft_meta_supervision.htm)
