@@ -6,6 +6,8 @@ EFT meta-supervision is the supervision of supervision in EFT, meaning supervisi
 > EFT meta-supervision is a new area whose best practices are still emerging; nevertheless, some key issues can already be identified.
 > —EFT Supervisor Competency Framework
 
+Here are the eight core competencies for an EFT supervisor, along with the coding sheet suggested for use in the meta-supervision process.
+
 - [Eight core EFT supervisor competencies: Coding Sheet](https://evenc.org/o/eft_meta_supervision.htm)
   - by [Robert Elliott, Ph.D.](https://iseft.org/boardmembers)
   - You can print this page in your browser by disabling "headers and footers" and setting the scale to 90%, or simply download [the generated PDF file from here](/assets/files/eft_meta_supervision.pdf).
