@@ -3,7 +3,7 @@
 
 EFT meta-supervision is the supervision of supervision in EFT, meaning supervision by more experienced EFT supervisors.
 
-> EFT meta-supervision is a new area whose best practices are still emerging; nevertheless, some key issues can already be identified.
+> EFT meta-supervision is a new area whose best practices are still emerging; nevertheless, some key issues can already be identified.  
 > —EFT Supervisor Competency Framework
 
 Here are the eight core competencies for an EFT supervisor — the coding sheet suggested for use in the meta-supervision process.
