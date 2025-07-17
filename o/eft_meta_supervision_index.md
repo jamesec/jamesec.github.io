@@ -10,7 +10,7 @@ Here are the eight core competencies for an EFT supervisor — the coding sheet 
 
 - [Eight core EFT supervisor competencies: Coding Sheet](https://evenc.org/o/eft_meta_supervision.htm)
   - by [Robert Elliott, Ph.D.](https://iseft.org/boardmembers)
-  - You can print this coding sheet page in your browser by disabling "headers and footers" and setting the scale to 90%, or simply download [the generated PDF file from here](/assets/files/eft_meta_supervision.pdf).
+  - To print this coding sheet, disable "headers and footers" in your browser settings and set the scale to 90% — or simply [download the generated PDF file](/assets/files/eft_meta_supervision.pdf).
 
 ## Recommended resources
 - `PDF` [Good Practice Guide for EFT Supervision - EFT@EU](https://emotionfocusedtherapy.eu/wp-content/uploads/2023/12/IO5-English-1.pdf)
