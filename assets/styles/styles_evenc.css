@@ -62,9 +62,8 @@ ol li {
 }
 
 figcaption {
-  font-size: 0.9em;
+  font-size: 0.8em;
   color: gray;
-  text-align: center;
 }
 
 @media (prefers-color-scheme: dark) {
