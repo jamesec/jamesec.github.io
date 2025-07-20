@@ -4,12 +4,14 @@
 Recently, I bought a paperback book from [Busca Libre](https://buscalibre.com/), and they also sent me a bookmark. It says, "Amo el olor a libro nuevo."  
 I went ahead and gathered many translations of this phrase using [DeepL](https://deepl.com/en/translator/) and [Google Translate](https://translate.google.com/).
 
-<img 
+<figure>
+  <img 
   src="/assets/images/libro_nuevo.jpg" 
   alt="Bookmark saying 'Amo el olor a libro nuevo'" 
   title="From Busca Libre" 
-  height="360" 
-/>
+  height="360" />
+  <figcaption>The bookmark says, "Amo el olor a libro nuevo."</figcaption>
+</figure>
 
 New book, universal joy - one phrase, many languages.
 
