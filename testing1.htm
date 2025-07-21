@@ -32,7 +32,7 @@
         </p>
     </footer>
     <script>
-    fetch('./articles/article1.html')
+    fetch('./article1.html')
       .then(res => res.text())
       .then(html => {
         document.getElementById('contentArea').innerHTML = html;
