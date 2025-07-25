@@ -1,4 +1,4 @@
-# Eric Berne (1992)
+# Eric Berne (1992) book notes
 `April 24, 2024`
 
 `How strongly I recommend it: 7/10`
