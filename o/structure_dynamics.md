@@ -1,4 +1,4 @@
-# The structure and dynamics of organizations and groups (1963)
+# The structure and dynamics of organizations and groups (1963) book notes
 `April 20, 2024`
 
 `How strongly I recommend it: 7/10`
