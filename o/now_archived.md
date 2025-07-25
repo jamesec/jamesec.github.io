@@ -1,6 +1,6 @@
 `July 24, 2025`  
 I experimented with the "now" page thing — it was like a digital pet I forgot to feed.  
-Turns out, regularly updating what I’m doing now isn’t my thing.  
+Turns out, regularly updating what I'm doing now isn't my thing.  
 So, this page is retired and living here in the archive lounge.
 
 ---
