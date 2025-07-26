@@ -5,7 +5,7 @@ I want to add embedded (hard) subtitles to some DVD clips so they can be played 
 
 Upscale DVD video clips:
 ```
-ffmpeg -i v.mp4 -vf "scale=1280:720:flags=lanczos" -c:a copy upscaled.mp4
+ffmpeg -i v.mp4 -vf "scale=1920:1080:flags=lanczos" -c:a copy upscaled.mp4
 ```
 
 Add hard subtitles:
