@@ -31,6 +31,7 @@ A special thanks to OpenAI’s ChatGPT for being an amazing helper along the way
 	- Initial release: 17 December 1996
 - [MVP.css - GitHub](https://github.com/andybrewer/mvp)
 	- MVP.css — Minimalist classless CSS stylesheet for HTML elements
+ 		- MVP: Minimum Viable Product
 
 ## 1995 - JavaScript
 - [JavaScript - Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
