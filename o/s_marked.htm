@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="icon" href="/assets/images/Extra_Terrestrial_alien.png" type="image/png">
+    <link rel="stylesheet" href="/assets/styles/mvp.css">
+    <link rel="stylesheet" href="/assets/styles/styles_evenc.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>James Even Chen</title>
+    <base target="_blank">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="/" title="Go to the homepage" target="_self"><img alt="James Even Chen" src="/assets/images/Extra_Terrestrial_alien.png" height="66"></a>
+            <ul>
+                <li><a href="/" title="Go to the homepage" target="_self">Home</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+      <div id="content"></div>
+      <script>
+        fetch('libro_nuevo.md')
+          .then(res => res.text())
+          .then(md => {
+            document.getElementById('content').innerHTML = marked.parse(md);
+          });
+      </script>
+    </main>
+
+    <footer>
+        <hr>
+        <p class="right-aligned">
+            <a href="/" title="Go to the homepage" target="_self">James Even Chen</a><br>
+        </p>
+    </footer>
+
+    <!-- <script defer src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script> -->
+    
+    <script defer src="/assets/scripts/marked.umd.min.js"></script>
+    <div id="md-fallback" style="display: none; color: red; text-align: center; padding: 20px;">
+        Failed to load content. Please refresh the page or try again later.
+    </div>
+    <!-- This will only display if JavaScript is disabled -->
+    <noscript>
+        <p>JavaScript is necessary to display this page. Enable it and refresh to continue.</p>
+    </noscript>
+</body>
+</html>

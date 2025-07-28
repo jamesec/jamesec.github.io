@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="/assets/images/Extra_Terrestrial_alien.png" type="image/png">
+    <link rel="stylesheet" href="/assets/styles/mvp.css">
+    <link rel="stylesheet" href="/assets/styles/styles_evenc.css">
+    <link rel="stylesheet" href="./positive_movies.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Great movies featuring positive psychology virtues - James Even Chen</title>
+    <base target="_blank">
+</head>
+
+    <body>
+    <header>
+        <nav>
+            <a href="/" title="Go to the homepage" target="_self"><img alt="James Even Chen" src="/assets/images/Extra_Terrestrial_alien.png" height="66"></a>
+            <ul>
+                <li><a href="/" title="Go to the homepage" target="_self">Home</a></li>
+            </ul>
+        </nav>
+    </header>
+        
+    <main>
+      <h1>Great movies featuring positive psychology virtues</h1>
+        <!-- Filter Controls -->
+        <div class="filter-controls">
+        <select id="category-select" aria-label="Category selection">
+          <option value="">Select Category</option>
+          <option value="Wisdom">Wisdom</option>
+          <option value="Courage">Courage</option>
+          <option value="Humanity">Humanity</option>
+          <option value="Justice">Justice</option>
+          <option value="Temperance">Temperance</option>
+          <option value="Transcendence">Transcendence</option>
+          <option value="__reset__">Show all / reset filters</option>
+        </select>
+        
+        <select id="virtue-select" aria-label="Virtue selection">
+          <option value="">Select Virtue</option>
+          <!-- Dynamically populated virtues go here -->
+          <option value="__reset__">Show all / reset filters</option>
+        </select>
+        </div>
+
+        <!-- Film Grid Section -->
+        <section id="film-grid" class="grid-container">
+          <!-- Film cards and loading message will be inserted by JS -->
+          <div id="loading-message" style="text-align: center; padding: 1em; display: none;">Loading…</div>
+        </section>
+    </main>
+
+    <footer>
+        <hr>
+        <p class="right-aligned">
+            <a href="/" title="Go to the homepage" target="_self">James Even Chen</a><br>
+        </p>
+    </footer>
+    <script src="./positive_movies.js" defer></script>
+    <!-- This will only display if JavaScript is disabled -->
+    <noscript>
+        <p>JavaScript is necessary to display this page. Enable it and refresh to continue.</p>
+    </noscript>
+    </body>
+</html>

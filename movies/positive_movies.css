@@ -1,0 +1,60 @@
+/* Filter controls container */
+.filter-controls {
+  display: flex;
+  gap: 1em; /* Just this adds a lot to visual clarity */
+}
+
+/* Dropdowns styling */
+.filter-controls select {
+  padding: 0.5em;
+  min-width: 160px;
+}
+
+/* Layout for film grid */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 1.5rem;
+  padding: 2rem;
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* Film card styles */
+.film-card {
+  background: white;
+  border-radius: 6px;
+  overflow: hidden;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease;
+}
+
+.film-card:hover {
+  transform: translateY(-4px);
+}
+
+.film-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.film-title {
+  padding: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #747474;
+}
+
+/* Media Query for larger screens (e.g., tablets and desktops) */
+@media (min-width: 768px) {
+  .filter-controls {
+    justify-content: flex-start;  /* Left align the filter controls */
+  }
+
+/* Make the select dropdowns appear on the same row */
+  .filter-controls select {
+    min-width: 200px;  /* Optional, increases the width of the dropdowns */
+  }
+}

@@ -1,0 +1,137 @@
+/* min_slide.css, forked from https://github.com/rwos/minslide */
+/* Base styles */
+body {
+    background: #afaaaa;
+    font-family: Helvetica, Arial, sans-serif;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    color: #555555;
+}
+
+/* Slide container */
+section {
+    background: #e8e8e8;
+    border: 1pt solid #fff;
+    border-radius: .25em;
+    box-shadow: 0 0 .1em .1em #888;
+    overflow: hidden;
+    padding: 35px;
+    margin: 0;
+    position: absolute;
+    -webkit-transition: left .3s;
+    -moz-transition:    left .3s;
+    -o-transition:      left .3s;
+    transition:         left .3s;
+}
+
+/* Headings centered */
+h1, h2, h3, h4 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+h1 { font-size: 120%; }
+h2 { font-size: 110%; }
+
+/* Body text */
+p, pre, code, ul, ol {
+    margin: 0.5em 0 0.5em 0;
+}
+p { color: #111; }
+
+/* Footer and header */
+footer, header {
+    color: #777;
+    font-size: 50%;
+    width: 90%;
+    position: absolute;
+    text-align: center;
+}
+footer {
+    position: absolute;
+    bottom: 10px;
+    width: calc(100% - 70px);
+    text-align: center;
+    color: #777;
+    font-size: 50%;
+    left: 35px;
+    box-sizing: border-box;
+}
+header {
+    top: 10px;
+}
+
+/* Images centered and responsive */
+section img {
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+/* Code blocks centered */
+pre, code {
+    background: #ddd;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+/* Small text */
+small {
+    color: #555555;
+}
+
+/* Responsive tweaks for smaller screens */
+@media (max-width: 768px) {
+    section {
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 110%;
+    }
+
+    h2 {
+        font-size: 100%;
+    }
+
+    section img {
+        max-height: 300px;
+    }
+}
+
+.comment {
+    font-size: 0.6em;
+    color: #777;
+    text-align: center;
+    margin-top: 1em;
+}
+
+.centered-iframe {
+    display: block;
+    margin: 30px auto 0;
+}
+
+/* Centered, responsive video */
+.centered-video {
+    display: block;
+    margin: 30px auto 0;
+    width: 60%;
+    height: auto;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: #777;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #999;
+  text-decoration: none;
+}
