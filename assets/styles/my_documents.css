@@ -41,6 +41,6 @@ a:hover {
   text-align: right;
 }
 
-.markdown-body {
-  background-color: rgb(85, 85, 85);
+main {
+  background: rgb(85, 85, 85);
 }
