@@ -3,6 +3,10 @@ body {
   font-size: 90%;
 }
 
+main {
+  background: lightyellow;
+}
+
 table {
   border: 1px solid lightgray; /* thin outer frame */
   border-collapse: collapse;   /* clean cell borders */
@@ -39,8 +43,4 @@ a:hover {
 }
 .right-align {
   text-align: right;
-}
-
-main {
-  background: rgb(85, 85, 85);
 }
