@@ -3,10 +3,6 @@ body {
   font-size: 90%;
 }
 
-main {
-  background: lightyellow;
-}
-
 table {
   border: 1px solid lightgray; /* thin outer frame */
   border-collapse: collapse;   /* clean cell borders */
