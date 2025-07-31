@@ -8,46 +8,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>The Curious Case of Benjamin Button (1922) - James Even Chen</title>
     <base target="_blank">
-
-    <style>
-      .chapter-nav-links {
-        display: flex;
-        justify-content: space-between;
-        gap: 1rem;
-        flex-wrap: wrap;
-        margin-top: 3rem;
-        font-family: sans-serif;
-      }
-    
-      .chapter-nav-card {
-        display: block;
-        padding: 1rem 1.5rem;
-        background: #f9f9f9;
-        border: 1px solid #ddd;
-        border-radius: 6px;
-        text-decoration: none;
-        color: inherit;
-        flex: 1 1 45%;
-        transition: background 0.2s;
-      }
-    
-      .chapter-nav-card:hover {
-        background: #f0f0f0;
-      }
-    
-      .chapter-nav-label {
-        font-size: 0.8rem;
-        color: #666;
-        text-transform: uppercase;
-        letter-spacing: 0.05em;
-      }
-    
-      .chapter-nav-title {
-        font-size: 1.1rem;
-        font-weight: bold;
-        margin-top: 0.25rem;
-      }
-    </style>
 </head>
 
 <body>
@@ -110,25 +70,25 @@
       if (currentIndex > 0) {
         const prevChapter = chapters[currentIndex - 1];
         container.innerHTML += `
-          <a class="chapter-nav-card" href="${basePath}${prevChapter}">
-            <div class="chapter-nav-label">Previous chapter</div>
-            <div class="chapter-nav-title">Chapter ${currentIndex}</div>
+          <a href="${basePath}${prevChapter}">
+            <div>Previous chapter</div>
+            <div>Chapter ${currentIndex}</div>
           </a>`;
       }
     
       // Next (special case: chapter03 → chapter10)
       if (currentChapter === "chapter03") {
         container.innerHTML += `
-          <a class="chapter-nav-card" href="${basePath}chapter10">
-            <div class="chapter-nav-label">Next chapter</div>
-            <div class="chapter-nav-title">Chapter 10</div>
+          <a href="${basePath}chapter10">
+            <div>Next chapter</div>
+            <div>Chapter 10</div>
           </a>`;
       } else if (currentIndex < chapters.length - 1 && currentChapter !== "chapter03") {
         const nextChapter = chapters[currentIndex + 1];
         container.innerHTML += `
-          <a class="chapter-nav-card" href="${basePath}${nextChapter}">
-            <div class="chapter-nav-label">Next chapter</div>
-            <div class="chapter-nav-title">Chapter ${currentIndex + 2}</div>
+          <a href="${basePath}${nextChapter}">
+            <div>Next chapter</div>
+            <div>Chapter ${currentIndex + 2}</div>
           </a>`;
       }
     
