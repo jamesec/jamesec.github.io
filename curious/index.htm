@@ -89,12 +89,17 @@
       ];
     
       const basePath = "/o/s.htm?p=/curious/";
-      const path = window.location.pathname;
-      const currentMatch = path.match(/chapter(\d{2})/);
     
-      if (!currentMatch) return;
+      // Try to get the chapter number from the zero-md src
+      const zeroMd = document.querySelector("zero-md");
+      if (!zeroMd) return;
     
-      const currentChapter = "chapter" + currentMatch[1];
+      const src = zeroMd.getAttribute("src"); // e.g., "chapter_01.md"
+      const match = src.match(/chapter_(\d{2})\.md/);
+      if (!match) return;
+    
+      const chapterNum = match[1]; // e.g., "01"
+      const currentChapter = "chapter" + chapterNum;
       const currentIndex = chapters.indexOf(currentChapter);
       if (currentIndex === -1) return;
     
@@ -104,32 +109,26 @@
       // Previous
       if (currentIndex > 0) {
         const prevChapter = chapters[currentIndex - 1];
-        const prevLabel = "Previous chapter";
-        const prevTitle = "Chapter " + (currentIndex);
         container.innerHTML += `
           <a class="chapter-nav-card" href="${basePath}${prevChapter}">
-            <div class="chapter-nav-label">${prevLabel}</div>
-            <div class="chapter-nav-title">${prevTitle}</div>
+            <div class="chapter-nav-label">Previous chapter</div>
+            <div class="chapter-nav-title">Chapter ${currentIndex}</div>
           </a>`;
       }
     
       // Next (special case: chapter03 → chapter10)
       if (currentChapter === "chapter03") {
-        const nextLabel = "Next chapter";
-        const nextTitle = "Chapter 10";
         container.innerHTML += `
           <a class="chapter-nav-card" href="${basePath}chapter10">
-            <div class="chapter-nav-label">${nextLabel}</div>
-            <div class="chapter-nav-title">${nextTitle}</div>
+            <div class="chapter-nav-label">Next chapter</div>
+            <div class="chapter-nav-title">Chapter 10</div>
           </a>`;
       } else if (currentIndex < chapters.length - 1 && currentChapter !== "chapter03") {
         const nextChapter = chapters[currentIndex + 1];
-        const nextLabel = "Next chapter";
-        const nextTitle = "Chapter " + (currentIndex + 2);
         container.innerHTML += `
           <a class="chapter-nav-card" href="${basePath}${nextChapter}">
-            <div class="chapter-nav-label">${nextLabel}</div>
-            <div class="chapter-nav-title">${nextTitle}</div>
+            <div class="chapter-nav-label">Next chapter</div>
+            <div class="chapter-nav-title">Chapter ${currentIndex + 2}</div>
           </a>`;
       }
     
