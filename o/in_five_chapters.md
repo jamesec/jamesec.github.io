@@ -3,11 +3,10 @@
 译自：An autobiography in five short chapters  
 TheraminTrees 的 YouTube 频道，但原视频已被删掉
 
-The original book: There's a hole in my sidewalk, the romance of self-discovery (1977) by Portia Nelson
-
 <div class="video-wrapper"><video src="/assets/files/in_five_chapters.mp4" controls playsinline></video></div>
 
 - 摘自《人際溝通分析練習法》/ TA Today，第 27 章，为什么要改变；译者：易之新
+- The original book: There's a hole in my sidewalk, the romance of self-discovery (1977) by Portia Nelson
 
 ---
 
