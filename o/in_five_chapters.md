@@ -7,6 +7,8 @@ The book: There's a hole in my sidewalk, the romance of self-discovery (1977) by
 
 <div class="video-wrapper"><video src="/assets/files/in_five_chapters.mp4" controls playsinline></video></div>
 
+- 摘自《人際溝通分析練習法》/ TA Today，第 27 章，为什么要改变；译者：易之新
+
 ---
 
 痊愈：逐渐学习新的选择
