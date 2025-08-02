@@ -1,4 +1,4 @@
-# 如何帮助来访者到达核心痛苦？
+# 如何帮助来访者进入核心痛苦？
 译者：陈艺文、田婴 / 2025 年 7 月 26 日  
 译自：[How do we get to our core pain?](https://youtube.com/watch?v=hEHbrQ6hwFs)  
 
