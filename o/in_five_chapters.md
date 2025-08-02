@@ -3,7 +3,7 @@
 译自：An autobiography in five short chapters  
 TheraminTrees 的 YouTube 频道，但原视频已被删掉
 
-The book: There's a hole in my sidewalk, the romance of self-discovery (1977) by Portia Nelson
+The original book: There's a hole in my sidewalk, the romance of self-discovery (1977) by Portia Nelson
 
 <div class="video-wrapper"><video src="/assets/files/in_five_chapters.mp4" controls playsinline></video></div>
 
@@ -19,37 +19,37 @@ The book: There's a hole in my sidewalk, the romance of self-discovery (1977) by
 > 
 > 下面这首诗，也许可以视为这种过程的摘要：
 
-I
-我走在街上
-路旁有个大洞
-我掉了进去
-觉得迷失、无助
-这不是我的错
+I  
+我走在街上  
+路旁有个大洞  
+我掉了进去  
+觉得迷失、无助  
+这不是我的错  
 好像永远不可能逃出去
 
-II
-我走在同一条街上
-路旁有个大洞
-我假装没有看到
-我又掉了进去
-不敢相信自己又掉进同样的地方
-可是，这仍然不是我的错
+II  
+我走在同一条街上  
+路旁有个大洞  
+我假装没有看到  
+我又掉了进去  
+不敢相信自己又掉进同样的地方  
+可是，这仍然不是我的错  
 我花了很久才逃出去
 
-III
-我走在同一条街上
-路旁有个大洞
-我看到这个大洞
-我又掉进去……已经成了习惯
-我睁开双眼
-知道自己在哪里
-这是我的错
+III  
+我走在同一条街上  
+路旁有个大洞  
+我看到这个大洞  
+我又掉进去……已经成了习惯  
+我睁开双眼  
+知道自己在哪里  
+这是我的错  
 我立刻逃出去
 
-IV
-我走在同一条街上
-路旁有个大洞
+IV  
+我走在同一条街上  
+路旁有个大洞  
 我从旁边绕过去
 
-V
+V  
 我改走另一条街道
