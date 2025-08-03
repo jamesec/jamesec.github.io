@@ -1,4 +1,4 @@
-# 4 種情緒過程
+# 四種情緒過程
 作者：Robert Elliott / 譯者：陳藝文 / 2024 年 5 月 3 日 / 2024 年 12 月 20 日更新<br />
 譯自：[Different kinds of emotional responses](https://youtube.com/watch?v=sJl3GJLTUj4)
 
