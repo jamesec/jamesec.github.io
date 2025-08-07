@@ -1,0 +1,61 @@
+{
+  "global_footer": "Copyright © 2025 James Even Chen <a href='https://evenc.org/'>https://evenc.org/</a>",
+  "slides": [
+    {
+      "slide_number": 0,
+      "slide_content": "<h1>Les Greenberg 的 13 个 EFT 短视频</h1><p class='comment'>（中文字幕视频）</p><p class='comment'>译者：陈艺文、田婴 / 2025 年 8 月</p><br><br><p class='comment'>译自：<a href='https://youtube.com/playlist?list=PLnZkBEghFSGA8H18b4aif84MhW69D4qdt'>EFT playlist by The Counselling Channel</a></p><br><br><p class='comment'>向左或向右滑动，或用键盘左 ← 、右 → 键</p>"
+    },
+   {
+      "slide_number": 1,
+      "slide_content": "<h1>什么是 EFT？</h1><video class='centered-video' src='/assets/files/what_is_eft.mp4' controls></video><p class='comment'><a href='https://youtu.be/XcymHw9AZvg'>https://youtu.be/XcymHw9AZvg</a></p>"
+  },
+   {
+      "slide_number": 2,
+      "slide_content": "<h1>与情绪工作的六个原则</h1><video class='centered-video' src='https://files.catbox.moe/ah0gcb.mp4' controls></video><p class='comment'><a href='https://youtu.be/VfsVqk-ke_s'>https://youtu.be/VfsVqk-ke_s</a></p>"
+  },
+   {
+      "slide_number": 3,
+      "slide_content": "<h1>EFT 是如何发展起来的？</h1><video class='centered-video' src='/assets/files/how_eft_came.mp4' controls></video><p class='comment'><a href='https://youtu.be/4AHJkOF6eR8'>https://youtu.be/4AHJkOF6eR8</a></p>"
+  },
+   {
+      "slide_number": 4,
+      "slide_content": "<h1>感觉与情绪有什么区别？</h1><video class='centered-video' src='/assets/files/feelings_emotions.mp4' controls></video><p class='comment'><a href='https://youtu.be/ynHioCxAMEI'>https://youtu.be/ynHioCxAMEI</a></p>"
+  },
+   {
+      "slide_number": 5,
+      "slide_content": "<h1>原发情绪和继发情绪有什么区别？</h1><video class='centered-video' src='https://files.catbox.moe/afoiv4.mp4' controls></video><p class='comment'><a href='https://youtu.be/7xTwvfGckLo'>https://youtu.be/7xTwvfGckLo</a></p>"
+  },
+   {
+      "slide_number": 6,
+      "slide_content": "<h1>什么是核心痛苦？</h1><video class='centered-video' src='/assets/files/core_pain.mp4' controls></video><p class='comment'><a href='https://youtu.be/31RQw-cLgOQ'>https://youtu.be/31RQw-cLgOQ</a></p>"
+  },
+   {
+      "slide_number": 7,
+      "slide_content": "<h1>如何帮助来访者进入核心痛苦？</h1><video class='centered-video' src='/assets/files/how_core_pain.mp4' controls></video><p class='comment'><a href='https://youtu.be/hEHbrQ6hwFs'>https://youtu.be/hEHbrQ6hwFs</a></p>"
+  },
+   {
+      "slide_number": 8,
+      "slide_content": "<h1>核心痛苦就是未满足的需要吗？</h1><video class='centered-video' src='/assets/files/core_pain_need.mp4' controls></video><p class='comment'><a href='https://youtu.be/BqshniPymrQ'>https://youtu.be/BqshniPymrQ</a></p>"
+  },
+   {
+      "slide_number": 9,
+      "slide_content": "<h1>用情绪改变情绪</h1><video class='centered-video' src='https://files.catbox.moe/1pjnku.mp4' controls></video><p class='comment'><a href='https://youtu.be/RuZRc8Axln0'>https://youtu.be/RuZRc8Axln0</a></p>"
+  },
+   {
+      "slide_number": 10,
+      "slide_content": "<h1>EFT 与心理健康问题有何关系？</h1><video class='centered-video' src='https://files.catbox.moe/34g8yc.mp4' controls></video><p class='comment'><a href='https://youtu.be/wfCRSMr5eUk'>https://youtu.be/wfCRSMr5eUk</a></p>"
+  },
+   {
+      "slide_number": 11,
+      "slide_content": "<h1>用 EFT 理解抑郁与关系困扰</h1><video class='centered-video' src='https://files.catbox.moe/s44jkr.mp4' controls></video><p class='comment'><a href='https://youtu.be/-CxfrVifuUA'>https://youtu.be/-CxfrVifuUA</a></p>"
+  },
+   {
+      "slide_number": 12,
+      "slide_content": "<h1>用 EFT 理解焦虑障碍</h1><video class='centered-video' src='https://files.catbox.moe/kx1d3n.mp4' controls></video><p class='comment'><a href='https://youtu.be/LRuoHv-ODrI'>https://youtu.be/LRuoHv-ODrI</a></p>"
+  },
+   {
+      "slide_number": 13,
+      "slide_content": "<h1>EFT 中的椅子工作</h1><video class='centered-video' src='/assets/files/eft_chair_works.mp4' controls></video><p class='comment'><a href='https://youtu.be/5OIy0Fdg3Ko'>https://youtu.be/5OIy0Fdg3Ko</a></p>"
+  }
+  ]
+}
