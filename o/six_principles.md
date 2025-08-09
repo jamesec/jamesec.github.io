@@ -6,7 +6,7 @@
 
 - [Six principles for working with emotions](https://youtube.com/watch?v=VfsVqk-ke_s)
   - Video uploaded: Apr 27, 2020
-- 你无法真正用理性改变情绪，基于杏仁核的情绪是理性说不通、讲不进去的，而有效的方式是以一种更有力量的情绪去转化它。
+- 你无法真正用理性改变情绪，基于杏仁核的情绪是理性说不通、讲不进去的，而有效改变情绪的方式是以一种更有力量的情绪去转化它。
 
 ---
 
