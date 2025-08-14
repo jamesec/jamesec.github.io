@@ -2,7 +2,7 @@
 译者：陈艺文、田婴 / 2025 年 7 月 29 日  
 译自：[How did Emotion-Focused Therapy (EFT) come about?](https://youtube.com/watch?v=4AHJkOF6eR8)  
 
-<div class="video-wrapper"><video src="https://files.catbox.moe/7rhc2e.mp4" controls playsinline></video></div>
+<div class="video-wrapper"><video src="/assets/files/how_eft_came.mp4" controls playsinline></video></div>
 
 - [How did Emotion-Focused Therapy (EFT) come about?](https://youtube.com/watch?v=4AHJkOF6eR8)
   - Video uploaded: Apr 27, 2020
