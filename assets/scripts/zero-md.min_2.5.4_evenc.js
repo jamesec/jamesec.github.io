@@ -26,7 +26,7 @@ class t extends HTMLElement {
             (this.config = {
                 markedUrl: "/assets/scripts/marked_4.3.0.js",
                 prismUrl: [["/assets/scripts/prism_1.29.0.js", "data-manual"], "/assets/scripts/prism_autoloader.min.js"],
-                cssUrls: ["/assets/styles/styles_evenc.css", "/assets/styles/prism_okaidia.css"],
+                cssUrls: ["/assets/styles/evenc.css", "/assets/styles/prism_okaidia.css"],
                 hostCss: ":host{display:block;position:relative;contain:content;}:host([hidden]){display:none;}",
                 ...t,
                 ...window.ZeroMdConfig,
