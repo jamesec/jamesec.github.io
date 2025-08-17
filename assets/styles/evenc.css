@@ -1,7 +1,7 @@
 /* https://evenc.org/assets/styles/evenc.css */
 
 :root {
-  --color-secondary: #0f66ff;
+  --color-secondary: rgb(15, 102, 255);
   --font-stack: -apple-system, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -35,8 +35,8 @@ a:hover {
 blockquote {
   margin: 0;
   padding: 0 1em;
-  color: #6a737d;
-  border-left: 0.25em solid #dfe2e5;
+  color: rgb(106, 115, 125);
+  border-left: 0.25em solid rgb(223, 226, 229);
 }
 
 pre,
@@ -65,7 +65,7 @@ ol li {
 
 figcaption {
   font-size: 0.8em;
-  color: gray;
+  color: rgb(128, 128, 128); /* the gray color */
 }
 
 @media (prefers-color-scheme: dark) {
