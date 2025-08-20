@@ -109,3 +109,7 @@ figcaption {
     font-family: monospace;
   }
 }
+
+.text-center {
+  text-align: center;
+}
