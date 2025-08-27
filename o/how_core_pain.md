@@ -1,16 +1,16 @@
 # 如何帮助来访者进入核心痛苦？
 译者：陈艺文、田婴 / 2025 年 7 月 26 日  
-译自：[How do we get to our core pain?](https://youtube.com/watch?v=hEHbrQ6hwFs)  
+译自：[How do we get to our core pain?](https://youtu.be/hEHbrQ6hwFs)  
 
 <div class="video-wrapper"><video src="/assets/files/how_core_pain.mp4" controls playsinline></video></div>
 
-- [How do we get to our core pain?](https://youtube.com/watch?v=hEHbrQ6hwFs)
+- [How do we get to our core pain?](https://youtu.be/hEHbrQ6hwFs)
   - Video uploaded: Apr 27, 2020
-- 帮助来访者进入核心痛苦，关键在于对情绪的共情同调，这有点像——你要时刻将手指放在来访者的情绪脉搏上，感受每一刻的起伏，细致地调谐。
+- 帮助来访者进入核心痛苦，关键在于对情绪的共情同调，这有点像：把手指放在来访者的情绪脉搏上，感受每一刻的起伏，细致地调谐。
 
 ---
 
-帮助来访者进入核心痛苦，关键在于对情绪的共情同调，这有点像——你要时刻将手指放在来访者的情绪脉搏上，感受每一刻的起伏，细致地调谐。
+帮助来访者进入核心痛苦，关键在于对情绪的共情同调，这有点像：把手指放在来访者的情绪脉搏上，感受每一刻的起伏，细致地调谐。
 
 所以你必须非常在场、全然专注地和来访者保持同调与连结。  
 你要跟随对方的情绪，尤其是那些痛苦的情绪——跟随他们的痛苦、辛酸，深入这些情绪过程。
