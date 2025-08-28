@@ -1,13 +1,12 @@
-# 核心痛苦与未被满足的需要是同一回事吗？
-译者：陈艺文、田婴 / 2025 年 7 月 26 日  
-译自：[Is core pain the same as unmet need?](https://youtube.com/watch?v=BqshniPymrQ)  
+# 核心痛苦就是未满足的需要吗？
+译者：陈艺文、田婴 / 2025 年 7 月 26 日
+译自：[Is core pain the same as unmet need?](https://youtu.be/BqshniPymrQ)  
 
 <div class="video-wrapper"><video src="/assets/files/core_pain_need.mp4" controls playsinline></video></div>
 
-- [Is core pain the same as unmet need?](https://youtube.com/watch?v=BqshniPymrQ)
+- [Is core pain the same as unmet need?](https://youtu.be/BqshniPymrQ)
   - Video uploaded: Apr 27, 2020
-- 核心痛苦之中，往往包含着一个未被满足的需要。
-- 有些情绪本身，就是在告诉你：「有某个需要没有被满足。」
+- 每一种痛苦的情绪，都蕴含着一个未被满足的需要。这些情绪本身，就是在告诉你：「有某个需要没有被满足。」
 
 ---
 
