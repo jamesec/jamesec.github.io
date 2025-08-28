@@ -1,5 +1,5 @@
 # 核心痛苦就是未满足的需要吗？
-译者：陈艺文、田婴 / 2025 年 7 月 26 日
+译者：陈艺文、田婴 / 2025 年 7 月 26 日  
 译自：[Is core pain the same as unmet need?](https://youtu.be/BqshniPymrQ)  
 
 <div class="video-wrapper"><video src="/assets/files/core_pain_need.mp4" controls playsinline></video></div>
@@ -19,5 +19,5 @@
 所以，要找出那个「未被满足的需要」，其实并不难。
 
 当然，作为（注重引导体验的）治疗师，我不会直接告诉你：「你的需要是什么。」  
-我会陪你走进那份痛苦，让你去真切地感受它。    
+我会陪你走进那份痛苦，让你去真切地感受它。  
 然后我会问你：「在那样的状态下，你需要什么？」通常，在你体验痛苦情绪的过程中，那个需要就会浮现出来。
