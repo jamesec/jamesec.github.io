@@ -2,7 +2,7 @@
 译者：陈艺文、田婴 / 2025 年 8 月 2 日
 译自：[Changing emotion with emotion](https://youtu.be/RuZRc8Axln0)  
 
-<div class="video-wrapper"><video src="/assets/files/what_is_eft.mp4" controls playsinline></video></div>
+<div class="video-wrapper"><video src="https://files.catbox.moe/2p1nxf.mp4" controls playsinline></video></div>
 
 - [Changing emotion with emotion](https://youtu.be/RuZRc8Axln0)
   - Video uploaded: Apr 27, 2020
