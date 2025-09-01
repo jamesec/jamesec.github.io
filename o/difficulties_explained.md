@@ -2,7 +2,7 @@
 译者：陈艺文、田婴 / 2025 年 8 月 4 日  
 译自：[Depression and relationship difficulties explained by EFT](https://youtu.be/-CxfrVifuUA)  
 
-<div class="video-wrapper"><video src="/assets/files/what_is_eft.mp4" controls playsinline></video></div>
+<div class="video-wrapper"><video src="https://files.catbox.moe/bwmk0l.mp4" controls playsinline></video></div>
 
 - [Depression and relationship difficulties explained by EFT](https://youtu.be/-CxfrVifuUA)
   - Video uploaded: Apr 27, 2020
