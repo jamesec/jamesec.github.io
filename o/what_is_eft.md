@@ -1,10 +1,10 @@
 # 什么是 EFT？
 译者：陈艺文、田婴 / 2025 年 7 月 27 日  
-译自：[What is Emotion-Focused Therapy (EFT)?](https://youtube.com/watch?v=XcymHw9AZvg)  
+译自：[What is Emotion-Focused Therapy (EFT)?](https://youtu.be/XcymHw9AZvg)  
 
 <div class="video-wrapper"><video src="/assets/files/what_is_eft.mp4" controls playsinline></video></div>
 
-- [What is Emotion-Focused Therapy (EFT)?](https://youtube.com/watch?v=XcymHw9AZvg)
+- [What is Emotion-Focused Therapy (EFT)?](https://youtu.be/XcymHw9AZvg)
   - Video uploaded: Apr 27, 2020
 - 我喜欢把它比喻成共情海洋中的「工作岛」，我们研究验证过这些「工作岛」，称之为「以标记为指引的干预」。
 
