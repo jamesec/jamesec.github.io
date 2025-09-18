@@ -1,10 +1,10 @@
 # EFT 中的椅子工作
 译者：陈艺文、田婴 / 2025 年 7 月 26 日  
-译自：[What is chair work in Emotion-Focused Therapy (EFT)? Les Greenberg](https://youtube.com/watch?v=5OIy0Fdg3Ko)  
+译自：[What is chair work in EFT?](https://youtube.com/watch?v=5OIy0Fdg3Ko)  
 
 <div class="video-wrapper"><video src="/assets/files/eft_chair_works.mp4" controls playsinline></video></div>
 
-- [What is chair work in Emotion-Focused Therapy (EFT)? Les Greenberg](https://youtube.com/watch?v=5OIy0Fdg3Ko)
+- [What is chair work in EFT?](https://youtube.com/watch?v=5OIy0Fdg3Ko)
   - Video uploaded: Apr 27, 2020
 - 这些椅子工作能帮助唤起并加深情绪体验，也有助于进一步处理和转化情绪。
 
