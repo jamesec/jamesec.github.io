@@ -1,6 +1,14 @@
 # 四種情緒過程
 作者：Robert Elliott / 譯者：陳藝文、田嬰 / 2024 年 5 月 3 日 / 最後更新：2025 年 9 月 25 日<br />
-譯自：[Different kinds of emotional responses](https://youtube.com/watch?v=sJl3GJLTUj4)
+譯自：[Different kinds of emotional responses](https://youtu.be/sJl3GJLTUj4)
+
+<div class="video-wrapper"><video src="/assets/files/what_is_eft.mp4" controls playsinline></video></div>
+
+- [Different kinds of emotional responses](https://youtu.be/sJl3GJLTUj4)
+  - Video uploaded: Jul 19, 2016
+- 在 EFT 情緒聚焦療法中，我們將情緒過程分為四種類型。
+
+---
 
 在 EFT 情緒聚焦療法中，我們將情緒過程分為四種類型。這種分類非常重要，因為並非所有的情緒都一樣。  
 有些情緒過程有助於我們，而另一些則阻礙我們處理各種當下情境的能力。
