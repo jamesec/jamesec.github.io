@@ -1,6 +1,6 @@
 # 如何深化情緒體驗
 作者：Robert Elliott / 譯者：陳藝文 / 2024 年 5 月 5 日 / 2024 年 12 月 20 日更新  
-譯自：[Emotional deepening process](https://youtube.com/watch?v=kNRg2DFtgOw)
+譯自：[Emotional deepening process](https://youtu.be/kNRg2DFtgOw)
 
 EFT 最近的一個發展，是系統地整理了深化情緒體驗過程的模型或序列，這是將 EFT 的某些複雜之處整合在一起的嘗試。基本上這個概念是，當我們工作時，當客戶來找我們時，他們通常會呈現出一種規律性的序列，我們可以遵循這種序列，來與客戶一起工作。它提供了一種**路線圖**，貫穿於許多不同的 EFT 工作當中。
 
