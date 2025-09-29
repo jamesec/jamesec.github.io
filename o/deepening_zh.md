@@ -5,7 +5,7 @@
 <div class="video-wrapper"><video src="https://files.catbox.moe/hltw7k.mp4" controls playsinline></video></div>
 
 - [Emotional deepening process](https://youtu.be/kNRg2DFtgOw)
-  - Video uploaded: Jul 19, 2016
+  - Video uploaded: Jul 25, 2016
 - xyz
 
 ---
