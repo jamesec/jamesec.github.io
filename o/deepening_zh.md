@@ -6,7 +6,7 @@
 
 - [Emotional deepening process](https://youtu.be/kNRg2DFtgOw)
   - Video uploaded: Jul 25, 2016
-- xyz
+- 我們可以用這些不同的情緒來幫助個案開啓他們的原發適應性情緒……
 
 ---
 
