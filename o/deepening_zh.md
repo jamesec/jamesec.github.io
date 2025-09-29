@@ -2,7 +2,7 @@
 作者：Robert Elliott / 譯者：陳藝文、田嬰 / 2024 年 5 月 5 日 / 最後更新：2025 年 9 月 29 日  
 譯自：[Emotional deepening process](https://youtu.be/kNRg2DFtgOw)
 
-<div class="video-wrapper"><video src="https://files.catbox.moe/hltw7k.mp4" controls playsinline></video></div>
+<div class="video-wrapper"><video src="https://files.catbox.moe/7k61bs.mp4" controls playsinline></video></div>
 
 - [Emotional deepening process](https://youtu.be/kNRg2DFtgOw)
   - Video uploaded: Jul 25, 2016
