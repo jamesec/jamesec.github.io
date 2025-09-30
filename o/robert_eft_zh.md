@@ -2,7 +2,7 @@
 作者：Robert Elliott / 譯者：陳藝文、田嬰 / 2024 年 4 月 26 日 / 最後更新：2025 年 9 月 30 日  
 譯自：[How Robert Elliott came to Emotion-Focused Therapy](https://youtu.be/uTJh8PQKNco)
 
-<div class="video-wrapper"><video src="https://files.catbox.moe/7pcj84.mp4" controls playsinline></video></div>
+<div class="video-wrapper"><video src="https://files.catbox.moe/ko318m.mp4" controls playsinline></video></div>
 
 - [How Robert Elliott came to Emotion-Focused Therapy](https://youtu.be/uTJh8PQKNco)
   - Video uploaded: Jun 29, 2016
