@@ -1,10 +1,10 @@
 # 羅伯特・艾略特轉向 EFT 的故事
-作者：Robert Elliott / 譯者：陳藝文、田嬰 / 2024 年 4 月 26 日 / 2025 年 7 月 30 日更新  
-譯自：[How Robert Elliott came to Emotion-Focused Therapy](https://youtube.com/watch?v=uTJh8PQKNco)
+作者：Robert Elliott / 譯者：陳藝文、田嬰 / 2024 年 4 月 26 日 / 最後更新：2025 年 9 月 30 日  
+譯自：[How Robert Elliott came to Emotion-Focused Therapy](https://youtu.be/uTJh8PQKNco)
 
 <div class="video-wrapper"><video src="https://files.catbox.moe/7pcj84.mp4" controls playsinline></video></div>
 
-- [How Robert Elliott came to Emotion-Focused Therapy](https://youtube.com/watch?v=uTJh8PQKNco)
+- [How Robert Elliott came to Emotion-Focused Therapy](https://youtu.be/uTJh8PQKNco)
   - Video uploaded: Jun 29, 2016
 - 「我是羅伯特・艾略特，我將談談我自己，以及我如何轉向 EFT（情緒聚焦療法）的。」
 
