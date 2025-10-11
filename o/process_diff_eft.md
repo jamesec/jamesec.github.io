@@ -5,7 +5,7 @@
 <div class="video-wrapper"><video src="/assets/files/what_is_eft.mp4" controls playsinline></video></div>
 
 - [What is the difference between PCC and EFT?](https://youtu.be/76Chs4puBTw)  
-  - Video uploaded: Apr 27, 2020
+  - Video uploaded: Jun 29, 2016
 - EFT 在【过程区分】方面具有更高的精细度。
 - 这有点像一幅逐渐清晰的画：一开始你只能看到大致的轮廓，随着焦点逐渐清晰，你会看到越来越多的细节。
 
