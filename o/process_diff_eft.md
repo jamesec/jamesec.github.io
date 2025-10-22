@@ -1,5 +1,5 @@
 # 过程区分：EFT 与经典人本治疗的不同
-译者：陈艺文、田婴 / 2025 年 10 月 11 日  
+译者：陈艺文、田婴 / 2025 年 10 月 21 日  
 译自：[What is the difference between PCC and EFT?](https://youtu.be/76Chs4puBTw)  
 
 <div class="video-wrapper"><video src="https://files.catbox.moe/f78qkd.mp4" controls playsinline></video></div>
