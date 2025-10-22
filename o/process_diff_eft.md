@@ -2,7 +2,7 @@
 译者：陈艺文、田婴 / 2025 年 10 月 21 日  
 译自：[What is the difference between PCC and EFT?](https://youtu.be/76Chs4puBTw)  
 
-<div class="video-wrapper"><video src="https://files.catbox.moe/f78qkd.mp4" controls playsinline></video></div>
+<div class="video-wrapper"><video src="https://files.catbox.moe/t182h8.mp4" controls playsinline></video></div>
 
 - [What is the difference between PCC and EFT?](https://youtu.be/76Chs4puBTw)  
   - Video uploaded: Jun 29, 2016
