@@ -1,5 +1,5 @@
 # 为什么情绪很重要？
-译者：田婴、陈艺文 / 2025 年 11 月 5 日  
+译者：田婴、陈艺文 / 2025 年 11 月 6 日  
 译自：[Why are emotions important?](https://youtu.be/D8lmjmJ0OPg)  
 
 <div class="video-wrapper"><video src="/assets/files/what_is_eft.mp4" controls playsinline></video></div>
