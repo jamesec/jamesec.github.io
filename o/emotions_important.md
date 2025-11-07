@@ -6,7 +6,7 @@
 
 - [Why are emotions important?](https://youtu.be/D8lmjmJ0OPg)
   - Video uploaded: Jun 29, 2016
-- abc
+- 「Emotion」（情绪）这个词，词根意思就是「使我们行动起来的东西」。 
 
 为什么情绪很重要，以及我们是如何被情绪困住、在情绪上出现问题的。
 
@@ -67,7 +67,5 @@
 例如，我和伴侣为一些小事争吵，比如晚饭什么时候准备好，或谁该做什么家务，然后，我可能会感到焦虑或害怕，担心我们的关系会开始恶化，一切都将会崩溃。我开始感到害怕和焦虑。但我没有面对这种恐惧、没有审视、反思它，没有体察它的需要，而是变得愤怒。我可能因为害怕而对自己生气——「我真软弱」；或者对伴侣生气——「都是你让我害怕」。结果，我可能会挑起更大的争吵，或者陷入抑郁、退缩。如果我刚和伴侣吵过架，无论我是闷闷不乐、退缩沮丧，还是再次挑起争端，都不是什么好事。都只会让关系变得更糟。
 
 因此，如果我们让另一种情绪掩盖了最重要的或最有用的情绪，就可能陷入困境。
-
-so we can get stuck on our emotions, you know, by, uh, not fully processing them, by letting them get too much or too little. Or by allowing another emotion to come and basically shut down the main... most useful emotion.
 
 总的来说，我们会被情绪困住，是因为：情绪没有被充分发展、表达或处理；情绪过强或过弱（情绪失调）；或者被继发情绪「接管」，阻断了更有用的情绪。
