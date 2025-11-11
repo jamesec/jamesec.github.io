@@ -2,7 +2,7 @@
 译者：田婴、陈艺文 / 2025 年 11 月 11 日  
 译自：[Why are emotions important?](https://youtu.be/D8lmjmJ0OPg)  
 
-<div class="video-wrapper"><video src="/assets/files/what_is_eft.mp4" controls playsinline></video></div>
+<div class="video-wrapper"><video src="https://files.catbox.moe/fdiax7.mp4" controls playsinline></video></div>
 
 - [Why are emotions important?](https://youtu.be/D8lmjmJ0OPg)
   - Video uploaded: Jun 29, 2016
