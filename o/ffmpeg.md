@@ -1,5 +1,5 @@
 # Upscale DVD video clips with ffmpeg
-`Jun 23, 2025`
+`Updated: Nov 21, 2025 / Jun 23, 2025`
 
 I want to add embedded (hard) subtitles to some DVD clips so they can be played in the Obsidian slides or Keynote app. Since the resolution of the original footage is relatively low (720×480 pixels is the standard resolution for NTSC DVDs, and 720×576 pixels for PAL DVDs), I plan to upscale the video first, then embed the subtitles. Otherwise, the subtitles in the final video may appear blurry due to the low original resolution.
 
@@ -18,9 +18,9 @@ ffmpeg -i upscaled.mp4 -vf subtitles=s.srt -c:v libx264 -c:a copy output.mp4
 Job done!
 
 ## References - get ffmpeg for Apple Silicon and make it available system-side
+### Download, install and mmake it available system-side
 Download ffmpeg from [OSXExperts](https://osxexperts.net/) → Download ffmpeg 7.1.1 (Apple Silicon)
 
-### Make it available system-side
 Put ffmpeg in this folder: `~/Downloads/App/`
 
 Use [nano](https://freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-nano-quit-command/) to edit your zsh configuration file:
@@ -44,4 +44,12 @@ chmod +x ~/Downloads/App/ffmpeg
 Check if ffmpeg works:
 ```
 ffmpeg -version
+```
+
+### Alternative way: via Homebrew package manager
+- https://brew.sh/
+  - Install Homebrew
+
+```
+brew install ffmpeg
 ```
