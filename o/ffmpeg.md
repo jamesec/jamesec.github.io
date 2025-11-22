@@ -18,7 +18,7 @@ ffmpeg -i upscaled.mp4 -vf subtitles=s.srt -c:v libx264 -c:a copy output.mp4
 Job done!
 
 ## References - get ffmpeg for Apple Silicon and make it available system-side
-### Download, install and mmake it available system-side
+### Download, install and make it available system-side
 Download ffmpeg from [OSXExperts](https://osxexperts.net/) → Download ffmpeg 7.1.1 (Apple Silicon)
 
 Put ffmpeg in this folder: `~/Downloads/App/`
