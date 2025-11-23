@@ -43,7 +43,7 @@ A special thanks to OpenAI’s ChatGPT for being an amazing helper along the way
 	- Tim Berners-Lee, a physicist at the CERN research institute in Switzerland invented HTML in 1991.
 - [HTML - Wikipedia](https://en.wikipedia.org/wiki/HTML)
 
-## Some codes on GitHub
+## I used some code on GitHub
 - [Prism - GitHub](https://github.com/PrismJS/prism/)
 	- Lightweight, robust, elegant syntax highlighting.
 - [minslide - GitHub](https://github.com/rwos/minslide)
