@@ -22,7 +22,6 @@
 		- For video and building AI products on a budget, try Gemini.
 
 ## Google AI learning resources
-For experienced users, `Google AI Essentials` is too basic and entry-level. Instead, go for `Google Prompting Essentials`.
 - Google Prompting Essentials
 	- [Course Structure](https://skills.google/paths/2337/course_templates/1229)
  	- [Google Prompting Essentials - Key Takeaways](https://scribd.com/document/874110067/Google-Prompting-Essentials-Key-Takeaways)
