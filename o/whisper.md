@@ -3,6 +3,8 @@
 
 Works on macOS with Apple silicon.
 
+It runs completely on your local device, giving you the highest level of privacy and security. I even tried disconnecting the internet and confirmed that the transcription still works.
+
 ## Install Homebrew package manager
 - https://brew.sh/
 	- Install Homebrew
