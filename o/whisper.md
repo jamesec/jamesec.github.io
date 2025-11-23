@@ -8,7 +8,7 @@ Works on macOS with Apple silicon.
 	- Install Homebrew
 
 ## Install Whisper (whisper-ctranslate2)
-whisper-ctranslate2 only works with Python 3.13 or earlier versions. It’s not compatible with Python 3.14, so we’ll use 3.13.
+whisper-ctranslate2 works with Python 3.13 and earlier, but not with 3.14, so we’ll use 3.13.
 
 ```
 # Step 1: Install Homebrew Python 3.13
