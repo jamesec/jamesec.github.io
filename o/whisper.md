@@ -1,6 +1,8 @@
 # Transcribe voices with Whisper
 `Nov 22, 2025`
 
+Works on macOS with Apple silicon.
+
 ## Install Homebrew package manager
 - https://brew.sh/
 	- Install Homebrew
@@ -47,4 +49,4 @@ whisper-ctranslate2 audio1.m4a \
 ## References - What is Whisper?
 - [Introducing Whisper - Open AI](https://openai.com/index/whisper/)
 	- September 21, 2022
-	- Whisper is an automatic speech recognition (ASR) system trained on 680,000 hours of multilingual and multitask supervised data collected from the web. 
+	- Whisper is an automatic speech recognition (ASR) system trained on 680,000 hours of multilingual and multitask supervised data collected from the web.
