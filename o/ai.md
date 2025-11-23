@@ -25,16 +25,16 @@
 For experienced users, `Google AI Essentials` is too basic and entry-level. Instead, go for `Google Prompting Essentials`.
 - Google Prompting Essentials
 	- [Course Structure](https://skills.google/paths/2337/course_templates/1229)
- 	- [Google Prompting Essentials - Key Takeaways](https://www.scribd.com/document/874110067/Google-Prompting-Essentials-Key-Takeaways)
+ 	- [Google Prompting Essentials - Key Takeaways](https://scribd.com/document/874110067/Google-Prompting-Essentials-Key-Takeaways)
 - Google AI Essentials
 	- [Course Structure](https://skills.google/course_templates/1224)
- - [Every Google AI Essentials Course Lesson - Jun 5, 2024 - YouTube](https://youtu.be/Hz0GtSycbLE)
+	- [Every Google AI Essentials Course Lesson - Jun 5, 2024 - YouTube](https://youtu.be/Hz0GtSycbLE)
 - `PDF` [Google Prompting Guide 101 (Oct 2024)](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf)
 	- Based on what we’ve learned from our users so far, **the most fruitful prompts average around 21 words with relevant context**, yet the prompts people try are usually less than nine words.
-- `PDF` [Google Prompt Engineering (Feb 2025)](https://www.innopreneur.io/wp-content/uploads/2025/04/22365_3_Prompt-Engineering_v7-1.pdf)
+- `PDF` [Google Prompt Engineering (Feb 2025)](https://innopreneur.io/wp-content/uploads/2025/04/22365_3_Prompt-Engineering_v7-1.pdf)
 
 ## Claude Code
-- [Disrupting the first reported AI-orchestrated cyber espionage campaign - Anthropic](https://www.anthropic.com/news/disrupting-AI-espionage)
+- [Disrupting the first reported AI-orchestrated cyber espionage campaign - Anthropic](https://anthropic.com/news/disrupting-AI-espionage)
 	- `PDF` [Read the report](https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf)
 
 > **The key was role-play**: the human operators claimed that they were employees of legitimate cybersecurity firms and convinced Claude that it was being used in defensive cybersecurity testing. 
@@ -53,7 +53,7 @@ It uses the word *espionage* in the title because this hacker group is funded by
 - [Accelerate AI development with Google Cloud TPUs](https://cloud.google.com/tpu)
 	- Google custom silicon announcements: Ironwood TPUs and new Axion VMs, designed to power the age of **inference**.
 	- Tensor Processing Units (TPUs)
-- [Why Google’s Ironwood TPU Could Break NVIDIA’s AI Chip Monopoly](https://www.christopherspenn.com/2025/07/why-googles-ironwood-tpu-could-break-nvidias-ai-chip-monopoly/)
+- [Why Google’s Ironwood TPU Could Break NVIDIA’s AI Chip Monopoly](https://christopherspenn.com/2025/07/why-googles-ironwood-tpu-could-break-nvidias-ai-chip-monopoly/)
 	- Inference is what happens when you use tools like ChatGPT and Gemini. AI models performing useful outputs is called inference, compared to training, when AI models are being built. Any time you’re doing something useful with AI as an end user, you’re doing inference.
 	- Here’s why Ironwood is a BIG deal. Almost all AI needs GPU (graphics processing unit) compute to do inference. 98% of that market is controlled by NVIDIA which has been supply-constrained for years due to demand. They literally can’t make chips fast enough to satisfy the demand from all the other big tech companies.
 	- Ironwood frees Google from the NVIDIA near-monopoly – and as both consumer and manufacturer of the TPUs, they can scale to their own needs faster.
