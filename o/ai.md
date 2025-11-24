@@ -1,6 +1,13 @@
 # Some AI resources
 `Nov 23, 2025`
 
+AI is very powerful and has always been a great helper for my work. Here I'm listing some essential AI-related resources.
+
+What bothers me when using AI are two things.  
+First, it keeps asking or suggesting the next step, and I end up saying, “No, thanks. Please stop asking or suggesting the next step.”  
+I’m curious and want to learn new things, but at the same time, the more time I spend with AI, the less return I feel I get for that time.  
+The other thing is the inaccuracy and hallucinations. Sometimes they’re really hard to notice or even realize.
+
 ## AI models I'm currently using
 - OpenAI ChatGPT https://chatgpt.com/?temporary-chat=true
 - Google Gemini https://gemini.google.com/app
