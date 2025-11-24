@@ -6,7 +6,8 @@ AI is very powerful and has always been a great helper for my work. Here I'm lis
 What bothers me when using AI are two things.  
 First, it keeps asking or suggesting the next step, and I end up saying, “No, thanks. Please stop asking or suggesting the next step.”  
 I’m curious and want to learn new things, but at the same time, the more time I spend with AI, the less return I feel I get for that time.  
-The other thing is the inaccuracy and hallucinations. Sometimes they’re really hard to notice or even realize.
+The other thing is the inaccuracy and hallucinations of AI. Sometimes they’re really hard to notice or even realize.  
+That’s why I like Palantir’s intelligence augmentation idea—humans take charge and integrate AI into their work and life.
 
 ## AI models I'm currently using
 - OpenAI ChatGPT https://chatgpt.com/?temporary-chat=true
@@ -69,3 +70,6 @@ It uses the word *espionage* in the title because this hacker group is funded by
 ## References
 - [Transcribe voices with Whisper](/o/s.htm?p=whisper)
 - [Best way to save your chat history with ChatGPT](/o/s.htm?p=export_chatgpt)
+- [Palantir Technologies - Wikipedia](https://en.wikipedia.org/wiki/Palantir_Technologies)
+  - Palantir said computers alone using artificial intelligence could not defeat an adaptive adversary.
+  - Instead, it proposed using human analysts to explore data from many sources, called intelligence augmentation.
