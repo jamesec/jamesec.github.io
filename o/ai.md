@@ -7,7 +7,7 @@ What bothers me when using AI are two things.
 First, it keeps asking or suggesting the next step, and I end up saying, “No, thanks. Please stop asking or suggesting the next step.”  
 I’m curious and want to learn new things, but at the same time, the more time I spend with AI, the less return I feel I get for that time.  
 The other thing is the inaccuracy and hallucinations of AI. Sometimes they’re really hard to notice or even realize.  
-That’s why I like Palantir’s intelligence augmentation idea—humans take charge and integrate AI into their work and life.
+That’s why I like Palantir’s **intelligence augmentation** idea—humans take charge and integrate AI into their work and life.
 
 ## AI models I'm currently using
 - OpenAI ChatGPT https://chatgpt.com/?temporary-chat=true
