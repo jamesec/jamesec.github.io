@@ -1,11 +1,11 @@
 # 一听就懂的多重迷走神经理论
-译者：陈艺文、田婴 / 2025 年 12 月 11 日  
-译自：[Polyvagal Theory Made Simple](https://youtu.be/0zrlKLgnov4)  
+译者：陈艺文、田婴 / 2025 年 12 月 12 日  
+译自：[Polyvagal Theory Made Simple](https://youtu.be/me6e6i1HaUE)  
 
 <div class="video-wrapper"><video src="https://files.catbox.moe/kbl2gh.mp4" controls playsinline></video></div>
 
-- [Polyvagal Theory Made Simple](https://youtu.be/0zrlKLgnov4)
-  - Video uploaded: Jun 18, 2024
+- [Polyvagal Theory Made Simple](https://youtu.be/me6e6i1HaUE)
+  - Video uploaded: Nov 21, 2025
 - 「关于安全感的科学」
 
 ---
