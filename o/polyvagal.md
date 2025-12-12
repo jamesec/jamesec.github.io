@@ -1,5 +1,5 @@
 # 一听就懂的多重迷走神经理论
-译者：陈艺文、田婴 / 2025 年 11 月 9 日  
+译者：陈艺文、田婴 / 2025 年 12 月 11 日  
 译自：[Polyvagal Theory Made Simple](https://youtu.be/0zrlKLgnov4)  
 
 <div class="video-wrapper"><video src="https://files.catbox.moe/bp2nau.mp4" controls playsinline></video></div>
