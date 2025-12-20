@@ -1,5 +1,5 @@
 # 村上春樹小說中的澄心聚焦 - 池見 陽
-作者：【日本】池見 陽 / 譯者：陳藝文、楊莉 / 2023 年 8 月 18 日
+作者：【日本】池見 陽 / 譯者：陳藝文、楊莉 / 2023 年 8 月 18 日  
 譯自：
 - [Focusing in Haruki Murakami's Novels (2013, 2016, 2023)](https://akira-ikemi.net/ewExternalFiles/MurakamiFinal.pdf)
 - [村上春樹の小説にみるフォーカシングの心理学 (2013, 2016)](https://akira-ikemi.net/ewExternalFiles/HarukiMurakami&Focusing.pdf)
