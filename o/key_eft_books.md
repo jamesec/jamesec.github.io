@@ -1,9 +1,10 @@
 # Key EFT books
-`January 30, 2025`
+`Updated: December 25, 2025 / January 30, 2025`
 
 Here’s a list of key EFT books. This is a personal selection to help prioritize my reading, just for your reference. Feel free to create your own list of key EFT books, or check out [the full list here](/o/s.htm?p=eft_books).
 
 ## First things first
+- Pascual-Leone, A. (2025). *Principles of emotion change: What works and when in psychotherapy and everyday life.* American Psychological Association.
 - Kwatra, A., Timulak, L., Huixian, S. L., Joyce, C., & Creaner, M. (2023). *Transforming emotional pain: An emotion-focused workbook.* Routledge, Taylor & Francis.
 - Elliott, R., Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2025). *Learning emotion-focused therapy: A comprehensive guide* (2nd ed.). American Psychological Association.
 - Greenberg, L. S. (2021). *Changing emotion with emotion: A practitioner's guide.* American Psychological Association. https://doi.org/10.1037/0000248-000
