@@ -1,17 +1,22 @@
 # UnGoogled Chromium browser with extensions
-`Updated: May 8, 2025 / April 23, 2024`
+`Updated: Jan 5, 2026 / April 23, 2024`
 
 This article outlines the steps on a Mac.
 
-**Step 1:** Download and install `UnGoogled Chromium`.  
-https://techspot.com/downloads/7181-ungoogled-chromium.html  
-A lightweight approach to removing Google web service dependency.
+UnGoogled Chromium browser. A lightweight approach to removing Google web service dependency.
 
-I've used it for a long time with no issues. However, since it's a precompiled binary, use it at your own risk.  
-Alternatively, you can compile it from [the source code](https://github.com/ungoogled-software/ungoogled-chromium).
+**Step 1:** Install `UnGoogled Chromium`.  
+Install Homebrew package manager
+- https://brew.sh/
+  - Install Homebrew
 
-As you manually install the downloaded `UnGoogled Chromium` App, click this button to allow it to run:  
-(macOS) System Settings → Privacy & Security → Security → Open Anyway
+```
+// Install UnGoogled Chromium browser
+brew install --cask ungoogled-chromium
+
+// Upgrade UnGoogled Chromium browser
+brew upgrade --cask ungoogled-chromium
+```
 
 ## Change this Chromium flag
 **Step 2:** Change this Chromium flag and relaunch the app.
@@ -29,18 +34,7 @@ Click "Add extension", done.
 It has been successfully installed, and you can skip the manual installation steps outlined below.  
 Pin the `Chromium Web Store` badge in your browser's toolbar. (Badges are hidden by default)
 
-For certain older versions of `UnGoogled Chromium`, you may need to install this extension manually.
-
-### Manually install an extension
-- **Use Safari Browser** to download the .crx file.
-	- [Chromium Web Store extension](https://github.com/NeverDecaf/chromium-web-store/releases/latest)
-- Change the extension name from .crx to **.cab**
-- Use the Keka App to unpack it into a folder.
-	- https://keka.io/en/ Download the Keka App **directly from the website** (there's a small link, something like:  Download v1.4.8), instead of downloading it from the Mac App Store - unless you want to pay $4.99 as a kind of donation.
-- For these manually installed extensions, give them specific folders:
-	- Such as, ~/Downloads/Chromium Extensions/Chromium.Web.Store 1.5.4.3/
-- Open `chrome://extensions/` in Chromium, then turn on "Developer mode".
-- Click "Load unpacked", then choose the folder from the previous step.
+For certain older versions of `UnGoogled Chromium`, you may need to install this extension manually. See the information in the references section.
 
 ## Extensions
 <span style="border-bottom:1.5px solid; border-bottom-color:#f55066;">If you rarely use an extension, disable it at `chrome://extensions/` and re-enable it when needed.</span> For example, I only enable the `Awesome Screen Recorder & Screenshot` extension when I want to capture a full-page screenshot of a webpage.
@@ -67,8 +61,30 @@ For certain older versions of `UnGoogled Chromium`, you may need to install this
 - [Don't track me Google](https://chromewebstore.google.com/detail/gdbofhhdmcladcmmfjolgndfkpobecpg)
   - Removes the annoying link-conversion at Google Search/maps/...
 
+---
+
 ## References
 - [Note to Those Perhaps Hesitant to Install Ungoogled Chromium - Reddit](https://www.reddit.com/r/browsers/comments/16ceot2/note_to_those_perhaps_hesitant_to_install/?rdt=48071)
   - "Why would I use chromium and contribute to the blink monopoly."
     - "Because the blink monopoly is already established and some websites I use on a daily basis don't fully work over firefox."
+
+### Manually download and install `UnGoogled Chromium`
+https://techspot.com/downloads/7181-ungoogled-chromium.html
+
+I've used it for a long time with no issues. However, since it's a precompiled binary, use it at your own risk.  
+Alternatively, you can compile it from [the source code](https://github.com/ungoogled-software/ungoogled-chromium).
+
+As you manually install the downloaded `UnGoogled Chromium` App, click this button to allow it to run:  
+(macOS) System Settings → Privacy & Security → Security → Open Anyway
+   
+### Manually install an extension
+- **Use Safari Browser** to download the .crx file.
+	- [Chromium Web Store extension](https://github.com/NeverDecaf/chromium-web-store/releases/latest)
+- Change the extension name from .crx to **.cab**
+- Use the Keka App to unpack it into a folder.
+	- https://keka.io/en/ Download the Keka App **directly from the website** (there's a small link, something like:  Download v1.4.8), instead of downloading it from the Mac App Store - unless you want to pay $4.99 as a kind of donation.
+- For these manually installed extensions, give them specific folders:
+	- Such as, ~/Downloads/Chromium Extensions/Chromium.Web.Store 1.5.4.3/
+- Open `chrome://extensions/` in Chromium, then turn on "Developer mode".
+- Click "Load unpacked", then choose the folder from the previous step.
 - [UnGoogled Chromium browser with extensions - archived](s.htm?p=ungoogled_archived)
