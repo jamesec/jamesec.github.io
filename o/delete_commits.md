@@ -16,7 +16,7 @@ Finally setup your .gitconfig.
 
 `git config --global user.name "github_username"`
 
-// Restart your command line if needed, to make sure the config is reloaded.
+Restart command line to make sure the config is reloaded.
 
 ## Pre-step B: Clone the repository locally
 (skip if you already have a local clone)
