@@ -1,5 +1,5 @@
 # How Robert Elliott came to EFT
-`April 25, 2024`
+`Apr 25, 2024`
 
 <iframe width="640" height="360" src="https://youtube.com/embed/uTJh8PQKNco" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
