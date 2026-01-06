@@ -1,28 +1,28 @@
-# UnGoogled Chromium browser with extensions
+# Ungoogled Chromium browser with extensions
 `Updated: Jan 5, 2026 / April 23, 2024`
 
 This article outlines the steps on a Mac.
 
-UnGoogled Chromium browser. A lightweight approach to removing Google web service dependency.
+`Ungoogled Chromium` browser. A lightweight approach to removing Google web service dependency.
 
-**Step 1:** Install `UnGoogled Chromium`.  
+**Step 1:** Install `Ungoogled Chromium`.  
 Install Homebrew package manager  
 https://brew.sh/ → Install Homebrew
 
 ```
-// Install UnGoogled Chromium browser
+// Install Ungoogled Chromium browser
 brew install --cask ungoogled-chromium
 
-// Upgrade UnGoogled Chromium browser
+// Upgrade Ungoogled Chromium browser
 brew upgrade --cask ungoogled-chromium
 ```
 
-Or manually download and install `UnGoogled Chromium` (no auto-update). See the information in the references section.
+Or manually download and install `Ungoogled Chromium` (no auto-update). See the information in the references section.
 
 ## Change this Chromium flag
 **Step 2:** Change this Chromium flag and relaunch the app.
 
-Run the `UnGoogled Chromium` app you downloaded, and it will display the page: `chrome://ungoogled-first-run/`, which includes the instructions:
+Run the `Ungoogled Chromium` app you downloaded, and it will display the page: `chrome://ungoogled-first-run/`, which includes the instructions:
 - Set `chrome://flags/#extension-mime-request-handling` to `Always prompt for install` and relaunch.
 - Then click on the latest `Chromium.Web.Store.crx` link on [the extension's Releases page](https://github.com/NeverDecaf/chromium-web-store/releases/latest) (as shown in Step 3 below).
 
@@ -35,7 +35,7 @@ Click "Add extension", done.
 It has been successfully installed, and you can skip the manual installation steps outlined below.  
 Pin the `Chromium Web Store` badge in your browser's toolbar. (Badges are hidden by default)
 
-For certain older versions of `UnGoogled Chromium`, you may need to install this extension manually. See the information in the references section.
+For some older versions of `Ungoogled Chromium`, you may need to install this extension manually. See the information in the references section.
 
 ## Extensions
 <span style="border-bottom:1.5px solid; border-bottom-color:#f55066;">If you rarely use an extension, disable it at `chrome://extensions/` and re-enable it when needed.</span> For example, I only enable the `Awesome Screen Recorder & Screenshot` extension when I want to capture a full-page screenshot of a webpage.
@@ -68,15 +68,15 @@ For certain older versions of `UnGoogled Chromium`, you may need to install this
 - [Note to Those Perhaps Hesitant to Install Ungoogled Chromium - Reddit](https://www.reddit.com/r/browsers/comments/16ceot2/note_to_those_perhaps_hesitant_to_install/?rdt=48071)
   - "Why would I use chromium and contribute to the blink monopoly."
     - "Because the blink monopoly is already established and some websites I use on a daily basis don't fully work over firefox."
-- [UnGoogled Chromium browser with extensions - archived](s.htm?p=ungoogled_archived)
+- [Ungoogled Chromium browser with extensions - archived](s.htm?p=ungoogled_archived)
 
-### Manually download and install `UnGoogled Chromium`
+### Manually download and install `Ungoogled Chromium`
 https://techspot.com/downloads/7181-ungoogled-chromium.html
 
 I've used it for a long time with no issues. However, since it's a precompiled binary, use it at your own risk.  
 Alternatively, you can compile it from [the source code](https://github.com/ungoogled-software/ungoogled-chromium).
 
-As you manually install the downloaded `UnGoogled Chromium` App, click this button to allow it to run:  
+As you manually install the downloaded `Ungoogled Chromium` App, click this button to allow it to run:  
 (macOS) System Settings → Privacy & Security → Security → Open Anyway
    
 ### Manually install an extension
