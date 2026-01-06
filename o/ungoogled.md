@@ -5,12 +5,12 @@ This article outlines the steps on a Mac.
 
 `Ungoogled Chromium` browser. A lightweight approach to removing Google web service dependency.
 
-**Step 1:** Install `Ungoogled Chromium`.  
+## Install `Ungoogled Chromium`
 Install Homebrew package manager  
 https://brew.sh/ → Install Homebrew
 
 ```
-// Install Ungoogled Chromium browser
+// Then, install Ungoogled Chromium browser
 brew install --cask ungoogled-chromium
 
 // Upgrade all Homebrew packages, including Ungoogled Chromium
@@ -19,16 +19,12 @@ brew update && brew upgrade && brew cleanup --prune=all
 
 Or manually download and install `Ungoogled Chromium` (no auto-update). See the information in the references section.
 
-## Change this Chromium flag
-**Step 2:** Change this Chromium flag and relaunch the app.
-
+## Change this Chromium flag and relaunch the app
 Run the `Ungoogled Chromium` app you downloaded, and it will display the page: `chrome://ungoogled-first-run/`, which includes the instructions:
 - Set `chrome://flags/#extension-mime-request-handling` to `Always prompt for install` and relaunch.
 - Then click on the latest `Chromium.Web.Store.crx` link on [the extension's Releases page](https://github.com/NeverDecaf/chromium-web-store/releases/latest) (as shown in Step 3 below).
 
-## Extension - Chromium Web Store
-**Step 3:** Install the `Chromium Web Store` extension.
-
+## Install the `Chromium Web Store` extension
 [Chromium Web Store extension](https://github.com/NeverDecaf/chromium-web-store/releases/latest)  
 Click on `Chromium.Web.Store.crx`. A prompt will appear: Add "Chromium Web Store"?  
 Click "Add extension", done.  
@@ -37,7 +33,7 @@ Pin the `Chromium Web Store` badge in your browser's toolbar. (Badges are hidden
 
 For some older versions of `Ungoogled Chromium`, you may need to install this extension manually. See the information in the references section.
 
-## Extensions
+## Recommended extensions
 <span style="border-bottom:1.5px solid; border-bottom-color:#f55066;">If you rarely use an extension, disable it at `chrome://extensions/` and re-enable it when needed.</span> For example, I only enable the `Awesome Screen Recorder & Screenshot` extension when I want to capture a full-page screenshot of a webpage.
 
 - [uBlock Origin](https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
