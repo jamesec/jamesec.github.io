@@ -1,5 +1,5 @@
 # Site credits
-`July 27, 2025`
+`Jul 27, 2025`
 
 I use these technologies and tools to build this site — much appreciated.
 
