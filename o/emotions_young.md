@@ -1,5 +1,5 @@
 # Emotions in young folk, Mirisse Foroughe (podcast interview)
-`September 8, 2024`
+`Sep 8, 2024`
 
 Mirisse Foroughe - Emotions in young folk  
 Season 2 Episode 1, The Emotion Focused Podcast (February 17, 2024)  
