@@ -12,19 +12,19 @@ https://brew.sh/ → Install Homebrew
 whisper-ctranslate2 works with Python 3.13 and earlier, but not with 3.14, so we’ll use 3.13.
 
 ```
-// Step 1: Install Homebrew Python 3.13
+# Step 1: Install Homebrew Python 3.13
 brew install python@3.13
 
-// Optional
+# Optional
 brew pin python@3.13
 
-// Step 2: Link Python 3.13 into your PATH
+# Step 2: Link Python 3.13 into your PATH
 brew link python@3.13 --force
 
-// Step 3: Install whisper-ctranslate2 safely for your user
+# Step 3: Install whisper-ctranslate2 in the user directory, avoiding system-wide changes
 python3.13 -m pip install --break-system-packages --user whisper-ctranslate2
 
-// Step 4: Verify the installation
+# Step 4: Verify the installation
 whisper-ctranslate2 --version
 ```
 
