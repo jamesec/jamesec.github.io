@@ -1,5 +1,5 @@
 # Focusing videos on YouTube
-`December 20, 2024`
+`Dec 20, 2024`
 
 > *Felt sense* is a meaningful sensation that is difficult to put into words but can be felt in the body in a vague and ambiguous way. When talking to someone and feeling something is not quite right, it's often unclear what exactly is bothering us, and it may not immediately translate into words. However, there can be a faint sense of discomfort or a sense that something is out-of-place, felt in the chest or within the "body." That sensation is referred to as *felt sense*. The act of slowly touching upon this implicitly meaningful *felt sense* and gradually bringing forth its meaning is called *Focusing*. Focusing-oriented psychotherapy is centered around this process and was developed by Eugene Gendlin, a renowned philosopher and psychotherapist who was a professor at University of Chicago. Since the 1960s, Professor Gendlin has emphasized and substantiated the significance of *Focusing* as a crucial process in psychotherapy and the "creation of meaning."
 > 
