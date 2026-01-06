@@ -5,7 +5,7 @@ Encrypted DNS helps keep your website lookups private, safer, and less tampered 
 
 ## LibreDNS
 - DNS over HTTPS, plus blocking Ads and Trackers
-	- `Endpoint`: `https://doh.libredns.gr/noads`
+	- `Endpoint`: 👉 `https://doh.libredns.gr/noads`
 - Privacy
 	- One of the motives for creating this service was to build a DNS server that will keep a minimum amount of (meta)data and only the bare minimum that is required for its core functionality, in respect to users privacy.
 	- We keep no logs. Logs are disabled for our DNS daemon.
@@ -15,7 +15,7 @@ Encrypted DNS helps keep your website lookups private, safer, and less tampered 
 - Search "DNS"
 	- `chrome://settings/security?search=DNS`
 - Enable the `Use secure DNS` switch
-- Select `Add custom DNS service provider` and fill in `https://doh.libredns.gr/noads`
+- Select `Add custom DNS service provider` and fill in 👉 `https://doh.libredns.gr/noads`
 
 ### LibreWolf browser
 - Preferences / Settings
@@ -28,7 +28,7 @@ Encrypted DNS helps keep your website lookups private, safer, and less tampered 
 	-  You are using LibreDNS. Your DNS requests are encrypted!
 
 ## If using Quad9 instead
-- `Endpoint`: `https://dns.quad9.net/dns-query`
+- `Endpoint`: 👉 `https://dns.quad9.net/dns-query`
 - More information: [Service Addresses & Features - Quad9](https://quad9.net/service/service-addresses-and-features/)
 
 ### Verify settings
@@ -38,16 +38,16 @@ Encrypted DNS helps keep your website lookups private, safer, and less tampered 
 
 ## Other encrypted DNS services
 - Mullvad DNS
-	- `Endpoint`: `https://adblock.dns.mullvad.net/dns-query`
+	- `Endpoint`: 👉 `https://adblock.dns.mullvad.net/dns-query`
 	- Verify: https://mullvad.net/en/check
 	- More information: [DNS over HTTPS and DNS over TLS - Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
 		- You can use this privacy-enhancing service even if you are not a Mullvad customer.
 - DNS4all
-	- `Endpoint`: `https://doh.dns4all.eu/dns-query`
+	- `Endpoint`: 👉 `https://doh.dns4all.eu/dns-query`
 	- Verify: https://dns4all.eu/test.html
 	- More information: https://dns4all.eu/
 - Wikimedia DNS
-	- `Endpoint`: `https://wikimedia-dns.org/dns-query`
+	- `Endpoint`: 👉 `https://wikimedia-dns.org/dns-query`
 	- Verify: https://check.wikimedia-dns.org/
 	- More information: [Wikimedia DNS Instructions](https://meta.wikimedia.org/wiki/Wikimedia_DNS/Instructions)
 
