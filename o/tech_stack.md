@@ -1,5 +1,5 @@
 # Tech stack of this website
-`Updated: July 9, 2025 / April 15, 2024`
+`Updated: Jul 9, 2025 / Apr 15, 2024`
 
 This is a so-called tech stack, just for fun. It's not that technical. Typically, when there's a front-end, back-end, etc., it's referred to as a tech **stack**. However, this one is very simple and minimalistic.
 
