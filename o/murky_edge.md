@@ -1,5 +1,5 @@
 # Focusing is... the murky edge
-`July 3, 2024`
+`Jul 3, 2024`
 
 <iframe width="560" height="315" src="https://youtube.com/embed/nqRQ7PQFLM0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
