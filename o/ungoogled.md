@@ -18,6 +18,8 @@ brew install --cask ungoogled-chromium
 brew upgrade --cask ungoogled-chromium
 ```
 
+Or manually download and install `UnGoogled Chromium` (no auto-update). See the information in the references section.
+
 ## Change this Chromium flag
 **Step 2:** Change this Chromium flag and relaunch the app.
 
