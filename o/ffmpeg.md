@@ -47,8 +47,7 @@ ffmpeg -version
 ```
 
 ### Alternative way: via Homebrew package manager
-- https://brew.sh/
-  - Install Homebrew
+https://brew.sh/ → Install Homebrew
 
 ```
 brew install ffmpeg
