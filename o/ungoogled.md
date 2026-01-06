@@ -67,6 +67,7 @@ For certain older versions of `UnGoogled Chromium`, you may need to install this
 - [Note to Those Perhaps Hesitant to Install Ungoogled Chromium - Reddit](https://www.reddit.com/r/browsers/comments/16ceot2/note_to_those_perhaps_hesitant_to_install/?rdt=48071)
   - "Why would I use chromium and contribute to the blink monopoly."
     - "Because the blink monopoly is already established and some websites I use on a daily basis don't fully work over firefox."
+- [UnGoogled Chromium browser with extensions - archived](s.htm?p=ungoogled_archived)
 
 ### Manually download and install `UnGoogled Chromium`
 https://techspot.com/downloads/7181-ungoogled-chromium.html
@@ -87,4 +88,3 @@ As you manually install the downloaded `UnGoogled Chromium` App, click this butt
 	- Such as, ~/Downloads/Chromium Extensions/Chromium.Web.Store 1.5.4.3/
 - Open `chrome://extensions/` in Chromium, then turn on "Developer mode".
 - Click "Load unpacked", then choose the folder from the previous step.
-- [UnGoogled Chromium browser with extensions - archived](s.htm?p=ungoogled_archived)
