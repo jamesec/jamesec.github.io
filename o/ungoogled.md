@@ -43,7 +43,7 @@ For some older versions of `Ungoogled Chromium`, you may need to install this ex
 - [SingleFile](https://chromewebstore.google.com/detail/mpiodijhokgodhhofbcjdecpffjipkle)
   - Save a complete page into a single HTML file.
   - Options → File format → self-extracting ZIP (universal)
-  - One example of how to use it: [Best way to save your chat history with ChatGPT](s.htm?p=export_chatgpt)
+  - One example of when to use it: [Best way to save your chat history with ChatGPT](s.htm?p=export_chatgpt)
 - [Awesome Screen Recorder & Screenshot](https://chromewebstore.google.com/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj)
   - I use this screenshot tool to capture full webpages.
 
