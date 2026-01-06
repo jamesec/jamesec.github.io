@@ -1,5 +1,5 @@
 # Amo el olor a libro nuevo
-`July 12, 2025`
+`Jul 12, 2025`
 
 Recently, I bought a paperback book from [Busca Libre](https://buscalibre.com/), and they also sent me a bookmark. It says, "Amo el olor a libro nuevo."  
 I went ahead and gathered many translations of this phrase using [DeepL](https://deepl.com/en/translator/) and [Google Translate](https://translate.google.com/).
