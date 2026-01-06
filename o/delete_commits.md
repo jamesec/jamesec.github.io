@@ -1,5 +1,5 @@
 # GitHub - delete all commit history
-`April 20, 2024`
+`Apr 20, 2024`
 
 ## Pre-step A: If not generated a ssh public/private key pair set before
 `cd ~/.ssh && ssh-keygen`
