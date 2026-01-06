@@ -5,7 +5,7 @@ This article outlines the steps on a Mac.
 
 `Ungoogled Chromium` browser. A lightweight approach to removing Google web service dependency.
 
-## Install `Ungoogled Chromium`
+## Install Ungoogled Chromium
 Install Homebrew package manager  
 https://brew.sh/ → Install Homebrew
 
@@ -24,7 +24,7 @@ Run the `Ungoogled Chromium` app you downloaded, and it will display the page: `
 - Set `chrome://flags/#extension-mime-request-handling` to `Always prompt for install` and relaunch.
 - Then click on the latest `Chromium.Web.Store.crx` link on [the extension's Releases page](https://github.com/NeverDecaf/chromium-web-store/releases/latest) (as shown in Step 3 below).
 
-## Install the `Chromium Web Store` extension
+## Install the Chromium Web Store extension
 [Chromium Web Store extension](https://github.com/NeverDecaf/chromium-web-store/releases/latest)  
 Click on `Chromium.Web.Store.crx`. A prompt will appear: Add "Chromium Web Store"?  
 Click "Add extension", done.  
@@ -66,7 +66,7 @@ For some older versions of `Ungoogled Chromium`, you may need to install this ex
     - "Because the blink monopoly is already established and some websites I use on a daily basis don't fully work over firefox."
 - [Ungoogled Chromium browser with extensions - archived](s.htm?p=ungoogled_archived)
 
-### Manually download and install `Ungoogled Chromium`
+### Manually download and install Ungoogled Chromium
 https://techspot.com/downloads/7181-ungoogled-chromium.html
 
 I've used it for a long time with no issues. However, since it's a precompiled binary, use it at your own risk.  
