@@ -1,5 +1,5 @@
 # EFT meta-supervision
-`July 16, 2025`
+`Jul 16, 2025`
 
 EFT meta-supervision is the supervision of supervision in EFT, meaning supervision by more experienced EFT supervisors.
 
