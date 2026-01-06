@@ -1,5 +1,5 @@
 # Show me the page
-`April 29, 2024`
+`Apr 29, 2024`
 
 Today I made some changes to this website. 
 
