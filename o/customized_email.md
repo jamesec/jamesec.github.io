@@ -1,5 +1,5 @@
 # Email with your own domain
-`Addendum added on January 22, 2025 / May 30, 2024`
+`Addendum added on Jan 22, 2025 / May 30, 2024`
 
 One of the easiest ways to use email with your own domain.
 
@@ -47,4 +47,4 @@ If you prefer to host your own mail server instead of relying on mail service pr
 - Tuta mail is open source: [Tuta at GitHub](https://github.com/tutao/tutanota)
 - [Tuta Mail Review – 2024 Test Results and Analysis - RestorePrivacy](https://restoreprivacy.com/email/reviews/tuta-mail/)
 	- Sending messages to non-Tuta users: A better way to go would be to use a secure messaging app like Signal Messenger to share the password.
-	- Tuta is a strong choice for anyone who wants a secure email service for general use. 
+	- Tuta is a strong choice for anyone who wants a secure email service for general use.
