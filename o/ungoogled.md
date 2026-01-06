@@ -27,7 +27,7 @@ Run the `Ungoogled Chromium` app you downloaded, and it will display the page: `
 [Chromium Web Store extension](https://github.com/NeverDecaf/chromium-web-store/releases/latest)  
 Click on `Chromium.Web.Store.crx`. A prompt will appear: Add "Chromium Web Store"?  
 Click "Add extension", done.  
-It has been successfully installed, and you can skip the manual installation steps mentioned below.  
+It has been successfully installed, and you can skip the manual installation steps.  
 Pin the `Chromium Web Store` badge in your browser's toolbar. (Badges are hidden by default)
 
 For some older versions of `Ungoogled Chromium`, you may need to install this extension manually. See the information in the references section.
