@@ -57,4 +57,4 @@ Using DoH (DNS over HTTPS) from a browser means that your DNS lookups are secure
 If you want to use these encrypted DNS services on your iPhone, you need to download and install a mobile configuration profile for DoH. You can find more details on each provider’s information page.
 
 ## References
-- [UnGoogled Chromium browser with extensions]((/o/s.htm?p=ungoogled))
+- [Ungoogled Chromium browser with extensions](/o/s.htm?p=ungoogled)
