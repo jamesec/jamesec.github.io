@@ -10,7 +10,7 @@ Encrypted DNS helps keep your website lookups private, safer, and less tampered 
 	- One of the motives for creating this service was to build a DNS server that will keep a minimum amount of (meta)data and only the bare minimum that is required for its core functionality, in respect to users privacy.
 	- We keep no logs. Logs are disabled for our DNS daemon.
 
-### Chromium / Brave browser
+### Chromium browser
 - Settings…
 - Search "DNS"
 	- `chrome://settings/security?search=DNS`
