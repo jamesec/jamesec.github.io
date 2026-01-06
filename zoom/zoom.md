@@ -1,5 +1,5 @@
 # Zoom
-`July 3, 2024`
+`Jul 3, 2024`
 
 If you're using macOS with Apple Silicon chip, download and install:<br>
 ① [direct download link for Mac with Apple Silicon chip](https://zoom.us/client/latest/zoomusInstallerFull.pkg?archType=arm64)
