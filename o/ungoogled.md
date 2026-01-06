@@ -61,7 +61,7 @@ For certain older versions of `UnGoogled Chromium`, you may need to install this
 - [WebRTC Control](https://chromewebstore.google.com/detail/fjkmabmdepjfammlpliljpnbhleegehm)
   - Turn it on.
   - Test WebRTC Leak: Your browser is NOT leaking webrtc ip-address.
-  - Have control over WebRTC (disable | enable) and protect your IP address.
+  - Have control over WebRTC (`disable | enable`) and protect your IP address.
 - [Privacy Badger](https://chromewebstore.google.com/detail/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
   - Privacy Badger automatically learns to block invisible trackers.
 - [Don't track me Google](https://chromewebstore.google.com/detail/gdbofhhdmcladcmmfjolgndfkpobecpg)
