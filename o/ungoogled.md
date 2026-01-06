@@ -22,13 +22,12 @@ Or manually download and install `Ungoogled Chromium` (no auto-update). See the 
 ## Change this Chromium flag and relaunch the app
 Run the `Ungoogled Chromium` app you downloaded, and it will display the page: `chrome://ungoogled-first-run/`, which includes the instructions:
 - Set `chrome://flags/#extension-mime-request-handling` to `Always prompt for install` and relaunch.
-- Then click on the latest `Chromium.Web.Store.crx` link on [the extension's Releases page](https://github.com/NeverDecaf/chromium-web-store/releases/latest) (as shown in Step 3 below).
 
 ## Install the Chromium Web Store extension
 [Chromium Web Store extension](https://github.com/NeverDecaf/chromium-web-store/releases/latest)  
 Click on `Chromium.Web.Store.crx`. A prompt will appear: Add "Chromium Web Store"?  
 Click "Add extension", done.  
-It has been successfully installed, and you can skip the manual installation steps outlined below.  
+It has been successfully installed, and you can skip the manual installation steps mentioned below.  
 Pin the `Chromium Web Store` badge in your browser's toolbar. (Badges are hidden by default)
 
 For some older versions of `Ungoogled Chromium`, you may need to install this extension manually. See the information in the references section.
@@ -37,14 +36,14 @@ For some older versions of `Ungoogled Chromium`, you may need to install this ex
 <span style="border-bottom:1px solid; border-bottom-color:#f55066;">If you rarely use an extension, disable it at `chrome://extensions/` and re-enable it when needed.</span> For example, I only enable the `Awesome Screen Recorder & Screenshot` extension when I want to capture a full-page screenshot of a webpage.
 
 - [uBlock Origin](https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-  - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+  - uBlock Origin - An efficient blocker. Fast and lean.
 - [Session Buddy](https://chromewebstore.google.com/detail/edacconmaakjimmfgnblocblbcdcpbko)
   - Session Buddy is a tab manager that can save all the tabs in your browser with a single click.
   - Settings → Other → Enable single-click close and delete
 - [SingleFile](https://chromewebstore.google.com/detail/mpiodijhokgodhhofbcjdecpffjipkle)
   - Save a complete page into a single HTML file.
   - Options → File format → self-extracting ZIP (universal)
-  - This is one example of how it can be used: [Best way to save your chat history with ChatGPT](s.htm?p=export_chatgpt)
+  - One example of how to use it: [Best way to save your chat history with ChatGPT](s.htm?p=export_chatgpt)
 - [Awesome Screen Recorder & Screenshot](https://chromewebstore.google.com/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj)
   - I use this screenshot tool to capture full webpages.
 
