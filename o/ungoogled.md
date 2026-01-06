@@ -7,8 +7,7 @@ UnGoogled Chromium browser. A lightweight approach to removing Google web servic
 
 **Step 1:** Install `UnGoogled Chromium`.  
 Install Homebrew package manager
-- https://brew.sh/
-  - Install Homebrew
+https://brew.sh/ → Install Homebrew
 
 ```
 // Install UnGoogled Chromium browser
