@@ -1,5 +1,5 @@
 # Ungoogled Chromium browser with extensions
-`Updated: Jan 5, 2026 / April 23, 2024`
+`Updated: Jan 5, 2026 / Apr 23, 2024`
 
 This article outlines the steps on a Mac.
 
