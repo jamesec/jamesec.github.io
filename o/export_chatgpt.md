@@ -1,5 +1,5 @@
 # Best way to save your chat history with ChatGPT
-`January 23, 2025`
+`Jan 23, 2025`
 
 I use ChatGPT in a minimalist, low-key way, without logging into the system. That is, I simply [start a new temporary chat](https://chatgpt.com/?temporary-chat=true) each time.
 
