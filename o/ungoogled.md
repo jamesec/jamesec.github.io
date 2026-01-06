@@ -34,7 +34,7 @@ Pin the `Chromium Web Store` badge in your browser's toolbar. (Badges are hidden
 For some older versions of `Ungoogled Chromium`, you may need to install this extension manually. See the information in the references section.
 
 ## Recommended extensions
-<span style="border-bottom:1.5px solid; border-bottom-color:#f55066;">If you rarely use an extension, disable it at `chrome://extensions/` and re-enable it when needed.</span> For example, I only enable the `Awesome Screen Recorder & Screenshot` extension when I want to capture a full-page screenshot of a webpage.
+<span style="border-bottom:1px solid; border-bottom-color:#f55066;">If you rarely use an extension, disable it at `chrome://extensions/` and re-enable it when needed.</span> For example, I only enable the `Awesome Screen Recorder & Screenshot` extension when I want to capture a full-page screenshot of a webpage.
 
 - [uBlock Origin](https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
   - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
