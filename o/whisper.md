@@ -6,8 +6,7 @@ Works on macOS with Apple silicon.
 It runs completely on your local device, giving you the highest level of privacy and security. I even tried disconnecting the internet and confirmed that the transcription still works.
 
 ## Install Homebrew package manager
-- https://brew.sh/
-	- Install Homebrew
+https://brew.sh/ → Install Homebrew
 
 ## Install Whisper (whisper-ctranslate2)
 whisper-ctranslate2 works with Python 3.13 and earlier, but not with 3.14, so we’ll use 3.13.
