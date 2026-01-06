@@ -1,7 +1,7 @@
 # UnGoogled Chromium browser with extensions - archived  
 Updated: [UnGoogled Chromium browser with extensions](s.htm?p=ungoogled)
 
-`April 23, 2024`
+`Apr 23, 2024`
 
 This article outlines the steps on a Mac.
 
