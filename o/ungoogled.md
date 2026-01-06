@@ -57,7 +57,7 @@ For certain older versions of `UnGoogled Chromium`, you may need to install this
 - [Awesome Screen Recorder & Screenshot](https://chromewebstore.google.com/detail/nlipoenfbbikpbjkfpfillcgkoblgpmj)
   - I use this screenshot tool to capture full webpages.
 
-### These extensions help enhance privacy, cybersecurity, and online protection:
+### These extensions help enhance privacy, cybersecurity, and online protection
 - [WebRTC Control](https://chromewebstore.google.com/detail/fjkmabmdepjfammlpliljpnbhleegehm)
   - Turn it on.
   - Test WebRTC Leak: Your browser is NOT leaking webrtc ip-address.
