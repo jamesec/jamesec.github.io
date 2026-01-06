@@ -1,5 +1,5 @@
 # Key EFT books
-`Updated: December 25, 2025 / January 30, 2025`
+`Updated: Dec 25, 2025 / Jan 30, 2025`
 
 Here’s a list of key EFT books. This is a personal selection to help prioritize my reading, just for your reference. Feel free to create your own list of key EFT books, or check out [the full list here](/o/s.htm?p=eft_books).
 
