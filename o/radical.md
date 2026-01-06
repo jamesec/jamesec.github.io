@@ -1,5 +1,5 @@
 # Radical acceptance, by Ann Weiser Cornell
-`April 20, 2024`
+`Apr 20, 2024`
 
 <iframe width="640" height="360" src="https://youtube.com/embed/gTdu3aHZUcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
