@@ -1,5 +1,5 @@
 # Changing emotion with emotion, Leslie Greenberg (podcast interview)
-`July 26, 2024`
+`Jul 26, 2024`
 
 Leslie Greenberg - Changing Emotion with Emotion  
 Series 1 Episode 11, The Emotion Focused Podcast (June 2, 2023)  
