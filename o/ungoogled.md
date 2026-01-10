@@ -10,10 +10,13 @@ Install Homebrew package manager
 https://brew.sh/ → Install Homebrew
 
 ```
-# Then, install Ungoogled Chromium browser
+# Then, install Ungoogled Chromium
 brew install --cask ungoogled-chromium
 
-# Upgrade all Homebrew packages, including Ungoogled Chromium
+# For maintenance: upgrade only Ungoogled Chromium
+brew upgrade --cask ungoogled-chromium
+
+# Alternatively: upgrade all Homebrew packages, including Ungoogled Chromium
 brew update && brew upgrade && brew cleanup --prune=all
 ```
 
