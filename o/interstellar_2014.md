@@ -20,13 +20,13 @@ Rewatching *Interstellar (2014)* left me with a few thoughts and small details I
 	- Whether Plan A or Plan B, Earth is doomed as a human home in *Interstellar*.
 	- Humanity’s future requires abandoning it — not saving it.
 - `00:35:33` Professor Brand: Find us a new home. By the time you return, I will have solved the problem of gravity. I give you my word. 
-- `00:37:02` Copper: Mankind was born on Earth, it was never meant to die here. 
+- `00:37:02` Cooper: Mankind was born on Earth, it was never meant to die here. 
 - `00:49:39` Professor Brand: Do not go gentle into that good night.
 	- In Dylan Thomas’s poem, that good night is a metaphor for death. “Good night” is a poetic way of referring to the end of life, like saying “rest” or “final sleep.” Thomas uses it to soften the harshness of death while still acknowledging it.
 	- Meaning of the whole line. Literally: “Do not accept death passively.”
 		- Or: fight for life, dignity, or purpose until the end.
 	- Both “*Do not go gentle into that good night*” and Hemingway’s *The Old Man and the Sea* explore human resilience, struggle, and dignity in the face of inevitable forces.
-- `01:16:21` Copper: When you become a parent, one thing becomes really clear. And that is that you want to make sure your chilldren **feel safe**.
+- `01:16:21` Cooper: When you become a parent, one thing becomes really clear. And that is that you want to make sure your chilldren **feel safe**.
 - `01:27:59` Dr. Brand: Maybe it means something more, something we can’t… yet understand. Maybe it’s some evidence, some… artifact of a higher dimension that we can’t consciously perceive. I’m drawn across the universe to someone I haven’t seen in a decade… who I know is probably dead. Love is the one thing we’re capable of perceiving… that transcends dimensions of time and space. Maybe we should trust that, even if we can’t understand it yet. `01:28:36`
 
 ## A key takeaway
