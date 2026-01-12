@@ -35,4 +35,4 @@ Rewatching *Interstellar (2014)* left me with a few thoughts and small details I
 *Interstellar* cost approximately $976,331 per minute of screen time.
 
 ## A key takeaway
-- A key takeaway: survival and mission success in extreme environments depend less on raw skill or technology, and more on psychological resilience and emotional regulation.
+Survival and mission success in extreme environments depend less on raw skill or technology, and more on psychological resilience and emotional regulation.
