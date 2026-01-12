@@ -1,6 +1,8 @@
 # Interstellar (2014) movie notes
 `Jan 12, 2026`
 
+`How strongly I recommend it: 9/10`
+
 ⚠️ **Spoiler Alert**: This post contains spoilers for the movie. Watch first if you wish to avoid them.
 
 ---
