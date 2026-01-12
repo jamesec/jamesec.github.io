@@ -3,6 +3,13 @@
 
 `How strongly I recommend it: 9/10`
 
+<img 
+  src="https://image.tmdb.org/t/p/w780/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg" 
+  alt="Interstellar (2014)" 
+  title="Interstellar (2014)" 
+  height="300" 
+/>
+
 ⚠️ **Spoiler Alert**: This post contains spoilers for the movie. Watch first if you wish to avoid them.
 
 ---
