@@ -16,7 +16,7 @@
 
 Rewatching *Interstellar (2014)* left me with a few thoughts and small details I wanted to write down before they faded.
 
-- `00:29:53` Professor Brand: We're not meant to save the world. We're meant to leave it. 
+- `00:29:53` Professor Brand: We’re not meant to save the world. We’re meant to leave it. 
 	- Whether Plan A or Plan B, Earth is doomed as a human home in *Interstellar*.
 	- Humanity’s future requires abandoning it — not saving it.
 - `00:35:33` Professor Brand: Find us a new home. By the time you return, I will have solved the problem of gravity. I give you my word. 
