@@ -10,8 +10,7 @@
   height="200" 
 />
 
-On Becoming Emotion Focused (2025) by Leslie S. Greenberg
-
+On Becoming Emotion Focused (2025) by Leslie S. Greenberg  
 ISBN: 978-1433843334
 
 It's [available on Amazon](https://amazon.com/dp/B0DLZBJ7DB/).
