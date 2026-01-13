@@ -14,7 +14,7 @@ Eric Berne, Key Figures in Counselling and Psychotherapy (1992) by Ian Stewart
 
 ISBN: 9781446230794
 
-It is [available on Amazon](https://amazon.com/dp/0803984677/). Or, you can [borrow it from the Internet Archive](https://archive.org/details/ericberne0000stew).
+It's [available on Amazon](https://amazon.com/dp/0803984677/). Or, you can [borrow it from the Internet Archive](https://archive.org/details/ericberne0000stew).
 
 This book is about the life and work of Eric Berne, the founder of Transactional Analysis, as a psychotherapy school. Stewart not only delves into Berne's theoretical frameworks but also sheds light on his practical applications, demonstrating how Transactional Analysis has been utilized in therapeutic settings to promote personal growth and effective communication.
 
