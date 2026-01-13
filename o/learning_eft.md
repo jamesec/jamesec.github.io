@@ -1,4 +1,4 @@
-# Learnine Emotion-Focused Therapy (2004) book notes
+# Learning Emotion-Focused Therapy (2004) book notes
 `Jul 26, 2024`
 
 `How strongly I recommend it: 8/10`
