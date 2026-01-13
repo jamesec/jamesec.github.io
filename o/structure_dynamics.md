@@ -12,7 +12,7 @@
 
 Berne, E. (1963). *The structure and dynamics of organizations and groups*. J. B. Lippincott Company.
 
-This book is no longer in print in the United States. It is [available used on Amazon](https://amazon.com/dp/0394172493/). Or, you can [borrow it from the Internet Archive](https://archive.org/details/structuredynamic0000eric).
+This book is no longer in print in the United States. It's [available used on Amazon](https://amazon.com/dp/0394172493/). Or, you can [borrow it from the Internet Archive](https://archive.org/details/structuredynamic0000eric).
 
 Dr. Berne published this book in 1963, after *Transactional Analysis in Psychotherapy* but before the wildly successful *Games People Play*. I recommend it as 7/10, but if you're preparing for CTA exam, it probably is a must read for you. Insights from this book, such as ways to become a leader, what is psychological leadership, different membership types, etc., help me to understand groups in a deeper way, and I can apply those concepts accordingly to benefit myself from time to time.
 
