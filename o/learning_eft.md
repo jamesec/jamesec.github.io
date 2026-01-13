@@ -15,7 +15,7 @@ Authors: Robert Elliott, Jeanne C. Watson, Rhonda N. Goldman, Leslie S. Greenber
 
 ISBN: 978-1591470809
 
-It is [available on Amazon](https://amazon.com/dp/B0029ZEW7G/).
+It's [available on Amazon](https://amazon.com/dp/B0029ZEW7G/).
 
 ---
 
