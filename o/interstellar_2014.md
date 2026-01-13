@@ -12,7 +12,7 @@
 
 ⚠️ **Spoilers ahead!** Watch the movie first if you don’t want them revealed.
 
----
+<hr>
 
 Rewatching *Interstellar (2014)* left me with a few thoughts and small details I wanted to write down before they faded.
 
