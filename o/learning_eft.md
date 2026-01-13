@@ -4,7 +4,7 @@
 `How strongly I recommend it: 8/10`
 
 <img 
-  src="/assets/images/learning_EFT_2004.gif" 
+  src="https://www.apa.org/pubs/books/images/4317035-475.gif" 
   alt="Learning Emotion-Focused Therapy (2004) by Robert Elliott, etc." 
   title="Learning Emotion-Focused Therapy (2004)" 
   height="200" 
