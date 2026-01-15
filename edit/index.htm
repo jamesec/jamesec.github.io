@@ -65,7 +65,7 @@
 
   // Export function
   function exportNotes() {
-    const blob = new Blob([document.body.textContent], { type: "text/plain" });
+    const blob = new Blob([document.body.innerText], { type: "text/plain" });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
     a.href = url;
@@ -106,11 +106,9 @@
   function handleSwipe() {
     const deltaX = touchEndX - touchStartX;
     const deltaY = touchEndY - touchStartY;
-    const minSwipeDistance = 100; // minimum swipe distance in pixels
+    const minSwipeDistance = 100;
     
-    // Check if horizontal swipe is dominant (more horizontal than vertical)
     if (Math.abs(deltaX) > Math.abs(deltaY) && Math.abs(deltaX) > minSwipeDistance) {
-      // Right to left swipe (deltaX is negative)
       if (deltaX < 0) {
         exportNotes();
       }
