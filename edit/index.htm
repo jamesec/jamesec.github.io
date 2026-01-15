@@ -34,9 +34,23 @@
 </head>
 <body contenteditable spellcheck="false" autocapitalize="off"></body>
 <script>
-  const STORAGE_KEY = "tiny-editor";
   const HTML_KEY = "tiny-editor-html";
   const editor = document.body;
+  
+  // Helper function to remove trailing empty elements
+  function cleanupTrailingElements() {
+    while (editor.lastChild) {
+      const last = editor.lastChild;
+      // Remove trailing <br> or empty <div>
+      if (last.nodeName === 'BR' || 
+          (last.nodeName === 'DIV' && last.textContent.trim() === '')) {
+        editor.removeChild(last);
+      } else {
+        break;
+      }
+    }
+  }
+  
   // Hide caret temporarily (fail-safe)
   editor.style.caretColor = "transparent";
   try {
@@ -51,24 +65,30 @@
   } finally {
     editor.style.caretColor = "";
   }
+  
   // Auto-save with debounce
   let saveTimeout;
   const saveNow = () => {
     try {
+      // Clean up trailing empty elements before saving
+      cleanupTrailingElements();
       // Save the actual HTML structure
       localStorage.setItem(HTML_KEY, editor.innerHTML);
     } catch (e) { console.warn(e); }
   };
+  
   editor.addEventListener("input", () => {
     clearTimeout(saveTimeout);
     saveTimeout = setTimeout(saveNow, 300);
   });
+  
   // Flush save on exit / background
   window.addEventListener("beforeunload", saveNow);
   window.addEventListener("pagehide", saveNow);
   document.addEventListener("visibilitychange", () => {
     if (document.visibilityState === "hidden") saveNow();
   });
+  
   // Export
   function exportNotes() {
     // Use innerText for export - converts to plain text with line breaks
@@ -85,6 +105,7 @@
     editor.style.opacity = "0.5";
     setTimeout(() => editor.style.opacity = "1", 200);
   }
+  
   // Cmd/Ctrl + E to export
   document.addEventListener("keydown", (e) => {
     if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "e") {
@@ -92,6 +113,7 @@
       exportNotes();
     }
   });
+  
   // Swipe right-to-left to export
   let touchStartX = 0;
   let touchStartY = 0;
