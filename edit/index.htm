@@ -1,0 +1,59 @@
+<!doctype html>
+<meta charset="utf-8">
+
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='90' font-size='90'>😄</text></svg>">
+
+<body contenteditable spellcheck="false"
+      style="background:#121212;color:#dcdcdc;font:20px system-ui;padding:2em;outline:none;overflow:auto;">
+</body>
+
+<script>
+const STORAGE_KEY = "dark-editor-hybrid";
+const BACKUP_TS_KEY = "dark-editor-last-backup";
+
+// Load saved content
+document.body.innerText = localStorage.getItem(STORAGE_KEY) || "";
+
+// Focus editor, place cursor at end, and scroll into view
+document.body.focus();
+const sel = document.getSelection();
+sel.collapse(document.body, 1);
+document.body.scrollTop = document.body.scrollHeight;
+
+// Auto-save on input
+document.body.addEventListener("input", () => {
+  localStorage.setItem(STORAGE_KEY, document.body.innerText);
+});
+
+// Cmd/Ctrl+S manual export
+document.addEventListener("keydown", (e) => {
+  if ((e.ctrlKey || e.metaKey) && e.key === "s") {
+    e.preventDefault();
+    downloadText("notes.txt", document.body.innerText);
+  }
+});
+
+// Auto-backup once per unique minute
+if (localStorage.getItem(STORAGE_KEY)) {
+  const now = new Date();
+  const timestamp = now.toISOString().slice(0,10) + "-" 
+                    + now.getHours().toString().padStart(2,"0") 
+                    + now.getMinutes().toString().padStart(2,"0");
+  const lastBackup = localStorage.getItem(BACKUP_TS_KEY);
+  if (lastBackup !== timestamp) {
+    downloadText(`backup-${timestamp}.txt`, localStorage.getItem(STORAGE_KEY));
+    localStorage.setItem(BACKUP_TS_KEY, timestamp);
+  }
+}
+
+// Helper function: download text as file
+function downloadText(filename, text) {
+  const blob = new Blob([text], { type: "text/plain" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = filename;
+  a.click();
+  URL.revokeObjectURL(url);
+}
+</script>
