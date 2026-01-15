@@ -35,20 +35,17 @@
 <body contenteditable spellcheck="false" autocapitalize="off"></body>
 <script>
   const STORAGE_KEY = "tiny-editor";
+  const HTML_KEY = "tiny-editor-html";
   const editor = document.body;
   // Hide caret temporarily (fail-safe)
   editor.style.caretColor = "transparent";
   try {
-    let saved = "";
     try {
-      saved = localStorage.getItem(STORAGE_KEY) || "";
-    } catch (e) { console.warn(e); }
-    // Use innerText consistently for both read and write
-    editor.innerText = saved;
-    // Immediately read back and save to normalize representation
-    const normalized = editor.innerText;
-    try {
-      localStorage.setItem(STORAGE_KEY, normalized);
+      // Load the saved HTML directly to preserve exact structure
+      const savedHTML = localStorage.getItem(HTML_KEY);
+      if (savedHTML) {
+        editor.innerHTML = savedHTML;
+      }
     } catch (e) { console.warn(e); }
     editor.focus();
   } finally {
@@ -58,10 +55,8 @@
   let saveTimeout;
   const saveNow = () => {
     try {
-      let text = editor.innerText;
-      // Normalize Windows line endings
-      text = text.replace(/\r\n/g, "\n");
-      localStorage.setItem(STORAGE_KEY, text);
+      // Save the actual HTML structure
+      localStorage.setItem(HTML_KEY, editor.innerHTML);
     } catch (e) { console.warn(e); }
   };
   editor.addEventListener("input", () => {
@@ -77,7 +72,10 @@
   // Export
   function exportNotes() {
     // Use innerText for export - converts to plain text with line breaks
-    const blob = new Blob([editor.innerText], { type: "text/plain" });
+    let text = editor.innerText;
+    // Normalize Windows line endings
+    text = text.replace(/\r\n/g, "\n");
+    const blob = new Blob([text], { type: "text/plain" });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
     a.href = url;
@@ -110,7 +108,7 @@
     const maxVerticalMovement = 50;
     if (Math.abs(deltaX) > Math.abs(deltaY) && 
         Math.abs(deltaX) > minSwipeDistance &&
-        Math.abs(deltaY) < maxVerticalMovement) { // Prevent accidental vertical swipes
+        Math.abs(deltaY) < maxVerticalMovement) {
       if (deltaX < 0) exportNotes();
     }
   }, { passive: true });
