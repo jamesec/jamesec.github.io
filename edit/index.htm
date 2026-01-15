@@ -45,7 +45,7 @@
     let saved = "";
     try {
       saved = localStorage.getItem(STORAGE_KEY) || "";
-    } catch {}
+    } catch (e) { console.warn(e); }
     // Use innerText so line breaks are preserved
     editor.innerText = saved;    
     editor.focus();
@@ -59,7 +59,7 @@
     try {
       // innerText converts block boundaries to real \n characters
       localStorage.setItem(STORAGE_KEY, editor.innerText);
-    } catch {}
+    } catch (e) { console.warn(e); }
   };
 
   editor.addEventListener("input", () => {
