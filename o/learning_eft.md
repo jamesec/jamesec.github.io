@@ -11,7 +11,7 @@
 />
 
 Learning Emotion-Focused Therapy: The Process-Experiential Approach to Change (2004)  
-Authors: Robert Elliott, Jeanne C. Watson, Rhonda N. Goldman, Leslie S. Greenberg
+Authors: Robert Elliott, Jeanne C. Watson, Rhonda N. Goldman, and Leslie S. Greenberg
 
 It's [available on Amazon](https://amazon.com/dp/B0029ZEW7G/).
 
