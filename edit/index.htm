@@ -69,6 +69,7 @@
 
   // Flush save on exit / background
   window.addEventListener("beforeunload", saveNow);
+  window.addEventListener("pagehide", saveNow);
   document.addEventListener("visibilitychange", () => {
     if (document.visibilityState === "hidden") saveNow();
   });
