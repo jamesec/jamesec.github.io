@@ -37,22 +37,25 @@
   const HTML_KEY = "tiny-editor-html";
   const editor = document.body;
   
-  // Helper function to clean HTML before saving
-  function getCleanedHTML() {
-    // Clone the editor to avoid modifying the live DOM
-    const clone = editor.cloneNode(true);
-    
-    // Remove trailing empty elements from the clone
-    while (clone.lastChild) {
-      const last = clone.lastChild;
+  // Helper function to clean trailing empty elements from a container
+  function cleanTrailingElements(container) {
+    while (container.lastChild) {
+      const last = container.lastChild;
+      // Check if it's a BR, or an empty/whitespace-only element
       if (last.nodeName === 'BR' || 
-          (last.nodeName === 'DIV' && last.textContent.trim() === '')) {
-        clone.removeChild(last);
+          (last.nodeType === 1 && last.textContent.trim() === '') ||
+          (last.nodeType === 3 && last.textContent.trim() === '')) {
+        container.removeChild(last);
       } else {
         break;
       }
     }
-    
+  }
+  
+  // Helper function to get cleaned HTML
+  function getCleanedHTML() {
+    const clone = editor.cloneNode(true);
+    cleanTrailingElements(clone);
     return clone.innerHTML;
   }
   
@@ -60,10 +63,11 @@
   editor.style.caretColor = "transparent";
   try {
     try {
-      // Load the saved HTML directly to preserve exact structure
       const savedHTML = localStorage.getItem(HTML_KEY);
       if (savedHTML) {
         editor.innerHTML = savedHTML;
+        // Clean up immediately after loading to prevent accumulation
+        cleanTrailingElements(editor);
       }
     } catch (e) { console.warn(e); }
     editor.focus();
@@ -75,7 +79,6 @@
   let saveTimeout;
   const saveNow = () => {
     try {
-      // Save cleaned HTML without modifying the live DOM
       localStorage.setItem(HTML_KEY, getCleanedHTML());
     } catch (e) { console.warn(e); }
   };
@@ -94,9 +97,7 @@
   
   // Export
   function exportNotes() {
-    // Use innerText for export - converts to plain text with line breaks
     let text = editor.innerText;
-    // Normalize Windows line endings
     text = text.replace(/\r\n/g, "\n");
     const blob = new Blob([text], { type: "text/plain" });
     const url = URL.createObjectURL(blob);
