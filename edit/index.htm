@@ -86,6 +86,8 @@
 
   // Export
   function exportNotes() {
+    // textContent is used intentionally for the same reasons as saving:
+    // it preserves actual text (including newlines) without layout side effects.
     const blob = new Blob([editor.textContent], { type: "text/plain" });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
