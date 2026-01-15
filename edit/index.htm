@@ -25,7 +25,7 @@
   document.body.focus();
   const sel = document.getSelection();
   sel.collapse(document.body, 1);
-  document.body.scrollTop = document.body.scrollHeight;
+  document.body.scrollIntoView(false);
       
   // Cmd/Ctrl + E to Export
   document.addEventListener("keydown", (e) => {
