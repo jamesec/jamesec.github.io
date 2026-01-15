@@ -31,9 +31,7 @@
     }
   </style>
 </head>
-
 <body contenteditable spellcheck="false"></body>
-
 <script>
   const STORAGE_KEY = "tiny-editor";
 
@@ -65,22 +63,58 @@
   // Restore cursor visibility
   document.body.style.caretColor = "";
 
+  // Export function
+  function exportNotes() {
+    const blob = new Blob([document.body.textContent], { type: "text/plain" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "notes.txt";
+    a.click();
+    URL.revokeObjectURL(url);
+    
+    // Visual feedback
+    document.body.style.opacity = "0.5";
+    setTimeout(() => document.body.style.opacity = "1", 150);
+  }
+
   // Cmd/Ctrl + E to Export
   document.addEventListener("keydown", (e) => {
     if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "e") {
       e.preventDefault();
-      const blob = new Blob([document.body.textContent], { type: "text/plain" });
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement("a");
-      a.href = url;
-      a.download = "notes.txt";
-      a.click();
-      URL.revokeObjectURL(url);
-      
-      // Visual feedback
-      document.body.style.opacity = "0.5";
-      setTimeout(() => document.body.style.opacity = "1", 150);
+      exportNotes();
     }
   });
+
+  // Swipe right-to-left to export (mobile)
+  let touchStartX = 0;
+  let touchStartY = 0;
+  let touchEndX = 0;
+  let touchEndY = 0;
+
+  document.body.addEventListener("touchstart", (e) => {
+    touchStartX = e.changedTouches[0].screenX;
+    touchStartY = e.changedTouches[0].screenY;
+  }, { passive: true });
+
+  document.body.addEventListener("touchend", (e) => {
+    touchEndX = e.changedTouches[0].screenX;
+    touchEndY = e.changedTouches[0].screenY;
+    handleSwipe();
+  }, { passive: true });
+
+  function handleSwipe() {
+    const deltaX = touchEndX - touchStartX;
+    const deltaY = touchEndY - touchStartY;
+    const minSwipeDistance = 100; // minimum swipe distance in pixels
+    
+    // Check if horizontal swipe is dominant (more horizontal than vertical)
+    if (Math.abs(deltaX) > Math.abs(deltaY) && Math.abs(deltaX) > minSwipeDistance) {
+      // Right to left swipe (deltaX is negative)
+      if (deltaX < 0) {
+        exportNotes();
+      }
+    }
+  }
 </script>
 </html>
