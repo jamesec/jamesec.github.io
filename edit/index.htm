@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Cmd/Ctrl + E to Export - Tiny editor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='90' font-size='90'>😄</text></svg>">
+  <style>
+    body {
+      background:#121212;
+      color:#dcdcdc;
+      font:4vw system-ui; /* responsive font size */
+      padding:5vw;        /* responsive padding */
+      outline:none;
+      overflow:auto;
+      white-space:pre-wrap;
+      word-break: break-word;
+    }
+
+    /* Floating export button */
+    #exportBtn {
+      position: fixed;
+      bottom: 1em;
+      right: 1em;
+      padding: 0.5em 1em;
+      background:#444;
+      color:#dcdcdc;
+      border:none;
+      border-radius:0.5em;
+      font-size:16px;
+      z-index:9999;
+      cursor: pointer;
+    }
+
+    #exportBtn:active {
+      background:#666;
+    }
+  </style>
+</head>
+
+<body contenteditable spellcheck="false"></body>
+
+<button id="exportBtn">Export</button>
+
+<script>
+  const STORAGE_KEY = "tiny-editor";
+
+  // Hide cursor temporarily to prevent flicker
+  document.body.style.caretColor = "transparent";
+
+  // Load saved content
+  document.body.innerText = localStorage.getItem(STORAGE_KEY) || "";
+
+  // Auto-save on input
+  document.body.addEventListener("input", () => {
+    localStorage.setItem(STORAGE_KEY, document.body.innerText);
+  });
+
+  // Focus editor, place cursor at end, scroll into view smoothly
+  document.body.focus();
+  const sel = document.getSelection();
+  sel.collapse(document.body, 1);
+  setTimeout(() => document.body.scrollIntoView(false), 0);
+  document.body.style.caretColor = "";
+
+  // Desktop: Cmd/Ctrl + E to Export
+  document.addEventListener("keydown", (e) => {
+    if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "e") {
+      e.preventDefault();
+      exportText();
+    }
+  });
+
+  // Mobile: export button
+  document.getElementById("exportBtn").addEventListener("click", exportText);
+
+  function exportText() {
+    const blob = new Blob([document.body.innerText], { type: "text/plain" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "notes.txt";
+    a.click();
+    URL.revokeObjectURL(url);
+  }
+</script>
+</html>
