@@ -27,7 +27,7 @@ document.body.addEventListener("input", () => {
 
 // Cmd/Ctrl+S manual export
 document.addEventListener("keydown", (e) => {
-  if ((e.ctrlKey || e.metaKey) && e.shiftKey && e.key.toLowerCase() === "s") {
+  if ((e.ctrlKey || e.metaKey) && e.key === "e") {
     e.preventDefault();
     downloadText("notes.txt", document.body.innerText);
   }
