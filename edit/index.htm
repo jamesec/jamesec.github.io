@@ -17,6 +17,7 @@
       background: #121212;
       color: #dcdcdc;
       font: calc(16px + 2vw) system-ui;
+      line-height: 1.4;
       padding: 4vw;
       outline: none;
       overflow-wrap: break-word;
@@ -32,53 +33,68 @@
   </style>
 </head>
 <body contenteditable spellcheck="false"></body>
+
 <script>
   const STORAGE_KEY = "tiny-editor";
+  const editor = document.body;
 
-  // Hide cursor temporarily to prevent flicker
-  document.body.style.caretColor = "transparent";
+  // Hide caret temporarily (fail-safe)
+  editor.style.caretColor = "transparent";
+  try {
+    let saved = "";
+    try {
+      saved = localStorage.getItem(STORAGE_KEY) || "";
+    } catch {}
+    editor.textContent = saved;
 
-  // Load saved content
-  document.body.textContent = localStorage.getItem(STORAGE_KEY) || "";
+    editor.focus();
+    const sel = document.getSelection();
+    if (sel) {
+      const range = document.createRange();
+      range.selectNodeContents(editor);
+      range.collapse(false);
+      sel.removeAllRanges();
+      sel.addRange(range);
+    }
+    editor.scrollIntoView(false);
+  } finally {
+    editor.style.caretColor = "";
+  }
 
-  // Auto-save on input with debounce
+  // Auto-save with debounce
   let saveTimeout;
-  document.body.addEventListener("input", () => {
+  const saveNow = () => {
+    try {
+      localStorage.setItem(STORAGE_KEY, editor.textContent);
+    } catch {}
+  };
+
+  editor.addEventListener("input", () => {
     clearTimeout(saveTimeout);
-    saveTimeout = setTimeout(() => {
-      localStorage.setItem(STORAGE_KEY, document.body.textContent);
-    }, 300);
+    saveTimeout = setTimeout(saveNow, 300);
   });
 
-  // Focus editor, place cursor at end
-  document.body.focus();
-  const sel = document.getSelection();
-  const range = document.createRange();
-  range.selectNodeContents(document.body);
-  range.collapse(false);
-  sel.removeAllRanges();
-  sel.addRange(range);
-  document.body.scrollIntoView(false);
+  // Flush save on exit / background
+  window.addEventListener("beforeunload", saveNow);
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "hidden") saveNow();
+  });
 
-  // Restore cursor visibility
-  document.body.style.caretColor = "";
-
-  // Export function
+  // Export
   function exportNotes() {
-    const blob = new Blob([document.body.innerText], { type: "text/plain" });
+    const blob = new Blob([editor.textContent], { type: "text/plain" });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
     a.href = url;
     a.download = "notes.txt";
     a.click();
-    URL.revokeObjectURL(url);
-    
-    // Visual feedback
-    document.body.style.opacity = "0.5";
-    setTimeout(() => document.body.style.opacity = "1", 150);
+    setTimeout(() => URL.revokeObjectURL(url), 0);
+
+    editor.style.opacity = "0.5";
+    setTimeout(() => editor.style.opacity = "1", 150);
   }
 
-  // Cmd/Ctrl + E to Export
+  // Cmd/Ctrl + E
   document.addEventListener("keydown", (e) => {
     if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "e") {
       e.preventDefault();
@@ -86,33 +102,25 @@
     }
   });
 
-  // Swipe right-to-left to export (mobile)
+  // Swipe right-to-left to export
   let touchStartX = 0;
   let touchStartY = 0;
-  let touchEndX = 0;
-  let touchEndY = 0;
 
-  document.body.addEventListener("touchstart", (e) => {
-    touchStartX = e.changedTouches[0].screenX;
-    touchStartY = e.changedTouches[0].screenY;
+  editor.addEventListener("touchstart", (e) => {
+    const t = e.changedTouches[0];
+    touchStartX = t.clientX;
+    touchStartY = t.clientY;
   }, { passive: true });
 
-  document.body.addEventListener("touchend", (e) => {
-    touchEndX = e.changedTouches[0].screenX;
-    touchEndY = e.changedTouches[0].screenY;
-    handleSwipe();
-  }, { passive: true });
-
-  function handleSwipe() {
-    const deltaX = touchEndX - touchStartX;
-    const deltaY = touchEndY - touchStartY;
+  editor.addEventListener("touchend", (e) => {
+    const t = e.changedTouches[0];
+    const deltaX = t.clientX - touchStartX;
+    const deltaY = t.clientY - touchStartY;
     const minSwipeDistance = 100;
-    
+
     if (Math.abs(deltaX) > Math.abs(deltaY) && Math.abs(deltaX) > minSwipeDistance) {
-      if (deltaX < 0) {
-        exportNotes();
-      }
+      if (deltaX < 0) exportNotes();
     }
-  }
+  }, { passive: true });
 </script>
 </html>
