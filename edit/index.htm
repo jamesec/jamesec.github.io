@@ -37,18 +37,23 @@
   const HTML_KEY = "tiny-editor-html";
   const editor = document.body;
   
-  // Helper function to remove trailing empty elements
-  function cleanupTrailingElements() {
-    while (editor.lastChild) {
-      const last = editor.lastChild;
-      // Remove trailing <br> or empty <div>
+  // Helper function to clean HTML before saving
+  function getCleanedHTML() {
+    // Clone the editor to avoid modifying the live DOM
+    const clone = editor.cloneNode(true);
+    
+    // Remove trailing empty elements from the clone
+    while (clone.lastChild) {
+      const last = clone.lastChild;
       if (last.nodeName === 'BR' || 
           (last.nodeName === 'DIV' && last.textContent.trim() === '')) {
-        editor.removeChild(last);
+        clone.removeChild(last);
       } else {
         break;
       }
     }
+    
+    return clone.innerHTML;
   }
   
   // Hide caret temporarily (fail-safe)
@@ -70,10 +75,8 @@
   let saveTimeout;
   const saveNow = () => {
     try {
-      // Clean up trailing empty elements before saving
-      cleanupTrailingElements();
-      // Save the actual HTML structure
-      localStorage.setItem(HTML_KEY, editor.innerHTML);
+      // Save cleaned HTML without modifying the live DOM
+      localStorage.setItem(HTML_KEY, getCleanedHTML());
     } catch (e) { console.warn(e); }
   };
   
