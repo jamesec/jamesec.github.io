@@ -46,8 +46,6 @@
     try {
       saved = localStorage.getItem(STORAGE_KEY) || "";
     } catch {}
-    editor.textContent = saved;
-
   // Use innerText so line breaks are preserved
   editor.innerText = saved;
     
