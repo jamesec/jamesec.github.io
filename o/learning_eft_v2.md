@@ -26,3 +26,14 @@ For example, Chapter 6 introduces the latest EFT markers, and Chapter 18 (“Rec
 I’m fortunate to have met three of the four authors—Robert, Rhonda, and Leslie—and they’re all wonderful mentors. I truly appreciate the chance to learn from them.
 
 I highly recommend this book to any therapist with a curious mind who wants to bring the latest evidence-based research on human emotions into their practice.
+
+## Book notes
+This second edition is an updated version of [the 2004 book *Learning Emotion-Focused Therapy*](/o/s.htm?p=learning_eft).
+
+In EFT, we say, “islands of work surrounded by an ocean of empathy,” and these islands of work are guided by markers and tasks.
+
+Chapter 6 presents these markers, particularly in the table included there.  
+TABLE 6.1. Specific Emotion-Focused Therapy (EFT) Tasks: Markers, Interventions, and Key Change Points
+
+I created a diagram based on that table.  
+[Markers and Tasks in EFT](https://evenc.org/assets/files/eft_markers.pdf)
