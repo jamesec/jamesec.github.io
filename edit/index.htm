@@ -46,19 +46,9 @@
     try {
       saved = localStorage.getItem(STORAGE_KEY) || "";
     } catch {}
-  // Use innerText so line breaks are preserved
-  editor.innerText = saved;
-    
+    // Use innerText so line breaks are preserved
+    editor.innerText = saved;    
     editor.focus();
-    const sel = document.getSelection();
-    if (sel) {
-      const range = document.createRange();
-      range.selectNodeContents(editor);
-      range.collapse(false);
-      sel.removeAllRanges();
-      sel.addRange(range);
-    }
-    editor.scrollIntoView(false);
   } finally {
     editor.style.caretColor = "";
   }
