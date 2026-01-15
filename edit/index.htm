@@ -13,25 +13,25 @@
       width: 100%;
       height: 100%;
     }
-
     body {
-      background:#121212;
-      color:#dcdcdc;
-      font: calc(16px + 2vw) system-ui;    /* scales on mobile & desktop */
-      padding:4vw;                         /* responsive padding */
-      outline:none;
-      overflow-wrap: break-word;           /* wrap long words */
+      background: #121212;
+      color: #dcdcdc;
+      font: calc(16px + 2vw) system-ui;
+      padding: 4vw;
+      outline: none;
+      overflow-wrap: break-word;
       word-break: break-word;
       white-space: pre-wrap;
       box-sizing: border-box;
-      overflow-y: auto;                    /* vertical scroll if needed */
-      overflow-x: hidden;                  /* prevent horizontal scroll */
+      overflow-y: auto;
+      overflow-x: hidden;
+      user-select: text;
+      -webkit-user-select: text;
+      transition: opacity 0.15s;
     }
   </style>
 </head>
-
 <body contenteditable spellcheck="false"></body>
-
 <script>
   const STORAGE_KEY = "tiny-editor";
 
@@ -39,18 +39,26 @@
   document.body.style.caretColor = "transparent";
 
   // Load saved content
-  document.body.innerText = localStorage.getItem(STORAGE_KEY) || "";
+  document.body.textContent = localStorage.getItem(STORAGE_KEY) || "";
 
-  // Auto-save on input
+  // Auto-save on input with debounce
+  let saveTimeout;
   document.body.addEventListener("input", () => {
-    localStorage.setItem(STORAGE_KEY, document.body.innerText);
+    clearTimeout(saveTimeout);
+    saveTimeout = setTimeout(() => {
+      localStorage.setItem(STORAGE_KEY, document.body.textContent);
+    }, 300);
   });
 
-  // Focus editor, place cursor at end, scroll into view smoothly
+  // Focus editor, place cursor at end
   document.body.focus();
   const sel = document.getSelection();
-  sel.collapse(document.body, 1);
-  setTimeout(() => document.body.scrollIntoView(false), 0);
+  const range = document.createRange();
+  range.selectNodeContents(document.body);
+  range.collapse(false);
+  sel.removeAllRanges();
+  sel.addRange(range);
+  document.body.scrollIntoView(false);
 
   // Restore cursor visibility
   document.body.style.caretColor = "";
@@ -59,13 +67,17 @@
   document.addEventListener("keydown", (e) => {
     if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "e") {
       e.preventDefault();
-      const blob = new Blob([document.body.innerText], { type: "text/plain" });
+      const blob = new Blob([document.body.textContent], { type: "text/plain" });
       const url = URL.createObjectURL(blob);
       const a = document.createElement("a");
       a.href = url;
       a.download = "notes.txt";
       a.click();
       URL.revokeObjectURL(url);
+      
+      // Visual feedback
+      document.body.style.opacity = "0.5";
+      setTimeout(() => document.body.style.opacity = "1", 150);
     }
   });
 </script>
