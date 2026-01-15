@@ -17,15 +17,15 @@
     body {
       background:#121212;
       color:#dcdcdc;
-      font:5vw system-ui; /* responsive font size */
-      padding:4vw;        /* responsive padding */
+      font: calc(16px + 2vw) system-ui;    /* scales on mobile & desktop */
+      padding:4vw;                         /* responsive padding */
       outline:none;
-      overflow-wrap: break-word;
+      overflow-wrap: break-word;           /* wrap long words */
       word-break: break-word;
       white-space: pre-wrap;
       box-sizing: border-box;
-      overflow-y: auto;
-      overflow-x: hidden;   /* prevent horizontal scroll */
+      overflow-y: auto;                    /* vertical scroll if needed */
+      overflow-x: hidden;                  /* prevent horizontal scroll */
     }
   </style>
 </head>
