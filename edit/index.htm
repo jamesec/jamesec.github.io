@@ -47,6 +47,9 @@
     } catch {}
     editor.textContent = saved;
 
+  // Use innerText so line breaks are preserved
+  editor.innerText = saved;
+    
     editor.focus();
     const sel = document.getSelection();
     if (sel) {
@@ -65,11 +68,8 @@
   let saveTimeout;
   const saveNow = () => {
     try {
-      // Use textContent intentionally:
-      // - Preserves real newline characters entered by the user
-      // - Avoids layout-dependent behavior and whitespace normalization
-      // - Faster and more predictable than innerText
-      localStorage.setItem(STORAGE_KEY, editor.textContent);
+      // innerText converts block boundaries to real \n characters
+      localStorage.setItem(STORAGE_KEY, editor.innerText);
     } catch {}
   };
 
@@ -86,9 +86,8 @@
 
   // Export
   function exportNotes() {
-    // textContent is used intentionally for the same reasons as saving:
-    // it preserves actual text (including newlines) without layout side effects.
-    const blob = new Blob([editor.textContent], { type: "text/plain" });
+    // Export normalized plain text
+    const blob = new Blob([editor.innerText], { type: "text/plain" });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
     a.href = url;
