@@ -65,6 +65,10 @@
   let saveTimeout;
   const saveNow = () => {
     try {
+      // Use textContent intentionally:
+      // - Preserves real newline characters entered by the user
+      // - Avoids layout-dependent behavior and whitespace normalization
+      // - Faster and more predictable than innerText
       localStorage.setItem(STORAGE_KEY, editor.textContent);
     } catch {}
   };
