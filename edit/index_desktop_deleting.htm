@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+      <meta charset="utf-8">
+      <title>Cmd/Ctrl + E to Export - Tiny editor</title>
+      <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='90' font-size='90'>😄</text></svg>">
+</head>
+
+<body contenteditable spellcheck="false"
+      style="background:#121212;color:#dcdcdc;font:20px system-ui;padding:2em;outline:none;overflow:auto;white-space:pre-wrap;">
+</body>
+
+<script>
+  const STORAGE_KEY = "tiny-editor";
+
+  // Temporarily hide cursor to prevent flicker
+  document.body.style.caretColor = "transparent";
+
+  // Load saved content
+  document.body.innerText = localStorage.getItem(STORAGE_KEY) || "";
+
+  // Auto-save on input
+  document.body.addEventListener("input", () => {
+    localStorage.setItem(STORAGE_KEY, document.body.innerText);
+  });
+
+  // Focus editor, place cursor at end, scroll into view smoothly
+  document.body.focus();
+  const sel = document.getSelection();
+  sel.collapse(document.body, 1);
+  setTimeout(() => document.body.scrollIntoView(false), 0);
+
+  // Restore cursor visibility
+  document.body.style.caretColor = "";
+      
+  // Cmd/Ctrl + E to Export
+  document.addEventListener("keydown", (e) => {
+    if ((e.ctrlKey || e.metaKey) && e.key === "e") {
+      e.preventDefault();
+      const blob = new Blob([document.body.innerText], { type: "text/plain" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = "notes.txt";
+      a.click();
+      URL.revokeObjectURL(url);
+    }
+  });
+</script>
+</html>
