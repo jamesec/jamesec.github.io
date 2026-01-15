@@ -11,7 +11,7 @@
 </body>
 
 <script>
-  const STORAGE_KEY = "dark-editor-hybrid";
+  const STORAGE_KEY = "tiny-editor";
 
   // Load saved content
   document.body.innerText = localStorage.getItem(STORAGE_KEY) || "";
@@ -20,7 +20,7 @@
   document.body.addEventListener("input", () => {
     localStorage.setItem(STORAGE_KEY, document.body.innerText);
   });
-
+      
   // Focus editor, place cursor at end, and scroll into view
   document.body.focus();
   const sel = document.getSelection();
