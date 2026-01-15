@@ -43,8 +43,13 @@
     try {
       saved = localStorage.getItem(STORAGE_KEY) || "";
     } catch (e) { console.warn(e); }
-    // Use textContent for loading - preserves exact newlines
-    editor.textContent = saved;    
+    // Use innerText consistently for both read and write
+    editor.innerText = saved;
+    // Immediately read back and save to normalize representation
+    const normalized = editor.innerText;
+    try {
+      localStorage.setItem(STORAGE_KEY, normalized);
+    } catch (e) { console.warn(e); }
     editor.focus();
   } finally {
     editor.style.caretColor = "";
@@ -53,7 +58,6 @@
   let saveTimeout;
   const saveNow = () => {
     try {
-      // Use innerText for reading - converts <div>/<br> to \n
       let text = editor.innerText;
       // Normalize Windows line endings
       text = text.replace(/\r\n/g, "\n");
