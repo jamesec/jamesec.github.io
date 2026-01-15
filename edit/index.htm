@@ -37,23 +37,25 @@
   const HTML_KEY = "tiny-editor-html";
   const editor = document.body;
   
-  // Helper function to get cleaned HTML with no trailing elements
-  function getCleanedHTML() {
-    const clone = editor.cloneNode(true);
-    
-    // Aggressively remove all trailing empty elements and text nodes
-    while (clone.lastChild) {
-      const last = clone.lastChild;
+  // Helper function to remove trailing empty elements from container
+  function removeTrailingEmpty(container) {
+    while (container.lastChild) {
+      const last = container.lastChild;
       const isEmpty = last.nodeType === 1 ? last.textContent.trim() === '' : 
                       last.nodeType === 3 ? last.textContent.trim() === '' : 
                       last.nodeName === 'BR';
       if (isEmpty) {
-        clone.removeChild(last);
+        container.removeChild(last);
       } else {
         break;
       }
     }
-    
+  }
+  
+  // Helper function to get cleaned HTML
+  function getCleanedHTML() {
+    const clone = editor.cloneNode(true);
+    removeTrailingEmpty(clone);
     return clone.innerHTML;
   }
   
@@ -64,6 +66,9 @@
       const savedHTML = localStorage.getItem(HTML_KEY);
       if (savedHTML) {
         editor.innerHTML = savedHTML;
+        // CRITICAL: Clean immediately after load and re-save
+        removeTrailingEmpty(editor);
+        localStorage.setItem(HTML_KEY, editor.innerHTML);
       }
     } catch (e) { console.warn(e); }
     editor.focus();
@@ -75,7 +80,6 @@
   let saveTimeout;
   const saveNow = () => {
     try {
-      // Save cleaned HTML
       localStorage.setItem(HTML_KEY, getCleanedHTML());
     } catch (e) { console.warn(e); }
   };
@@ -96,7 +100,6 @@
   function exportNotes() {
     let text = editor.innerText;
     text = text.replace(/\r\n/g, "\n");
-    // Remove trailing whitespace from export
     text = text.replace(/\s+$/, '');
     const blob = new Blob([text], { type: "text/plain" });
     const url = URL.createObjectURL(blob);
