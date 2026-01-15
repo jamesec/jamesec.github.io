@@ -82,7 +82,7 @@
     a.href = url;
     a.download = "notes.txt";
     a.click();
-    setTimeout(() => URL.revokeObjectURL(url), 0);
+    setTimeout(() => URL.revokeObjectURL(url), 200);
 
     editor.style.opacity = "0.5";
     setTimeout(() => editor.style.opacity = "1", 150);
@@ -111,8 +111,10 @@
     const deltaX = t.clientX - touchStartX;
     const deltaY = t.clientY - touchStartY;
     const minSwipeDistance = 100;
-
-    if (Math.abs(deltaX) > Math.abs(deltaY) && Math.abs(deltaX) > minSwipeDistance) {
+    const maxVerticalMovement = 50;
+    if (Math.abs(deltaX) > Math.abs(deltaY) && 
+        Math.abs(deltaX) > minSwipeDistance &&
+        Math.abs(deltaY) < maxVerticalMovement) { // Add this check
       if (deltaX < 0) exportNotes();
     }
   }, { passive: true });
