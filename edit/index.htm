@@ -4,13 +4,14 @@
   <meta charset="utf-8">
   <title>Cmd/Ctrl + E to Export - Tiny editor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#121212"> <!-- Safari / Chrome toolbar tint -->
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='90' font-size='90'>😄</text></svg>">
   <style>
     body {
       background:#121212;
       color:#dcdcdc;
-      font:4vw system-ui; /* responsive font size */
-      padding:5vw;        /* responsive padding */
+      font:4vw system-ui;       /* responsive font size */
+      padding:5vw;              /* responsive padding */
       outline:none;
       overflow:auto;
       white-space:pre-wrap;
@@ -22,14 +23,18 @@
       position: fixed;
       bottom: 1em;
       right: 1em;
-      padding: 0.5em 1em;
+      padding: 0.4em 0.8em;
       background:#444;
       color:#dcdcdc;
       border:none;
       border-radius:0.5em;
-      font-size:16px;
-      z-index:9999;
+      font-size:14px;
+      z-index:10000;            /* ensure on top */
       cursor: pointer;
+
+      /* iOS Safari fix */
+      -webkit-transform: translateZ(0);
+      transform: translateZ(0);
     }
 
     #exportBtn:active {
@@ -45,7 +50,7 @@
 <script>
   const STORAGE_KEY = "tiny-editor";
 
-  // Hide cursor temporarily to prevent flicker
+  // Temporarily hide cursor to prevent flicker
   document.body.style.caretColor = "transparent";
 
   // Load saved content
@@ -63,7 +68,7 @@
   setTimeout(() => document.body.scrollIntoView(false), 0);
   document.body.style.caretColor = "";
 
-  // Desktop: Cmd/Ctrl + E to Export
+  // Desktop: Cmd/Ctrl + E to Export - Tiny editor
   document.addEventListener("keydown", (e) => {
     if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "e") {
       e.preventDefault();
@@ -71,7 +76,7 @@
     }
   });
 
-  // Mobile: export button
+  // Mobile / Desktop: export button
   document.getElementById("exportBtn").addEventListener("click", exportText);
 
   function exportText() {
