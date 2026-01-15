@@ -115,7 +115,7 @@
     const maxVerticalMovement = 50;
     if (Math.abs(deltaX) > Math.abs(deltaY) && 
         Math.abs(deltaX) > minSwipeDistance &&
-        Math.abs(deltaY) < maxVerticalMovement) { // Add this check
+        Math.abs(deltaY) < maxVerticalMovement) { // Add this check to prevents accidental vertical swipes
       if (deltaX < 0) exportNotes();
     }
   }, { passive: true });
