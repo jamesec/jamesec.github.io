@@ -34,40 +34,17 @@
 </head>
 <body contenteditable spellcheck="false" autocapitalize="off"></body>
 <script>
-  const HTML_KEY = "tiny-editor-html";
+  const TEXT_KEY = "tiny-editor-text";
   const editor = document.body;
-  
-  // Helper function to clean trailing empty elements from a container
-  function cleanTrailingElements(container) {
-    while (container.lastChild) {
-      const last = container.lastChild;
-      // Check if it's a BR, or an empty/whitespace-only element
-      if (last.nodeName === 'BR' || 
-          (last.nodeType === 1 && last.textContent.trim() === '') ||
-          (last.nodeType === 3 && last.textContent.trim() === '')) {
-        container.removeChild(last);
-      } else {
-        break;
-      }
-    }
-  }
-  
-  // Helper function to get cleaned HTML
-  function getCleanedHTML() {
-    const clone = editor.cloneNode(true);
-    cleanTrailingElements(clone);
-    return clone.innerHTML;
-  }
   
   // Hide caret temporarily (fail-safe)
   editor.style.caretColor = "transparent";
   try {
     try {
-      const savedHTML = localStorage.getItem(HTML_KEY);
-      if (savedHTML) {
-        editor.innerHTML = savedHTML;
-        // Clean up immediately after loading to prevent accumulation
-        cleanTrailingElements(editor);
+      const savedText = localStorage.getItem(TEXT_KEY);
+      if (savedText !== null) {
+        // Load as plain text - browser will create consistent HTML structure
+        editor.textContent = savedText;
       }
     } catch (e) { console.warn(e); }
     editor.focus();
@@ -79,7 +56,11 @@
   let saveTimeout;
   const saveNow = () => {
     try {
-      localStorage.setItem(HTML_KEY, getCleanedHTML());
+      // Save as plain text with trailing whitespace removed
+      let text = editor.textContent;
+      text = text.replace(/\r\n/g, "\n"); // Normalize line endings
+      text = text.replace(/[\s\n]+$/, ''); // Remove all trailing whitespace/newlines
+      localStorage.setItem(TEXT_KEY, text);
     } catch (e) { console.warn(e); }
   };
   
@@ -97,8 +78,9 @@
   
   // Export
   function exportNotes() {
-    let text = editor.innerText;
+    let text = editor.textContent;
     text = text.replace(/\r\n/g, "\n");
+    text = text.replace(/[\s\n]+$/, ''); // Trim trailing whitespace
     const blob = new Blob([text], { type: "text/plain" });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
