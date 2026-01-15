@@ -57,8 +57,12 @@
   let saveTimeout;
   const saveNow = () => {
     try {
-      // innerText converts block boundaries to real \n characters
-      localStorage.setItem(STORAGE_KEY, editor.innerText);
+      let text = editor.innerText;
+      // Normalize Windows line endings
+      text = text.replace(/\r\n/g, "\n");
+      // Remove extra blank lines created by contenteditable
+      text = text.replace(/\n{3,}/g, "\n\n"); // max two consecutive newlines
+      localStorage.setItem(STORAGE_KEY, text);
     } catch (e) { console.warn(e); }
   };
 
