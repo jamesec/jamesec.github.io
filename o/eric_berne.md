@@ -10,8 +10,7 @@
   height="200" 
 />
 
-Eric Berne, Key Figures in Counselling and Psychotherapy (1992) by Ian Stewart  
-ISBN: 9781446230794
+Eric Berne, Key Figures in Counselling and Psychotherapy (1992) by Ian Stewart
 
 It's [available on Amazon](https://amazon.com/dp/0803984677/). Or, you can [borrow it from the Internet Archive](https://archive.org/details/ericberne0000stew).
 
