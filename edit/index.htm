@@ -16,7 +16,7 @@
     body {
       background: #121212;
       color: #dcdcdc;
-      font: calc(16px + 2vw) system-ui;
+      font: calc(16px + 1vw) system-ui;
       line-height: 1.4;
       padding: 4vw;
       outline: none;
@@ -53,47 +53,8 @@
       break;
     }
   }
-    
     return temp.innerHTML;
   }
-  
-  // Hide caret temporarily (fail-safe)
-  editor.style.caretColor = "transparent";
-  try {
-    try {
-      let savedHTML = localStorage.getItem(HTML_KEY);
-      if (savedHTML) {
-        // Strip before loading
-        savedHTML = stripTrailing(savedHTML);
-        editor.innerHTML = savedHTML;
-      }
-    } catch (e) { console.warn(e); }
-    editor.focus();
-  } finally {
-    editor.style.caretColor = "";
-  }
-  
-  // Auto-save with debounce
-  let saveTimeout;
-  const saveNow = () => {
-    try {
-      // Strip before saving
-      const cleanHTML = stripTrailing(editor.innerHTML);
-      localStorage.setItem(HTML_KEY, cleanHTML);
-    } catch (e) { console.warn(e); }
-  };
-  
-  editor.addEventListener("input", () => {
-    clearTimeout(saveTimeout);
-    saveTimeout = setTimeout(saveNow, 300);
-  });
-  
-  // Flush save on exit / background
-  window.addEventListener("beforeunload", saveNow);
-  window.addEventListener("pagehide", saveNow);
-  document.addEventListener("visibilitychange", () => {
-    if (document.visibilityState === "hidden") saveNow();
-  });
   
   // Export
   function exportNotes() {
