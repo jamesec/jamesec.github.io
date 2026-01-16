@@ -34,41 +34,38 @@
 </head>
 <body contenteditable spellcheck="false" autocapitalize="off"></body>
 <script>
-  const HTML_KEY = "tiny-editor-html";
+  const HTML_KEY = "tiny-editor-html-v2";
   const editor = document.body;
   
-  // Helper function to remove trailing empty elements from container
-  function removeTrailingEmpty(container) {
-    while (container.lastChild) {
-      const last = container.lastChild;
-      const isEmpty = last.nodeType === 1 ? last.textContent.trim() === '' : 
-                      last.nodeType === 3 ? last.textContent.trim() === '' : 
-                      last.nodeName === 'BR';
-      if (isEmpty) {
-        container.removeChild(last);
+  // Aggressively strip trailing empty nodes
+  function stripTrailing(html) {
+    const temp = document.createElement('div');
+    temp.innerHTML = html;
+    
+    // Remove all trailing BR, empty DIV, empty text nodes
+    while (temp.lastChild) {
+      const last = temp.lastChild;
+      if (last.nodeName === 'BR' ||
+          (last.nodeType === 1 && !last.textContent.trim()) ||
+          (last.nodeType === 3 && !last.textContent.trim())) {
+        temp.removeChild(last);
       } else {
         break;
       }
     }
-  }
-  
-  // Helper function to get cleaned HTML
-  function getCleanedHTML() {
-    const clone = editor.cloneNode(true);
-    removeTrailingEmpty(clone);
-    return clone.innerHTML;
+    
+    return temp.innerHTML;
   }
   
   // Hide caret temporarily (fail-safe)
   editor.style.caretColor = "transparent";
   try {
     try {
-      const savedHTML = localStorage.getItem(HTML_KEY);
+      let savedHTML = localStorage.getItem(HTML_KEY);
       if (savedHTML) {
+        // Strip before loading
+        savedHTML = stripTrailing(savedHTML);
         editor.innerHTML = savedHTML;
-        // Clean immediately after load and re-save
-        removeTrailingEmpty(editor);
-        localStorage.setItem(HTML_KEY, editor.innerHTML);
       }
     } catch (e) { console.warn(e); }
     editor.focus();
@@ -80,7 +77,9 @@
   let saveTimeout;
   const saveNow = () => {
     try {
-      localStorage.setItem(HTML_KEY, getCleanedHTML());
+      // Strip before saving
+      const cleanHTML = stripTrailing(editor.innerHTML);
+      localStorage.setItem(HTML_KEY, cleanHTML);
     } catch (e) { console.warn(e); }
   };
   
