@@ -34,83 +34,60 @@
 </head>
 <body contenteditable spellcheck="false" autocapitalize="off"></body>
 <script>
-  const HTML_KEY = "tiny-editor-html-v2";
+  const STORAGE_KEY = "tiny-editor";
   const editor = document.body;
-  
-  // Aggressively strip trailing empty nodes
-  function stripTrailing(html) {
-    const temp = document.createElement('div');
-    temp.innerHTML = html;
-    
-    // Remove all trailing BR, empty DIV, empty text nodes
-    while (temp.lastChild) {
-      const last = temp.lastChild;
-      if (last.nodeName === 'BR' ||
-          (last.nodeType === 1 && !last.textContent.trim()) ||
-          (last.nodeType === 3 && !last.textContent.trim())) {
-        temp.removeChild(last);
-      } else {
-        break;
-      }
-    }
-    
-    return temp.innerHTML;
-  }
-  
+
   // Hide caret temporarily (fail-safe)
   editor.style.caretColor = "transparent";
   try {
+    let saved = "";
     try {
-      let savedHTML = localStorage.getItem(HTML_KEY);
-      if (savedHTML) {
-        // Strip before loading
-        savedHTML = stripTrailing(savedHTML);
-        editor.innerHTML = savedHTML;
-      }
+      saved = localStorage.getItem(STORAGE_KEY) || "";
     } catch (e) { console.warn(e); }
+    // Use textContent for loading to preserve exact newlines
+    editor.textContent = saved;
     editor.focus();
   } finally {
     editor.style.caretColor = "";
   }
-  
+
   // Auto-save with debounce
   let saveTimeout;
   const saveNow = () => {
     try {
-      // Strip before saving
-      const cleanHTML = stripTrailing(editor.innerHTML);
-      localStorage.setItem(HTML_KEY, cleanHTML);
+      // Use innerText for saving/exporting (converts <div>/<br> to \n)
+      const text = editor.innerText;
+      localStorage.setItem(STORAGE_KEY, text);
     } catch (e) { console.warn(e); }
   };
-  
+
   editor.addEventListener("input", () => {
     clearTimeout(saveTimeout);
     saveTimeout = setTimeout(saveNow, 300);
   });
-  
+
   // Flush save on exit / background
   window.addEventListener("beforeunload", saveNow);
   window.addEventListener("pagehide", saveNow);
   document.addEventListener("visibilitychange", () => {
     if (document.visibilityState === "hidden") saveNow();
   });
-  
+
   // Export
   function exportNotes() {
     let text = editor.innerText;
     text = text.replace(/\r\n/g, "\n");
     text = text.replace(/\s+$/, '');
     const blob = new Blob([text], { type: "text/plain" });
-    const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
-    a.href = url;
+    a.href = URL.createObjectURL(blob);
     a.download = "notes.txt";
     a.click();
-    setTimeout(() => URL.revokeObjectURL(url), 200);
+    setTimeout(() => URL.revokeObjectURL(a.href), 200);
     editor.style.opacity = "0.5";
     setTimeout(() => editor.style.opacity = "1", 200);
   }
-  
+
   // Cmd/Ctrl + E to export
   document.addEventListener("keydown", (e) => {
     if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "e") {
@@ -118,7 +95,7 @@
       exportNotes();
     }
   });
-  
+
   // Swipe right-to-left to export
   let touchStartX = 0;
   let touchStartY = 0;
