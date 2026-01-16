@@ -34,22 +34,24 @@
 </head>
 <body contenteditable spellcheck="false" autocapitalize="off"></body>
 <script>
+  /* ------------------------------------------------------------------
+   * Tiny editor – Lumo fix for extra blank lines after refresh
+   * ------------------------------------------------------------------ */
   const HTML_KEY = "tiny-editor-html-v2";
   const editor   = document.body;
 
-  // -------------------------------------------------
-  // Helper – does a string become empty after trimming?
-  // -------------------------------------------------
+  /* --------------------------------------------------------------
+   * Helper: returns true if a string is empty or only whitespace
+   * -------------------------------------------------------------- */
   const isEffectivelyEmpty = (str) => !str || !str.trim();
 
-  // -------------------------------------------------
-  // Aggressively strip trailing empty nodes
-  // -------------------------------------------------
+  /* --------------------------------------------------------------
+   * Aggressively strip trailing empty nodes (BR, empty DIV, empty text)
+   * -------------------------------------------------------------- */
   function stripTrailing(html) {
     const temp = document.createElement('div');
     temp.innerHTML = html;
 
-    // Remove all trailing  , empty elements, empty text nodes
     while (temp.lastChild) {
       const last = temp.lastChild;
       if (
@@ -65,33 +67,46 @@
     return temp.innerHTML;
   }
 
-  // -------------------------------------------------
-  // Load saved content – special‑case empty value
-  // -------------------------------------------------
+  /* --------------------------------------------------------------
+   * Load saved content – special‑case empty value
+   * -------------------------------------------------------------- */
   editor.style.caretColor = "transparent";
   try {
     const raw = localStorage.getItem(HTML_KEY);
+
     if (!isEffectivelyEmpty(raw)) {
-      // Non‑empty: strip trailing junk and inject
+      // Non‑empty: clean then inject
       editor.innerHTML = stripTrailing(raw);
     } else {
-      // Empty: make sure the editable area stays truly empty
+      // Empty: keep the editor truly empty
       editor.innerHTML = "";
     }
-    editor.focus();
+
+    editor.focus();                     // give the caret focus
+    /* After focusing the browser may have inserted a  .
+       Remove it (or any other empty node) immediately.          */
+    requestAnimationFrame(() => {
+      if (isEffectivelyEmpty(editor.innerHTML) ||
+          editor.innerHTML.trim() === " ") {
+        editor.innerHTML = "";
+      }
+    });
   } catch (e) {
     console.warn(e);
   } finally {
     editor.style.caretColor = "";
   }
 
-  // -------------------------------------------------
-  // Auto‑save (debounced)
-  // -------------------------------------------------
+  /* --------------------------------------------------------------
+   * Auto‑save (debounced)
+   * -------------------------------------------------------------- */
   let saveTimeout;
   const saveNow = () => {
     try {
-      const cleanHTML = stripTrailing(editor.innerHTML);
+      // If the editor is empty, store an empty string (no stray  )
+      const cleanHTML = isEffectivelyEmpty(editor.innerHTML)
+        ? ""
+        : stripTrailing(editor.innerHTML);
       localStorage.setItem(HTML_KEY, cleanHTML);
     } catch (e) {
       console.warn(e);
@@ -110,11 +125,13 @@
     if (document.visibilityState === "hidden") saveNow();
   });
 
-  // -------------------------------------------------
-  // Export (Ctrl/Cmd + E or swipe)
-  // -------------------------------------------------
+  /* --------------------------------------------------------------
+   * Export (Ctrl/Cmd + E or swipe)
+   * -------------------------------------------------------------- */
   function exportNotes() {
-    let text = editor.innerText.replace(/\r\n/g, "\n").replace(/\s+$/, '');
+    let text = editor.innerText
+                .replace(/\r\n/g, "\n")
+                .replace(/\s+$/, '');
     const blob = new Blob([text], {type: "text/plain"});
     const url  = URL.createObjectURL(blob);
     const a    = document.createElement("a");
@@ -133,7 +150,9 @@
     }
   });
 
-  // Swipe right‑to‑left to export
+  /* --------------------------------------------------------------
+   * Swipe right‑to‑left to export
+   * -------------------------------------------------------------- */
   let touchStartX = 0, touchStartY = 0;
   editor.addEventListener("touchstart", (e) => {
     const t = e.changedTouches[0];
