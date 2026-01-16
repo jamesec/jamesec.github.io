@@ -12,52 +12,65 @@
       padding: 0;
       width: 100%;
       height: 100%;
-      background: #121212;
     }
     body {
+      background: #121212;
       color: #dcdcdc;
       font: calc(16px + 2vw) system-ui;
       line-height: 1.4;
       padding: 4vw;
       outline: none;
-      /* pre-wrap can be finicky with innerText; we use it carefully here */
-      white-space: pre-wrap;
       overflow-wrap: break-word;
       word-break: break-word;
+      white-space: pre-wrap;
       box-sizing: border-box;
       overflow-y: auto;
+      overflow-x: hidden;
+      user-select: text;
+      -webkit-user-select: text;
       transition: opacity 0.15s;
     }
   </style>
 </head>
-<body contenteditable="true" spellcheck="false" autocapitalize="off"></body>
+<body contenteditable spellcheck="false" autocapitalize="off"></body>
 <script>
-  const STORAGE_KEY = "tiny-editor-text-v3";
+  const HTML_KEY = "tiny-editor-html-v2";
   const editor = document.body;
 
-  // Load content
-  const savedText = localStorage.getItem(STORAGE_KEY);
-  if (savedText) {
-    // textContent is safer for raw data than innerText or innerHTML
-    editor.textContent = savedText;
+  // This removes ONLY the invisible browser-injected trailing BRs 
+  // that cause the "double newline" bug on refresh.
+  function cleanHTML(html) {
+    return html.replace(/(<br>|<\/div>)+$/gi, (match) => {
+      // Keep the closing div but strip the extra breaks
+      return match.includes('</div>') ? '</div>' : '';
+    }).trim();
   }
 
-  // Focus and move cursor to the end
-  editor.focus();
-  const range = document.createRange();
-  const sel = window.getSelection();
-  range.selectNodeContents(editor);
-  range.collapse(false);
-  sel.removeAllRanges();
-  sel.addRange(range);
+  // Load existing content
+  try {
+    const savedHTML = localStorage.getItem(HTML_KEY);
+    if (savedHTML) {
+      editor.innerHTML = savedHTML;
+    }
+  } catch (e) { console.warn(e); }
 
-  // Precision Save
+  // Focus and move cursor to end
+  editor.focus();
+  if (editor.childNodes.length > 0) {
+    const range = document.createRange();
+    const sel = window.getSelection();
+    range.selectNodeContents(editor);
+    range.collapse(false);
+    sel.removeAllRanges();
+    sel.addRange(range);
+  }
+
+  // Save logic
   const saveNow = () => {
     try {
-      // Use textContent to get the characters without browser-added <br> or <div> tags
-      // We trim only the very end to prevent the "growing" newline bug
-      const content = editor.textContent.replace(/\n+$/, '');
-      localStorage.setItem(STORAGE_KEY, content);
+      // We save the innerHTML but clean the "ghost" elements at the end
+      const currentHTML = editor.innerHTML;
+      localStorage.setItem(HTML_KEY, cleanHTML(currentHTML));
     } catch (e) { console.warn(e); }
   };
 
@@ -75,7 +88,8 @@
 
   // Export
   function exportNotes() {
-    const text = editor.textContent.trimEnd();
+    let text = editor.innerText;
+    text = text.replace(/\r\n/g, "\n").trimEnd();
     const blob = new Blob([text], { type: "text/plain" });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
@@ -87,7 +101,7 @@
     setTimeout(() => editor.style.opacity = "1", 200);
   }
 
-  // Key shortcuts
+  // Hotkeys
   document.addEventListener("keydown", (e) => {
     if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "e") {
       e.preventDefault();
