@@ -34,37 +34,41 @@
 </head>
 <body contenteditable spellcheck="false" autocapitalize="off"></body>
 <script>
-  const TEXT_KEY = "tiny-editor-text-v2";
+  const HTML_KEY = "tiny-editor-html";
   const editor = document.body;
   
-  // Convert plain text to HTML, preserving blank lines
-  function textToHTML(text) {
-    const lines = text.split('\n');
-    let html = '';
-    for (let i = 0; i < lines.length; i++) {
-      const line = lines[i];
-      if (i === 0 && line === '') {
-        // First line empty: use <br>
-        html += '<br>';
-      } else if (line === '') {
-        // Empty line: use <div><br></div>
-        html += '<div><br></div>';
+  // Helper function to remove trailing empty elements from container
+  function removeTrailingEmpty(container) {
+    while (container.lastChild) {
+      const last = container.lastChild;
+      const isEmpty = last.nodeType === 1 ? last.textContent.trim() === '' : 
+                      last.nodeType === 3 ? last.textContent.trim() === '' : 
+                      last.nodeName === 'BR';
+      if (isEmpty) {
+        container.removeChild(last);
       } else {
-        // Regular line with content
-        html += '<div>' + line.replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</div>';
+        break;
       }
     }
-    return html;
+  }
+  
+  // Helper function to get cleaned HTML
+  function getCleanedHTML() {
+    const clone = editor.cloneNode(true);
+    removeTrailingEmpty(clone);
+    return clone.innerHTML;
   }
   
   // Hide caret temporarily (fail-safe)
   editor.style.caretColor = "transparent";
   try {
     try {
-      const saved = localStorage.getItem(TEXT_KEY);
-      if (saved !== null) {
-        // Convert text to HTML structure that preserves blank lines
-        editor.innerHTML = textToHTML(saved);
+      const savedHTML = localStorage.getItem(HTML_KEY);
+      if (savedHTML) {
+        editor.innerHTML = savedHTML;
+        // Clean immediately after load and re-save
+        removeTrailingEmpty(editor);
+        localStorage.setItem(HTML_KEY, editor.innerHTML);
       }
     } catch (e) { console.warn(e); }
     editor.focus();
@@ -76,9 +80,7 @@
   let saveTimeout;
   const saveNow = () => {
     try {
-      // Save as plain text using innerText
-      const txt = editor.innerText;
-      localStorage.setItem(TEXT_KEY, txt);
+      localStorage.setItem(HTML_KEY, getCleanedHTML());
     } catch (e) { console.warn(e); }
   };
   
@@ -96,8 +98,10 @@
   
   // Export
   function exportNotes() {
-    const txt = editor.innerText;
-    const blob = new Blob([txt], { type: "text/plain" });
+    let text = editor.innerText;
+    text = text.replace(/\r\n/g, "\n");
+    text = text.replace(/\s+$/, '');
+    const blob = new Blob([text], { type: "text/plain" });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
     a.href = url;
