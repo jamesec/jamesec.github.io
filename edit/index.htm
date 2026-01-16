@@ -52,8 +52,9 @@
   function exportNotes() {
     const text = editor.innerText
       .replace(/\r\n/g, "\n")
+      .replace(/\n{3,}/g, "\n\n")
       .trimEnd();
-
+    
     if (!text.trim()) return;
 
     const blob = new Blob([text], { type: "text/plain" });
