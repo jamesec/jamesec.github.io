@@ -34,107 +34,52 @@
 </head>
 <body contenteditable spellcheck="false" autocapitalize="off"></body>
 <script>
-  /* ------------------------------------------------------------------
-   * Tiny editor – Lumo fix for extra blank lines after refresh
-   * ------------------------------------------------------------------ */
-  const HTML_KEY = "tiny-editor-html-v2";
-  const editor   = document.body;
-
-  /* --------------------------------------------------------------
-   * Helper: returns true if a string is empty or only whitespace
-   * -------------------------------------------------------------- */
-  const isEffectivelyEmpty = (str) => !str || !str.trim();
-
-  /* --------------------------------------------------------------
-   * Aggressively strip trailing empty nodes (BR, empty DIV, empty text)
-   * -------------------------------------------------------------- */
-  function stripTrailing(html) {
-    const temp = document.createElement('div');
-    temp.innerHTML = html;
-
-    while (temp.lastChild) {
-      const last = temp.lastChild;
-      if (
-        last.nodeName === 'BR' ||
-        (last.nodeType === 1 && !last.textContent.trim()) ||
-        (last.nodeType === 3 && !last.textContent.trim())
-      ) {
-        temp.removeChild(last);
-      } else {
-        break;
-      }
-    }
-    return temp.innerHTML;
-  }
-
-  /* --------------------------------------------------------------
-   * Load saved content – special‑case empty value
-   * -------------------------------------------------------------- */
+  const TEXT_KEY = "tiny-editor-text";
+  const editor = document.body;
+  
+  // Hide caret temporarily (fail-safe)
   editor.style.caretColor = "transparent";
   try {
-    const raw = localStorage.getItem(HTML_KEY);
-
-    if (!isEffectivelyEmpty(raw)) {
-      // Non‑empty: clean then inject
-      editor.innerHTML = stripTrailing(raw);
-    } else {
-      // Empty: keep the editor truly empty
-      editor.innerHTML = "";
-    }
-
-    editor.focus();                     // give the caret focus
-    /* After focusing the browser may have inserted a  .
-       Remove it (or any other empty node) immediately.          */
-    requestAnimationFrame(() => {
-      if (isEffectivelyEmpty(editor.innerHTML) ||
-          editor.innerHTML.trim() === " ") {
-        editor.innerHTML = "";
+    try {
+      const saved = localStorage.getItem(TEXT_KEY);
+      if (saved !== null) {
+        // Use innerText for loading - preserves line breaks
+        editor.innerText = saved;
       }
-    });
-  } catch (e) {
-    console.warn(e);
+    } catch (e) { console.warn(e); }
+    editor.focus();
   } finally {
     editor.style.caretColor = "";
   }
-
-  /* --------------------------------------------------------------
-   * Auto‑save (debounced)
-   * -------------------------------------------------------------- */
+  
+  // Auto-save with debounce
   let saveTimeout;
   const saveNow = () => {
     try {
-      // If the editor is empty, store an empty string (no stray  )
-      const cleanHTML = isEffectivelyEmpty(editor.innerHTML)
-        ? ""
-        : stripTrailing(editor.innerHTML);
-      localStorage.setItem(HTML_KEY, cleanHTML);
-    } catch (e) {
-      console.warn(e);
-    }
+      // Use innerText for saving - plain text, no HTML nodes
+      const txt = editor.innerText;
+      localStorage.setItem(TEXT_KEY, txt);
+    } catch (e) { console.warn(e); }
   };
-
+  
   editor.addEventListener("input", () => {
     clearTimeout(saveTimeout);
     saveTimeout = setTimeout(saveNow, 300);
   });
-
+  
   // Flush save on exit / background
   window.addEventListener("beforeunload", saveNow);
-  window.addEventListener("pagehide",     saveNow);
+  window.addEventListener("pagehide", saveNow);
   document.addEventListener("visibilitychange", () => {
     if (document.visibilityState === "hidden") saveNow();
   });
-
-  /* --------------------------------------------------------------
-   * Export (Ctrl/Cmd + E or swipe)
-   * -------------------------------------------------------------- */
+  
+  // Export
   function exportNotes() {
-    let text = editor.innerText
-                .replace(/\r\n/g, "\n")
-                .replace(/\s+$/, '');
-    const blob = new Blob([text], {type: "text/plain"});
-    const url  = URL.createObjectURL(blob);
-    const a    = document.createElement("a");
+    const txt = editor.innerText;
+    const blob = new Blob([txt], { type: "text/plain" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
     a.href = url;
     a.download = "notes.txt";
     a.click();
@@ -142,36 +87,34 @@
     editor.style.opacity = "0.5";
     setTimeout(() => editor.style.opacity = "1", 200);
   }
-
+  
+  // Cmd/Ctrl + E to export
   document.addEventListener("keydown", (e) => {
     if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "e") {
       e.preventDefault();
       exportNotes();
     }
   });
-
-  /* --------------------------------------------------------------
-   * Swipe right‑to‑left to export
-   * -------------------------------------------------------------- */
-  let touchStartX = 0, touchStartY = 0;
+  
+  // Swipe right-to-left to export
+  let touchStartX = 0;
+  let touchStartY = 0;
   editor.addEventListener("touchstart", (e) => {
     const t = e.changedTouches[0];
     touchStartX = t.clientX;
     touchStartY = t.clientY;
-  }, {passive: true});
-
+  }, { passive: true });
   editor.addEventListener("touchend", (e) => {
     const t = e.changedTouches[0];
     const deltaX = t.clientX - touchStartX;
     const deltaY = t.clientY - touchStartY;
     const minSwipeDistance = 100;
     const maxVerticalMovement = 50;
-    if (Math.abs(deltaX) > Math.abs(deltaY) &&
+    if (Math.abs(deltaX) > Math.abs(deltaY) && 
         Math.abs(deltaX) > minSwipeDistance &&
-        Math.abs(deltaY) < maxVerticalMovement &&
-        deltaX < 0) {
-      exportNotes();
+        Math.abs(deltaY) < maxVerticalMovement) {
+      if (deltaX < 0) exportNotes();
     }
-  }, {passive: true});
+  }, { passive: true });
 </script>
 </html>
