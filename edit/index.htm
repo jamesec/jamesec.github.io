@@ -34,7 +34,7 @@
 </head>
 <body contenteditable spellcheck="false" autocapitalize="off"></body>
 <script>
-  const HTML_KEY = "tiny-editor-html-v2";
+  const HTML_KEY = "tiny-editor-html";
   const editor = document.body;
   
   // Aggressively strip trailing empty nodes
@@ -42,17 +42,17 @@
     const temp = document.createElement('div');
     temp.innerHTML = html;
     
-    // Remove all trailing BR, empty DIV, empty text nodes
-    while (temp.lastChild) {
-      const last = temp.lastChild;
-      if (last.nodeName === 'BR' ||
-          (last.nodeType === 1 && !last.textContent.trim()) ||
-          (last.nodeType === 3 && !last.textContent.trim())) {
-        temp.removeChild(last);
-      } else {
-        break;
-      }
+  // Remove all trailing BR, empty DIV, empty text nodes
+  while (temp.lastChild) {
+    const last = temp.lastChild;
+    if (last.nodeName === 'BR' ||
+        (last.nodeType === 1 && !last.textContent.trim()) ||
+        (last.nodeType === 3 && !last.textContent.trim())) {
+      temp.removeChild(last);
+    } else {
+      break;
     }
+  }
     
     return temp.innerHTML;
   }
