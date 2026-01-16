@@ -12,65 +12,61 @@
       padding: 0;
       width: 100%;
       height: 100%;
+      background: #121212;
     }
     body {
-      background: #121212;
       color: #dcdcdc;
       font: calc(16px + 2vw) system-ui;
       line-height: 1.4;
       padding: 4vw;
       outline: none;
+      /* pre-wrap can be finicky with innerText; we use it carefully here */
+      white-space: pre-wrap;
       overflow-wrap: break-word;
       word-break: break-word;
-      white-space: pre-wrap;
       box-sizing: border-box;
       overflow-y: auto;
-      overflow-x: hidden;
-      user-select: text;
-      -webkit-user-select: text;
       transition: opacity 0.15s;
     }
   </style>
 </head>
-<body contenteditable spellcheck="false" autocapitalize="off"></body>
+<body contenteditable="true" spellcheck="false" autocapitalize="off"></body>
 <script>
-  const STORAGE_KEY = "tiny-editor-text-v2";
+  const STORAGE_KEY = "tiny-editor-text-v3";
   const editor = document.body;
 
-  // Load existing content
+  // Load content
   const savedText = localStorage.getItem(STORAGE_KEY);
   if (savedText) {
-    // innerText handles the conversion of stored newlines to the UI correctly
-    editor.innerText = savedText.trimEnd();
+    // textContent is safer for raw data than innerText or innerHTML
+    editor.textContent = savedText;
   }
 
   // Focus and move cursor to the end
   editor.focus();
-  if (editor.innerText.length > 0) {
-    const range = document.createRange();
-    const sel = window.getSelection();
-    range.selectNodeContents(editor);
-    range.collapse(false);
-    sel.removeAllRanges();
-    sel.addRange(range);
-  }
+  const range = document.createRange();
+  const sel = window.getSelection();
+  range.selectNodeContents(editor);
+  range.collapse(false);
+  sel.removeAllRanges();
+  sel.addRange(range);
 
-  // Auto-save logic
-  let saveTimeout;
+  // Precision Save
   const saveNow = () => {
     try {
-      // trimEnd() removes the invisible trailing BR/whitespace that causes the bug
-      const content = editor.innerText.trimEnd();
+      // Use textContent to get the characters without browser-added <br> or <div> tags
+      // We trim only the very end to prevent the "growing" newline bug
+      const content = editor.textContent.replace(/\n+$/, '');
       localStorage.setItem(STORAGE_KEY, content);
     } catch (e) { console.warn(e); }
   };
 
+  let saveTimeout;
   editor.addEventListener("input", () => {
     clearTimeout(saveTimeout);
     saveTimeout = setTimeout(saveNow, 300);
   });
 
-  // Flush save on exit / background
   window.addEventListener("beforeunload", saveNow);
   window.addEventListener("pagehide", saveNow);
   document.addEventListener("visibilitychange", () => {
@@ -79,7 +75,7 @@
 
   // Export
   function exportNotes() {
-    let text = editor.innerText.trimEnd();
+    const text = editor.textContent.trimEnd();
     const blob = new Blob([text], { type: "text/plain" });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
@@ -91,7 +87,7 @@
     setTimeout(() => editor.style.opacity = "1", 200);
   }
 
-  // Cmd/Ctrl + E to export
+  // Key shortcuts
   document.addEventListener("keydown", (e) => {
     if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "e") {
       e.preventDefault();
@@ -99,25 +95,18 @@
     }
   });
 
-  // Swipe right-to-left to export
-  let touchStartX = 0;
-  let touchStartY = 0;
+  // Swipe logic
+  let touchStartX = 0, touchStartY = 0;
   editor.addEventListener("touchstart", (e) => {
-    const t = e.changedTouches[0];
-    touchStartX = t.clientX;
-    touchStartY = t.clientY;
+    touchStartX = e.changedTouches[0].clientX;
+    touchStartY = e.changedTouches[0].clientY;
   }, { passive: true });
 
   editor.addEventListener("touchend", (e) => {
-    const t = e.changedTouches[0];
-    const deltaX = t.clientX - touchStartX;
-    const deltaY = t.clientY - touchStartY;
-    const minSwipeDistance = 100;
-    const maxVerticalMovement = 50;
-    if (Math.abs(deltaX) > Math.abs(deltaY) && 
-        Math.abs(deltaX) > minSwipeDistance &&
-        Math.abs(deltaY) < maxVerticalMovement) {
-      if (deltaX < 0) exportNotes();
+    const deltaX = e.changedTouches[0].clientX - touchStartX;
+    const deltaY = e.changedTouches[0].clientY - touchStartY;
+    if (Math.abs(deltaX) > 100 && Math.abs(deltaY) < 50 && deltaX < 0) {
+      exportNotes();
     }
   }, { passive: true });
 </script>
