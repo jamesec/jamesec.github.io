@@ -34,8 +34,28 @@
 </head>
 <body contenteditable spellcheck="false" autocapitalize="off"></body>
 <script>
-  const TEXT_KEY = "tiny-editor-text";
+  const TEXT_KEY = "tiny-editor-text-v2";
   const editor = document.body;
+  
+  // Convert plain text to HTML, preserving blank lines
+  function textToHTML(text) {
+    const lines = text.split('\n');
+    let html = '';
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i];
+      if (i === 0 && line === '') {
+        // First line empty: use <br>
+        html += '<br>';
+      } else if (line === '') {
+        // Empty line: use <div><br></div>
+        html += '<div><br></div>';
+      } else {
+        // Regular line with content
+        html += '<div>' + line.replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</div>';
+      }
+    }
+    return html;
+  }
   
   // Hide caret temporarily (fail-safe)
   editor.style.caretColor = "transparent";
@@ -43,8 +63,8 @@
     try {
       const saved = localStorage.getItem(TEXT_KEY);
       if (saved !== null) {
-        // Use innerText for loading - preserves line breaks
-        editor.innerText = saved;
+        // Convert text to HTML structure that preserves blank lines
+        editor.innerHTML = textToHTML(saved);
       }
     } catch (e) { console.warn(e); }
     editor.focus();
@@ -56,7 +76,7 @@
   let saveTimeout;
   const saveNow = () => {
     try {
-      // Use innerText for saving - plain text, no HTML nodes
+      // Save as plain text using innerText
       const txt = editor.innerText;
       localStorage.setItem(TEXT_KEY, txt);
     } catch (e) { console.warn(e); }
