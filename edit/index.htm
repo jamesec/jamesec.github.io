@@ -34,18 +34,8 @@
 </head>
 <body contenteditable spellcheck="false" autocapitalize="off"></body>
 <script>
-  const TEXT_KEY = "tiny-editor-v2";
+  const TEXT_KEY = "tiny-editor-v3";
   const editor = document.body;
-  
-  // Convert plain text to HTML for contenteditable (newlines -> <div>)
-  function textToHTML(text) {
-    const lines = text.split('\n');
-    return lines.map(line => {
-      const div = document.createElement('div');
-      div.textContent = line || '\u00A0'; // Use non-breaking space for empty lines
-      return div.outerHTML;
-    }).join('');
-  }
   
   // Hide caret temporarily (fail-safe)
   editor.style.caretColor = "transparent";
@@ -53,8 +43,8 @@
     try {
       const savedText = localStorage.getItem(TEXT_KEY);
       if (savedText !== null) {
-        // Convert text to HTML structure
-        editor.innerHTML = textToHTML(savedText);
+        // Simply set as textContent - let contenteditable handle structure
+        editor.textContent = savedText;
       }
     } catch (e) { console.warn(e); }
     editor.focus();
@@ -66,8 +56,8 @@
   let saveTimeout;
   const saveNow = () => {
     try {
-      // Get plain text and trim trailing whitespace
-      let text = editor.innerText;
+      // Save raw textContent with trailing whitespace removed
+      let text = editor.textContent;
       text = text.replace(/\r\n/g, "\n");
       text = text.replace(/\s+$/, ''); // Remove all trailing whitespace
       localStorage.setItem(TEXT_KEY, text);
@@ -88,7 +78,7 @@
   
   // Export
   function exportNotes() {
-    let text = editor.innerText;
+    let text = editor.textContent;
     text = text.replace(/\r\n/g, "\n");
     text = text.replace(/\s+$/, '');
     const blob = new Blob([text], { type: "text/plain" });
