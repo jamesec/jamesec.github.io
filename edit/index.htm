@@ -2,10 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Cmd/Ctrl + E to Export - Tiny editor</title>
+  <title>Cmd/Ctrl + E to Export — Tiny Editor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#121212">
+  <meta name="theme-color" content="#0f1115">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='90' font-size='90'>😄</text></svg>">
+
   <style>
     html, body {
       margin: 0;
@@ -13,65 +16,60 @@
       width: 100%;
       height: 100%;
     }
+
     body {
-      background: #121212;
-      color: #dcdcdc;
-      font: calc(16px + 1vw) system-ui;
-      line-height: 1.4;
-      padding: 4vw;
-      outline: none;
-      overflow-wrap: break-word;
-      word-break: break-word;
-      white-space: pre-wrap;
+      background: #0f1115;
+      color: #e4e4e7;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: clamp(16px, 2.5vw, 22px);
+      font-weight: 400;
+      line-height: 1.45;
+      letter-spacing: 0.01em;
+
+      padding: clamp(16px, 4vw, 48px);
+      max-width: 72ch;
+      margin: 0 auto;
+
       box-sizing: border-box;
       overflow-y: auto;
       overflow-x: hidden;
+
       user-select: text;
       -webkit-user-select: text;
-      transition: opacity 0.15s;
+      caret-color: #7dd3fc;
+
+      transition: background-color 0.15s;
+      touch-action: manipulation;
     }
   </style>
 </head>
+
 <body contenteditable spellcheck="false" autocapitalize="off"></body>
+
 <script>
-  const HTML_KEY = "tiny-editor-html";
   const editor = document.body;
-  
-  // Aggressively strip trailing empty nodes
-  function stripTrailing(html) {
-    const temp = document.createElement('div');
-    temp.innerHTML = html;
-    
-  // Remove all trailing BR, empty DIV, empty text nodes
-  while (temp.lastChild) {
-    const last = temp.lastChild;
-    if (last.nodeName === 'BR' ||
-        (last.nodeType === 1 && !last.textContent.trim()) ||
-        (last.nodeType === 3 && !last.textContent.trim())) {
-      temp.removeChild(last);
-    } else {
-      break;
-    }
-  }
-    return temp.innerHTML;
-  }
-  
-  // Export
+
   function exportNotes() {
-    let text = editor.innerText;
-    text = text.replace(/\r\n/g, "\n");
-    text = text.replace(/\s+$/, '');
+    const text = editor.innerText
+      .replace(/\r\n/g, "\n")
+      .trimEnd();
+
+    if (!text.trim()) return;
+
     const blob = new Blob([text], { type: "text/plain" });
     const url = URL.createObjectURL(blob);
+
     const a = document.createElement("a");
     a.href = url;
     a.download = "notes.txt";
     a.click();
-    setTimeout(() => URL.revokeObjectURL(url), 200);
-    editor.style.opacity = "0.5";
-    setTimeout(() => editor.style.opacity = "1", 200);
+
+    URL.revokeObjectURL(url);
+
+    editor.style.backgroundColor = "#1a1d23";
+    setTimeout(() => editor.style.backgroundColor = "", 150);
   }
-  
+
   // Cmd/Ctrl + E to export
   document.addEventListener("keydown", (e) => {
     if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "e") {
@@ -79,25 +77,29 @@
       exportNotes();
     }
   });
-  
-  // Swipe right-to-left to export
+
+  // Swipe right-to-left to export (mobile)
   let touchStartX = 0;
   let touchStartY = 0;
+
   editor.addEventListener("touchstart", (e) => {
     const t = e.changedTouches[0];
     touchStartX = t.clientX;
     touchStartY = t.clientY;
   }, { passive: true });
+
   editor.addEventListener("touchend", (e) => {
     const t = e.changedTouches[0];
     const deltaX = t.clientX - touchStartX;
     const deltaY = t.clientY - touchStartY;
-    const minSwipeDistance = 100;
-    const maxVerticalMovement = 50;
-    if (Math.abs(deltaX) > Math.abs(deltaY) && 
-        Math.abs(deltaX) > minSwipeDistance &&
-        Math.abs(deltaY) < maxVerticalMovement) {
-      if (deltaX < 0) exportNotes();
+
+    if (
+      Math.abs(deltaX) > Math.abs(deltaY) &&
+      Math.abs(deltaX) > 100 &&
+      Math.abs(deltaY) < 50 &&
+      deltaX < 0
+    ) {
+      exportNotes();
     }
   }, { passive: true });
 </script>
