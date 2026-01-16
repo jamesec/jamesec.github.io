@@ -35,64 +35,89 @@
 <body contenteditable spellcheck="false" autocapitalize="off"></body>
 <script>
   const HTML_KEY = "tiny-editor-html-v2";
-  const editor = document.body;
+  const editor   = document.body;
 
-  // This removes ONLY the invisible browser-injected trailing BRs 
-  // that cause the "double newline" bug on refresh.
-  function cleanHTML(html) {
-    return html.replace(/(<br>|<\/div>)+$/gi, (match) => {
-      // Keep the closing div but strip the extra breaks
-      return match.includes('</div>') ? '</div>' : '';
-    }).trim();
-  }
+  // -------------------------------------------------
+  // Helper – does a string become empty after trimming?
+  // -------------------------------------------------
+  const isEffectivelyEmpty = (str) => !str || !str.trim();
 
-  // Load existing content
-  try {
-    const savedHTML = localStorage.getItem(HTML_KEY);
-    if (savedHTML) {
-      editor.innerHTML = savedHTML;
+  // -------------------------------------------------
+  // Aggressively strip trailing empty nodes
+  // -------------------------------------------------
+  function stripTrailing(html) {
+    const temp = document.createElement('div');
+    temp.innerHTML = html;
+
+    // Remove all trailing  , empty elements, empty text nodes
+    while (temp.lastChild) {
+      const last = temp.lastChild;
+      if (
+        last.nodeName === 'BR' ||
+        (last.nodeType === 1 && !last.textContent.trim()) ||
+        (last.nodeType === 3 && !last.textContent.trim())
+      ) {
+        temp.removeChild(last);
+      } else {
+        break;
+      }
     }
-  } catch (e) { console.warn(e); }
-
-  // Focus and move cursor to end
-  editor.focus();
-  if (editor.childNodes.length > 0) {
-    const range = document.createRange();
-    const sel = window.getSelection();
-    range.selectNodeContents(editor);
-    range.collapse(false);
-    sel.removeAllRanges();
-    sel.addRange(range);
+    return temp.innerHTML;
   }
 
-  // Save logic
+  // -------------------------------------------------
+  // Load saved content – special‑case empty value
+  // -------------------------------------------------
+  editor.style.caretColor = "transparent";
+  try {
+    const raw = localStorage.getItem(HTML_KEY);
+    if (!isEffectivelyEmpty(raw)) {
+      // Non‑empty: strip trailing junk and inject
+      editor.innerHTML = stripTrailing(raw);
+    } else {
+      // Empty: make sure the editable area stays truly empty
+      editor.innerHTML = "";
+    }
+    editor.focus();
+  } catch (e) {
+    console.warn(e);
+  } finally {
+    editor.style.caretColor = "";
+  }
+
+  // -------------------------------------------------
+  // Auto‑save (debounced)
+  // -------------------------------------------------
+  let saveTimeout;
   const saveNow = () => {
     try {
-      // We save the innerHTML but clean the "ghost" elements at the end
-      const currentHTML = editor.innerHTML;
-      localStorage.setItem(HTML_KEY, cleanHTML(currentHTML));
-    } catch (e) { console.warn(e); }
+      const cleanHTML = stripTrailing(editor.innerHTML);
+      localStorage.setItem(HTML_KEY, cleanHTML);
+    } catch (e) {
+      console.warn(e);
+    }
   };
 
-  let saveTimeout;
   editor.addEventListener("input", () => {
     clearTimeout(saveTimeout);
     saveTimeout = setTimeout(saveNow, 300);
   });
 
+  // Flush save on exit / background
   window.addEventListener("beforeunload", saveNow);
-  window.addEventListener("pagehide", saveNow);
+  window.addEventListener("pagehide",     saveNow);
   document.addEventListener("visibilitychange", () => {
     if (document.visibilityState === "hidden") saveNow();
   });
 
-  // Export
+  // -------------------------------------------------
+  // Export (Ctrl/Cmd + E or swipe)
+  // -------------------------------------------------
   function exportNotes() {
-    let text = editor.innerText;
-    text = text.replace(/\r\n/g, "\n").trimEnd();
-    const blob = new Blob([text], { type: "text/plain" });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement("a");
+    let text = editor.innerText.replace(/\r\n/g, "\n").replace(/\s+$/, '');
+    const blob = new Blob([text], {type: "text/plain"});
+    const url  = URL.createObjectURL(blob);
+    const a    = document.createElement("a");
     a.href = url;
     a.download = "notes.txt";
     a.click();
@@ -101,7 +126,6 @@
     setTimeout(() => editor.style.opacity = "1", 200);
   }
 
-  // Hotkeys
   document.addEventListener("keydown", (e) => {
     if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "e") {
       e.preventDefault();
@@ -109,19 +133,26 @@
     }
   });
 
-  // Swipe logic
+  // Swipe right‑to‑left to export
   let touchStartX = 0, touchStartY = 0;
   editor.addEventListener("touchstart", (e) => {
-    touchStartX = e.changedTouches[0].clientX;
-    touchStartY = e.changedTouches[0].clientY;
-  }, { passive: true });
+    const t = e.changedTouches[0];
+    touchStartX = t.clientX;
+    touchStartY = t.clientY;
+  }, {passive: true});
 
   editor.addEventListener("touchend", (e) => {
-    const deltaX = e.changedTouches[0].clientX - touchStartX;
-    const deltaY = e.changedTouches[0].clientY - touchStartY;
-    if (Math.abs(deltaX) > 100 && Math.abs(deltaY) < 50 && deltaX < 0) {
+    const t = e.changedTouches[0];
+    const deltaX = t.clientX - touchStartX;
+    const deltaY = t.clientY - touchStartY;
+    const minSwipeDistance = 100;
+    const maxVerticalMovement = 50;
+    if (Math.abs(deltaX) > Math.abs(deltaY) &&
+        Math.abs(deltaX) > minSwipeDistance &&
+        Math.abs(deltaY) < maxVerticalMovement &&
+        deltaX < 0) {
       exportNotes();
     }
-  }, { passive: true });
+  }, {passive: true});
 </script>
 </html>
