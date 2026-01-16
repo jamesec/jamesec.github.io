@@ -34,72 +34,52 @@
 </head>
 <body contenteditable spellcheck="false" autocapitalize="off"></body>
 <script>
-  const HTML_KEY = "tiny-editor-html-v2";
+  const STORAGE_KEY = "tiny-editor-text-v2";
   const editor = document.body;
-  
-  // Aggressively strip trailing empty nodes
-  function stripTrailing(html) {
-    const temp = document.createElement('div');
-    temp.innerHTML = html;
-    
-    // Remove all trailing BR, empty DIV, empty text nodes
-    while (temp.lastChild) {
-      const last = temp.lastChild;
-      if (last.nodeName === 'BR' ||
-          (last.nodeType === 1 && !last.textContent.trim()) ||
-          (last.nodeType === 3 && !last.textContent.trim())) {
-        temp.removeChild(last);
-      } else {
-        break;
-      }
-    }
-    
-    return temp.innerHTML;
+
+  // Load existing content
+  const savedText = localStorage.getItem(STORAGE_KEY);
+  if (savedText) {
+    // innerText handles the conversion of stored newlines to the UI correctly
+    editor.innerText = savedText.trimEnd();
   }
-  
-  // Hide caret temporarily (fail-safe)
-  editor.style.caretColor = "transparent";
-  try {
-    try {
-      let savedHTML = localStorage.getItem(HTML_KEY);
-      if (savedHTML) {
-        // Strip before loading
-        savedHTML = stripTrailing(savedHTML);
-        editor.innerHTML = savedHTML;
-      }
-    } catch (e) { console.warn(e); }
-    editor.focus();
-  } finally {
-    editor.style.caretColor = "";
+
+  // Focus and move cursor to the end
+  editor.focus();
+  if (editor.innerText.length > 0) {
+    const range = document.createRange();
+    const sel = window.getSelection();
+    range.selectNodeContents(editor);
+    range.collapse(false);
+    sel.removeAllRanges();
+    sel.addRange(range);
   }
-  
-  // Auto-save with debounce
+
+  // Auto-save logic
   let saveTimeout;
   const saveNow = () => {
     try {
-      // Strip before saving
-      const cleanHTML = stripTrailing(editor.innerHTML);
-      localStorage.setItem(HTML_KEY, cleanHTML);
+      // trimEnd() removes the invisible trailing BR/whitespace that causes the bug
+      const content = editor.innerText.trimEnd();
+      localStorage.setItem(STORAGE_KEY, content);
     } catch (e) { console.warn(e); }
   };
-  
+
   editor.addEventListener("input", () => {
     clearTimeout(saveTimeout);
     saveTimeout = setTimeout(saveNow, 300);
   });
-  
+
   // Flush save on exit / background
   window.addEventListener("beforeunload", saveNow);
   window.addEventListener("pagehide", saveNow);
   document.addEventListener("visibilitychange", () => {
     if (document.visibilityState === "hidden") saveNow();
   });
-  
+
   // Export
   function exportNotes() {
-    let text = editor.innerText;
-    text = text.replace(/\r\n/g, "\n");
-    text = text.replace(/\s+$/, '');
+    let text = editor.innerText.trimEnd();
     const blob = new Blob([text], { type: "text/plain" });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
@@ -110,7 +90,7 @@
     editor.style.opacity = "0.5";
     setTimeout(() => editor.style.opacity = "1", 200);
   }
-  
+
   // Cmd/Ctrl + E to export
   document.addEventListener("keydown", (e) => {
     if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "e") {
@@ -118,7 +98,7 @@
       exportNotes();
     }
   });
-  
+
   // Swipe right-to-left to export
   let touchStartX = 0;
   let touchStartY = 0;
@@ -127,6 +107,7 @@
     touchStartX = t.clientX;
     touchStartY = t.clientY;
   }, { passive: true });
+
   editor.addEventListener("touchend", (e) => {
     const t = e.changedTouches[0];
     const deltaX = t.clientX - touchStartX;
