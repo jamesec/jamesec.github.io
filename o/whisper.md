@@ -32,7 +32,7 @@ whisper-ctranslate2 --version
 ```
 whisper-ctranslate2 audio1.m4a \
   --model small \
-  --language en \
+  --language auto \
   --compute_type float32 \
   --output_format vtt \
   --vad_filter true \
@@ -40,6 +40,7 @@ whisper-ctranslate2 audio1.m4a \
 ```
 
 ### languages
+- `--language auto`
 - `--language en`
 	- Or: `--language English`
 - `--language zh`
