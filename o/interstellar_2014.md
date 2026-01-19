@@ -19,6 +19,7 @@ Rewatching *Interstellar (2014)* left me with a few thoughts and small details I
 Storyline from IMDb.
 > When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.
 
+## Movie notes
 - `00:29:53` Professor Brand: We’re not meant to save the world. We’re meant to leave it. 
 	- Whether Plan A or Plan B, Earth is doomed as a human home in *Interstellar*.
 	- Humanity’s future requires abandoning it — not saving it.
