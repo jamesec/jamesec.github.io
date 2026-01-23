@@ -28,9 +28,9 @@ python3.13 -m pip install --break-system-packages --user whisper-ctranslate2
 whisper-ctranslate2 --version
 ```
 
-## Transcribe audio file
+## Transcribe files
 ```
-whisper-ctranslate2 audio1.m4a \
+whisper-ctranslate2 *.mp4 \
   --model small \
   --language en \
   --task transcribe \
