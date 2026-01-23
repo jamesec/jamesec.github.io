@@ -54,6 +54,20 @@ whisper-ctranslate2 *.mp4 \
 - `--model large-v3`
 - `--model large-v3-turbo`
 
+### Transcribe something in mixed languages
+If we want to transcribe something in mixed languages, and we’re going to use almost all of this Mac’s power to do it, also to get the best accuracy, use this command:
+
+```
+whisper-ctranslate2 *.mp4 \
+  --model large-v3-turbo \
+  --task transcribe \
+  --threads $(sysctl -n hw.logicalcpu) \
+  --compute_type int8 \
+  --output_format vtt \
+  --vad_filter true \
+  --verbose true
+```
+
 ## References - What is Whisper?
 - [Introducing Whisper - Open AI](https://openai.com/index/whisper/)
 	- September 21, 2022
