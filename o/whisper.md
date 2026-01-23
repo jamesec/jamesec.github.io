@@ -33,7 +33,8 @@ whisper-ctranslate2 --version
 whisper-ctranslate2 audio1.m4a \
   --model small \
   --language en \
-  --compute_type float32 \
+  --task transcribe \
+  --compute_type int8 \
   --output_format vtt \
   --vad_filter true \
   --verbose true
