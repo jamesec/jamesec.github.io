@@ -52,6 +52,7 @@ whisper-ctranslate2 *.mp4 \
 - `--model small`
 - `--model medium`
 - `--model large-v3`
+- `--model large-v3-turbo`
 
 ## References - What is Whisper?
 - [Introducing Whisper - Open AI](https://openai.com/index/whisper/)
