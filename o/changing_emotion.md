@@ -18,7 +18,7 @@ How does an engineer change into a world leading ‘emotion-ologist’? [Leslie 
 
 *Intro of the podcast*
 
-**(01:16) Lou Cooper**  
+`00:01:16` **Lou Cooper**  
 And for this special Emotion Awareness Day episode, I'm joined by the primary developer of Emotion-Focused Therapy, Dr. Leslie Greenberg, who's Professor Emeritus at York University in Toronto in Canada. And I thought it would be interesting to find out a little bit more about the origins of Emotion-Focused Therapy and what it was that led Leslie Greenberg to try and work out how to change emotion with emotion. Thank you for joining me on this day, Les.
 
 **Leslie Greenberg**  
@@ -110,7 +110,7 @@ So **standing up for yourself**.
 **Leslie Greenberg**  
 Right, right, and usually anger goes with sadness. We don't only have anger, we also have sadness. Sometimes both of them are there. One is not secondary to the other. I'm sad that you left me and I'm mad that you left me. Go together, and both of them need to be processed or dealt with.
 
-**(12:30) Lou Cooper**  
+`00:12:30` **Lou Cooper**  
 So how would you, I mean you're talking about the expression of anger that is useful and healthy, but if there is anger, if someone is experiencing anger and expressing anger in a way which is not helpful, that's getting them into trouble, that is ruining their relationships. How can they change that emotion? I mean you're suggesting that they can change that emotion with another emotion?
 
 **Leslie Greenberg**  
