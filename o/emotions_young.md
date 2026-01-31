@@ -18,7 +18,7 @@ Dr Mirisse Foroughe is Clinical Director at the Family Psychology Centre in Toro
 
 *Intro of the podcast*
 
-**(01:23) Lou Cooper**  
+`00:01:23` **Lou Cooper**  
 This episode, we're gonna be talking about something that kind of is close to my heart, but it also kind of makes me a little bit nervous and it activates me a little bit because we're talking about emotions in a stage of development that was actually quite tricky for me, the teenage adolescent years. And of course, in that, we're also gonna look back at emotions in childhood because what happens in adolescence, I guess, is sort of fed by what happens in childhood. And to do this, I'm joined by Dr. Mirisse Foroughe, who is a clinical director at the [Family Psychology Centre in Toronto](https://familypsychology.org/clinical-team/) and leads clinical research at the [Emotion Transformation Institute](https://drmirisse.net/), also in Toronto. Mirisse has over 20 years experience working with children, adolescents, and families and has adapted Emotion-Focused Therapy for working with young people and provides training in this way of working, EFT-Y, or Emotion-Focused Therapy for Youth. Mirisse, welcome to the podcast.
 
 **Mirisse Foroughe**  
@@ -124,7 +124,7 @@ And it makes sense that by going through those times, you're likely to learn thi
 **Mirisse Foroughe**  
 Absolutely. I think most of us working in mental health have had a background that was not optimal, at least in some way. It doesn't mean it was terrible in every way, but there was something that let us know and there was a bit of awareness either at the time or later that, okay, this wasn't great, and somehow maybe I can help make this better for other people.
 
-**(16:30) Lou Cooper**  
+`00:16:30` **Lou Cooper**  
 So, Mirisse, let's go to **the tip section** of this podcast. Do you have some words of advice or something that might help parents, teachers, young people themselves? I'm not sure how many young people we have listening to the podcast, but I know that we have a lot of parents and teachers.
 
 What would, maybe three tips or your words of advice for them?
