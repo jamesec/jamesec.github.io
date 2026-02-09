@@ -35,23 +35,13 @@
       touch-action: manipulation;
       -webkit-tap-highlight-color: transparent;
     }
-    body:focus {
-      outline: 1px solid #27272a;
-      outline-offset: -8px;
-    }
-    body:empty:before {
-      content: attr(data-placeholder);
-      color: #52525b;
-      pointer-events: none;
-    }
   </style>
 </head>
 <body contenteditable 
       spellcheck="false" 
       autocapitalize="off" 
       role="textbox" 
-      aria-label="Text editor"
-      data-placeholder="Start typing... (⌘E or Ctrl+E to export)"></body>
+      aria-label="Text editor"></body>
 <script>
   const editor = document.body;
   
