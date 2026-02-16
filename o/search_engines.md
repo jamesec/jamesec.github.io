@@ -10,7 +10,7 @@ Which search engine works best for me? I got some ideas from [Helium browser](ht
 - Not-recommended: Google, Microsoft Bing
 
 ## Recommended
-Startpage  
+[Startpage](https://startpage.com/)  
 Privacy-focused. Uses Google results but removes all trackers and personal data.  
 Promises to never store your IP or search history. Simple, familiar interface without profiling.
 
@@ -18,7 +18,7 @@ You can customize Startpage on the settings page.
 https://startpage.com/do/settings  
 Copy the Settings URL below, then bookmark or set as homepage.
 
-DuckDuckGo  
+[DuckDuckGo](https://duckduckgo.com/)  
 Privacy-focused. Relies on Bing results but promises to never track or profile you.
 
 Kagi  
