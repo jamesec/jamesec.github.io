@@ -3,7 +3,7 @@
 
 In the age of artificial intelligence, I still use search engines. It’s easier and more direct to find the information I want—not to mention avoiding annoying AI hallucinations.
 
-Which search engine works best for me? I got some ideas from the [Helium browser](https://helium.computer/) and added Startpage to the original selection from Helium.
+Which search engine works best for me? I got some ideas from [the Helium browser](https://helium.computer/) and added Startpage to the original selection from Helium.
 
 - Recommended: [Startpage](https://startpage.com/), [DuckDuckGo](https://duckduckgo.com/), Kagi (if willing to pay)
 - Semi-recommended: Ecosia, Qwant
