@@ -1,4 +1,4 @@
-# Which search engine to use?
+# Which search engine works Best?
 `Feb 16, 2026`
 
 In the age of artificial intelligence, I still use search engines. It’s easier and more direct to find the information I want—not to mention avoiding annoying AI hallucinations.
