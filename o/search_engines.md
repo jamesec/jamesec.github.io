@@ -26,7 +26,7 @@ Privacy-focused. Customizable results without ads or tracking.
 Requires a paid account.
 
 ## Semi-recommended
-Ecosia  
+<img src="https://www.ecosia.org/static/icons/apple-touch-icon.png" width="32" height="32"> Ecosia  
 May plant trees for clicking ads. Relies on Bing and Google. Sends tracking data to Microsoft and Google.
 
 Qwant  
