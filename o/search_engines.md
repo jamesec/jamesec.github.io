@@ -10,7 +10,7 @@ Which search engine works best for me? I got some ideas from [the Helium browser
 - Not-recommended: Google, Microsoft Bing
 
 ## Recommended
-<img src="https://cdn.startpage.com/sp/cdn/favicons/mobile/apple-icon-180x180.png" width="16" height="16"> [Startpage](https://startpage.com/)  
+<img src="https://cdn.startpage.com/sp/cdn/favicons/mobile/apple-icon-180x180.png" width="32" height="32"> [Startpage](https://startpage.com/)  
 Privacy-focused. Uses Google results but removes all trackers and personal data.  
 Promises to never store your IP or search history. Simple, familiar interface without profiling.
 
