@@ -21,7 +21,7 @@ Copy the Settings URL below, then bookmark or set as homepage.
 <img src="https://duckduckgo.com/static-assets/favicons/DDG-iOS-icon_152x152.png" width="32" height="32"> [DuckDuckGo](https://duckduckgo.com/)  
 Privacy-focused. Relies on Bing results but promises to never track or profile you.
 
-<img src="https://kagi.com/asset/905bbe6/apple-touch-icon.png?v=8b96cb7a76e78d0e17cea4ff0afd344ecd9604b5?v=2" width="32" height="32"> Kagi  
+<img src="https://kagi.com/asset/905bbe6/apple-touch-icon.png" width="32" height="32"> Kagi  
 Privacy-focused. Customizable results without ads or tracking.
 Requires a paid account.
 
