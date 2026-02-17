@@ -29,7 +29,7 @@ Requires a paid account.
 <img src="https://www.ecosia.org/static/icons/apple-touch-icon.png" width="32" height="32"> Ecosia  
 May plant trees for clicking ads. Relies on Bing and Google. Sends tracking data to Microsoft and Google.
 
-Qwant  
+<img src="https://www.qwant.com/public/apple-touch-icon.e9d3092ec9fb9e1a28c1ea1a3b10777a.png" width="32" height="32"> Qwant  
 Based in Europe. Uses Bing results. Sends tracking data to Microsoft.
 
 ## Not-recommended
