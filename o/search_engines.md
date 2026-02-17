@@ -36,5 +36,5 @@ Based in Europe. Uses Bing results. Sends tracking data to Microsoft.
 <img src="https://www.google.com/images/branding/googleg/1x/googleg_standard_color_128dp.png" width="32" height="32"> Google  
 It's Google. It dominates the search market, collects extensive personal data, and profiles you.
 
-Microsoft Bing  
+<img src="https://www.bing.com/sa/simg/favicon-trans-bg-blue-mg-png.png" width="32" height="32"> Microsoft Bing  
 Collects extensive personal data. Privacy controls are buried and limited. Subjectively overwhelming UI.
