@@ -33,7 +33,7 @@ May plant trees for clicking ads. Relies on Bing and Google. Sends tracking data
 Based in Europe. Uses Bing results. Sends tracking data to Microsoft.
 
 ## Not-recommended
-Google  
+<img src="https://www.google.com/images/branding/googleg/1x/googleg_standard_color_128dp.png" width="32" height="32"> Google  
 It's Google. It dominates the search market, collects extensive personal data, and profiles you.
 
 Microsoft Bing  
