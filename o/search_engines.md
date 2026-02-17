@@ -18,7 +18,7 @@ You can customize Startpage on the settings page.
 https://startpage.com/do/settings  
 Copy the Settings URL below, then bookmark or set as homepage.
 
-[DuckDuckGo](https://duckduckgo.com/)  
+<img src="https://duckduckgo.com/static-assets/favicons/DDG-iOS-icon_152x152.png" width="32" height="32"> [DuckDuckGo](https://duckduckgo.com/)  
 Privacy-focused. Relies on Bing results but promises to never track or profile you.
 
 Kagi  
