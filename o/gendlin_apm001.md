@@ -38,7 +38,7 @@ I’m taking notes for Chapter 1 (Body-Environment) of this book, as follows.
 ## Related notes - the beaver’s felled tree
 > The body of any creature is the result of its life process. En#3 includes **the beaver’s felled tree**, but also the beaver’s body. The environment which the process produces is wider, but it includes the body.
 > 
-> P.6, Eugene T. Gendlin - A Process Model (2008)
+> P.6, *Eugene T. Gendlin - A Process Model (2008)*
 
 - Why do beavers chop down trees?
 	- Beavers use the trees they cut down **for food**, and they use the left over branches **for building materials for their dams and lodges**. In cold weather climates beavers are most active cutting down trees in the fall because they are preparing for the winter.
