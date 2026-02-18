@@ -16,7 +16,7 @@ A Process Model (2017) by Eugene T. Gendlin
 
 I’m taking notes for Chapter 1 (Body-Environment) of this book, as follows.
 
-## Notes from the book / direct quotes
+## Book notes (directly from the book)
 - **_En#1_** is the spectator’s environment, what spectators define in **_their_** en which may affect an organism.
 	- The spectator defines these en factors as there, separately from the animal. The spectator may also note something (pollution for example) that is about to affect the animal while the animal does not yet notice. 
 - **_En#2_** is the reflexively identical environment; it is identical with the organism’s living process. Body and en are one event, one process.
@@ -35,7 +35,7 @@ I’m taking notes for Chapter 1 (Body-Environment) of this book, as follows.
 	- In these definitions process is first. We don’t assume the “body” and the “environment” and then put them together. Later we will develop terms to speak of “the body.” Right now it is b-en#2.
 	- Body structure is always involved in some processes, or else it disintegrates. It is a structure from process, for further process, and only so.
 
-## Related notes - the beaver’s felled tree
+## Related notes - the beaver’s felled tree (other sources)
 > The body of any creature is the result of its life process. En#3 includes **the beaver’s felled tree**, but also the beaver’s body. The environment which the process produces is wider, but it includes the body.
 > 
 > P.6, *Eugene T. Gendlin - A Process Model (2008)*
