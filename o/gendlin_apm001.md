@@ -35,8 +35,9 @@ I’m taking notes for Chapter 1 (Body-Environment) of this book, as follows.
 	- In these definitions process is first. We don’t assume the “body” and the “environment” and then put them together. Later we will develop terms to speak of “the body.” Right now it is b-en#2.
 	- Body structure is always involved in some processes, or else it disintegrates. It is a structure from process, for further process, and only so.
 
-## Related notes - beaver’s felled tree
-- From Gendlin's *A Process Model*
+## Related notes - the beaver’s felled tree
+> P.6, The body of any creature is the result of its life process. En#3 includes **the beaver’s felled tree**, but also the beaver’s body. The environment which the process produces is wider, but it includes the body.
+
 - Why do beavers chop down trees?
 	- Beavers use the trees they cut down **for food**, and they use the left over branches **for building materials for their dams and lodges**. In cold weather climates beavers are most active cutting down trees in the fall because they are preparing for the winter.
 - How long does it take for a beaver to cut down a tree?
