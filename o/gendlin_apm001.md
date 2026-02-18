@@ -16,6 +16,7 @@ A Process Model (2017) by Eugene T. Gendlin
 
 I’m taking notes for Chapter 1 (Body-Environment) of this book, as follows.
 
+## Book notes
 - **_En#1_** is the spectator’s environment, what spectators define in **_their_** en which may affect an organism.
 	- The spectator defines these en factors as there, separately from the animal. The spectator may also note something (pollution for example) that is about to affect the animal while the animal does not yet notice. 
 - **_En#2_** is the reflexively identical environment; it is identical with the organism’s living process. Body and en are one event, one process.
@@ -33,3 +34,14 @@ I’m taking notes for Chapter 1 (Body-Environment) of this book, as follows.
 	- Since this has no reality as en#2, and since en#3 is the result of en#2, we need a term for “environment” that has never been functioning in a life process.
 	- In these definitions process is first. We don’t assume the “body” and the “environment” and then put them together. Later we will develop terms to speak of “the body.” Right now it is b-en#2.
 	- Body structure is always involved in some processes, or else it disintegrates. It is a structure from process, for further process, and only so.
+
+## Related notes - beaver’s felled tree
+- From Gendlin's *A Process Model*
+- Why do beavers chop down trees?
+	- Beavers use the trees they cut down **for food**, and they use the left over branches **for building materials for their dams and lodges**. In cold weather climates beavers are most active cutting down trees in the fall because they are preparing for the winter.
+- How long does it take for a beaver to cut down a tree?
+	- Beavers have very strong and sharp teeth which are paired with powerful jaw muscles. **A single beaver can fell a medium sized tree in a single night!** Beaver teeth never stop growing, so it is believed that beavers need to constantly chew wood to prevent their teeth from growing too long!
+- What do beavers do after the tree falls?
+	- Unfortunately, some trees have fallen on the beaver. They down larger trees closer to water. After the tree has fallen, they trim the branches for use in building dams. They prefer transporting branches about 3- to 6 feet long and about 1- to 2 inches in diameter.
+- [What beavers eat](https://westernbeavers.org/beaver-grocery-stores/)
+	- Trees that make up the beaver diet include bark from willow, cottonwood, aspen, poplar, maple, birch, oak, alder, black cherry and apple trees. Beavers will gnaw on trees until they fall, and then they clip branches from the resulting logs and add them to their food stash. While beavers will sometimes eat fir, pine and other conifers, they do not favor them for food. They will often use such trees for dam building, however, or fell them to allow their favorite foods to grow instead. You can spot areas of beaver lumbering where there are sharply pointed tree trunks, with grooves from their teeth marks, as well as piles of wood shaving around the trunks. **One adult beaver can fell as many as 300 trees in a year!**
