@@ -16,7 +16,7 @@ A Process Model (2017) by Eugene T. Gendlin
 
 I’m taking notes for Chapter 1 (Body-Environment) of this book, as follows.
 
-## Book notes
+## Notes from the book / direct quotes
 - **_En#1_** is the spectator’s environment, what spectators define in **_their_** en which may affect an organism.
 	- The spectator defines these en factors as there, separately from the animal. The spectator may also note something (pollution for example) that is about to affect the animal while the animal does not yet notice. 
 - **_En#2_** is the reflexively identical environment; it is identical with the organism’s living process. Body and en are one event, one process.
