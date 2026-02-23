@@ -23,7 +23,7 @@ Marjan Montazeri: Never let them know how much you need them. The trick is to **
 
 ## S2.E6 ∙ Faraz's Choice
 `00:11:46`  
-Faraz Kamali: Marjan. May I speak to you for a moment? Now. In the study.
+Faraz Kamali: Marjan. May I speak to you for a moment? Now. In the study.  
 Marjan Montazeri: Of course.
 
 Marjan: Really?  
