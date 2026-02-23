@@ -26,17 +26,17 @@ Marjan Montazeri: Never let them know how much you need them. The trick is to **
 Faraz Kamali: Marjan. May I speak to you for a moment? Now. In the study.
 Marjan Montazeri: Of course.
 
-Marjan: Really?
-Faraz: You people are monsters.
-Marjan: I understand why you feel that way.
-Faraz: You have no limits. Is there anything out of bounds for you?
-Marjan: And Sepah? What's out of bounds for you? Shoot me if it makes you feel better. But I'm just a little finger on a hand connected to an arm that's commanded by an exceptional brain. And that brain knows things about you.
-Faraz: What do you know? You know nothing. There is nothing. I've been serving this country my entire life. I'm clean.
-Marjan: You just let a Mossad agent get away. Not to mention recordings of everything you ever said about Mohammadi within these walls. A thousand years of service wouldn't save you from the gallows. And what about Nahid?
-Faraz: Keep Nahid out of this.
+Marjan: Really?  
+Faraz: You people are monsters.  
+Marjan: I understand why you feel that way.  
+Faraz: You have no limits. Is there anything out of bounds for you?  
+Marjan: And Sepah? What's out of bounds for you? Shoot me if it makes you feel better. But I'm just a little finger on a hand connected to an arm that's commanded by an exceptional brain. And that brain knows things about you.  
+Faraz: What do you know? You know nothing. There is nothing. I've been serving this country my entire life. I'm clean.  
+Marjan: You just let a Mossad agent get away. Not to mention recordings of everything you ever said about Mohammadi within these walls. A thousand years of service wouldn't save you from the gallows. And what about Nahid?  
+Faraz: Keep Nahid out of this.  
 Marjan: What kind of life can she expect here after they hang you? The widow of a traitor. 
 
-Marjan: I'm glad to see we understand each other. Mohammadi and his lot are destroying our country. You know it as well as I do. We could just as easily be working together.
+Marjan: I'm glad to see we understand each other. Mohammadi and his lot are destroying our country. You know it as well as I do. We could just as easily be working together.  
 Faraz: I'd rather die.
 
 ## References
