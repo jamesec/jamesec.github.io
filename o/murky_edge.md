@@ -33,7 +33,11 @@ Now murky - if you don't know English very well - it's a funny word, murky means
 
 Now, if I find that completely happy, I'm just grateful, that's fine, then I'm finished, because that happens once a year {*audiences laughing*}, and so might as well enjoy it. But usually, if I say, "Are you comfortable, are you happy, are you ready to go, are you joyful?" it says, "Errr." And then I have to say, "Okay, what's 'errr'?" And that's something like standing in front of a gray wall, and somebody says, "What do you see?" You know, "Well, nothing."
 
-It's like going into a piece of wood. At first, it's impossible, and then a few seconds later, "Oh yeah, there's all this intricacy there," and that's Focusing for me. Okay? So that's my main point. But **my second point** is, yes - to welcome, to acknowledge, to touch the feelings, that's also Focusing. To be next to them.
+It's like going into a piece of wood. At first, it's impossible, and then a few seconds later, "Oh yeah, there's all this intricacy there," and that's Focusing for me. Okay? So that's my main point. 
+
+---
+
+But **my second point** is, yes - to welcome, to acknowledge, to touch the feelings, that's also Focusing. To be next to them.
 
 So in Afghanistan, there is - they - they use **Rumi**, who is the **poet**, who said all your feelings are really guests. So go out and welcome each guest, and that's very right, because then **you are not the guest, you own the house**.
 
