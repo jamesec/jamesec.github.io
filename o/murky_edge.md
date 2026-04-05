@@ -31,7 +31,7 @@ Yes, so two points I'm making, one is Focusing for me is **spending time with wh
 
 Now murky - if you don't know English very well - it's a funny word, murky means **unclear, foggy**, murky is the kind of weather when there's so much fog and rain that you can't tell where you are very well, that kind of a place. I have to go to "how are you?", where the answer is some kind of body sense that's not completely happy. You're following me?
 
-Now, if I find that completely happy, I'm just grateful, that's fine, then I'm finished, because that happens once a year, (Hahaha) and so might as well enjoy it. But usually, if I say, "Are you comfortable, are you happy, are you ready to go, are you joyful?" it says, "Errr." And then I have to say, "Okay, what's 'errr'?" And that's something like standing in front of a gray wall, and somebody says, "What do you see?" You know, "Well, nothing."
+Now, if I find that completely happy, I'm just grateful, that's fine, then I'm finished, because that happens once a year, (Hahaha) and so might as well enjoy it. But usually, if I say, "Are you comfortable, are you happy, are you ready to go, are you joyful?" it says, "Errr." And then I have to say, "Okay, what's 'Errr'?" And that's something like standing in front of a gray wall, and somebody says, "What do you see?" You know, "Well, nothing."
 
 It's like going into a piece of wood. At first, it's impossible, and then a few seconds later, "Oh yeah, there's all this intricacy there," and that's Focusing for me. Okay? So that's my main point. 
 
