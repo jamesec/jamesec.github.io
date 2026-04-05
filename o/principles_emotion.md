@@ -9,3 +9,16 @@
   title="Principles of Emotion Change (2025)" 
   height="200" 
 />
+
+Principles of Emotion Change: What Works and When in Psychotherapy and Everyday Life (2025)  
+Author: Antonio Pascual-Leone
+
+---
+
+## Principles of Emotion Change
+- Down-Regulating Emotion
+- Emotional Awareness
+- Expressive Arousal
+- Sequential Transformation of Emotion
+	- This includes: Changing Emotion with Emotion
+- Narrative Reflection
