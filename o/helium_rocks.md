@@ -7,7 +7,7 @@ I was looking for a lightweight web browser, and I tried many of them. I wanted 
 
 Helium browser is built on Ungoogled Chromium and comes with uBlock Origin extension pre-installed. It’s neat and fast. You can test your current browser and Helium, respectively, using [Speedometer](https://browserbench.org/Speedometer3.1/) to see how fast they are.
 
-Overall, I’m very satisfied with Helium browser. It fixes Ungoogled Chromium’s main drawback: it can’t update itself (except via Homebrew on macOS). After several months of use, it does what it promises: a private, fast, and honest web browser.
+Overall, I’m very satisfied with Helium browser. It fixes Ungoogled Chromium’s main drawback: it can’t update itself (except via Homebrew on macOS). After several months of use, Helium does what it promises: a private, fast, and honest web browser.
 
 ## References
 - [Helium browser - GitHub](https://github.com/imputnet/helium)
