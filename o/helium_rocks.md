@@ -3,10 +3,7 @@
 
 I was looking for a lightweight web browser, and I tried many of them. I wanted something that isn’t bloated or bulky and doesn’t spy on me or collect too much information—especially without my consent. I found Ungoogled Chromium, which is really good, and more recently I discovered [the Helium browser](https://helium.computer/)—it rocks!
 
-<img 
-  src="https://raw.githubusercontent.com/imputnet/helium/main/resources/branding/app_icon/raw.png" 
-  height="100" 
-/>
+<a href="https://helium.computer/" target="_blank"><img src="https://raw.githubusercontent.com/imputnet/helium/main/resources/branding/app_icon/raw.png" height="100" /></a>
 
 Helium browser is built on Ungoogled Chromium and comes with uBlock Origin extension pre-installed. It’s neat and fast. You can test your current browser and Helium, respectively, using [Speedometer](https://browserbench.org/Speedometer3.1/) to see how fast they are.
 
