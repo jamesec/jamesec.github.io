@@ -5,7 +5,7 @@ I was looking for a lightweight web browser, and I tried many of them. I wanted 
 
 <img 
   src="https://raw.githubusercontent.com/imputnet/helium/main/resources/branding/app_icon/raw.png" 
-  height="200" 
+  height="100" 
 />
 
 Helium browser is built on Ungoogled Chromium and comes with uBlock Origin extension pre-installed. It’s neat and fast. You can test your current browser and Helium, respectively, using [Speedometer](https://browserbench.org/Speedometer3.1/) to see how fast they are.
