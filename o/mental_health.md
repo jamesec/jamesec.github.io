@@ -2,7 +2,7 @@
 译者：陈艺文、田婴 / 2025 年 8 月 4 日  
 译自：[How does EFT relate to mental health problems?](https://youtu.be/wfCRSMr5eUk)  
 
-<div class="video-wrapper"><video src="https://files.catbox.moe/yo7psx.mp4" controls playsinline></video></div>
+<iframe width="640" height="360" src="https://youtube.com/embed/LFDadtLAhb4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [How does EFT relate to mental health problems?](https://youtu.be/wfCRSMr5eUk)
   - Video uploaded: Apr 27, 2020
