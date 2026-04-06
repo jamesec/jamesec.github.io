@@ -3,7 +3,7 @@
 
 I’m the one who likes dark mode on macOS—my eyes feel more comfortable, especially when looking at the screen for a long time.
 
-The default Preview App in macOS didn’t offer a way to view PDFs in dark mode—at least not until macOS Tahoe.
+The default Preview app in macOS didn’t offer a way to view PDFs in dark mode—at least not until macOS Tahoe.
 
 There are some workarounds, including using a shortcut in macOS (Settings → Accessibility → Invert Colors), but that’s not very elegant, since it inverts all colors in the macOS user interface, not just the colors when viewing the PDF.
 
@@ -18,11 +18,11 @@ You can use the [Skim app](https://skim-app.sourceforge.io/) to read PDFs in dar
 
 Just configure the app this way, and you’re good to go with PDFs in dark mode.
 
-Menu of the Skim App  
+Menu of the Skim app  
 Settings…  
 → Display → Invert colors in Dark Mode
 
-Menu of the Skim App  
+Menu of the Skim app  
 PDF  
 → Automatically Resize  
 → Horizontal Continuous  
