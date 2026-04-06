@@ -3,7 +3,7 @@
 
 I’m the one who likes dark mode on macOS—my eyes feel more comfortable, especially when looking at the screen for a long time.
 
-When reading a long PDF, the default Preview app in macOS couldn’t adjust itself to dark mode—at least not until macOS Tahoe.
+The default Preview app in macOS couldn’t adjust itself to dark mode—at least not until macOS Tahoe.
 
 There are some workarounds, including using a shortcut in macOS (Settings → Accessibility → Invert Colors), but that’s not very elegant, since it inverts all colors in the macOS user interface, not just the colors when viewing the PDF.
 
