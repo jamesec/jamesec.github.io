@@ -16,15 +16,15 @@ You can use the [Skim app](https://skim-app.sourceforge.io/) to read PDFs in dar
 
 Just configure the app this way, and you’re good to go with PDFs in dark mode.
 
-Menu of the Skim App
-Settings…
+Menu of the Skim App  
+Settings…  
 → Display → Invert colors in Dark Mode
 
-Menu of the Skim App
-PDF
-→ Automatically Resize
-→ Horizontal Continuous
-→ Book Mode
+Menu of the Skim App  
+PDF  
+→ Automatically Resize  
+→ Horizontal Continuous  
+→ Book Mode  
 → Page Breaks
 
 Enjoy reading—maybe an intriguing novel in PDF format!
