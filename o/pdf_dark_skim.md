@@ -14,10 +14,7 @@ However, I don’t like Tahoe—either its design or its performance—so I down
 
 You can use the [Skim app](https://skim-app.sourceforge.io/) to read PDFs in dark mode, though. It’s a lightweight app with the slogan: “Stop printing and start skimming.”
 
-<img 
-  src="https://skim-app.sourceforge.io/images/icon64@2x.png" 
-  height="200" 
-/>
+<img src="https://skim-app.sourceforge.io/images/icon64@2x.png" />
 
 Just configure the app this way, and you’re good to go with PDFs in dark mode.
 
