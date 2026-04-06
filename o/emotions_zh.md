@@ -2,7 +2,7 @@
 作者：Robert Elliott / 譯者：陳藝文、田嬰 / 2024 年 5 月 3 日 / 最後更新：2025 年 9 月 25 日<br />
 譯自：[Different kinds of emotional responses](https://youtu.be/sJl3GJLTUj4)
 
-<div class="video-wrapper"><video src="https://files.catbox.moe/hltw7k.mp4" controls playsinline></video></div>
+<iframe width="640" height="360" src="https://youtube.com/embed/sRzj3jOKku4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [Different kinds of emotional responses](https://youtu.be/sJl3GJLTUj4)
   - Video uploaded: Jul 19, 2016
