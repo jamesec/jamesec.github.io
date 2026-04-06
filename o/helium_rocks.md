@@ -1,7 +1,7 @@
 # Helium browser rocks
 `Apr 6, 2026`
 
-I was looking for a lightweight web browser, and I tried many of them. I wanted something that isn’t bloated or bulky and doesn’t spy on me or collect too much information—especially without my consent. I found Ungoogled Chromium, which is really good, and more recently I discovered [the Helium browser](https://helium.computer/)—it rocks!
+I was looking for a lightweight web browser, and I tried many of them. I wanted something that isn’t bloated or bulky and doesn’t spy on me or collect too much information—especially without my consent. I found [Ungoogled Chromium](/o/s.htm?p=ungoogled), which is really good, and more recently I discovered [the Helium browser](https://helium.computer/)—it rocks!
 
 <a href="https://helium.computer/" target="_blank"><img src="https://raw.githubusercontent.com/imputnet/helium/main/resources/branding/app_icon/raw.png" height="100" /></a>
 
