@@ -47,6 +47,8 @@ This old version is still very good for older Macs—for example, macOS 10.
 ### iOS
 [Firefox Focus for iOS](https://firefox.com/en-US/browsers/mobile/focus/) is minimal by design—its bookmarks and quick-launch area can hold only four links. I appreciate the simplicity, but that’s also why we need another iOS browser.
 
+<a href="https://firefox.com/en-US/browsers/mobile/focus/" target="_blank"><img src="https://www.firefox.com/media/protocol/img/logos/firefox/browser/focus/logo-word-hor-white.svg" height="100" /></a>
+
 Oh, it’s better to turn these off in the settings:
 - Allow Remote Improvements
 - Daily Usage Ping
@@ -54,5 +56,9 @@ Oh, it’s better to turn these off in the settings:
 
 [Orion browser by Kagi for iOS](https://apps.apple.com/us/app/id1484498200) is a fast, free, web browser for iPhone and iPad with no ads, no telemetry.
 
+<a href="https://apps.apple.com/us/app/id1484498200" target="_blank"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/af/76/79af7623-ac72-6749-901d-22d9200f2990/Placeholder.mill/400x400bb-75.webp" height="100" /></a>
+
 ### Android
 If you use Android, it’s highly recommended to use [GrapheneOS](https://grapheneos.org/) and its default browser, **Vanadium**.
+
+<a href="https://grapheneos.org/" target="_blank"><img src="https://grapheneos.org/780febcc.mask-icon.svg" height="100" /></a>
