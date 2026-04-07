@@ -33,11 +33,15 @@ That said, these are my picks after trying and testing many options.
 ## Tor browser
 Occasionally, I use [Tor Browser](https://torproject.org/), a Mozilla Firefox-based browser designed for secure, private, and anonymous browsing.
 
+<a href="https://torproject.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Tor_Browser_icon.svg" height="100" /></a>
+
 ## Iridium browser
 [Iridium browser](https://iridiumbrowser.de/) is another nice one, but now they only offer the source code on their website.
 
 This old version is still very good for older Macs—for example, macOS 10.
 - [Iridium Browser 2023.09.116](https://www.techspot.com/downloads/6912-iridium-browser.html)
+
+<a href="https://www.techspot.com/downloads/6912-iridium-browser.html" target="_blank"><img src="https://raw.githubusercontent.com/iridium-browser/artwork/master/product-icons_RGB/iridium-icon_custom.png" height="100" /></a>
 
 ## Browsers on mobile devices
 ### iOS
