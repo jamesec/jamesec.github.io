@@ -1,5 +1,5 @@
 # Browsers as the most important tools
-`Apr 6, 2026`
+`Apr 7, 2026`
 
 Web browsers are almost everywhere—and, in a sense, among the most important tools we use. Even when you think you're using an app, you're often using its embedded browser. I tend to choose a browser over a dedicated app on my computer or phone if the service runs well enough.
 
@@ -29,6 +29,24 @@ These are my picks after testing many options.
 - [Ungoogled Chromium browser with extensions](https://evenc.org/o/s.htm?p=ungoogled)
 
 <a href="https://evenc.org/o/s.htm?p=ungoogled" target="_blank"><img src="https://www.chromium.org/_assets/icon-chromium-96.png" height="100" /></a>
+
+## LibreWolf browser
+
+<a href="https://librewolf.net/installation/macos/" target="_blank"><img src="https://librewolf.net/icon.svg" height="100" /></a>
+
+LibreWolf is designed to increase protection against tracking and fingerprinting techniques, while also including a few security improvements. 
+
+No telemetry, uBlock Origin extension pre-installed, and it's always based on the latest version of Firefox. 
+
+But as they don't want to "support this signing mechanism that is put behind a paywall", you need to update it manually and use an command to bypass the macOS Gatekeeper check.
+
+https://librewolf.net/docs/faq/#why-is-librewolf-marked-as-broken
+
+Why is LibreWolf marked as broken?  
+- It is possible that Apple Silicon users see their recently downloaded LibreWolf flagged as broken or unsafe by the OS.
+- This happens because we do not notarize the macOS version of the browser: we don't have a paid Apple Developer license and we don't want to support this signing mechanism that is put behind a paywall without providing significant gains.
+- You can remove the quarantine attribute from the Application using this command:
+`xattr -dr com.apple.quarantine /Applications/LibreWolf.app`
 
 ## Tor browser
 Occasionally, I use [Tor Browser](https://torproject.org/), a Mozilla Firefox-based browser designed for secure, private, and anonymous browsing.
