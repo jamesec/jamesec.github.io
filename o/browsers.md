@@ -18,7 +18,7 @@ When choosing a browser, you can test its speed and capabilities using these two
 - [Speedometer](https://browserbench.org/Speedometer3.1/)
 - [HTML5test](https://html5test.co/)
 
-That said, these are my picks after trying and testing many options.
+These are my picks after testing many options.
 
 ## Helium browser
 - [Helium browser rocks](https://evenc.org/o/s.htm?p=helium_rocks)
@@ -45,7 +45,7 @@ This old version is still very good for older Macs—for example, macOS 10.
 
 ## Browsers on mobile devices
 ### iOS
-[Firefox Focus for iOS](https://firefox.com/en-US/browsers/mobile/focus/) is minimal by design—its bookmarks and quick-launch area can hold only four links. I appreciate the simplicity, but that’s also why we need another iOS browser.
+[Firefox Focus for iOS](https://firefox.com/en-US/browsers/mobile/focus/) is minimal by design—its quick-launch area can hold only four links. I appreciate the simplicity, but that’s also why we need another iOS browser.
 
 <a href="https://firefox.com/en-US/browsers/mobile/focus/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Firefox_Focus_2021_Icon.png" height="100" /></a>
 
