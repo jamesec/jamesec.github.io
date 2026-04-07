@@ -45,7 +45,7 @@ https://librewolf.net/docs/faq/#why-is-librewolf-marked-as-broken
 Why is LibreWolf marked as broken?  
 - It is possible that Apple Silicon users see their recently downloaded LibreWolf flagged as broken or unsafe by the OS.
 - This happens because we do not notarize the macOS version of the browser: we don't have a paid Apple Developer license and we don't want to support this signing mechanism that is put behind a paywall without providing significant gains.
-- You can remove the quarantine attribute from the Application using this command:
+- You can remove the quarantine attribute from the Application using this command:  
 `xattr -dr com.apple.quarantine /Applications/LibreWolf.app`
 
 ## Tor browser
