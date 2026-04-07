@@ -5,6 +5,8 @@ This article outlines the steps on a Mac.
 
 `Ungoogled Chromium` browser. A lightweight approach to removing Google web service dependency.
 
+<a href="https://evenc.org/o/s.htm?p=ungoogled" target="_blank"><img src="https://www.chromium.org/_assets/icon-chromium-96.png" height="100" /></a>
+
 ## Install Ungoogled Chromium
 Install Homebrew package manager  
 https://brew.sh/ → Install Homebrew
