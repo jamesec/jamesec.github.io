@@ -47,7 +47,7 @@ This old version is still very good for older Macs—for example, macOS 10.
 ### iOS
 [Firefox Focus for iOS](https://firefox.com/en-US/browsers/mobile/focus/) is minimal by design—its bookmarks and quick-launch area can hold only four links. I appreciate the simplicity, but that’s also why we need another iOS browser.
 
-<a href="https://firefox.com/en-US/browsers/mobile/focus/" target="_blank"><img src="https://www.firefox.com/media/protocol/img/logos/firefox/browser/focus/logo-word-hor-white.svg" height="100" /></a>
+<a href="https://firefox.com/en-US/browsers/mobile/focus/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Firefox_Focus_2021_Icon.png" height="100" /></a>
 
 Oh, it’s better to turn these off in the settings:
 - Allow Remote Improvements
