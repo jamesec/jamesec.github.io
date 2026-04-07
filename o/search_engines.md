@@ -7,7 +7,7 @@ Which search engine works best for me? I got some ideas from [Helium browser](ht
 
 - Recommended: [Startpage](https://startpage.com/), [DuckDuckGo](https://duckduckgo.com/), Kagi (if willing to pay)
 - Semi-recommended: Ecosia, Qwant
-- Not-recommended: Google, Microsoft Bing
+- Avoid: Google, Microsoft Bing
 
 ## Recommended
 <img src="https://cdn.startpage.com/sp/cdn/favicons/mobile/apple-icon-180x180.png" width="32" height="32"> [Startpage](https://startpage.com/)  
@@ -32,7 +32,7 @@ May plant trees for clicking ads. Relies on Bing and Google. Sends tracking data
 <img src="https://www.qwant.com/public/apple-touch-icon.e9d3092ec9fb9e1a28c1ea1a3b10777a.png" width="32" height="32"> Qwant  
 Based in Europe. Uses Bing results. Sends tracking data to Microsoft.
 
-## Not-recommended
+## Avoid
 <img src="https://www.google.com/images/branding/googleg/1x/googleg_standard_color_128dp.png" width="32" height="32"> Google  
 It's Google. It dominates the search market, collects extensive personal data, and profiles you.
 
