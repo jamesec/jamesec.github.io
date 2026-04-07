@@ -18,3 +18,4 @@ After several months of use, Helium does what it promises: a private, fast, and 
 	- This repo is based on ungoogled-chromium, but heavily modified for Helium. Special thanks to everyone behind ungoogled-chromium, they made working with Chromium way easier.
 - [Which search engine works best?](/o/s.htm?p=search_engines)
 	- I got some ideas from Helium browser and added Startpage to the original selection from Helium.
+- [Browsers as the most important tools](/o/s.htm?p=browsers)
