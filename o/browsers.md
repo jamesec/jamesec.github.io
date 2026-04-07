@@ -60,5 +60,3 @@ Oh, it’s better to turn these off in the settings:
 
 ### Android
 If you use Android, it’s highly recommended to use [GrapheneOS](https://grapheneos.org/) and its default browser, **Vanadium**.
-
-<a href="https://grapheneos.org/" target="_blank"><img src="https://grapheneos.org/780febcc.mask-icon.svg" height="100" /></a>
