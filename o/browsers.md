@@ -5,17 +5,14 @@ Web browsers are almost everywhere—and, in a sense, among the most important t
 
 Some people push back against Google Chrome’s dominance and its appetite for user data (and the privacy concerns that come with it), so they turn to Mozilla Firefox. But vanilla Firefox is no saint—see the recent controversy below.
 
-```
-Feb 27, 2025
-https://x.com/LundukeJournal/status/1895249805338886591
-Mozilla has just deleted the following:
-“Does Firefox sell your personal data?”
-“Nope. Never have, never will. And we protect you from many of the advertisers who do. Firefox products are designed to protect your privacy. That’s a promise."
-https://github.com/mozilla/bedrock/commit/d459addab846d8144b61939b7f4310eb80c5470e
 
-Firefox deletes promise to never sell personal data, asks users not to panic
-https://news.ycombinator.com/item?id=43210023
-```
+- `Feb 27, 2025` https://x.com/LundukeJournal/status/1895249805338886591
+  - Mozilla has just deleted the following:
+    - “Does Firefox sell your personal data?”
+    - “Nope. Never have, never will. And we protect you from many of the advertisers who do. Firefox products are designed to protect your privacy. That’s a promise."
+    - https://github.com/mozilla/bedrock/commit/d459addab846d8144b61939b7f4310eb80c5470e
+- Firefox deletes promise to never sell personal data, asks users not to panic
+  - https://news.ycombinator.com/item?id=43210023
 
 When choosing a browser, you can test its speed and capabilities using these two tools:
 - [Speedometer](https://browserbench.org/Speedometer3.1/)
@@ -31,6 +28,8 @@ That said, these are my picks after trying and testing many options.
 ## Ungoogled Chromium browser
 - [Ungoogled Chromium browser with extensions](https://evenc.org/o/s.htm?p=ungoogled)
 
+<a href="https://evenc.org/o/s.htm?p=ungoogled" target="_blank"><img src="https://www.chromium.org/_assets/icon-chromium-96.png" height="100" /></a>
+
 ## Tor browser
 Occasionally, I use [Tor Browser](https://torproject.org/), a Mozilla Firefox-based browser designed for secure, private, and anonymous browsing.
 
@@ -43,6 +42,11 @@ This old version is still very good for older Macs—for example, macOS 10.
 ## Browsers on mobile devices
 ### iOS
 [Firefox Focus for iOS](https://firefox.com/en-US/browsers/mobile/focus/) is minimal by design—its bookmarks and quick-launch area can hold only four links. I appreciate the simplicity, but that’s also why we need another iOS browser.
+
+Oh, it's better to turn these off in its settings:
+- Allow Remote Improvements
+- Daily Usage Ping
+- Automatically Send Crash Reports
 
 [Orion browser by Kagi for iOS](https://apps.apple.com/us/app/id1484498200) is a fast, free, web browser for iPhone and iPad with no ads, no telemetry.
 
