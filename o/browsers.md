@@ -36,13 +36,11 @@ These are my picks after testing many options.
 
 LibreWolf is designed to increase protection against tracking and fingerprinting techniques, while also including a few security improvements. 
 
-No telemetry, uBlock Origin extension pre-installed, and it's always based on the latest version of Firefox. 
+It has no telemetry, comes with the uBlock Origin extension, is open source, and is based on the latest version of Firefox.
 
-But as they don't want to "support this signing mechanism that is put behind a paywall", you need to update it manually and use an command to bypass the macOS Gatekeeper check.
+However, since the developers won’t support the paywalled signing mechanism, you must update it manually and run a command to bypass macOS Gatekeeper.
 
-https://librewolf.net/docs/faq/#why-is-librewolf-marked-as-broken
-
-Why is LibreWolf marked as broken?  
+[Why is LibreWolf marked as broken?](https://librewolf.net/docs/faq/#why-is-librewolf-marked-as-broken)  
 - It is possible that Apple Silicon users see their recently downloaded LibreWolf flagged as broken or unsafe by the OS.
 - This happens because we do not notarize the macOS version of the browser: we don't have a paid Apple Developer license and we don't want to support this signing mechanism that is put behind a paywall without providing significant gains.
 - You can remove the quarantine attribute from the Application using this command:  
