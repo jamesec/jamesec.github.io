@@ -1,7 +1,7 @@
 # How to export PDFs with page numbers in Obsidian
 `Apr 9, 2026`
 
-Obsidian is a great app. I use it every day and can’t live without it. It’s not perfect—it’s an Electron app, so it uses a lot of resources—and it’s not open source, which I wish it were. Still, I haven’t found a suitable alternative.
+Obsidian is a great app. I use it every day and can’t live without it. It’s not perfect. It’s an Electron app, so it uses a lot of resources; and it’s not open source, which I wish it were. Still, I haven’t found a suitable alternative.
 
 <a href="https://obsidian.md/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" height="100" /></a>
 
@@ -36,3 +36,8 @@ You can add page numbers in the footer by configuring it like this:
 ```
 
 Then export using “Better Export PDF”, and make sure to turn on “Display Footer”.
+
+## References
+- [Tech stack of this website](/o/s.htm?p=tech_stack)
+  - I use Obsidian App to write in Markdown.
+  - I've tried other Markdown editors, but most of them are jokes. However, Obsidian App literally changed my life. I use it to build my knowledge base as my second brain and also as a writing tool. It's free for personal use and highly recommended.
