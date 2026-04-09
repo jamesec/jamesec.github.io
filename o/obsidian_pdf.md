@@ -9,8 +9,8 @@ Since I started using it, I no longer use Microsoft Word or Apple Pages proactiv
 
 I create content in Obsidian and export it to PDFs to share with others. However, one feature is missing when exporting PDFs from Obsidian: they don’t include page numbers, and there is currently no built-in way to add them.
 
-There is a feature request on the Obsidian forum titled “Add page numbers to PDF export”:
-https://forum.obsidian.md/t/add-page-numbers-to-pdf-export/32525
+There is a feature request on the Obsidian forum titled “Add page numbers to PDF export”:  
+https://forum.obsidian.md/t/add-page-numbers-to-pdf-export/32525  
 However, this has not been addressed for a long time (since February 2022).
 
 So I tried several workarounds until I found an Obsidian plugin called [Better Export PDF](https://github.com/l1xnan/obsidian-better-export-pdf).
@@ -20,7 +20,7 @@ So I tried several workarounds until I found an Obsidian plugin called [Better E
 
 You can add page numbers in the footer by configuring it like this:
 
-Settings… → Better Export PDF → Footer Template
+`Settings…` → `Better Export PDF` → `Footer Template`
 
 ```css
 <div style="
