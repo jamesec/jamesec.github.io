@@ -39,5 +39,6 @@ Then export using “Better Export PDF”, and make sure to turn on “Display F
 
 ## References
 - [Tech stack of this website](/o/s.htm?p=tech_stack)
+  - I utilize [mvp.css](https://github.com/andybrewer/mvp) and [Tokyo Night theme for Obsidian](https://github.com/tcmmichaelb139/obsidian-tokyonight/) for the styles…
   - I use Obsidian App to write in Markdown.
   - I've tried other Markdown editors, but most of them are jokes. However, Obsidian App literally changed my life. I use it to build my knowledge base as my second brain and also as a writing tool. It's free for personal use and highly recommended.
