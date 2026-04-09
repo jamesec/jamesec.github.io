@@ -1,6 +1,4 @@
 # 温暖的「絨絨」的故事
-`2023 年 7 月 18 日`
-
 作者：[Julie Hay](https://juliehay.org/) / 譯者：陳藝文、郭曉晶 / 2023 年 7 月 18 日  
 譯自：Warm Fuzzy Tale, P.36, *[Donkey Bridges for Developmental TA (1995, 2012, 2nd Edition)](https://sherwoodpublishing.com/store-2/donkey-bridges-for-developmental-ta-2/)*
 
