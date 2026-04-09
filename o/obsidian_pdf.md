@@ -5,7 +5,7 @@ Obsidian is a great app. I use it every day and can’t live without it. It’s 
 
 <a href="https://obsidian.md/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" height="100" /></a>
 
-Since I started using it, I no longer use Microsoft Word or Apple Pages proactively, except when someone sends me documents in those formats and I need to open them.
+Since I started using it, I no longer use Microsoft Word or Apple Pages unless I have to—like when someone sends me documents in those formats.
 
 I create content in Obsidian and export it to PDFs to share with others. However, one feature is missing when exporting PDFs from Obsidian: they don’t include page numbers, and there is currently no built-in way to add them.
 
