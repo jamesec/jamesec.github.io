@@ -27,3 +27,6 @@
 ---
 
 《温暖的「絨絨」的故事》鼓勵人們先改變自己的安撫模式，而不用等待其他人做出改變。它傳達的訊息是，你可以通過給出積極的安撫來對應地得到它們。在進行文化調整，希望建立更健康的心理工作環境的組織內，講述這個故事尤為有益。
+
+## References
+- [A Warm Fuzzy Tale (1969), by Claude M. Steiner](https://web.archive.org/web/20160303181358/http://claudesteiner.com/fuzzy.htm)
