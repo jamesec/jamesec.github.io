@@ -18,7 +18,7 @@ So I tried several workarounds until I found an Obsidian plugin called [Better E
 - Using Typora app to export my content as PDFs
 - Using a Python script to add page numbers to PDFs exported from Obsidian
 
-You can add page numbers in the footer by configuring it like this:
+You can add page numbers in the footer by configuring `Better Export PDF` plugin like this:
 
 `Settings…` → `Better Export PDF` → `Footer Template`
 
