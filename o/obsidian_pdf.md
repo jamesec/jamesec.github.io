@@ -1,7 +1,7 @@
 # How to export PDFs with page numbers in Obsidian
 `Apr 9, 2026`
 
-Obsidian is a great app. I use it every day and can’t live without it. It’s not perfect. It’s an Electron app, so it uses a lot of resources; and it’s not open source, which I wish it were. Still, I haven’t found a suitable alternative.
+[Obsidian](https://obsidian.md/) is a great app. I use it every day and can’t live without it. It’s not perfect. It’s an Electron app, so it uses a lot of resources; and it’s not open source, which I wish it were. Still, I haven’t found a suitable alternative.
 
 <a href="https://obsidian.md/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" height="100" /></a>
 
