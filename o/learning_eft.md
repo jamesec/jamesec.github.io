@@ -5,7 +5,7 @@
 
 <img 
   src="https://www.apa.org/pubs/books/images/4317035-475.gif" 
-  alt="Learning Emotion-Focused Therapy (2004) by Robert Elliott, etc." 
+  alt="Learning Emotion-Focused Therapy (2004)" 
   title="Learning Emotion-Focused Therapy (2004)" 
   height="200" 
 />
