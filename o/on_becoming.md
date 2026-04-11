@@ -5,7 +5,7 @@
 
 <img 
   src="https://www.apa.org/pubs/books/images/3843327-475.gif" 
-  alt="On Becoming Emotion Focused (2025) by Leslie Greenberg" 
+  alt="On Becoming Emotion Focused (2025)" 
   title="On Becoming Emotion Focused (2025)" 
   height="200" 
 />
