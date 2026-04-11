@@ -5,7 +5,7 @@
 
 <img 
   src="https://www.apa.org/pubs/books/images/3838323-475.gif" 
-  alt="Learning Emotion-Focused Therapy: A Comprehensive Guide (2025, 2nd ed.)" 
+  alt="Learning EFT 2.0 (2025)" 
   title="Learning EFT 2.0 (2025)" 
   height="200" 
 />
