@@ -5,7 +5,7 @@
 
 <img 
   src="https://www.apa.org/pubs/books/images/4311061-475.gif" 
-  alt="Principles of Emotion Change (2025) by Antonio Pascual-Leone" 
+  alt="Principles of Emotion Change (2025)" 
   title="Principles of Emotion Change (2025)" 
   height="200" 
 />
