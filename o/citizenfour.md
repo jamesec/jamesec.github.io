@@ -31,3 +31,7 @@ Storyline from IMDb.
 	- TRUECRYPT https://truecrypt.org/
 	- SECUREDROP https://securedrop.org/
 - `01:52:09` This film is dedicated to those who make great sacrifices to expose injustice
+
+## References
+- [Edward Snowden - Wikipedia](https://en.wikipedia.org/wiki/Edward_Snowden)
+	- Snowden's decision to leak NSA documents developed gradually following his March 2007 posting as a technician to the Geneva CIA station. Snowden later made contact with Glenn Greenwald, a journalist working at *The Guardian*. He contacted Greenwald anonymously as "Cincinnatus" and said he had sensitive documents that he would like to share. Greenwald found the measures that the source asked him to take to secure their communications, such as encrypting email, too annoying to employ. Snowden then contacted documentary filmmaker Laura Poitras in January 2013.[115] According to Poitras, Snowden chose to contact her after seeing her *New York Times* article about NSA whistleblower William Binney. What originally attracted Snowden to Greenwald and Poitras was a *Salon* article written by Greenwald detailing how Poitras's controversial films had made her a target of the government.
