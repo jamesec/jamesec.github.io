@@ -76,3 +76,6 @@ Oh, it’s better to turn these off in the settings:
 
 ### Android
 If you use Android, it’s highly recommended to use [GrapheneOS](https://grapheneos.org/) and its default browser, **Vanadium**.
+
+## References
+- [Choose your browser carefully - Unix Digest](https://unixdigest.com/articles/choose-your-browser-carefully.html)
