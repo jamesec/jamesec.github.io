@@ -30,7 +30,8 @@ Reuben Feffer: {long pause} I’m gonna kill you!
 ## My comments
 As I understand it, the idea is to be authentic with yourself or another person.
 
-In the context of the movie, the unspoken message could be: it just happened—she broke the marriage agreement with you, and you have to accept it.
+In the context of the movie, the unspoken message could be:  
+It just happened—she broke the (marriage) agreement with you, and you have to accept it.
 
 ## References
 - [Along Came Polly (1/8) Best Movie Quote - Story of ze Hippo (2004) - YouTube](https://youtube.com/watch?v=h4LkkLpRjH8)
