@@ -3,8 +3,6 @@
 
 Also known as *The story of the hippo*, and it's from the movie *Along Came Polly (2004)*.
 
-As I understand it, the idea is to be authentic with yourself or another person.
-
 <iframe width="560" height="315" src="https://youtube.com/embed/uhOzaH0GbEg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Claude: It’s like the story of the hippo.
@@ -28,6 +26,11 @@ Happy as a hippo.
 You understand?
 
 Reuben Feffer: {long pause} I’m gonna kill you!
+
+## My comments
+As I understand it, the idea is to be authentic with yourself or another person.
+
+In the context of the movie, the unspoken message could be: it just happened—she broke the marriage agreement with you, and you have to accept it.
 
 ## References
 - [Along Came Polly (1/8) Best Movie Quote - Story of ze Hippo (2004) - YouTube](https://youtube.com/watch?v=h4LkkLpRjH8)
