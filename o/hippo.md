@@ -23,7 +23,7 @@ So at certain point, he look himself in the mirror, and he just say, “Hey, I a
 
 And as soon as he accepts this, he live life happy. 
 
-Happy as a Hippo.
+Happy as a hippo.
 
 You understand?
 
