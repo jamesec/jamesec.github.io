@@ -28,10 +28,14 @@ You understand?
 Reuben Feffer: {long pause} I’m gonna kill you!
 
 ## My comments
-As I understand it, the idea is to be authentic with yourself or another person.
+As I understand it, the idea is to be authentic to yourself and with others.
 
 In the context of the movie, the unspoken message could be:  
-It just happened—she broke the (marriage) agreement with you, and you have to accept it.
+It just happened—she broke the marriage agreement, and you have to accept it.
+
+Reuben experiences primary anger in response to the situation.  
+Claude tries—awkwardly, maybe clumsily—to comfort him and help him move on.  
+In another sense, he seems to be trying to normalize it through the story in a somewhat manipulative way.
 
 ## References
 - [Along Came Polly (1/8) Best Movie Quote - Story of ze Hippo (2004) - YouTube](https://youtube.com/watch?v=h4LkkLpRjH8)
