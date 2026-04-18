@@ -33,7 +33,7 @@ As I understand it, the idea is to be authentic to yourself and with others.
 In the context of the movie, the unspoken message could be:  
 It just happened—she broke the marriage agreement, and you have to accept it.
 
-Reuben experiences primary anger in response to the situation.  
+Reuben experiences primary anger in response to the situation (more precisely, anger mixed with hurt and shock).  
 Claude tries—awkwardly, maybe clumsily—to comfort him and help him move on.  
 In another sense, he seems to be trying to normalize it through the story in a somewhat manipulative way.
 
