@@ -34,8 +34,8 @@ In the context of the movie, the unspoken message could be:
 It just happened—she broke the marriage agreement, and you have to accept it.
 
 Reuben experiences primary anger in response to the situation (more precisely, anger mixed with hurt and shock).  
-Claude tries—awkwardly, maybe clumsily—to comfort him and help him move on.  
-In another sense, he seems to be trying to normalize it through the story in a somewhat manipulative way.
+Claude tries—awkwardly, maybe clumsily—to comfort him and help him move on. 
+In another sense, he also seems to be trying to normalize it for Reuben through the story, in a somewhat manipulative way.
 
 ## References
 - [Along Came Polly (1/8) Best Movie Quote - Story of ze Hippo (2004) - YouTube](https://youtube.com/watch?v=h4LkkLpRjH8)
