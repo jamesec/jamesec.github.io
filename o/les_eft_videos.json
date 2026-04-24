@@ -39,7 +39,7 @@
   },
    {
       "slide_number": 9,
-      "slide_content": "<h1>用情绪改变情绪</h1><video class='centered-video' src='https://files.catbox.moe/2p1nxf.mp4' controls></video><p class='comment'><a href='https://youtu.be/RuZRc8Axln0'>https://youtu.be/RuZRc8Axln0</a></p>"
+      "slide_content": "<h1>用情绪改变情绪</h1><iframe class='centered-iframe' width='640' height='360' src='https://youtube.com/embed/Rh-DPgV9FJM' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><p class='comment'><a href='https://youtu.be/RuZRc8Axln0'>https://youtu.be/RuZRc8Axln0</a></p>"
   },
    {
       "slide_number": 10,
