@@ -43,7 +43,7 @@ However, since it “uses Google results but removes all trackers and personal d
 - Privacy-focused. Relies on Bing results but promises to never track or profile you.
 
 `Updated: Apr 25, 2026`  
-Since DuckDuckGo is in the “[De-listed search engines](https://12bytes.org/alternative-search-engines-that-are-more-respectful-of-your-privacy/#mcetoc_1hejrngg04fh),” I’ll remove it from my recommended list.
+Since DuckDuckGo is in the “[De-listed search engines](https://12bytes.org/alternative-search-engines-that-are-more-respectful-of-your-privacy/#mcetoc_1hejrngg04fh),” I removed it from my recommended list.
 
 <img src="https://www.ecosia.org/static/icons/apple-touch-icon.png" width="32" height="32"> Ecosia
 - May plant trees for clicking ads. Relies on Bing and Google. Sends tracking data to Microsoft and Google.
