@@ -16,7 +16,7 @@ Which search engine respects my privacy and works best for me? I got some ideas 
 You can customize it on the settings page.  
 https://search.brave.com/settings
 
-[PrivacyTools.io Checklist](https://www.privacytools.io/)
+[PrivacyTools.io Checklist](https://www.privacytools.io/)  
 → Private Search Engine: Brave Search
 
 <img src="https://cdn.startpage.com/sp/cdn/favicons/mobile/apple-icon-180x180.png" width="32" height="32"> [Startpage](https://startpage.com/)
