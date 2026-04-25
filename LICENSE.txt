@@ -1,3 +1,24 @@
 Copyright (c) 2024-, https://evenc.org/
 
+All rights reserved.
+
+This website and its contents, including but not limited to text, images, code snippets, and other materials, are the intellectual property of the author unless otherwise stated.
+
+Permission is NOT granted to:
+
+Use this work for commercial purposes
+Modify, adapt, transform, or build upon this work
+Redistribute modified versions of this work
+
+Permission IS granted to:
+
+View and read the content for personal, non-commercial use
+Share unmodified copies of the content, provided proper credit is given and a link to the original source is included
+
+Any other use requires prior written permission from the author.
+
+For permissions or inquiries, please contact: james(at)evenc.org
+
+---
+
 All rights reserved. No commercial use or modification permitted without explicit permission.
