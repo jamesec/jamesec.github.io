@@ -10,8 +10,7 @@ Which search engine respects my privacy and works best for me? I got some ideas 
 
 ## Recommended
 `Updated: Apr 25, 2026`  
-<img src="https://cdn.search.brave.com/serp/v3/_app/immutable/assets/brave-logo-dark.5D16vJCY.svg" height="32">  
-[Brave search](https://search.brave.com/)
+<img src="https://cdn.search.brave.com/serp/v3/_app/immutable/assets/brave-logo-dark.5D16vJCY.svg" height="32"> [Brave search](https://search.brave.com/)
 
 [Brave Search maintains its own index](https://12bytes.org/alternative-search-engines-that-are-more-respectful-of-your-privacy/#mcetoc_1hejrngg04f2).
 
@@ -21,9 +20,7 @@ https://search.brave.com/settings
 [PrivacyTools.io Checklist](https://www.privacytools.io/)  
 → Private Search Engine: Brave Search
 
-<img src="https://cdn.startpage.com/sp/cdn/favicons/mobile/apple-icon-180x180.png" width="32" height="32">  
-
-[Startpage](https://startpage.com/)
+<img src="https://cdn.startpage.com/sp/cdn/favicons/mobile/apple-icon-180x180.png" width="32" height="32"> [Startpage](https://startpage.com/)
 - Privacy-focused. Uses Google results but removes all trackers and personal data.  
 - Promises to never store your IP or search history. Simple, familiar interface without profiling.
 
