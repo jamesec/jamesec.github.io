@@ -11,8 +11,7 @@ Which search engine respects my privacy and works best for me? I got some ideas 
 ## Recommended
 `Updated: Apr 25, 2026`  
 <img src="https://cdn.search.brave.com/serp/v3/_app/immutable/assets/brave-logo-dark.5D16vJCY.svg" height="32"> [Brave search](https://search.brave.com/)
-
-[Brave Search maintains its own index](https://12bytes.org/alternative-search-engines-that-are-more-respectful-of-your-privacy/#mcetoc_1hejrngg04f2).
+- [Brave Search maintains its own index](https://12bytes.org/alternative-search-engines-that-are-more-respectful-of-your-privacy/#mcetoc_1hejrngg04f2).
 
 You can customize it on the settings page.  
 https://search.brave.com/settings
