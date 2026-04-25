@@ -10,13 +10,13 @@ Which search engine respects my privacy and works best for me? I got some ideas 
 
 ## Recommended
 `Updated: Apr 25, 2026`  
-<img src="https://cdn.search.brave.com/serp/v3/_app/immutable/assets/brave-logo-dark.5D16vJCY.svg" height="32"> [Brave search](https://search.brave.com/)
-- [Brave Search maintains its own index](https://12bytes.org/alternative-search-engines-that-are-more-respectful-of-your-privacy/#mcetoc_1hejrngg04f2).
+<img src="https://cdn.search.brave.com/serp/v3/_app/immutable/assets/brave-logo-dark.5D16vJCY.svg" height="32">
+- [Brave search](https://search.brave.com/) [maintains its own index](https://12bytes.org/alternative-search-engines-that-are-more-respectful-of-your-privacy/#mcetoc_1hejrngg04f2).
 
 You can customize it on the settings page.  
 https://search.brave.com/settings
 
-[PrivacyTools.io Checklist](https://www.privacytools.io/)  
+[PrivacyTools.io Checklist](https://www.privacytools.io/)
 → Private Search Engine: Brave Search
 
 <img src="https://cdn.startpage.com/sp/cdn/favicons/mobile/apple-icon-180x180.png" width="32" height="32"> [Startpage](https://startpage.com/)
@@ -29,7 +29,7 @@ Copy the Settings URL below, then bookmark or set as homepage.
 
 `Updated: Apr 25, 2026`  
 As noted in the “De-listed search engines” section of this post,  
-[Alternative search engines that are more respectful of your privacy](https://12bytes.org/alternative-search-engines-that-are-more-respectful-of-your-privacy/#mcetoc_1hejrngg04fj)  
+[Alternative search engines that are more respectful of your privacy](https://12bytes.org/alternative-search-engines-that-are-more-respectful-of-your-privacy/#mcetoc_1hejrngg04fj)
 > As of somewhere around 2018 or 2019, Startpage was partially bought out by Privacy One Group/System1 which appears to be a data collection/advertising company. Source: [Software Removal | Startpage.com](https://archive.is/mrFxB#selection-2755.1-2755.33)
 
 However, since it “uses Google results but removes all trackers and personal data,” I still want to keep it as something I’ll use.
