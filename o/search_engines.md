@@ -1,5 +1,5 @@
 # Private search engines
-`Updated: Apr 25 / Feb 16, 2026`
+`Updated: Apr 25, 2026 / Feb 16, 2026`
 
 In the age of artificial intelligence, I still use search engines. It’s easier and more direct to find the information I want—not to mention avoiding annoying AI hallucinations.
 
@@ -18,12 +18,12 @@ You can customize Startpage on the settings page.
 https://startpage.com/do/settings  
 Copy the Settings URL below, then bookmark or set as homepage.
 
-`Updated: Apr 25`  
-As in the "De-listed search engines" section of this post,  
+`Updated: Apr 25, 2026`  
+As noted in the “De-listed search engines” section of this post,  
 [Alternative search engines that are more respectful of your privacy](https://12bytes.org/alternative-search-engines-that-are-more-respectful-of-your-privacy/#mcetoc_1hejrngg04fj)  
 > As of somewhere around 2018 or 2019, Startpage was partially bought out by Privacy One Group/System1 which appears to be a data collection/advertising company. Source: [Software Removal | Startpage.com](https://archive.is/mrFxB#selection-2755.1-2755.33)
 
-But as it "Uses Google results but removes all trackers and personal data" I still want to keep it as something I'll use. 
+However, since it “uses Google results but removes all trackers and personal data,” I still want to keep it as something I’ll use.
 
 <img src="https://kagi.com/asset/905bbe6/apple-touch-icon.png" width="32" height="32"> Kagi  
 Privacy-focused. Customizable results without ads or tracking.
