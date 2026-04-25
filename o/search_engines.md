@@ -42,6 +42,8 @@ Kagi
 Privacy-focused. Customizable results without ads or tracking.  
 Requires a paid account.
 
+---
+
 ## Semi-recommended
 <img src="https://duckduckgo.com/static-assets/favicons/DDG-iOS-icon_152x152.png" width="32" height="32">  
 DuckDuckGo  
@@ -57,6 +59,8 @@ May plant trees for clicking ads. Relies on Bing and Google. Sends tracking data
 <img src="https://www.qwant.com/public/apple-touch-icon.e9d3092ec9fb9e1a28c1ea1a3b10777a.png" width="32" height="32">  
 Qwant  
 Based in Europe. Uses Bing results. Sends tracking data to Microsoft.
+
+---
 
 ## Avoid
 <img src="https://www.google.com/images/branding/googleg/1x/googleg_standard_color_128dp.png" width="32" height="32">  
