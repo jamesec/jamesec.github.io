@@ -4,14 +4,14 @@
 In the age of artificial intelligence, I still use search engines. It’s easier and more direct to find the information I want—not to mention avoiding annoying AI hallucinations.
 
 Which search engine respects my privacy and works best for me? I got some ideas from [Helium browser](https://helium.computer/) and added Startpage to the original selection from Helium.
-- Recommended: [Brave search](https://search.brave.com/), [Startpage](https://startpage.com/), Kagi (if willing to pay)
+- Recommended: [Brave Search](https://search.brave.com/), [Startpage](https://startpage.com/), Kagi (if willing to pay)
 - Semi-recommended: DuckDuckGo, Ecosia, Qwant
 - Avoid: Google, Microsoft Bing
 
 ## Recommended
 `Updated: Apr 25, 2026`  
 <img src="https://cdn.search.brave.com/serp/v3/_app/immutable/assets/brave-logo-dark.5D16vJCY.svg" height="32">
-- [Brave search](https://search.brave.com/) [maintains its own index](https://12bytes.org/alternative-search-engines-that-are-more-respectful-of-your-privacy/#mcetoc_1hejrngg04f2).
+- [Brave Search](https://search.brave.com/) [maintains its own index](https://12bytes.org/alternative-search-engines-that-are-more-respectful-of-your-privacy/#mcetoc_1hejrngg04f2).
 
 You can customize it on the settings page.  
 https://search.brave.com/settings
