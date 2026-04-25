@@ -66,4 +66,4 @@ Google
 
 <img src="https://www.bing.com/sa/simg/favicon-trans-bg-blue-mg-png.png" width="32" height="32">  
 Microsoft Bing
-* Collects extensive personal data. Privacy controls are buried and limited. Subjectively overwhelming UI.
+- Collects extensive personal data. Privacy controls are buried and limited. Subjectively overwhelming UI.
