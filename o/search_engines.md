@@ -38,7 +38,7 @@ As noted in the “De-listed search engines” section of this post,
 
 However, since it “uses Google results but removes all trackers and personal data,” I still want to keep it as something I’ll use.
 
-<img src="https://kagi.com/asset/905bbe6/apple-touch-icon.png" width="32" height="32">  
+<img src="https://kagi.com/asset/905bbe6/apple-touch-icon.png" width="32" height="32">  xyz
 Kagi
 - Privacy-focused. Customizable results without ads or tracking.
 - Requires a paid account.
