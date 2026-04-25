@@ -55,8 +55,14 @@
     <footer>
         <hr>
         <p class="right-aligned">
-            <a href="/" title="Go to homepage">James Even Chen</a><br>
+          <a href="/LICENSE.txt" target="_blank">All rights reserved.</a> © 2024-<span id="year"></span>, <a href="/" title="Go to homepage">James Even Chen</a><br>
         </p>
     </footer>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        document.getElementById("year").textContent = new Date().getFullYear();
+      });
+    </script>
 </body>
 </html>
