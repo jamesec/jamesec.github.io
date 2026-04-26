@@ -2,7 +2,7 @@
 译者：陈艺文、田婴 / 2025 年 7 月 28 日  
 译自：[Six principles for working with emotions](https://youtube.com/watch?v=VfsVqk-ke_s)  
 
-<div class="video-wrapper"><video src="https://files.catbox.moe/7rhc2e.mp4" controls playsinline></video></div>
+<div class="video-wrapper"><iframe class='centered-iframe' width='640' height='360' src='https://youtube.com/embed/FJH5Gc8srtg' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>
 
 - [Six principles for working with emotions](https://youtube.com/watch?v=VfsVqk-ke_s)
   - Video uploaded: Apr 27, 2020
