@@ -24,7 +24,7 @@
     <main>
       <div id="content"></div>
       <script>
-        fetch('search_engines.md')
+        fetch('obsidian_pdf.md')
           .then(res => res.text())
           .then(md => {
             document.getElementById('content').innerHTML = marked.parse(md);
