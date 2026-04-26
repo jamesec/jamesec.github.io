@@ -2,7 +2,7 @@
 译者：陈艺文、田婴 / 2026 年 4 月 5 日  
 译自：[Focusing is... the murky edge](https://youtu.be/nqRQ7PQFLM0)  
 
-<div class="video-wrapper"><video src="https://files.catbox.moe/360ly2.mp4" controls playsinline></video></div>
+<iframe width="640" height="360" src="https://youtube.com/embed/8qqK0UPFoOU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [Focusing is... the murky edge](https://youtu.be/nqRQ7PQFLM0)
   - Video uploaded: Apr 1, 2009
