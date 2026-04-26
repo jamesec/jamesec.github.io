@@ -2,7 +2,7 @@
 译者：陈艺文、田婴 / 2025 年 7 月 31 日  
 译自：[What is the difference between primary and secondary emotions?](https://youtu.be/7xTwvfGckLo)  
 
-<div class="video-wrapper"><iframe class='centered-iframe' width='640' height='360' src='https://youtube.com/embed/PznzZXeusKo' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>
+<iframe class='centered-iframe' width='640' height='360' src='https://youtube.com/embed/PznzZXeusKo' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
 
 - [What is the difference between primary and secondary emotions?](https://youtu.be/7xTwvfGckLo)
   - Video uploaded: Apr 27, 2020
