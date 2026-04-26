@@ -23,7 +23,7 @@
   },
    {
       "slide_number": 5,
-      "slide_content": "<h1>原发情绪和继发情绪有什么区别？</h1><video class='centered-video' src='https://files.catbox.moe/h1dei0.mp4' controls></video><p class='comment'><a href='https://youtu.be/7xTwvfGckLo'>https://youtu.be/7xTwvfGckLo</a></p>"
+      "slide_content": "<h1>原发情绪和继发情绪有什么区别？</h1><iframe class='centered-iframe' width='640' height='360' src='https://youtube.com/embed/PznzZXeusKo' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><p class='comment'><a href='https://youtu.be/7xTwvfGckLo'>https://youtu.be/7xTwvfGckLo</a></p>"
   },
    {
       "slide_number": 6,
