@@ -1,5 +1,5 @@
 # 聚焦…… 朦胧的边缘
-译者：陈艺文、田婴 / 2026 年 4 月 5 日  
+译者：陈艺文、田婴 / 2026 年 4 月 29 日  
 译自：[Focusing is... the murky edge](https://youtu.be/nqRQ7PQFLM0)  
 
 <iframe width="640" height="360" src="https://youtube.com/embed/AUUTI6BUinY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
