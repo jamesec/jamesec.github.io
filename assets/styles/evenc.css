@@ -124,10 +124,3 @@ figcaption {
     width: 50%;
   }
 }
-
-.movie-posters {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  max-height: 300px;
-}
