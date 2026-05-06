@@ -114,13 +114,13 @@ figcaption {
   text-align: center;
 }
 
-img {
+.screenshot {
   width: 100%;
   height: auto;
 }
 
 @media (min-width: 768px) {
-  img {
+  screenshot {
     width: 50%;
   }
 }
