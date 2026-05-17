@@ -5,7 +5,7 @@ I’m the one who likes dark mode on macOS—my eyes feel more comfortable, espe
 
 The default Preview app in macOS didn’t offer a way to view PDFs in dark mode—at least not until macOS Tahoe.
 
-There are some workarounds, including using a shortcut in macOS (Settings → Accessibility → Invert Colors), but that’s not very elegant, since it inverts all colors in the macOS user interface, not just the colors when viewing the PDF.
+There are some workarounds, including using a shortcut in macOS (Settings → Accessibility → Invert Colors), but that’s not very elegant, since it inverts all colors in the macOS user interface, not just the colors when viewing the PDF. The default shortcut is **ctrl + opt + cmd + 8**. In any case, I sometimes use it since it works.
 
 In the Preview app in macOS Tahoe, you can enable it this way:  
 View → Use Dark Appearance for PDF
