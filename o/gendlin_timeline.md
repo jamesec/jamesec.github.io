@@ -1,4 +1,4 @@
-# Eugene T. Gendlin - brief timeline and bibliography
+# Eugene T. Gendlin - a brief timeline and bibliography
 `Jun 6, 2026`
 
 “Eugene Gendlin is one of the most influential thinkers in the person-centered/experiential psychotherapy world. Trained in philosophy, he turned to the field of psychotherapy early in his career and has participated in both fields since. Throughout, his interest has been the process of lived experience, or **active experiencing**.” (Rennie et al., 2010, p. 165).
