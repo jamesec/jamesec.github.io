@@ -1,9 +1,9 @@
-# Eugene T. Gendlin - a brief timeline and bibliography
+# Eugene T. Gendlin: a brief timeline of his life and work
 `Jun 6, 2026`
 
 “Eugene Gendlin is one of the most influential thinkers in the person-centered/experiential psychotherapy world. Trained in philosophy, he turned to the field of psychotherapy early in his career and has participated in both fields since. Throughout, his interest has been the process of lived experience, or **active experiencing**.” (Rennie et al., 2010, p. 165).
 
-Here, I list a brief timeline of Eugene Gendlin’s life, along with a selected bibliography.
+Here, I present a brief timeline of Eugene Gendlin’s life and major works.
 
 - 1926	EUGEN GENDELIN Born in Vienna, Austria
 - 1938	Anschluss in Austria. The Gendelins escape Austria to Amsterdam and then New York; name changed to Gendlin
