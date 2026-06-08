@@ -32,6 +32,10 @@ Storyline from IMDb.
 	- Both “*Do not go gentle into that good night*” and Hemingway’s *The Old Man and the Sea* explore human resilience, struggle, and dignity in the face of inevitable forces.
 - `01:16:21` Cooper: When you become a parent, one thing becomes really clear. And that is that you want to make sure your chilldren **feel safe**.
 - `01:27:59` Dr. Brand: Maybe it means something more, something we can’t… yet understand. Maybe it’s some evidence, some… artifact of a higher dimension that we can’t consciously perceive. I’m drawn across the universe to someone I haven’t seen in a decade… who I know is probably dead. Love is the one thing we’re capable of perceiving… that transcends dimensions of time and space. Maybe we should trust that, even if we can’t understand it yet. `01:28:36`
+- `02:38:55` Cooper: Humor: 75 percent. 
+	- TARS: Confirmed. Auto self-destruct T-minus 10, nine…
+	- Cooper: Let's make that 60 percent. 
+	- TARS: Sixty percent confirmed. 
 
 ## Cost per minute
 *Interstellar (2014)* had an estimated budget of $165,000,000 and a runtime of 2h 49m. What’s the cost per minute in USD?
