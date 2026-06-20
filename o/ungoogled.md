@@ -19,7 +19,7 @@ brew install --cask ungoogled-chromium
 brew upgrade --cask ungoogled-chromium
 
 # Alternatively: upgrade all Homebrew packages, including Ungoogled Chromium
-brew update && brew upgrade --quiet && brew cleanup --prune=all
+brew update && brew upgrade && brew cleanup --prune=all
 ```
 
 Or manually download and install `Ungoogled Chromium` (no auto-update). See the information in the references section.
