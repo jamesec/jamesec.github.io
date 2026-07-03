@@ -1,7 +1,7 @@
 # The Amateur (2025) movie notes
 `Apr 8, 2026`
 
-`How strongly I recommend it: 8/10`
+`How strongly I recommend it: 7/10`
 
 <img 
   src="https://image.tmdb.org/t/p/w780/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg" 
