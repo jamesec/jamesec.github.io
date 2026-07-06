@@ -53,7 +53,6 @@
 	- Emotion-Focused Therapy Session with Commentary
 	- Discussion about EFT research developments
 - [An Illustration of Emotion-Focused Therapy with Dr. Ladislav Timulak - YouTube](https://youtube.com/watch?v=d63-dJcilrE)
-	- [[An Illustration of Emotion-Focused Therapy with Dr. Ladislav Timulak - transcript]]
 
 <img 
   src="https://i.vimeocdn.com/vod_poster/271499_310x459?sig=e07f7c0b6100d165bf959658ae6bfaf4c6577dffe00c2190aaa80a88bb6039c7&v=1&region=us" 
