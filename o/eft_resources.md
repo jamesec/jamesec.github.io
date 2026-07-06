@@ -64,7 +64,7 @@
 
 ## Psyflix
 ### Leslie Greenberg - Psyflix
-- [Leslie Greenberg - Psyflix](https://psyflix.net/en/speakers/les-greenberg-en) 20 videos
+- [Leslie Greenberg - Psyflix](https://psyflix.net/en/speakers/les-greenberg-en) *20 videos*
 	- [Les Greenberg - in 3 minutes - YouTube](https://youtube.com/watch?v=DScrvEkfOes)
 	- EFT-i Tapes - Part 1: Introduction
 	- EFT-i Tapes - Part 2: Marcel - Session 1
