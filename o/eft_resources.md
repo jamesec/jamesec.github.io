@@ -10,19 +10,21 @@
 - [Emotion-Focused Therapy (EFT) Playlist by The Counselling Channel - YouTube](https://youtube.com/playlist?list=PLnZkBEghFSGA8H18b4aif84MhW69D4qdt)
 	- Leslie Greenberg’s 13 short EFT videos
 
+<a href="https://vimeo.com/ondemand/lesgreenbergtraumahome/" target="_blank">
 <img 
   src="https://i.vimeocdn.com/vod_poster/310383_550x814?sig=db742ec4b06246e3dc086f874d8a57150310c47718b816d9bddbc9aada41bbc1&v=1&region=us" 
   alt="Les Greenberg: working with current and historical trauma (2020)" 
   title="Les Greenberg: working with current and historical trauma (2020)" 
   height="300" 
-/>
+/></a>
 
+<a href="https://vimeo.com/ondemand/lesgreenbergcorehome/" target="_blank">
 <img 
   src="https://i.vimeocdn.com/vod_poster/310386_310x459?sig=25c915461282f2a401bd9a23f9151448cac28c42eb985ac677f0a033c04f7cc2&v=1&region=us" 
   alt="Les Greenberg: working with core emotion (2020)" 
   title="Les Greenberg: working with core emotion (2020)" 
   height="300" 
-/>
+/></a>
 
 ### Robert Elliott - The Counselling Channel (CPCAB, UK)
 - [Robert Elliott - Understanding Emotion-Focused Therapy (2016)](https://vimeo.com/ondemand/understandingeft?)
