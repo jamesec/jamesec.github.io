@@ -3,16 +3,12 @@
 
 ## The Counselling Channel (CPCAB, UK)
 ### Leslie Greenberg - The Counselling Channel (CPCAB, UK)
-- ✅ [Les Greenberg: working with current and historical trauma (2020)](https://vimeo.com/ondemand/lesgreenbergtraumahome/)
+- [Les Greenberg: working with current and historical trauma (2020)](https://vimeo.com/ondemand/lesgreenbergtraumahome/)
 	- [Introducing Les Greenberg and his origins in EFT (historical trauma)](https://vimeo.com/ondemand/lesgreenbergtraumahome/395407810)
-- ✅ [Les Greenberg: working with core emotion (2020)](https://vimeo.com/ondemand/lesgreenbergcorehome/)
+- [Les Greenberg: working with core emotion (2020)](https://vimeo.com/ondemand/lesgreenbergcorehome/)
 	- [Introducing Les Greenberg and his origins in EFT (core emotion)](https://vimeo.com/ondemand/lesgreenbergcorehome/395405247)
-- ✅ [Emotion-Focused Therapy (EFT) Playlist by The Counselling Channel - YouTube](https://youtube.com/playlist?list=PLnZkBEghFSGA8H18b4aif84MhW69D4qdt)
-	- [[Leslie Greenberg’s 13 short EFT videos]]
-
-|                                                                                                                                                                |                                                                                                                                                                | 
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://i.vimeocdn.com/vod_poster/310383_550x814?sig=db742ec4b06246e3dc086f874d8a57150310c47718b816d9bddbc9aada41bbc1&v=1&region=us" height="300" /> | <img src="https://i.vimeocdn.com/vod_poster/310386_310x459?sig=25c915461282f2a401bd9a23f9151448cac28c42eb985ac677f0a033c04f7cc2&v=1&region=us" height="300" /> |
+- [Emotion-Focused Therapy (EFT) Playlist by The Counselling Channel - YouTube](https://youtube.com/playlist?list=PLnZkBEghFSGA8H18b4aif84MhW69D4qdt)
+	- Leslie Greenberg’s 13 short EFT videos
 
 <img 
   src="https://i.vimeocdn.com/vod_poster/310383_550x814?sig=db742ec4b06246e3dc086f874d8a57150310c47718b816d9bddbc9aada41bbc1&v=1&region=us" 
@@ -29,16 +25,16 @@
 />
 
 ### Robert Elliott - The Counselling Channel (CPCAB, UK)
-- ✅ [Robert Elliott - Understanding Emotion-Focused Therapy (2016)](https://vimeo.com/ondemand/understandingeft?)
+- [Robert Elliott - Understanding Emotion-Focused Therapy (2016)](https://vimeo.com/ondemand/understandingeft?)
 	- Emotion-Focused Therapy session with Robert Elliott
 	- Emotion-Focused Therapy session with commentary by Robert Elliott
 	- Emotion-Focused Therapy session debrief
 	- Barry Kopp interviews Robert Elliott
 	- Bonus Features
-		- ✅ [Process differentiation between Person-Centred Counselling & Emotion-Focused Therapy - YouTube](https://youtube.com/watch?v=76Chs4puBTw)
-		- ✅ [Why emotions are important - YouTube](https://youtube.com/watch?v=D8lmjmJ0OPg)
-		- ✅ [Different kinds of emotional responses in Emotion-Focused Therapy - YouTube](https://youtube.com/watch?v=sJl3GJLTUj4)
-		- ✅ [Emotional Deepening process - YouTube](https://youtube.com/watch?v=kNRg2DFtgOw)
+		- [Process differentiation between Person-Centred Counselling & Emotion-Focused Therapy - YouTube](https://youtube.com/watch?v=76Chs4puBTw)
+		- [Why emotions are important - YouTube](https://youtube.com/watch?v=D8lmjmJ0OPg)
+		- [Different kinds of emotional responses in Emotion-Focused Therapy - YouTube](https://youtube.com/watch?v=sJl3GJLTUj4)
+		- [Emotional Deepening process - YouTube](https://youtube.com/watch?v=kNRg2DFtgOw)
 		- [Counselling for Depression - YouTube](https://youtube.com/watch?v=J9LuQV5yC2A)
 		- [Unfinished business - unresolved grief - YouTube](https://youtube.com/watch?v=seg4Mrehrx8)
 
@@ -50,11 +46,11 @@
 />
 
 ### Ladislav Timulak - The Counselling Channel (CPCAB, UK)
-- ✅ [Ladislav Timulak - Transforming Emotional Pain: An Illustration of Emotion-Focused Therapy (2019)](https://vimeo.com/ondemand/transformemotionalpain)
+- [Ladislav Timulak - Transforming Emotional Pain: An Illustration of Emotion-Focused Therapy (2019)](https://vimeo.com/ondemand/transformemotionalpain)
 	- Emotion-Focused Therapy Session
 	- Emotion-Focused Therapy Session with Commentary
 	- Discussion about EFT research developments
-- ✅ [An Illustration of Emotion-Focused Therapy with Dr. Ladislav Timulak - YouTube](https://youtube.com/watch?v=d63-dJcilrE)
+- [An Illustration of Emotion-Focused Therapy with Dr. Ladislav Timulak - YouTube](https://youtube.com/watch?v=d63-dJcilrE)
 	- [[An Illustration of Emotion-Focused Therapy with Dr. Ladislav Timulak - transcript]]
 
 <img 
@@ -90,7 +86,7 @@
 
 ## American Psychological Association (APA)
 ### Robert Elliott - APA
-- ✅ [Resolving Problematic Reactions in Emotion-Focused Therapy (2017) - Robert Elliott](https://apa.org/pubs/videos/4310982)
+- [Resolving Problematic Reactions in Emotion-Focused Therapy (2017) - Robert Elliott](https://apa.org/pubs/videos/4310982)
 
 <img 
   src="https://www.apa.org/pubs/videos/images/4310982-475.gif" 
