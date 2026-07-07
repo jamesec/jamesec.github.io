@@ -10,7 +10,7 @@
   height="300" 
 />
 
-⚠️ **Spoilers ahead!** Watch the movie first if you don’t want them revealed.
+✋ **Spoilers ahead!** Watch the movie first if you don’t want them revealed.
 
 ---
 
