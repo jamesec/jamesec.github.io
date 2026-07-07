@@ -1,4 +1,4 @@
-# Hoppers (2026) movie notes
+# Hoppers (2026) movie notes 🦫
 `Jul 7, 2026`
 
 `How strongly I recommend it: 7/10`
