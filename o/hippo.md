@@ -25,7 +25,7 @@ Happy as a hippo.
 
 You understand?
 
-Reuben Feffer: {long pause} I’m gonna kill you!
+Reuben Feffer: [long pause] I’m gonna kill you!
 
 ## My comments
 As I understand it, the idea is to be authentic to yourself and with others.
