@@ -53,6 +53,9 @@
 	- Emotion-Focused Therapy Session
 	- Emotion-Focused Therapy Session with Commentary
 	- Discussion about EFT research developments
+	- Bonus Features
+		- Ladislav's Review
+		- Claire's Review
 - [An Illustration of Emotion-Focused Therapy with Dr. Ladislav Timulak - YouTube](https://youtube.com/watch?v=d63-dJcilrE)
 
 <a href="https://vimeo.com/ondemand/transformemotionalpain" target="_blank">
