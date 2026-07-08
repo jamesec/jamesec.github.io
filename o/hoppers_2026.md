@@ -21,7 +21,7 @@ Storyline from IMDb.
 Check out the highlight starting at `00:23:09` and ending at `00:43:14`.
 
 - `00:23:39` Oh, I understand you!
-- `00:30:10` Pond rule number one, don't be a stranger. It's harder to be mad at someone if you **know their name**.
+- `00:30:10` Pond rule number one, don’t be a stranger. It’s harder to be mad at someone if you **know their name**.
 - `00:36:42` Uh, team leader, I was not able to recover the asset. And she seems to have instead become a beloved Joan of Arc-type **rebel leader**.
-- `00:37:10` [exclaims] We're beavers, Mabel. **Work is the party**.
-- `00:43:14` George, I'm… [groans] [stammering] I'm not a real beaver…
+- `00:37:10` [exclaims] We’re beavers, Mabel. **Work is the party**.
+- `00:43:14` George, I’m… [groans] [stammering] I’m not a real beaver…
