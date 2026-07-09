@@ -84,7 +84,7 @@ Getting to core pain involves being empathically attuned to affect, and it’s s
 <div style="page-break-after: always;"></div>
 
 ## 008 Is core pain the same as unmet need?
-A core pain includes an unmet need. So the real definition of emotion at a psychological level is that it… every emotion, painful emotion has an unmet need embedded in it. And the emotion is really, uh, telling you that there’s an unmet need, right? So if I feel shame, the unmet need is I needed to be validated or valued. If I feel fear, the unmet need is I needed to be safe. So it’s not actually rocket science to know what unmet needs are. Now, I’m not as a therapist telling you what your need is, but I help you take you to your pain. And then I ask you for your unmet... I ask you what, what do you need in that state? And then the need emerges from the painful emotion. 
+A core pain includes an unmet need. So the real definition of emotion at a psychological level is that it… every emotion, painful emotion has an unmet need embedded in it. And the emotion is really, uh, telling you that there’s an unmet need, right? So if I feel shame, the unmet need is I needed to be validated or valued. If I feel fear, the unmet need is I needed to be safe. So it’s not actually rocket science to know what unmet needs are. Now, I’m not as a therapist telling you what your need is, but I help you take you to your pain. And then I ask you for your unmet…I ask you what, what do you need in that state? And then the need emerges from the painful emotion. 
 
 <div style="page-break-after: always;"></div>
 
@@ -109,6 +109,13 @@ And therapy is a process of helping people face those emotions and go to the nee
 <div style="page-break-after: always;"></div>
 
 ## 011 Depression and relationship difficulties explained by Emotion-Focused Therapy (EFT)
+So in EFT, if somebody comes in with depression or somebody comes in and says, I just don’t get on with other people, or I have difficulty with other people, we are going to try to take them to the core underlying emotion that generates those problems.
+
+So in depression, there might be either a core feeling of shame, like, I’m a failure, I’m worthless, or a core feeling of abandonment or unlovedness. But the depression is a secondary symptom where…because the need has not been met, the need for love or the need for validation, they begin to feel hopeless that the need will ever be met. They give up and then they feel depressed, right? Because they sort of given up on trying to get the need met and feel that it’ll never happen. But really underneath their feeling core shame of feeling worthless or core lonely abandonment, like nobody will ever be there or love me.
+
+And it’s those feelings that manifest at the surface of as depression. But the symptom is a secondary phenomena. The dis-ease is the underlying shame or fear. Similarly with people who have difficulty in relationships, they might at core feel afraid of opening themselves because then they will get rejected, which is kind of shame-based. Or they might feel nobody’s ever been there for me, so I’m unlovable. Uh, and what we see is difficulties in relationship where they’re wary and they don’t take any kind…they don’t open themselves at all in relationship, or they’re aggressive in relationships because they always feel wronged.
+
+But the core problem is always the underlying emotion, and that’s what we have to get to. But there are many layers. People come in with concrete problems and difficulties, uh, but we don’t try to treat the symptom. I mean, we validate and understand the painfulness of the symptom, but we are trying to get to the more primary underlying emotion.
 
 <div style="page-break-after: always;"></div>
 
