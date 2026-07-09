@@ -12,7 +12,7 @@
 
 On Becoming Emotion Focused (2025) by Leslie S. Greenberg
 
-It's [available on Amazon](https://amazon.com/dp/B0DLZBJ7DB/).
+It’s [available on Amazon](https://amazon.com/dp/B0DLZBJ7DB/).
 
 ---
 
