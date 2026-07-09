@@ -16,7 +16,7 @@ https://youtube.com/playlist?list=PLnZkBEghFSGA8H18b4aif84MhW69D4qdt
 - 010 How does Emotion-Focused Therapy (EFT) relate to mental health problems?
 - 011 Depression and relationship difficulties explained by Emotion-Focused Therapy (EFT)
 - 012 Anxiety (GAD) explained by Emotion-Focused Therapy
-- 013 What is chair work in Emotion-Focused Therapy (EFT)? Les Greenberg
+- 013 What is chair work in Emotion-Focused Therapy (EFT)?
 
 <div style="page-break-after: always;"></div>
 
