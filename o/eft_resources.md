@@ -349,7 +349,7 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
   height="300" 
 /></a>
 
-## Interview Videos Recommended by *EFC in Action (2021)*
+## Interview videos recommended by *EFC in Action (2021)*
 - `19:22` [Interview Juliette Becking en Les Greenberg over EFT - Vimeo](https://vimeo.com/157982795/2a8c8b3251)
 - `43:56` [Leslie Greenberg on Emotion-Focused Therapy: From certainty through chaos to complexity - YouTube](https://youtube.com/watch?v=rYvcLJcpghY)
 - `59:10` [Empathy Dialog/Interview: Robert Elliott and Edwin Rutsch - YouTube](https://youtube.com/watch?v=K4V2yMyv0Po)
