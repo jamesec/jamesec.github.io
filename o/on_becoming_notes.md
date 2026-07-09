@@ -22,11 +22,11 @@ It’s [available on Amazon](https://amazon.com/dp/B0DLZBJ7DB/).
 
 ### p. 391
 HOW TO BECOME MORE EMOTION FOCUSED: 100 TIPS → Ancillary Activities
-- `96`. Personal work is the royal road to emotional competence.
-- `97`. Supervision is the best way to acquire skills.
-- `98`. Watch video recordings of experienced therapists.
-- `99`. Watch your own recordings.
-- `100`. Track the client–therapist moment-by-moment interactions on your own recordings using rating scales such as the depth of experience, expressed emotional arousal, and vocal quality scales.
+- `96.` Personal work is the royal road to emotional competence.
+- `97.` Supervision is the best way to acquire skills.
+- `98.` Watch video recordings of experienced therapists.
+- `99.` Watch your own recordings.
+- `100.` Track the client–therapist moment-by-moment interactions on your own recordings using rating scales such as the depth of experience, expressed emotional arousal, and vocal quality scales.
 
 ## References
 - [On Becoming Emotion Focused (2025) book review](/o/s.htm?p=on_becoming)
