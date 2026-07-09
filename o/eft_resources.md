@@ -1,7 +1,7 @@
 # Best video resources to learn EFT
 `Jul 6, 2026`
 
-EFT stands for Emotion-Focused Therapy. Here are the best video resources to learn EFT.
+EFT stands for Emotion-Focused Therapy, and here are the best video resources to learn EFT.
 
 ## The Counselling Channel (CPCAB, UK)
 ### Leslie Greenberg - The Counselling Channel (CPCAB, UK)
@@ -350,7 +350,7 @@ EFT stands for Emotion-Focused Therapy. Here are the best video resources to lea
   height="300" 
 /></a>
 
-## Interview videos recommended by the book EFC in Action (2021)
+## Interview Videos Recommended by *EFC in Action (2021)*
 - `19:22` [Interview Juliette Becking en Les Greenberg over EFT - Vimeo](https://vimeo.com/157982795/2a8c8b3251)
 - `43:56` [Leslie Greenberg on Emotion-Focused Therapy: From certainty through chaos to complexity - YouTube](https://youtube.com/watch?v=rYvcLJcpghY)
 - `59:10` [Empathy Dialog/Interview: Robert Elliott and Edwin Rutsch - YouTube](https://youtube.com/watch?v=K4V2yMyv0Po)
