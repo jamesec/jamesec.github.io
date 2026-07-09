@@ -98,6 +98,13 @@ And if you think of it very basically, if the action tendency in fear or shame i
 <div style="page-break-after: always;"></div>
 
 ## 010 How does Emotion-Focused Therapy (EFT) relate to mental health problems?
+EFT sees mental health problems as being based on core painful emotions and that people have had emotions which were not responded to in their life, or not processed by them in their life in an adequate way. And that the ways they then dealt with their emotion are not very helpful. So they have negative ways of dealing with their emotion, which they experience as protecting themselves from their emotions. But in the end, people disclaim or disown their emotional experience. Now that doesn’t mean they don’t know what they feel, but they don’t own it or claim it as theirs, which means they don’t experience their emotions.
+
+So I think underneath every mental health problem, major component of many mental health problems is emotion that hasn’t been processed. And that means, and I use my hand, it’s been kept at bay as a protection because people are afraid that if they feel their emotions, they’ll be overwhelmed by them, they’ll disintegrate. So actually they try to cope with, but their painful emotions by staying away from them. But that becomes the problem.
+
+So anxiety is like a smoke detector that tells you that danger is potentially there, but when it gets turned to my emotions might explode. Um, then it becomes dysfunctional. It’s no longer working. So now we get very anxious and panicky, but really we’re afraid that our emotions will erupt and that we won’t be able to cope. So anxiety is actually a type of attempted way of coping that I don’t fall apart. Uh, but it’s not helpful and similar in other disorders. At the core of it is that I am disclaiming my emotions and not really processing them, but they keep coming up trying to get attention. But my negative ways of dealing with my emotion are mental health problems. I get depressed, I get anxious, I have eating disorders, I calm myself, all of these things I’ve done in order to try to, dysfunctionally try to cope with painful emotions that I’m afraid will lead to my disintegration.
+
+And therapy is a process of helping people face those emotions and go to the need in them, which is actually an adaptive, healthy need, and that helps them, and then bringing in new emotions. So the cause of major mental health problems are emotions that people are afraid of and try to stay away from. But the cure is really being able to approach those emotions and symbolize them in awareness, deal with them, deal with the needs that they express.
 
 <div style="page-break-after: always;"></div>
 
