@@ -120,8 +120,15 @@ But the core problem is always the underlying emotion, and that’s what we have
 <div style="page-break-after: always;"></div>
 
 ## 012 Anxiety (GAD) explained by Emotion-Focused Therapy
+Recently in EFT, we’ve been focusing on working with anxiety. And what we find in anxiety, I mean, there are many different forms of anxiety, so always it’s going to go to the core pain. But in GAD, Generalized Anxiety Disorder or worry, often what’s underneath is a very basic insecurity of having been abandoned. Uh, and so you feel unsafe in a large and dangerous world or a world where bad things may happen. And so you end up worrying, worrying, worrying.
+
+The worrying is a misguided attempt to protect yourself. But we need to get to the underlying core, basic insecurity that I’m all alone in an unprotected world. In social anxiety where people are very anxious, I can’t go to, uh, parties or I can’t speak in class, often underlying that is shame. That somewhere in the past I was shamed or humiliated or, you know, not just single instances of my life is a narrative in which I was, uh, felt defective or something was not, uh, valued in me. And so the social anxiety is, I don’t want to exp…I’m protecting myself by not opening myself to people.
+
+So I mean, like, uh, a man, let’s say thinking of a case, a carpenter, uh, he gets on well with his work, but he can’t sit and eat lunch with his peers because somehow he feels they will criticize him. So he isolates himself for fear of criticism, uh, and he really can’t sit and eat there because he’s so anxious. But really, he fears being ridiculed. And then because he, um, isolates himself, other people don’t like him and they begin to criticize him.
+
+But that whole phenomena of this, uh, cycle is not the problem. The problem is he has core shame and that…that leads him to feel afraid to be with others ’cause they might criticize him.
 
 <div style="page-break-after: always;"></div>
 
-## 013 What is chair work in Emotion-Focused Therapy (EFT)? Les Greenberg
+## 013 What is chair work in Emotion-Focused Therapy (EFT)?
 In EFT, we use chair work. And chair work is where it’s a psychodramatic use, um, of having a dialogue with an empty chair. And you imagine other parts of yourself or other people in chairs. And the thing that chair work adds is a type of dramatization, but really it uses what I would call expression, where you express something. And when human beings express something in words, it evokes experience. And so it’s a use of different chairs, particularly self-critical two chair work, where you have a critical voice, your own critical voice criticizing you, or empty chair work, which is unfinished business with a significant other where you imagine somebody else in an empty chair. And that usually immediately evokes feelings. And then you express these feelings to the other. So these chair works help evoke more feeling and help you to work through these feelings.
