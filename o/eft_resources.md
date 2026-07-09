@@ -349,6 +349,17 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
   height="300" 
 /></a>
 
+### Shigeru Iwakabe - APA
+- [Emotion and Culture in Psychotherapy (2025)](https://apa.org/pubs/videos/emotion-culture-psychotherapy)
+
+<a href="https://apa.org/pubs/videos/emotion-culture-psychotherapy" target="_blank">
+<img 
+  src="https://www.apa.org/pubs/videos/images/3843853-475.gif" 
+  alt="Emotion and Culture in Psychotherapy (2025)" 
+  title="Emotion and Culture in Psychotherapy (2025)" 
+  height="300" 
+/></a>
+
 ## Interview videos recommended by *EFC in Action (2021)*
 - `19:22` [Interview Juliette Becking en Les Greenberg over EFT - Vimeo](https://vimeo.com/157982795/2a8c8b3251)
 - `43:56` [Leslie Greenberg on Emotion-Focused Therapy: From certainty through chaos to complexity - YouTube](https://youtube.com/watch?v=rYvcLJcpghY)
