@@ -8,7 +8,7 @@
 - [Working with Core Emotion (2019)](https://vimeo.com/ondemand/lesgreenbergcorehome/)
 	- [Introducing Les Greenberg and his origins in EFT (core emotion)](https://vimeo.com/ondemand/lesgreenbergcorehome/395405247)
 - [Emotion-Focused Therapy (EFT) Playlist by The Counselling Channel - YouTube](https://youtube.com/playlist?list=PLnZkBEghFSGA8H18b4aif84MhW69D4qdt)
-	- Leslie Greenberg’s 13 short EFT videos
+	- <a href="/o/s.htm?p=leslie_videos">Leslie Greenberg’s 13 short EFT videos</a>
 
 <a href="https://vimeo.com/ondemand/lesgreenbergtraumahome/" target="_blank">
 <img 
