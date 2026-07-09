@@ -18,8 +18,6 @@
   height="300" 
 /></a>
 
----
-
 <a href="https://vimeo.com/ondemand/lesgreenbergcorehome/" target="_blank">
 <img 
   src="https://i.vimeocdn.com/vod_poster/310386_310x459?sig=25c915461282f2a401bd9a23f9151448cac28c42eb985ac677f0a033c04f7cc2&v=1&region=us" 
@@ -130,8 +128,6 @@
   height="300" 
 /></a>
 
----
-
 <a href="https://apa.org/pubs/videos/4310973" target="_blank">
 <img 
   src="https://www.apa.org/pubs/videos/images/4310973-475.gif" 
@@ -139,8 +135,6 @@
   title="Comparing Models of Emotion in Therapy (2017)" 
   height="300" 
 /></a>
-
----
 
 <a href="https://apa.org/pubs/videos/4310970" target="_blank">
 <img 
@@ -150,8 +144,6 @@
   height="300" 
 /></a>
 
----
-
 <a href="https://apa.org/pubs/videos/4310952" target="_blank">
 <img 
   src="https://www.apa.org/pubs/videos/images/4310952-475.gif" 
@@ -159,8 +151,6 @@
   title="Emotion-Focused Therapy Supervision (2016)" 
   height="300" 
 /></a>
-
----
 
 <a href="https://apa.org/pubs/videos/4310889" target="_blank">
 <img 
@@ -170,8 +160,6 @@
   height="300" 
 /></a>
 
----
-
 <a href="https://apa.org/pubs/videos/4310890" target="_blank">
 <img 
   src="https://www.apa.org/pubs/videos/images/4310890-475.gif" 
@@ -179,8 +167,6 @@
   title="Three Approaches to Psychotherapy with a Male Client: The Next Generation (2011)" 
   height="300" 
 /></a>
-
----
 
 <a href="https://apa.org/pubs/videos/4310798" target="_blank">
 <img 
@@ -190,8 +176,6 @@
   height="300" 
 /></a>
 
----
-
 <a href="https://apa.org/pubs/videos/4310761" target="_blank">
 <img 
   src="https://www.apa.org/pubs/videos/images/4310761-475.gif" 
@@ -200,8 +184,6 @@
   height="300" 
 /></a>
 
----
-
 <a href="https://apa.org/pubs/videos/4310772" target="_blank">
 <img 
   src="https://www.apa.org/pubs/videos/images/4310772-475.gif" 
@@ -209,8 +191,6 @@
   title="Process Experiential Psychotherapy: An Emotion-Focused Approach (2006)" 
   height="300" 
 /></a>
-
----
 
 <a href="https://apa.org/pubs/videos/4310755" target="_blank">
 <img 
@@ -247,8 +227,6 @@
   height="300" 
 /></a>
 
----
-
 <a href="https://apa.org/pubs/videos/providing-emotion-focused-therapy-online" target="_blank">
 <img 
   src="https://www.apa.org/pubs/videos/images/4310032-475.gif" 
@@ -257,8 +235,6 @@
   height="300" 
 /></a>
 
----
-
 <a href="https://apa.org/pubs/videos/4310997" target="_blank">
 <img 
   src="https://www.apa.org/pubs/videos/images/4310997-475.gif" 
@@ -266,8 +242,6 @@
   title="Emotion-Focused Couple Therapy (2018)" 
   height="300" 
 /></a>
-
----
 
 <a href="https://apa.org/pubs/videos/4310916" target="_blank">
 <img 
@@ -332,8 +306,6 @@
   title="Narrative Processes in Emotion-Focused Therapy for Trauma (2015)" 
   height="300" 
 /></a>
-
----
 
 <a href="https://apa.org/pubs/videos/4310810" target="_blank">
 <img 
