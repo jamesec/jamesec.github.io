@@ -14,7 +14,7 @@ Learning Emotion-Focused Therapy: A Comprehensive Guide (2025, 2nd ed.)
 Also known as: Learning EFT 2.0 (2025)  
 Authors: Robert Elliott, Jeanne C. Watson, Rhonda N. Goldman, and Leslie S. Greenberg
 
-It's [available on Amazon](https://amazon.com/dp/B0DM135Y6Q/).
+It’s [available on Amazon](https://amazon.com/dp/B0DM135Y6Q/).
 
 ## Book review
 **Curious About Emotions? Start Here!**
