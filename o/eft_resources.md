@@ -35,9 +35,9 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 	- Emotion-Focused Therapy session debrief
 	- Barry Kopp interviews Robert Elliott
 	- Bonus Features
-		- [Process differentiation between Person-Centred Counselling & Emotion-Focused Therapy - YouTube](https://youtube.com/watch?v=76Chs4puBTw)
-		- [Why emotions are important - YouTube](https://youtube.com/watch?v=D8lmjmJ0OPg)
-		- [Different kinds of emotional responses in Emotion-Focused Therapy - YouTube](https://youtube.com/watch?v=sJl3GJLTUj4)
+		- [What is the difference between Person-Centred Counselling and Emotion-Focused Therapy? - YouTube](https://youtube.com/watch?v=76Chs4puBTw)
+		- [Why are emotions important? - YouTube](https://youtube.com/watch?v=D8lmjmJ0OPg)
+		- [Different kinds of emotional responses in EFT - YouTube](https://youtube.com/watch?v=sJl3GJLTUj4)
 		- [Emotional Deepening process - YouTube](https://youtube.com/watch?v=kNRg2DFtgOw)
 		- [Counselling for Depression - YouTube](https://youtube.com/watch?v=J9LuQV5yC2A)
 		- [Unfinished business - unresolved grief - YouTube](https://youtube.com/watch?v=seg4Mrehrx8)
@@ -59,7 +59,6 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 		- Ladislav's Review
 		- Claire's Review
 - [An Illustration of Emotion-Focused Therapy with Dr. Ladislav Timulak - YouTube](https://youtube.com/watch?v=d63-dJcilrE)
-	- [[An Illustration of Emotion-Focused Therapy with Dr. Ladislav Timulak - transcript]]
 
 <a href="https://vimeo.com/ondemand/transformemotionalpain" target="_blank">
 <img 
