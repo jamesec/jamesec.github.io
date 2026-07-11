@@ -22,7 +22,7 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 
 <a href="https://vimeo.com/ondemand/lesgreenbergcorehome/" target="_blank">
 <img 
-  src="https://i.vimeocdn.com/vod_poster/310386_310x459?sig=25c915461282f2a401bd9a23f9151448cac28c42eb985ac677f0a033c04f7cc2&v=1&region=us" 
+  src="https://i.vimeocdn.com/vod_poster/310386_550x814?sig=25c915461282f2a401bd9a23f9151448cac28c42eb985ac677f0a033c04f7cc2&v=1&region=us" 
   alt="Working with Core Emotion (2019)" 
   title="Working with Core Emotion (2019)" 
   height="300" 
