@@ -62,7 +62,7 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 
 <a href="https://vimeo.com/ondemand/transformemotionalpain" target="_blank">
 <img 
-  src="https://i.vimeocdn.com/vod_poster/271499_310x459?sig=e07f7c0b6100d165bf959658ae6bfaf4c6577dffe00c2190aaa80a88bb6039c7&v=1&region=us" 
+  src="https://i.vimeocdn.com/vod_poster/271499_550x814?sig=e07f7c0b6100d165bf959658ae6bfaf4c6577dffe00c2190aaa80a88bb6039c7&v=1&region=us" 
   alt="Transforming Emotional Pain: An Illustration of Emotion-Focused Therapy (2019)" 
   title="Transforming Emotional Pain: An Illustration of Emotion-Focused Therapy (2019)" 
   height="300" 
