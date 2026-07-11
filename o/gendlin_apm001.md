@@ -1,5 +1,5 @@
 # Chapter 1, A Process Model (1997) book notes
-`Feb 16, 2026`
+`Updated: Jul 11 / Feb 16, 2026`
 
 `How strongly I recommend it: 9/10`
 
@@ -48,3 +48,6 @@ I’m taking notes for Chapter 1 (Body-Environment) of this book, as follows.
 	- Unfortunately, some trees have fallen on the beaver. They down larger trees closer to water. After the tree has fallen, they trim the branches for use in building dams. They prefer transporting branches about 3- to 6 feet long and about 1- to 2 inches in diameter.
 - [What beavers eat](https://westernbeavers.org/beaver-grocery-stores/)
 	- Trees that make up the beaver diet include bark from willow, cottonwood, aspen, poplar, maple, birch, oak, alder, black cherry and apple trees. Beavers will gnaw on trees until they fall, and then they clip branches from the resulting logs and add them to their food stash. While beavers will sometimes eat fir, pine and other conifers, they do not favor them for food. They will often use such trees for dam building, however, or fell them to allow their favorite foods to grow instead. You can spot areas of beaver lumbering where there are sharply pointed tree trunks, with grooves from their teeth marks, as well as piles of wood shaving around the trunks. **One adult beaver can fell as many as 300 trees in a year!**
+
+If you're interested in beavers and their trees, there's a 2026 movie you can watch called Hoppers.
+- [Hoppers (2026) movie notes 🦫](/o/s.htm?p=hoppers_2026)
