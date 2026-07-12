@@ -1,5 +1,5 @@
 # Chapter 1, A Process Model (1997) book notes
-`Updated: Jul 11 / Feb 16, 2026`
+`Updated: Jul 11, 2026 / Feb 16, 2026`
 
 `How strongly I recommend it: 9/10`
 
