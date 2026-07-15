@@ -105,8 +105,8 @@ AEDP stands for Accelerated Experiential Dynamic Psychotherapy, and here are the
 /></a>
 
 ## Another AEDP demonstration video
-- [AEDP Demonstration Session](https://experiential-psychotherapies.com/aedp/#aedpanchor4)
-  - Jerry Lamagna
+- [AEDP Demonstration Session (2021) by Jerry Lamagna](https://experiential-psychotherapies.com/aedp/#aedpanchor4)
+  - [AEDP Demonstration with Explanation by Jerry Lamagna, LCSW - trailer - YouTube](https://youtube.com/watch?v=wRP-F1hyEPA)
 
 ## PESI.com
 - [Essentials of Accelerated Experiential Dynamic Psychotherapy (AEDP) (2023)](https://www.pesi.com/sales/bh_c_001677_essentialsofaedp_organic-578182)
