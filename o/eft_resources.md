@@ -114,8 +114,8 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 - [Comparing Models of Emotion in Therapy (2017)](https://apa.org/pubs/videos/4310973)
 - [Working with Emotion in Emotion-Focused Therapy (2017)](https://apa.org/pubs/videos/4310970)
 - [Emotion-Focused Therapy Supervision (2016)](https://apa.org/pubs/videos/4310952)
-- [Three Approaches to Psychotherapy with a Female Client: The Next Generation (2011)](https://apa.org/pubs/videos/4310889)
 - [Three Approaches to Psychotherapy with a Male Client: The Next Generation (2011)](https://apa.org/pubs/videos/4310890)
+- [Three Approaches to Psychotherapy with a Female Client: The Next Generation (2011)](https://apa.org/pubs/videos/4310889)
 - [Emotion-Focused Therapy for Depression (2007)](https://apa.org/pubs/videos/4310798)
 - [Emotion-Focused Therapy Over Time (2006)](https://apa.org/pubs/videos/4310761)
 - [Process Experiential Psychotherapy: An Emotion-Focused Approach (2006)](https://apa.org/pubs/videos/4310772)
@@ -153,19 +153,19 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
   height="300" 
 /></a>
 
-<a href="https://apa.org/pubs/videos/4310889" target="_blank">
-<img 
-  src="https://www.apa.org/pubs/videos/images/4310889-475.gif" 
-  alt="Three Approaches to Psychotherapy with a Female Client: The Next Generation (2011)" 
-  title="Three Approaches to Psychotherapy with a Female Client: The Next Generation (2011)" 
-  height="300" 
-/></a>
-
 <a href="https://apa.org/pubs/videos/4310890" target="_blank">
 <img 
   src="https://www.apa.org/pubs/videos/images/4310890-475.gif" 
   alt="Three Approaches to Psychotherapy with a Male Client: The Next Generation (2011)" 
   title="Three Approaches to Psychotherapy with a Male Client: The Next Generation (2011)" 
+  height="300" 
+/></a>
+
+<a href="https://apa.org/pubs/videos/4310889" target="_blank">
+<img 
+  src="https://www.apa.org/pubs/videos/images/4310889-475.gif" 
+  alt="Three Approaches to Psychotherapy with a Female Client: The Next Generation (2011)" 
+  title="Three Approaches to Psychotherapy with a Female Client: The Next Generation (2011)" 
   height="300" 
 /></a>
 
