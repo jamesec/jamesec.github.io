@@ -43,7 +43,6 @@ AEDP stands for Accelerated Experiential Dynamic Psychotherapy, and here are the
 /></a>
 
 ### More AEDP videos on APA
-
 - [Issues of Agency (2025)](https://apa.org/pubs/videos/issues-agency)
   - Eileen M. Russell
 - [Accelerated Experiential Dynamic Psychotherapy for Complex Trauma (2020)](https://apa.org/pubs/videos/accelerated-experiential-dynamic-psychotherapy-complex-trauma)
@@ -84,6 +83,10 @@ AEDP stands for Accelerated Experiential Dynamic Psychotherapy, and here are the
   title="Emotion and Culture in Psychotherapy (2025)" 
   height="300" 
 /></a>
+
+## Other AEDP demonstration video
+- [AEDP Demonstration Session](https://experiential-psychotherapies.com/aedp/#aedpanchor4)
+  - Jerry Lamagna
 
 ## References
 - [APA Video Publications - AEDP Institute](https://aedpinstitute.org/apa-video-publications/)
