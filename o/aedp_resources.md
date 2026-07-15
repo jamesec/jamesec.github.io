@@ -1,5 +1,5 @@
 # Best video resources to learn AEDP
-`Jul 6, 2026`
+`Jul 15, 2026`
 
 AEDP stands for Accelerated Experiential Dynamic Psychotherapy, and here are the best video resources to learn AEDP.
 
