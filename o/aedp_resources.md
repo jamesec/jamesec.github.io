@@ -41,3 +41,15 @@ AEDP stands for Accelerated Experiential Dynamic Psychotherapy, and here are the
   title="Accelerated Experiential Dynamic Psychotherapy (2006)" 
   height="300" 
 /></a>
+
+### More AEDP videos on APA
+- [Emotion and Culture in Psychotherapy (2025)](https://apa.org/pubs/videos/emotion-culture-psychotherapy)
+  - Shigeru Iwakabe
+
+<a href="https://apa.org/pubs/videos/emotion-culture-psychotherapy" target="_blank">
+<img 
+  src="https://www.apa.org/pubs/videos/images/3843853-475.gif" 
+  alt="Emotion and Culture in Psychotherapy (2025)" 
+  title="Emotion and Culture in Psychotherapy (2025)" 
+  height="300" 
+/></a>
