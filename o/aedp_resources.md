@@ -64,3 +64,6 @@ AEDP stands for Accelerated Experiential Dynamic Psychotherapy, and here are the
   title="Emotion and Culture in Psychotherapy (2025)" 
   height="300" 
 /></a>
+
+## References
+- [APA Video Publications - AEDP Institute](https://aedpinstitute.org/apa-video-publications/)
