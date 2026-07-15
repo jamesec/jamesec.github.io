@@ -14,7 +14,7 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 
 <a href="https://vimeo.com/ondemand/lesgreenbergtraumahome/" target="_blank">
 <img 
-  src="https://i.vimeocdn.com/vod_poster/310383_550x814?sig=db742ec4b06246e3dc086f874d8a57150310c47718b816d9bddbc9aada41bbc1&v=1&region=us" 
+  src="/assets/images/Working with Current and Historical Trauma (2019).avif" 
   alt="Working with Current and Historical Trauma (2019)" 
   title="Working with Current and Historical Trauma (2019)" 
   height="300" 
