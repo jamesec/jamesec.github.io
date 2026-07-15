@@ -67,3 +67,4 @@ AEDP stands for Accelerated Experiential Dynamic Psychotherapy, and here are the
 
 ## References
 - [APA Video Publications - AEDP Institute](https://aedpinstitute.org/apa-video-publications/)
+- [Best video resources to learn EFT](/o/s.htm?p=eft_resources)
