@@ -109,18 +109,10 @@ AEDP stands for Accelerated Experiential Dynamic Psychotherapy, and here are the
   - Jerry Lamagna
 
 ## PESI.com
-- Essentials of Accelerated Experiential Dynamic Psychotherapy (AEDP)
+- Essentials of Accelerated Experiential Dynamic Psychotherapy (AEDP) (2023)
   - Radically Relational Interventions for Working with Complex Trauma
   - Kari Gleiser, Natasha Prenn
   - Duration: 28 Hours 22 Minutes
-
-<a href="https://www.pesi.com/sales/bh_c_001677_essentialsofaedp_organic-578182" target="_blank">
-<img 
-  src="https://cdn.pesi23.com/images/jqsfzhosu0wp7yfrj2w2ng.png" 
-  alt="Essentials of Accelerated Experiential Dynamic Psychotherapy (AEDP)" 
-  title="Essentials of Accelerated Experiential Dynamic Psychotherapy (AEDP)"
-  height="300" 
-/></a>
 
 ## References
 - [APA Video Publications - AEDP Institute](https://aedpinstitute.org/apa-video-publications/)
