@@ -75,27 +75,24 @@ figcaption {
   }
 
   /* h1 {color: rgb(255, 117, 127); } */
-  
-  h1 {  
-  font-family: "SF Pro Display", -apple-system, BlinkMacSystemFont, sans-serif;
+  .gradient-font {
+  font-family: system-ui, sans-serif;
   --saturation: 100%;
   --lightness: 50%;
-  
-  & > span {
-    --weight: calc(var(--index) * 30);  /* 0-1000 */
-    --yaxis: calc(calc(var(--index) * 20) + 400);  /* 400-900 */
-    --grad: calc(calc(var(--index) * 20) + 400);  /* 400-900 */
-    --opticalSizing: 20; /* 19 or 20 */
-    --hue: calc(250 + calc(var(--index) * 2));
-    
-    font-variation-settings: 
-      'wght' var(--weight),
-      'YAXS' var(--yaxis),
-      'GRAD' 400,
-      'opsz' 20
-    ;
-    color: hsl(var(--hue) var(--saturation) var(--lightness));
-    }
+  }
+
+  .gradient-font > span {
+  --hue: calc(245deg + var(--index) * 2deg);
+
+  color: hsl(
+    var(--hue)
+    var(--saturation)
+    var(--lightness)
+  );
+
+  font-variation-settings:
+    "wght" calc(400 + var(--index) * 20),
+    "opsz" 20;
   }
 
   h2 {
