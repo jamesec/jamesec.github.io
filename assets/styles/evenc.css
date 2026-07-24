@@ -75,8 +75,9 @@ figcaption {
   }
 
   /* h1 {color: rgb(255, 117, 127); } */
-
+  
   h1 {  
+  font-family: "SF Pro Display", -apple-system, BlinkMacSystemFont, sans-serif;
   --saturation: 100%;
   --lightness: 50%;
   
