@@ -74,26 +74,7 @@ figcaption {
     color: rgb(192, 202, 245);
   }
 
-  /* h1 {color: rgb(255, 117, 127); } */
-  .gradient-font {
-  font-family: system-ui, sans-serif;
-  --saturation: 100%;
-  --lightness: 50%;
-  }
-
-  .gradient-font > span {
-  --hue: calc(245deg + var(--index) * 2deg);
-
-  color: hsl(
-    var(--hue)
-    var(--saturation)
-    var(--lightness)
-  );
-
-  font-variation-settings:
-    "wght" calc(400 + var(--index) * 20),
-    "opsz" 20;
-  }
+  h1 {color: rgb(255, 117, 127); }
 
   h2 {
     color: rgb(224, 175, 104);
