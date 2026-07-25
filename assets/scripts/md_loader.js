@@ -164,3 +164,22 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   }
 });
+
+document.querySelectorAll("h1").forEach(el => {
+  let index = 0;
+
+  el.childNodes.forEach(node => {
+    if (node.nodeType === Node.TEXT_NODE) {
+      const spans = [...node.textContent].map(char => {
+        const span = document.createElement("span");
+
+        span.textContent = char;
+        span.style.setProperty("--index", index++);
+
+        return span;
+      });
+
+      node.replaceWith(...spans);
+    }
+  });
+});
