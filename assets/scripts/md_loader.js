@@ -164,18 +164,3 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   }
 });
-
-document.querySelectorAll(".gradient-font").forEach(h1 => {
-  const text = h1.textContent;
-
-  h1.innerHTML = "";
-
-  [...text].forEach((letter, i) => {
-    const span = document.createElement("span");
-
-    span.textContent = letter;
-    span.style.setProperty("--index", i);
-
-    h1.appendChild(span);
-  });
-});
