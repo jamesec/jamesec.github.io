@@ -2,7 +2,7 @@
 译者：陈艺文、田婴 / 2025 年 12 月 12 日  
 译自：[Polyvagal Theory Made Simple](https://youtu.be/me6e6i1HaUE)  
 
-<iframe width="640" height="360" src="https://youtube.com/embed/2v3wzRmVDrY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper"><video src="/assets/files/polyvagal.mp4" controls playsinline></video></div>
 
 - [Polyvagal Theory Made Simple](https://youtu.be/me6e6i1HaUE)
   - Video uploaded: Nov 21, 2025
