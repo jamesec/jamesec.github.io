@@ -2,7 +2,7 @@
 译者：陈艺文、田婴 / 2025 年 8 月 6 日  
 译自：[Anxiety (GAD) explained by EFT](https://youtu.be/LRuoHv-ODrI)  
 
-<iframe width="640" height="360" src="https://youtube.com/embed/NuKArXjTmHo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper"><video src="/assets/files/anxiety_explained.mp4" controls playsinline></video></div>
 
 - [Anxiety (GAD) explained by EFT](https://youtu.be/LRuoHv-ODrI)
   - Video uploaded: Apr 27, 2020
