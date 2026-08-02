@@ -1,96 +1,126 @@
 <!doctype html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#12141a"><meta name="apple-mobile-web-app-capable" content="yes">
-  <title>cmd/ctrl + e to export — tiny editor</title>
-  <link rel="icon" href="data:image/svg+xml, <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='90' font-size='90'>😄</text></svg>">
-  <style>
-    html, body { margin: 0; }
-    body {
-      background: #12141a;
-      color: #e4e4e7;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      font-size: clamp(16px, 2.5vw, 22px);
-      line-height: 1.45;
-      padding: clamp(16px, 4vw, 48px);
-      max-width: 72ch;
-      margin: 0 auto;
-      overflow-y: auto;
-      overflow-x: hidden;
-      -webkit-user-select: text;
-      touch-action: manipulation;
-      caret-color: #7ac7fb;
-      transition: background-color .3s ease;
-    }
-  </style>
-</head>
-<body contenteditable spellcheck="false" autocapitalize="off" role="textbox" aria-label="tiny editor"></body>
-<script>
-const editor = document.body;
-function exportNotes() {
-  const text = editor.innerText
-    .replace(/\r\n/g, "\n")
-    .replace(/\n{3,}/g, "\n\n")
-    .trimEnd();
-  if (!text.trim()) return;
-  try {
-    const blob = new Blob([text], { type: "text/plain" });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement("a");
-    a.href = url;
-    const d = new Date();
-    const date = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
-    a.download = `notes-${date}.txt`;
-    document.body.appendChild(a);
-    a.click();
-    a.remove();
-    URL.revokeObjectURL(url);
-      // Success feedback - blue tint
-    editor.style.backgroundColor = "#1a2a3a";
-    setTimeout(() => editor.style.backgroundColor = "", 300);
-  } catch {
-      // Error feedback - red tint
-    editor.style.backgroundColor = "#5a2a2a";
-    setTimeout(() => editor.style.backgroundColor = "", 300);
-  }
-}
-// cmd/ctrl + e to export
-document.addEventListener("keydown", e => {
-  if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "e") {
-    e.preventDefault();
-    exportNotes();
-  }
-});
-// Swipe right-to-left to export (mobile)
-let touchStartX = 0;
-let touchStartY = 0;
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="theme-color" content="#12141a" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <title>cmd/ctrl + e to export — tiny editor</title>
+        <link
+            rel="icon"
+            href="data:image/svg+xml, <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='90' font-size='90'>😄</text></svg>"
+        />
+        <style>
+            html,
+            body {
+                margin: 0;
+            }
+            body {
+                background: #12141a;
+                color: #e4e4e7;
+                font-family:
+                    system-ui,
+                    -apple-system,
+                    BlinkMacSystemFont,
+                    "Segoe UI",
+                    sans-serif;
+                font-size: clamp(16px, 2.5vw, 22px);
+                line-height: 1.45;
+                padding: clamp(16px, 4vw, 48px);
+                max-width: 72ch;
+                margin: 0 auto;
+                overflow-y: auto;
+                overflow-x: hidden;
+                user-select: text;
+                -webkit-user-select: text;
+                touch-action: manipulation;
+                caret-color: #7ac7fb;
+                transition: background-color 0.3s ease;
+            }
+        </style>
+    </head>
+    <body
+        contenteditable
+        spellcheck="false"
+        autocapitalize="off"
+        role="textbox"
+        aria-label="tiny editor"
+    ></body>
+    <script>
+        const editor = document.body;
+        function exportNotes() {
+            const text = editor.innerText
+                .replace(/\r\n/g, "\n")
+                .replace(/\n{3,}/g, "\n\n")
+                .trimEnd();
+            if (!text.trim()) return;
+            try {
+                const blob = new Blob([text], { type: "text/plain" });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement("a");
+                a.href = url;
+                const d = new Date();
+                const date = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+                a.download = `notes-${date}.txt`;
+                document.body.appendChild(a);
+                a.click();
+                a.remove();
+                URL.revokeObjectURL(url);
+                // Success feedback - blue tint
+                editor.style.backgroundColor = "#1a2a3a";
+                setTimeout(() => (editor.style.backgroundColor = ""), 300);
+            } catch {
+                // Error feedback - red tint
+                editor.style.backgroundColor = "#5a2a2a";
+                setTimeout(() => (editor.style.backgroundColor = ""), 300);
+            }
+        }
+        // cmd/ctrl + e to export
+        document.addEventListener("keydown", (e) => {
+            if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "e") {
+                e.preventDefault();
+                exportNotes();
+            }
+        });
+        // Swipe right-to-left to export (mobile)
+        let touchStartX = 0;
+        let touchStartY = 0;
 
-editor.addEventListener("touchstart", (e) => {
-  const t = e.changedTouches[0];
-  touchStartX = t.clientX;
-  touchStartY = t.clientY;
+        editor.addEventListener(
+            "touchstart",
+            (e) => {
+                const t = e.changedTouches[0];
+                touchStartX = t.clientX;
+                touchStartY = t.clientY;
 
-  // Only allow swipe from right 20% of screen
-  if (touchStartX < window.innerWidth * 0.8) {
-    touchStartX = -1; // Disable gesture
-  }
-}, { passive: true });
+                // Only allow swipe from right 20% of screen
+                if (touchStartX < window.innerWidth * 0.8) {
+                    touchStartX = -1; // Disable gesture
+                }
+            },
+            { passive: true },
+        );
 
-editor.addEventListener("touchend", (e) => {
-  // Skip if gesture was disabled
-  if (touchStartX === -1) return;
+        editor.addEventListener(
+            "touchend",
+            (e) => {
+                // Skip if gesture was disabled
+                if (touchStartX === -1) return;
 
-  const t = e.changedTouches[0];
-  const deltaX = t.clientX - touchStartX;
-  const deltaY = t.clientY - touchStartY;
+                const t = e.changedTouches[0];
+                const deltaX = t.clientX - touchStartX;
+                const deltaY = t.clientY - touchStartY;
 
-  if (
-    Math.abs(deltaX) > Math.abs(deltaY) &&
-    Math.abs(deltaX) > 100 &&
-    Math.abs(deltaY) < 50 &&
-    deltaX < 0
-  ) {
-    exportNotes();
-  }
-}, { passive: true });
-</script>
+                if (
+                    Math.abs(deltaX) > Math.abs(deltaY) &&
+                    Math.abs(deltaX) > 100 &&
+                    Math.abs(deltaY) < 50 &&
+                    deltaX < 0
+                ) {
+                    exportNotes();
+                }
+            },
+            { passive: true },
+        );
+    </script>
 </html>
