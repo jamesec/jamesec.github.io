@@ -58,13 +58,11 @@
                 const blob = new Blob([text], { type: "text/plain" });
                 const url = URL.createObjectURL(blob);
                 const a = document.createElement("a");
+
                 a.href = url;
-                const d = new Date();
-                const date = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
-                a.download = `notes-${date}.txt`;
-                document.body.appendChild(a);
+                a.download = `notes-${new Date().toISOString().slice(0, 10)}.txt`;
                 a.click();
-                a.remove();
+
                 URL.revokeObjectURL(url);
                 // Success feedback - blue tint
                 editor.style.backgroundColor = "#1a2a3a";
