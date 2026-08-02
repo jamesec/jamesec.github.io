@@ -1,18 +1,9 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<!doctype html><html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
   <title>cmd/ctrl + e to export — tiny editor</title>
-
-  <link rel="icon" href="data:image/svg+xml,
-    <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'>
-      <text y='90' font-size='90'>😄</text>
-    </svg>">
-
+  <link rel="icon" href="data:image/svg+xml, <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='90' font-size='90'>😄</text></svg>">
   <style>
     html, body { margin: 0; }
-
     body {
       background: #12141a;
       color: #e4e4e7;
@@ -27,31 +18,23 @@
     }
   </style>
 </head>
-
 <body contenteditable spellcheck="false" aria-label="tiny editor"></body>
-
 <script>
 const editor = document.body;
-
 function exportNotes() {
   const text = editor.innerText
     .replace(/\r\n/g, "\n")
     .replace(/\n{3,}/g, "\n\n")
     .trimEnd();
-
   if (!text.trim()) return;
-
   try {
     const blob = new Blob([text], { type: "text/plain" });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
-
     a.href = url;
     a.download = `notes-${new Date().toLocaleDateString().slice(0,10)}.txt`;
     a.click();
-
     URL.revokeObjectURL(url);
-
     editor.style.backgroundColor = "#1a2a3a";
     setTimeout(() => editor.style.backgroundColor = "", 300);
   } catch {
@@ -59,29 +42,23 @@ function exportNotes() {
     setTimeout(() => editor.style.backgroundColor = "", 300);
   }
 }
-
 document.addEventListener("keydown", e => {
   if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "e") {
     e.preventDefault();
     exportNotes();
   }
 });
-
 let startX = 0, startY = 0;
-
 editor.addEventListener("touchstart", e => {
   const t = e.changedTouches[0];
   startX = t.clientX >= window.innerWidth * .8 ? t.clientX : -1;
   startY = t.clientY;
 }, { passive: true });
-
 editor.addEventListener("touchend", e => {
   if (startX === -1) return;
-
   const t = e.changedTouches[0];
   const dx = t.clientX - startX;
   const dy = t.clientY - startY;
-
   if (Math.abs(dx) > 100 && Math.abs(dy) < 50 && dx < 0) {
     exportNotes();
   }
