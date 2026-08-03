@@ -10,16 +10,23 @@
             href="data:image/svg+xml, <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='90' font-size='90'>😄</text></svg>"
         />
         <style>
+            :root {
+                --background-primary: #12141a;
+                --editor-text-color: #e4e4e7;
+                --caret-color: #7ac7fb;
+                --export-bg-color: #1a2a3a; /* Used for successful export flash */
+                --error-bg-color: #5a2a2a; /* Used for error flash */
+            }
             html,
             body {
                 margin: 0;
-                background: #12141a;
+                background: var(--background-primary);
             }
             #editor {
                 min-height: 100vh;
                 box-sizing: border-box;
-                color: #e4e4e7;
-                -webkit-text-fill-color: #e4e4e7;
+                color: var(--editor-text-color);
+                -webkit-text-fill-color: var(--editor-text-color);
                 font-family:
                     system-ui,
                     -apple-system,
@@ -33,7 +40,7 @@
                 margin: 0 auto;
                 overflow-x: hidden;
                 outline: none;
-                caret-color: #7ac7fb;
+                caret-color: var(--caret-color);
                 transition: background-color 0.3s ease;
                 white-space: pre-wrap;
                 word-break: break-word;
@@ -56,11 +63,17 @@
         ></div>
         <script>
             const editor = document.getElementById("editor");
-            function flashBackground(color) {
-                document.body.style.backgroundColor = color;
-                setTimeout(() => {
-                    document.body.style.backgroundColor = "";
-                }, 300);
+            function flashBackground(variableName) {
+                const computedStyle = getComputedStyle(document.body);
+                const color = computedStyle
+                    .getPropertyValue(variableName)
+                    .trim();
+                if (color) {
+                    document.body.style.backgroundColor = color;
+                    setTimeout(() => {
+                        document.body.style.backgroundColor = "";
+                    }, 300);
+                }
             }
             function exportNotes() {
                 const text = editor.innerText.trimEnd();
@@ -80,9 +93,9 @@
                     a.download = `notes-${date}.txt`;
                     a.click();
                     setTimeout(() => URL.revokeObjectURL(url), 100);
-                    flashBackground("#1a2a3a");
+                    flashBackground("--export-bg-color");
                 } catch {
-                    flashBackground("#5a2a2a");
+                    flashBackground("--error-bg-color");
                 }
             }
             document.addEventListener("keydown", (e) => {
