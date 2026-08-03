@@ -61,20 +61,27 @@
             function getEditorText() {
                 const lines = [];
 
-                for (const node of editor.childNodes) {
+                function addNode(node) {
                     if (node.nodeType === Node.TEXT_NODE) {
                         lines.push(node.textContent);
-                    } else if (node.nodeName === "DIV") {
-                        const isEmpty =
-                            node.childNodes.length === 1 &&
-                            node.firstChild.nodeName === "BR";
+                        return;
+                    }
 
-                        lines.push(isEmpty ? "" : node.textContent);
+                    if (node.nodeName === "BR") {
+                        lines.push("");
+                        return;
+                    }
+
+                    if (node.nodeName === "DIV" || node.nodeName === "P") {
+                        lines.push(node.textContent);
+                        return;
                     }
                 }
 
-                // Chromium always keeps one extra empty line for the caret.
-                if (lines.length && lines[lines.length - 1] === "") {
+                editor.childNodes.forEach(addNode);
+
+                // Remove Chromium/Safari caret placeholder
+                if (lines.length && lines.at(-1) === "") {
                     lines.pop();
                 }
 
