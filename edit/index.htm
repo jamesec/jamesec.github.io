@@ -4,7 +4,6 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#12141a" />
-        <meta name="apple-mobile-web-app-capable" content="yes" />
         <title>cmd/ctrl + e to export — tiny editor</title>
         <link
             rel="icon"
@@ -29,10 +28,8 @@
                 padding: clamp(16px, 4vw, 48px);
                 max-width: 72ch;
                 margin: 0 auto;
-                overflow-y: auto;
                 overflow-x: hidden;
                 user-select: text;
-                -webkit-user-select: text;
                 caret-color: #7ac7fb;
                 transition: background-color 0.3s ease;
             }
@@ -41,7 +38,6 @@
     <body
         contenteditable
         spellcheck="false"
-        autocapitalize="off"
         role="textbox"
         aria-label="tiny editor"
     ></body>
