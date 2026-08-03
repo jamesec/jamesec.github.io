@@ -14,8 +14,15 @@
             body {
                 margin: 0;
             }
+
             body {
                 background: #12141a;
+            }
+
+            #editor {
+                min-height: 100vh;
+                box-sizing: border-box;
+
                 color: #e4e4e7;
                 font-family:
                     system-ui,
@@ -25,13 +32,17 @@
                     sans-serif;
                 font-size: clamp(16px, 2.5vw, 22px);
                 line-height: 1.45;
+
                 padding: clamp(16px, 4vw, 48px);
                 max-width: 72ch;
                 margin: 0 auto;
+
                 overflow-x: hidden;
-                user-select: text;
+                outline: none;
                 caret-color: #7ac7fb;
                 transition: background-color 0.3s ease;
+                white-space: pre-wrap;
+                word-break: break-word;
             }
         </style>
     </head>
@@ -43,38 +54,63 @@
             role="textbox"
             aria-label="tiny editor"
         ></div>
+
         <script>
             const editor = document.getElementById("editor");
+
+            function getEditorText() {
+                const lines = [];
+
+                for (const node of editor.childNodes) {
+                    if (node.nodeType === Node.TEXT_NODE) {
+                        lines.push(node.textContent);
+                    } else if (node.nodeName === "DIV") {
+                        if (
+                            node.childNodes.length === 1 &&
+                            node.firstChild.nodeName === "BR"
+                        ) {
+                            lines.push("");
+                        } else {
+                            lines.push(node.textContent);
+                        }
+                    } else if (node.nodeName === "BR") {
+                        lines.push("");
+                    }
+                }
+
+                return lines.join("\n").replace(/\r\n/g, "\n").trimEnd();
+            }
+
             function exportNotes() {
-                const text = editor.innerText
-                    .replace(/\r\n/g, "\n")
-                    .replace(/\n{3,}/g, "\n\n")
-                    .trimEnd();
+                const text = getEditorText();
+
                 if (!text.trim()) return;
+
                 try {
                     const blob = new Blob([text], { type: "text/plain" });
                     const url = URL.createObjectURL(blob);
                     const a = document.createElement("a");
 
-                    a.href = url;
-
                     const d = new Date();
-                    const date = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+                    const date =
+                        `${d.getFullYear()}-` +
+                        `${String(d.getMonth() + 1).padStart(2, "0")}-` +
+                        `${String(d.getDate()).padStart(2, "0")}`;
 
+                    a.href = url;
                     a.download = `notes-${date}.txt`;
                     a.click();
 
                     URL.revokeObjectURL(url);
-                    // Success feedback - blue tint
+
                     editor.style.backgroundColor = "#1a2a3a";
                     setTimeout(() => (editor.style.backgroundColor = ""), 300);
-                } catch (err) {
-                    // Error feedback - red tint
+                } catch {
                     editor.style.backgroundColor = "#5a2a2a";
                     setTimeout(() => (editor.style.backgroundColor = ""), 300);
                 }
             }
-            // cmd/ctrl + e to export
+
             document.addEventListener("keydown", (e) => {
                 if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "e") {
                     e.preventDefault();
