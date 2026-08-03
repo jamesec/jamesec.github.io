@@ -41,9 +41,6 @@
                 -webkit-user-select: text;
                 -webkit-text-size-adjust: 100%;
             }
-            #editor:focus {
-                caret-color: #7ac7fb;
-            }
         </style>
     </head>
     <body>
@@ -59,6 +56,15 @@
         ></div>
         <script>
             const editor = document.getElementById("editor");
+            function flashBackground(color) {
+                document.body.style.backgroundColor = color;
+                editor.style.backgroundColor = color;
+
+                setTimeout(() => {
+                    document.body.style.backgroundColor = "";
+                    editor.style.backgroundColor = "";
+                }, 300);
+            }
             function exportNotes() {
                 const text = editor.innerText.trimEnd();
                 if (!text.trim()) return;
@@ -78,17 +84,9 @@
                     a.download = `notes-${date}.txt`;
                     a.click();
                     setTimeout(() => URL.revokeObjectURL(url), 100);
-                    document.body.style.backgroundColor = "#1a2a3a";
-                    setTimeout(
-                        () => (document.body.style.backgroundColor = ""),
-                        300,
-                    );
+                    flashBackground("#1a2a3a");
                 } catch {
-                    document.body.style.backgroundColor = "#5a2a2a";
-                    setTimeout(
-                        () => (document.body.style.backgroundColor = ""),
-                        300,
-                    );
+                    flashBackground("#5a2a2a");
                 }
             }
             document.addEventListener("keydown", (e) => {
