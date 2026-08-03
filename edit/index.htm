@@ -15,11 +15,9 @@
                 margin: 0;
                 background: #12141a;
             }
-
             #editor {
                 min-height: 100vh;
                 box-sizing: border-box;
-
                 color: #e4e4e7;
                 -webkit-text-fill-color: #e4e4e7;
                 font-family:
@@ -30,11 +28,9 @@
                     sans-serif;
                 font-size: clamp(16px, 2.5vw, 22px);
                 line-height: 1.45;
-
                 padding: clamp(16px, 4vw, 48px);
                 max-width: 72ch;
                 margin: 0 auto;
-
                 overflow-x: hidden;
                 outline: none;
                 caret-color: #7ac7fb;
@@ -44,6 +40,9 @@
                 user-select: text;
                 -webkit-user-select: text;
                 -webkit-text-size-adjust: 100%;
+            }
+            #editor:focus {
+                caret-color: #7ac7fb;
             }
         </style>
     </head>
@@ -58,22 +57,17 @@
             aria-multiline="true"
             aria-label="tiny editor"
         ></div>
-
         <script>
             const editor = document.getElementById("editor");
-
             function exportNotes() {
                 const text = editor.innerText.trimEnd();
-
                 if (!text.trim()) return;
-
                 try {
                     const blob = new Blob([text], {
                         type: "text/plain;charset=utf-8",
                     });
                     const url = URL.createObjectURL(blob);
                     const a = document.createElement("a");
-
                     const d = new Date();
                     const date =
                         `${d.getFullYear()}-` +
@@ -83,9 +77,7 @@
                     a.href = url;
                     a.download = `notes-${date}.txt`;
                     a.click();
-
                     setTimeout(() => URL.revokeObjectURL(url), 100);
-
                     document.body.style.backgroundColor = "#1a2a3a";
                     setTimeout(
                         () => (document.body.style.backgroundColor = ""),
@@ -99,7 +91,6 @@
                     );
                 }
             }
-
             document.addEventListener("keydown", (e) => {
                 if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "e") {
                     e.preventDefault();
