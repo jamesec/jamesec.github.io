@@ -13,9 +13,10 @@
             html,
             body {
                 margin: 0;
-                background: #12141a;
+                background: var(--bg, #12141a);
             }
             #editor {
+                background: var(--bg, transparent);
                 min-height: 100vh;
                 box-sizing: border-box;
                 color: #e4e4e7;
@@ -57,12 +58,9 @@
         <script>
             const editor = document.getElementById("editor");
             function flashBackground(color) {
-                document.body.style.backgroundColor = color;
-                editor.style.backgroundColor = color;
-
+                document.documentElement.style.setProperty("--bg", color);
                 setTimeout(() => {
-                    document.body.style.backgroundColor = "";
-                    editor.style.backgroundColor = "";
+                    document.documentElement.style.removeProperty("--bg");
                 }, 300);
             }
             function exportNotes() {
@@ -79,7 +77,6 @@
                         `${d.getFullYear()}-` +
                         `${String(d.getMonth() + 1).padStart(2, "0")}-` +
                         `${String(d.getDate()).padStart(2, "0")}`;
-
                     a.href = url;
                     a.download = `notes-${date}.txt`;
                     a.click();
