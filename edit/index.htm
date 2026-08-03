@@ -59,29 +59,32 @@
             const editor = document.getElementById("editor");
 
             function getEditorText() {
-                const lines = [];
+                let result = "";
 
-                function addNode(node) {
-                    if (node.nodeType === Node.TEXT_NODE) {
-                        lines.push(node.textContent);
-                        return;
-                    }
+                function walk(node) {
+                    for (const child of node.childNodes) {
+                        if (child.nodeType === Node.TEXT_NODE) {
+                            result += child.nodeValue;
+                        } else if (child.nodeName === "BR") {
+                            result += "\n";
+                        } else {
+                            walk(child);
 
-                    if (node.nodeName === "BR") {
-                        lines.push("");
-                        return;
-                    }
-
-                    if (node.nodeName === "DIV" || node.nodeName === "P") {
-                        lines.push(node.textContent);
-                        return;
+                            // block elements usually represent a line break
+                            const display = getComputedStyle(child).display;
+                            if (display === "block") {
+                                result += "\n";
+                            }
+                        }
                     }
                 }
 
-                editor.childNodes.forEach(addNode);
+                walk(editor);
 
-                // Remove Chromium/Safari caret placeholder
-                if (lines.length && lines.at(-1) === "") {
+                const lines = result.split("\n");
+
+                // Remove Chromium/Safari/Firefox caret placeholder
+                if (lines.at(-1) === "") {
                     lines.pop();
                 }
 
