@@ -60,25 +60,27 @@
 
             function getEditorText() {
                 const lines = [];
+                const nodes = [...editor.childNodes];
 
-                for (const node of editor.childNodes) {
+                nodes.forEach((node, index) => {
                     if (node.nodeType === Node.TEXT_NODE) {
                         lines.push(node.textContent);
-                    } else if (node.nodeName === "DIV") {
-                        if (
-                            node.childNodes.length === 1 &&
-                            node.firstChild.nodeName === "BR"
-                        ) {
-                            lines.push("");
-                        } else {
-                            lines.push(node.textContent);
-                        }
-                    } else if (node.nodeName === "BR") {
-                        lines.push("");
+                        return;
                     }
-                }
 
-                return lines.join("\n").replace(/\r\n/g, "\n").trimEnd();
+                    if (node.nodeName !== "DIV") return;
+
+                    const isEmpty =
+                        node.childNodes.length === 1 &&
+                        node.firstChild.nodeName === "BR";
+
+                    // Ignore Chromium's trailing empty line.
+                    if (isEmpty && index === nodes.length - 1) return;
+
+                    lines.push(isEmpty ? "" : node.textContent);
+                });
+
+                return lines.join("\n");
             }
 
             function exportNotes() {
