@@ -60,7 +60,11 @@
                 const a = document.createElement("a");
 
                 a.href = url;
-                a.download = `notes-${new Date().toLocaleDateString().slice(0, 10)}.txt`;
+
+                const d = new Date();
+                const date = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+
+                a.download = `notes-${date}.txt`;
                 a.click();
 
                 URL.revokeObjectURL(url);
