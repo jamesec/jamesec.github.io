@@ -13,13 +13,11 @@
             html,
             body {
                 margin: 0;
-            }
-
-            body {
-                background: #12141a;
+                min-height: 100%;
             }
 
             #editor {
+                background: #12141a;
                 min-height: 100vh;
                 box-sizing: border-box;
 
@@ -43,6 +41,9 @@
                 transition: background-color 0.3s ease;
                 white-space: pre-wrap;
                 word-break: break-word;
+                user-select: text;
+                -webkit-user-select: text;
+                -webkit-text-size-adjust: 100%;
             }
         </style>
     </head>
@@ -52,52 +53,23 @@
             contenteditable
             spellcheck="false"
             role="textbox"
+            tabindex="0"
+            aria-multiline="true"
             aria-label="tiny editor"
         ></div>
 
         <script>
             const editor = document.getElementById("editor");
 
-            function getEditorText() {
-                let result = "";
-
-                function walk(node) {
-                    for (const child of node.childNodes) {
-                        if (child.nodeType === Node.TEXT_NODE) {
-                            result += child.nodeValue;
-                        } else if (child.nodeName === "BR") {
-                            result += "\n";
-                        } else {
-                            walk(child);
-
-                            // block elements usually represent a line break
-                            const display = getComputedStyle(child).display;
-                            if (display === "block") {
-                                result += "\n";
-                            }
-                        }
-                    }
-                }
-
-                walk(editor);
-
-                const lines = result.split("\n");
-
-                // Remove Chromium/Safari/Firefox caret placeholder
-                if (lines.at(-1) === "") {
-                    lines.pop();
-                }
-
-                return lines.join("\n");
-            }
-
             function exportNotes() {
-                const text = getEditorText();
+                const text = editor.innerText.trimEnd();
 
                 if (!text.trim()) return;
 
                 try {
-                    const blob = new Blob([text], { type: "text/plain" });
+                    const blob = new Blob([text], {
+                        type: "text/plain;charset=utf-8",
+                    });
                     const url = URL.createObjectURL(blob);
                     const a = document.createElement("a");
 
@@ -111,7 +83,7 @@
                     a.download = `notes-${date}.txt`;
                     a.click();
 
-                    URL.revokeObjectURL(url);
+                    setTimeout(() => URL.revokeObjectURL(url), 100);
 
                     editor.style.backgroundColor = "#1a2a3a";
                     setTimeout(() => (editor.style.backgroundColor = ""), 300);
