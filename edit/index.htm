@@ -44,7 +44,7 @@
     <script>
         const editor = document.body;
         function exportNotes() {
-            const text = editor.textContent
+            const text = editor.innerText
                 .replace(/\r\n/g, "\n")
                 .replace(/\n{3,}/g, "\n\n")
                 .trimEnd();
