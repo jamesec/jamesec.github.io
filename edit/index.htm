@@ -60,25 +60,23 @@
 
             function getEditorText() {
                 const lines = [];
-                const nodes = [...editor.childNodes];
 
-                nodes.forEach((node, index) => {
+                for (const node of editor.childNodes) {
                     if (node.nodeType === Node.TEXT_NODE) {
                         lines.push(node.textContent);
-                        return;
+                    } else if (node.nodeName === "DIV") {
+                        const isEmpty =
+                            node.childNodes.length === 1 &&
+                            node.firstChild.nodeName === "BR";
+
+                        lines.push(isEmpty ? "" : node.textContent);
                     }
+                }
 
-                    if (node.nodeName !== "DIV") return;
-
-                    const isEmpty =
-                        node.childNodes.length === 1 &&
-                        node.firstChild.nodeName === "BR";
-
-                    // Ignore Chromium's trailing empty line.
-                    if (isEmpty && index === nodes.length - 1) return;
-
-                    lines.push(isEmpty ? "" : node.textContent);
-                });
+                // Chromium always keeps one extra empty line for the caret.
+                if (lines.length && lines[lines.length - 1] === "") {
+                    lines.pop();
+                }
 
                 return lines.join("\n");
             }
