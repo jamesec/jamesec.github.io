@@ -51,6 +51,7 @@
         <div
             id="editor"
             contenteditable
+            autofocus
             spellcheck="false"
             role="textbox"
             tabindex="0"
@@ -85,11 +86,17 @@
 
                     setTimeout(() => URL.revokeObjectURL(url), 100);
 
-                    editor.style.backgroundColor = "#1a2a3a";
-                    setTimeout(() => (editor.style.backgroundColor = ""), 300);
+                    document.body.style.backgroundColor = "#1a2a3a";
+                    setTimeout(
+                        () => (document.body.style.backgroundColor = ""),
+                        300,
+                    );
                 } catch {
-                    editor.style.backgroundColor = "#5a2a2a";
-                    setTimeout(() => (editor.style.backgroundColor = ""), 300);
+                    document.body.style.backgroundColor = "#5a2a2a";
+                    setTimeout(
+                        () => (document.body.style.backgroundColor = ""),
+                        300,
+                    );
                 }
             }
 
