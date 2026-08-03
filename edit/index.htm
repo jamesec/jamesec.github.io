@@ -33,7 +33,6 @@
                 overflow-x: hidden;
                 user-select: text;
                 -webkit-user-select: text;
-                touch-action: manipulation;
                 caret-color: #7ac7fb;
                 transition: background-color 0.3s ease;
             }
@@ -84,45 +83,5 @@
                 exportNotes();
             }
         });
-        // Swipe right-to-left to export (mobile)
-        let touchStartX = 0;
-        let touchStartY = 0;
-
-        editor.addEventListener(
-            "touchstart",
-            (e) => {
-                const t = e.changedTouches[0];
-                touchStartX = t.clientX;
-                touchStartY = t.clientY;
-
-                // Only allow swipe from right 20% of screen
-                if (touchStartX < window.innerWidth * 0.8) {
-                    touchStartX = -1; // Disable gesture
-                }
-            },
-            { passive: true },
-        );
-
-        editor.addEventListener(
-            "touchend",
-            (e) => {
-                // Skip if gesture was disabled
-                if (touchStartX === -1) return;
-
-                const t = e.changedTouches[0];
-                const deltaX = t.clientX - touchStartX;
-                const deltaY = t.clientY - touchStartY;
-
-                if (
-                    Math.abs(deltaX) > Math.abs(deltaY) &&
-                    Math.abs(deltaX) > 100 &&
-                    Math.abs(deltaY) < 50 &&
-                    deltaX < 0
-                ) {
-                    exportNotes();
-                }
-            },
-            { passive: true },
-        );
     </script>
 </html>
