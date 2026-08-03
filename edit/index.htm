@@ -13,10 +13,9 @@
             html,
             body {
                 margin: 0;
-                background: var(--bg, #12141a);
+                background: #12141a;
             }
             #editor {
-                background: var(--bg, transparent);
                 min-height: 100vh;
                 box-sizing: border-box;
                 color: #e4e4e7;
@@ -58,9 +57,9 @@
         <script>
             const editor = document.getElementById("editor");
             function flashBackground(color) {
-                document.documentElement.style.setProperty("--bg", color);
+                document.body.style.backgroundColor = color;
                 setTimeout(() => {
-                    document.documentElement.style.removeProperty("--bg");
+                    document.body.style.backgroundColor = "";
                 }, 300);
             }
             function exportNotes() {
