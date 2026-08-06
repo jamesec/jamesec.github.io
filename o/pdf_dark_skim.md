@@ -7,7 +7,7 @@ The default Preview app in macOS didn’t offer a way to view PDFs in dark mode�
 
 There are some workarounds, including using a shortcut in macOS (Settings → Accessibility → Invert Colors), but that’s not very elegant, since it inverts all colors in the macOS user interface, not just the colors when viewing the PDF. The default shortcut is <mark>ctrl + opt + cmd + 8</mark>. In any case, I sometimes use it since it works.
 
-In the Preview app in macOS Tahoe, you can enable it this way:  
+In the Preview app in macOS Tahoe, you can enable it this way:\
 View → Use Dark Appearance for PDF
 
 However, I don’t like Tahoe—either its design or its performance—so I downgraded my Mac to macOS Sequoia. “Dark Appearance for PDF” is the only thing I miss from macOS Tahoe.
@@ -18,15 +18,15 @@ You can use the [Skim app](https://skim-app.sourceforge.io/) to read PDFs in dar
 
 Just configure the app this way, and you’re good to go with PDFs in dark mode.
 
-Menu of the Skim app  
-Settings…  
+Menu of the Skim app\
+Settings…\
 → Display → Invert colors in Dark Mode
 
-Menu of the Skim app  
-PDF  
-→ Automatically Resize  
-→ Horizontal Continuous  
-→ Book Mode  
+Menu of the Skim app\
+PDF\
+→ Automatically Resize\
+→ Horizontal Continuous\
+→ Book Mode\
 → Page Breaks
 
 Enjoy reading—maybe an intriguing novel in PDF format!
