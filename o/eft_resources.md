@@ -1,5 +1,5 @@
 # Best video resources to learn EFT
-`Updated: Jul 15, 2026 / Jul 6, 2026`
+`Updated: Aug 10, 2026 / Jul 6, 2026`
 
 EFT stands for Emotion-Focused Therapy, and here are the best video resources to learn EFT.
 
@@ -214,11 +214,18 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 
 ### Rhonda Goldman - APA
 - [Transforming Emotional Pain (2026)](https://apa.org/pubs/videos/transforming-emotional-pain)
-	- Coming Soon (scheduled release: August 2026)
 - [Emotion-Focused Therapy Deliberate Practice (2023)](https://apa.org/pubs/videos/emotion-focused-therapy-deliberate-practice)
 - [Providing Emotion-Focused Therapy Online (2021)](https://apa.org/pubs/videos/providing-emotion-focused-therapy-online)
 - [Emotion-Focused Couple Therapy (2018)](https://apa.org/pubs/videos/4310997)
 - [Case Formulation in Emotion-Focused Therapy: Addressing Unfinished Business (2013)](https://apa.org/pubs/videos/4310916)
+
+<a href="https://apa.org/pubs/videos/transforming-emotional-pain" target="_blank">
+<img 
+  src="https://www.apa.org/pubs/videos/images/3849015-475.gif" 
+  alt="Transforming Emotional Pain (2026)" 
+  title="Transforming Emotional Pain (2026)" 
+  height="300" 
+/></a>
 
 <a href="https://apa.org/pubs/videos/emotion-focused-therapy-deliberate-practice" target="_blank">
 <img 
