@@ -18,12 +18,13 @@ Here’s a list of key EFT books. This is a personal selection to help prioritiz
   height="200" 
 /></a>
 
+<a href="https://www.routledge.com/p/book/9781032063393" target="_blank">
 <img 
   src="https://images.routledge.com/common/jackets/amazon/978103206/9781032063393.jpg" 
   alt="Transforming emotional pain, workbook (2023)" 
   title="Transforming emotional pain, workbook (2023)" 
   height="200" 
-/>
+/></a>
 
 <a href="https://www.apa.org/pubs/books/learning-emotion-focused-therapy-second-edition" target="_blank">
 <img 
@@ -41,12 +42,13 @@ Here’s a list of key EFT books. This is a personal selection to help prioritiz
   height="200" 
 /></a>
 
+<a href="https://us2.sagepub.com/en-us/nam/emotion-focused-counselling-in-action/book239415" target="_blank">
 <img 
   src="/assets/images/efc_in_action.jpg" 
   alt="Emotion-focused counselling in action (2021)" 
   title="Emotion-focused counselling in action (2021)" 
   height="200" 
-/>
+/></a>
 
 ## Theories and subfields
 - Greenberg, L. S. (2024). *Shame and anger in psychotherapy.* American Psychological Association. https://doi.org/10.1037/0000393-000
