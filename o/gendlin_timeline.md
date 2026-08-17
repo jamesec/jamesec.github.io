@@ -8,7 +8,7 @@ Here, I present a brief timeline of Eugene Gendlin’s life and major works.
 - 1926	EUGEN GENDELIN Born in Vienna, Austria
 - 1938	Anschluss in Austria. The Gendelins escape Austria to Amsterdam and then New York; name changed to Gendlin
 - 1952	Focusing begins with the philosophical work of Eugene Gendlin, University of Chicago. He teamed up with psychologist Carl Rogers and later developed Focusing and Experiential/Focusing Oriented Psychotherapy.
-- 1962	Publication of *Experiencing & The Creation of Meaning*
+- 1962	Publication of *Experiencing and the Creation of Meaning*
 - 1964	*A Theory of Personality Change*
 - 1968	*The Experiential Response*
 - 1978	The popular book *Focusing* is written to make Focusing accessible to the public.
@@ -22,6 +22,46 @@ Here, I present a brief timeline of Eugene Gendlin’s life and major works.
 - 2012	*Implicit Precision (2012)*
 - 2017	*A Process Model (2017)* published by Northwestern University Press
 - 2017	Gendlin passes away and the Board establishes The Eugene T. Gendlin Center for Research in Experiential Philosophy and Psychology in his honor.
+
+<a href="https://nupress.northwestern.edu/9780810114272/experiencing-and-the-creation-of-meaning/" target="_blank">
+<img 
+  src="https://northwest-press-us.imgix.net/covers/9780810114272.jpg" 
+  alt="Experiencing and the Creation of Meaning (1997)" 
+  title="Experiencing and the Creation of Meaning (1997)" 
+  height="200" 
+/></a>
+
+<a href="https://www.penguinrandomhouse.com/books/59035/focusing-by-eugene-tgendlin-phd/" target="_blank">
+<img 
+  src="https://images4.penguinrandomhouse.com/cover/9780553278330" 
+  alt="Focusing (1982)" 
+  title="Focusing (1982)" 
+  height="200" 
+/></a>
+
+<a href="https://www.goodreads.com/en/book/show/1912357.Let_Your_Body_Interpret_Your_Dreams" target="_blank">
+<img 
+  src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1387148075i/1912357.jpg" 
+  alt="Let Your Body Interpret Your Dreams (1985)" 
+  title="Let Your Body Interpret Your Dreams (1985)" 
+  height="200" 
+/></a>
+
+<a href="https://www.goodreads.com/book/show/666176.Focusing_Oriented_Psychotherapy" target="_blank">
+<img 
+  src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1176927644i/666176.jpg" 
+  alt="Focusing-Oriented Psychotherapy (1996)" 
+  title="Focusing-Oriented Psychotherapy (1996)" 
+  height="200" 
+/></a>
+
+<a href="https://nupress.northwestern.edu/9780810136199/a-process-model/" target="_blank">
+<img 
+  src="https://northwest-press-us.imgix.net/covers/9780810136199.jpg" 
+  alt="A Process Model (2017)" 
+  title="A Process Model (2017)" 
+  height="200" 
+/></a>
 
 ## References
 - *The Psychology and Philosophy of Eugene Gendlin (2023)*
