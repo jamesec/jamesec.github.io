@@ -10,6 +10,44 @@ Here’s a list of key EFT books. This is a personal selection to help prioritiz
 - Greenberg, L. S. (2021). *Changing emotion with emotion: A practitioner's guide.* American Psychological Association. https://doi.org/10.1037/0000248-000
 - Elliott, R., & Greenberg, L. S. (2021). *Emotion-focused counselling in action.* Sage.
 
+<a href="https://www.apa.org/pubs/books/principles-emotion-change" target="_blank">
+<img 
+  src="https://www.apa.org/pubs/books/images/4311061-475.gif" 
+  alt="Principles of emotion change (2025)" 
+  title="Principles of emotion change (2025)" 
+  height="200" 
+/></a>
+
+<img 
+  src="https://images.routledge.com/common/jackets/amazon/978103206/9781032063393.jpg" 
+  alt="Transforming emotional pain, workbook (2023)" 
+  title="Transforming emotional pain, workbook (2023)" 
+  height="200" 
+/>
+
+<a href="https://www.apa.org/pubs/books/learning-emotion-focused-therapy-second-edition" target="_blank">
+<img 
+  src="https://www.apa.org/pubs/books/images/3838323-475.gif" 
+  alt="Learning emotion-focused therapy (2025, 2nd ed.)" 
+  title="Learning emotion-focused therapy (2025, 2nd ed.)" 
+  height="200" 
+/></a>
+
+<a href="https://www.apa.org/pubs/books/changing-emotion-with-emotion" target="_blank">
+<img 
+  src="https://www.apa.org/pubs/books/images/4317568-475.gif" 
+  alt="Changing emotion with emotion (2021)" 
+  title="Changing emotion with emotion (2021)" 
+  height="200" 
+/></a>
+
+<img 
+  src="/assets/images/efc_in_action.jpg" 
+  alt="Emotion-focused counselling in action (2021)" 
+  title="Emotion-focused counselling in action (2021)" 
+  height="200" 
+/>
+
 ## Theories and subfields
 - Greenberg, L. S. (2024). *Shame and anger in psychotherapy.* American Psychological Association. https://doi.org/10.1037/0000393-000
 - Paivio, S. C., & Pascual-Leone, A. (2023). *Emotion-focused therapy for complex trauma: An integrative approach* (2nd ed.). American Psychological Association. https://doi.org/10.1037/0000336-000
@@ -27,6 +65,15 @@ Here’s a list of key EFT books. This is a personal selection to help prioritiz
 - Greenberg, L. S., & Goldman, R. N. (Eds.). (2019). *Clinical handbook of emotion-focused therapy.* American Psychological Association. https://doi.org/10.1037/0000112-000
 - Auszra L., Herrmann, I., & Greenberg, L. S. (2016). *Emotionsfokussierte therapie: Ein praxismanual.* Hogrefe Verlag GmbH & Company KG.
 - Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2007). *Case studies in emotion-focused treatment of depression: A comparison of good and poor outcome.* American Psychological Association. https://doi.org/10.1037/11586-000
+
+<a href="https://www.apa.org/pubs/books/on-becoming-emotion-focused" target="_blank">
+<img 
+  src="https://www.apa.org/pubs/books/images/3843327-475.gif" 
+  alt="On Becoming Emotion Focused (2025)" 
+  title="On Becoming Emotion Focused (2025)" 
+  height="200" 
+/>
+</a>
 
 ---
 
