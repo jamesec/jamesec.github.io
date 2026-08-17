@@ -3,12 +3,13 @@
 
 `How strongly I recommend it: 9/10`
 
+<a href="https://www.apa.org/pubs/books/on-becoming-emotion-focused" target="_blank">
 <img 
   src="https://www.apa.org/pubs/books/images/3843327-475.gif" 
   alt="On Becoming Emotion Focused (2025)" 
   title="On Becoming Emotion Focused (2025)" 
   height="200" 
-/>
+/></a>
 
 On Becoming Emotion Focused (2025) by Leslie S. Greenberg
 

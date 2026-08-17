@@ -3,12 +3,13 @@
 
 `How strongly I recommend it: 9/10`
 
+<a href="https://www.apa.org/pubs/books/learning-emotion-focused-therapy-second-edition" target="_blank">
 <img 
   src="https://www.apa.org/pubs/books/images/3838323-475.gif" 
-  alt="Learning EFT 2.0 (2025)" 
-  title="Learning EFT 2.0 (2025)" 
+  alt="Learning emotion-focused therapy (2025, 2nd ed.)" 
+  title="Learning emotion-focused therapy (2025, 2nd ed.)" 
   height="200" 
-/>
+/></a>
 
 Learning Emotion-Focused Therapy: A Comprehensive Guide (2025, 2nd ed.) 
 Also known as: Learning EFT 2.0 (2025)  

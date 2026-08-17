@@ -74,8 +74,7 @@ Here’s a list of key EFT books. This is a personal selection to help prioritiz
   alt="On Becoming Emotion Focused (2025)" 
   title="On Becoming Emotion Focused (2025)" 
   height="200" 
-/>
-</a>
+/></a>
 
 ---
 
