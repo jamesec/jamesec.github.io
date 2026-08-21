@@ -67,6 +67,23 @@ Here is a brief timeline of Eugene Gendlin’s life and major works.
 - *The Psychology and Philosophy of Eugene Gendlin (2023)*
 - *Saying What We Mean: Implicit Precision and the Responsive Order (2018)*
 	- *Implicit Precision (2012)*
+	
+<a href="https://www.routledge.com/p/book/9781032280042" target="_blank">
+<img 
+  src="https://images.routledge.com/common/jackets/amazon/978103228/9781032280042.jpg" 
+  alt="The Psychology and Philosophy of Eugene Gendlin (2023)" 
+  title="The Psychology and Philosophy of Eugene Gendlin (2023)" 
+  height="200" 
+/></a>
+
+<a href="https://nupress.northwestern.edu/9780810136243/saying-what-we-mean/" target="_blank">
+<img 
+  src="https://northwest-press-us.imgix.net/covers/9780810136243.jpg" 
+  alt="Saying What We Mean: Implicit Precision and the Responsive Order (2018)" 
+  title="Saying What We Mean: Implicit Precision and the Responsive Order (2018)" 
+  height="200" 
+/></a>
+
 - [Eugene Gendlin - Wikpedia](https://en.wikipedia.org/wiki/Eugene_Gendlin)
 	- Eugene Tovio Gendlin (born Eugen Gendelin; 25 December 1926 – 1 May 2017) was an American philosopher who developed ways of thinking about and working with living process, the bodily felt sense and the "philosophy of the implicit".
 	- Bibliography
