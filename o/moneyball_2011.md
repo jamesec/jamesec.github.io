@@ -17,7 +17,7 @@
 Storyline from IMDb.
 > Oakland A’s general manager Billy Beane’s successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players.
 
-At the beginning of the film, we are presented with a dilemma of limited resources for Billy. Then he recognizes Peter Brand’s potential intuitively, so he approaches him and starts working with him, using his analytical methods. During the process, they overcome lots of obstacles.
+At the beginning of the film, we are presented with a situation of limited resources for Billy. Then he recognizes Peter Brand’s potential intuitively, so he approaches him and starts working with him, using his analytical methods. During the process, they overcome lots of obstacles.
 
 He shows a direct and honest way of facing himself and communicating with other people. He also demonstrates an “[art of the deal](https://en.wikipedia.org/wiki/The_Art_of_the_Deal)” style of managing the baseball business. In the later part of the film (`01:13:15` to `01:17:32`, and `01:28:57` to `01:34:39`), for example, he makes a lot of calls to trade players.
 
