@@ -26,7 +26,7 @@ The whole thing can be interpreted as the protagonist, Billy Beane, confronting 
 - During the process, they overcome lots of obstacles.
 	- `00:48:12` “You don’t have a crystal ball.”
 	- `01:02:03` “They’re professional ballplayers. Just be **straight** with them. No fluff, just facts.”
-	- `01:19:14` “I don’t think so. He plays for Detroit now.”
+	- `01:19:13` “I don’t think so. He plays for Detroit now.”
 - be honest
 	- `01:23:23` “How about you and I **be honest about what each of us want out of this**?”
 - The whole thing can be interpreted as the protagonist, Billy Beane, confronting his own unfinished business, or as a way of working through the unresolved feelings from his past.
@@ -77,7 +77,7 @@ The whole thing can be interpreted as the protagonist, Billy Beane, confronting 
 	- If it was, anybody could do what we’re doing, but they can’t.
 	- Because they don’t know what we know. They don’t have our experience and they don’t have our intuition.
 - Billy: Okay.
-- Grady: You got a kid in there that’s got a degree in economics from Yale.
+- Grady: Billy, you got a kid in there that’s got a degree in economics from Yale.
 	- You got a scout here with 29 years of baseball experience.
 	- You’re listening to the wrong one.
 	- Now, there are intangibles that only baseball people understand.
@@ -118,7 +118,7 @@ The whole thing can be interpreted as the protagonist, Billy Beane, confronting 
 - Peter: Okay. 
 
 ### 01:09:06
-- Art Howe: And I... I disagree with you, plain and simple. And moreover, I’m playing my team in a way that I can explain in job interviews next winter.
+- Art Howe: And I… I disagree with you, plain and simple. And moreover, I’m playing my team in a way that I can explain in job interviews next winter.
 
 ### 01:16:03
 - Billy: I don’t think we’re asking the right question. 
