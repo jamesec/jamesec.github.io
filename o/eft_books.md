@@ -27,12 +27,12 @@ Emotion-Focused Therapy and Emotionally Focused Therapy may seem similar and are
 You can also refer to this 2017 article by Lorrie Brubacher.
 - [Distinguishing Emotionally Focused Therapy from Emotion-Focused Therapy, Unpublished Manuscript](https://lbrubacher.com/wp/wp-content/uploads/Distinguishing-Emotionally-Focused-from-Emotion-focused.pdf)
 
-I'm only listing English-language books on Emotion-Focused Therapy, with one exception: a book written in German (Auszra L. et al., 2016).
+I’m only listing English-language books on Emotion-Focused Therapy, with one exception: a book written in German (Auszra L. et al., 2016).
 
 ## Leslie S. Greenberg
 - Greenberg, L. S. (2025). *On becoming emotion focused.* American Psychological Association.
 - Greenberg, L. S. (2024). *Shame and anger in psychotherapy.* American Psychological Association. https://doi.org/10.1037/0000393-000
-- Greenberg, L. S. (2021). *Changing emotion with emotion: A practitioner's guide.* American Psychological Association. https://doi.org/10.1037/0000248-000
+- Greenberg, L. S. (2021). *Changing emotion with emotion: A practitioner’s guide.* American Psychological Association. https://doi.org/10.1037/0000248-000
 - Greenberg, L. S., & Goldman, R. N. (Eds.). (2019). *Clinical handbook of emotion-focused therapy.* American Psychological Association. https://doi.org/10.1037/0000112-000
 - Greenberg, L. S., & Meneses, C. W. (2019). *Forgiveness and letting go in emotion-focused therapy.* American Psychological Association. https://doi.org/10.1037/0000144-000
 - Greenberg, L. S., Malberg, N. T., & Tompkins, M. A. (2019). *Working with emotion in psychodynamic, cognitive behavior, and emotion-focused psychotherapy.* American Psychological Association. https://doi.org/10.1037/0000130-000

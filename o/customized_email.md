@@ -5,7 +5,7 @@ One of the easiest ways to use email with your own domain.
 
 Get your own domain from [Porkbun](https://porkbun.com/) or [Namecheap](https://namecheap.com/).
 
-Get a `Tuta Mail` account through [my referal link](https://app.tuta.com/signup?ref=VTBEVVg3WnU), if you're ok with it.
+Get a `Tuta Mail` account through [my referal link](https://app.tuta.com/signup?ref=VTBEVVg3WnU), if you’re ok with it.
 
 You can register for a free account first, then upgrade to paid plan at a later time.
 
@@ -26,13 +26,13 @@ Consider protecting yourself from spam emails:
 - Never share your email IDs publicly.
 - On your website, use a contact form to hide your email.
 - Avoid responding to spam emails and ignore any email attachments.
-- Don't click on unknown or suspicious links; always think twice before clicking.
+- Don’t click on unknown or suspicious links; always think twice before clicking.
 
-This email with your custom domain can serve as your primary email. Therefore, consider creating a separate email address specifically for online purchases, and email subscriptions, etc. This way, if the email address receives spam, it won't clutter your primary inbox. For one-time registrations or situations where you're unsure about the legitimacy of a website, you can also use disposable email addresses from services like [Temp Mail](https://temp-mail.org/).
+This email with your custom domain can serve as your primary email. Therefore, consider creating a separate email address specifically for online purchases, and email subscriptions, etc. This way, if the email address receives spam, it won’t clutter your primary inbox. For one-time registrations or situations where you’re unsure about the legitimacy of a website, you can also use disposable email addresses from services like [Temp Mail](https://temp-mail.org/).
 
 ## Addendum added on January 22, 2025
 If you prefer to host your own mail server instead of relying on mail service providers, this guide is a great resource:
-- [Personal mail server on OpenBSD - Nico's geeky place - Apr 3, 2019](https://nicolascarpi.github.io/openbsd/2019/04/03/openbsd-mail-server.html)
+- [Personal mail server on OpenBSD - Nico’s geeky place - Apr 3, 2019](https://nicolascarpi.github.io/openbsd/2019/04/03/openbsd-mail-server.html)
   - A step-by-step guide for installing and configuring a mail server on OpenBSD.
 
 ## References

@@ -12,14 +12,14 @@ Encrypted DNS helps keep your website lookups private, safer, and less tampered 
 
 ### Chromium browser
 - Settings…
-- Search "DNS"
+- Search “DNS”
 	- `chrome://settings/security?search=DNS`
 - Enable the `Use secure DNS` switch
 - Select `Add custom DNS service provider` and fill in 👉 `https://doh.libredns.gr/noads`
 
 ### LibreWolf browser
 - Preferences / Settings
-- Search "DNS"
+- Search “DNS”
 - `Enable DNS over HTTPS using:`
 	- → Max Protection → LibreDNS (Adblocking)
 

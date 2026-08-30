@@ -51,8 +51,8 @@ It uses the word *espionage* in the title because this hacker group is funded by
 
 ---
 
-- [Search "claude code" on Hacker News](https://hn.algolia.com/?q=claude+code)
-- [Google "claude code site:news.ycombinator.com"](https://google.com/search?q=claude+code+site%3Anews.ycombinator.com&hl=en)
+- [Search “claude code” on Hacker News](https://hn.algolia.com/?q=claude+code)
+- [Google “claude code site:news.ycombinator.com”](https://google.com/search?q=claude+code+site%3Anews.ycombinator.com&hl=en)
 	- [Claude Code is all you need](https://dwyer.co.za/static/claude-code-is-all-you-need.html)
 	- [Claude Code is all you need - Hacker News](https://news.ycombinator.com/item?id=44864185)
 

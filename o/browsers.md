@@ -1,10 +1,9 @@
 # Browsers as the most important tools
 `Apr 7, 2026`
 
-Web browsers are almost everywhere—and, in a sense, among the most important tools we use. Even when you think you're using an app, you're often using its embedded browser. I tend to choose a browser over a dedicated app on my computer or phone if the service runs well enough.
+Web browsers are almost everywhere—and, in a sense, among the most important tools we use. Even when you think you’re using an app, you’re often using its embedded browser. I tend to choose a browser over a dedicated app on my computer or phone if the service runs well enough.
 
 Some people push back against Google Chrome’s dominance and its appetite for user data (and the privacy concerns that come with it), so they turn to Mozilla Firefox. But vanilla Firefox is no saint—see the recent controversy below.
-
 
 - `Feb 27, 2025` https://x.com/LundukeJournal/status/1895249805338886591
   - Mozilla has just deleted the following:
@@ -42,7 +41,7 @@ However, since the developers won’t support the paywalled signing mechanism, y
 
 [Why is LibreWolf marked as broken?](https://librewolf.net/docs/faq/#why-is-librewolf-marked-as-broken)  
 - It is possible that Apple Silicon users see their recently downloaded LibreWolf flagged as broken or unsafe by the OS.
-- This happens because we do not notarize the macOS version of the browser: we don't have a paid Apple Developer license and we don't want to support this signing mechanism that is put behind a paywall without providing significant gains.
+- This happens because we do not notarize the macOS version of the browser: we don’t have a paid Apple Developer license and we don’t want to support this signing mechanism that is put behind a paywall without providing significant gains.
 - You can remove the quarantine attribute from the Application using this command:  
 `xattr -dr com.apple.quarantine /Applications/LibreWolf.app`
 
