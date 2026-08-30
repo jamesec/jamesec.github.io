@@ -1,7 +1,7 @@
 # Some AI resources
 `Nov 23, 2025`
 
-AI is very powerful and has always been a great helper for my work. Here I'm listing some essential AI-related resources.
+AI is very powerful and has always been a great helper for my work. Here I’m listing some essential AI-related resources.
 
 What bothers me when using AI are two things.  
 First, it keeps asking or suggesting the next step, and I end up saying, “No, thanks. Please stop asking or suggesting the next step.”  
@@ -9,7 +9,7 @@ I’m curious and want to learn new things, but at the same time, the more time 
 The other thing is the inaccuracy and hallucinations of AI. Sometimes they’re really hard to notice or even realize.  
 That’s why I like Palantir’s **intelligence augmentation** idea—humans take charge and integrate AI into their work and life.
 
-## AI models I'm currently using
+## AI models I’m currently using
 - OpenAI ChatGPT https://chatgpt.com/?temporary-chat=true
 - Google Gemini https://gemini.google.com/app
 - Proton Lumo https://lumo.proton.me/
@@ -24,7 +24,7 @@ That’s why I like Palantir’s **intelligence augmentation** idea—humans tak
 		- OpenAI wants to become your personal AI assistant.
 		- Claude wants to own coding for enterprise.
 		- Gemini is finally waking up.
-	- So here's what to use when:
+	- So here’s what to use when:
 		- For everyday personal assistance, go with ChatGPT.
 		- For **writing and professional coding**, Claude is worth the premium.
 		- For video and building AI products on a budget, try Gemini.
