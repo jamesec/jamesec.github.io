@@ -7,7 +7,7 @@ Here’s a list of key EFT books. This is a personal selection to help prioritiz
 - Pascual-Leone, A. (2025). *Principles of emotion change: What works and when in psychotherapy and everyday life.* American Psychological Association.
 - Kwatra, A., Timulak, L., Huixian, S. L., Joyce, C., & Creaner, M. (2023). *Transforming emotional pain: An emotion-focused workbook.* Routledge, Taylor & Francis.
 - Elliott, R., Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2025). *Learning emotion-focused therapy: A comprehensive guide* (2nd ed.). American Psychological Association.
-- Greenberg, L. S. (2021). *Changing emotion with emotion: A practitioner's guide.* American Psychological Association. https://doi.org/10.1037/0000248-000
+- Greenberg, L. S. (2021). *Changing emotion with emotion: A practitioner’s guide.* American Psychological Association. https://doi.org/10.1037/0000248-000
 - Elliott, R., & Greenberg, L. S. (2021). *Emotion-focused counselling in action.* Sage.
 
 <a href="https://www.apa.org/pubs/books/principles-emotion-change" target="_blank">

@@ -85,7 +85,7 @@ Here is a brief timeline of Eugene Gendlin’s life and major works.
 /></a>
 
 - [Eugene Gendlin - Wikpedia](https://en.wikipedia.org/wiki/Eugene_Gendlin)
-	- Eugene Tovio Gendlin (born Eugen Gendelin; 25 December 1926 – 1 May 2017) was an American philosopher who developed ways of thinking about and working with living process, the bodily felt sense and the "philosophy of the implicit".
+	- Eugene Tovio Gendlin (born Eugen Gendelin; 25 December 1926 – 1 May 2017) was an American philosopher who developed ways of thinking about and working with living process, the bodily felt sense and the “philosophy of the implicit”.
 	- Bibliography
 		- *Introduction to Thinking At The Edge (2004)* (in *The Folio*, Vol 19 No 1, 2004).
 - [History and Heritage - The International Focusing Institute](https://focusing.org/more/history-and-heritage)

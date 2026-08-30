@@ -1,7 +1,7 @@
 # Happy as a hippo! 😄
 `Apr 16, 2026`
 
-Also known as *The story of the hippo*, and it's from the movie *Along Came Polly (2004)*.
+Also known as *The story of the hippo*, and it’s from the movie *Along Came Polly (2004)*.
 
 <iframe width="560" height="315" src="https://youtube.com/embed/uhOzaH0GbEg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

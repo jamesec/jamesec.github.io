@@ -53,7 +53,7 @@ Since DuckDuckGo is in the “[De-listed search engines](https://12bytes.org/alt
 
 ## Avoid
 <img src="https://www.google.com/images/branding/googleg/1x/googleg_standard_color_128dp.png" width="32" height="32"> Google
-- It's Google. It dominates the search market, collects extensive personal data, and profiles you.
+- It’s Google. It dominates the search market, collects extensive personal data, and profiles you.
 
 <img src="https://www.bing.com/sa/simg/favicon-trans-bg-blue-mg-png.png" width="32" height="32"> Microsoft Bing
 - Collects extensive personal data. Privacy controls are buried and limited. Subjectively overwhelming UI.

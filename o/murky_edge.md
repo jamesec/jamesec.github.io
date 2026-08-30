@@ -1,9 +1,9 @@
-# Focusing is... the murky edge
+# Focusing is… the murky edge
 `Jul 3, 2024`
 
 <iframe width="560" height="315" src="https://youtube.com/embed/nqRQ7PQFLM0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Focusing is... the murky edge](https://youtube.com/watch?v=nqRQ7PQFLM0), by [Eugene Gendlin](https://en.wikipedia.org/wiki/Eugene_Gendlin)
+[Focusing is… the murky edge](https://youtube.com/watch?v=nqRQ7PQFLM0), by [Eugene Gendlin](https://en.wikipedia.org/wiki/Eugene_Gendlin)
 
 Video uploaded: Apr 1, 2009
 

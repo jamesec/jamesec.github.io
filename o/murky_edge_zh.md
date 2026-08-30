@@ -1,10 +1,10 @@
 # 聚焦…… 朦胧的边缘
 译者：陈艺文、田婴 / 2026 年 4 月 29 日  
-译自：[Focusing is... the murky edge](https://youtu.be/nqRQ7PQFLM0)  
+译自：[Focusing is… the murky edge](https://youtu.be/nqRQ7PQFLM0)  
 
 <iframe width="640" height="360" src="https://youtube.com/embed/XBcryeXxLN0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- [Focusing is... the murky edge](https://youtu.be/nqRQ7PQFLM0)
+- [Focusing is… the murky edge](https://youtu.be/nqRQ7PQFLM0)
   - Video uploaded: Apr 1, 2009
 - 去到那片朦胧的边缘
 
@@ -44,4 +44,4 @@
 所以我发现，很多人——以前我去参加那些大型会议的时候，现在已经不怎么去了——人们会说：「哦，吉恩·简德林，聚焦！你好，你好——」然后他们就去别的地方了。因为说起聚焦，对于任何一个没有与身体直觉脱节的人来说，就好像已经会聚焦了。明白我的意思吗？好，这说的不是你。
 
 ## References
-- [Focusing is... the murky edge, by Eugene Gendlin](/o/s.htm?p=murky_edge)
+- [Focusing is… the murky edge, by Eugene Gendlin](/o/s.htm?p=murky_edge)

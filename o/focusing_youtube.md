@@ -1,16 +1,16 @@
 # Focusing videos on YouTube
 `Dec 20, 2024`
 
-> *Felt sense* is a meaningful sensation that is difficult to put into words but can be felt in the body in a vague and ambiguous way. When talking to someone and feeling something is not quite right, it's often unclear what exactly is bothering us, and it may not immediately translate into words. However, there can be a faint sense of discomfort or a sense that something is out-of-place, felt in the chest or within the "body." That sensation is referred to as *felt sense*. The act of slowly touching upon this implicitly meaningful *felt sense* and gradually bringing forth its meaning is called *Focusing*. Focusing-oriented psychotherapy is centered around this process and was developed by Eugene Gendlin, a renowned philosopher and psychotherapist who was a professor at University of Chicago. Since the 1960s, Professor Gendlin has emphasized and substantiated the significance of *Focusing* as a crucial process in psychotherapy and the "creation of meaning."
+> *Felt sense* is a meaningful sensation that is difficult to put into words but can be felt in the body in a vague and ambiguous way. When talking to someone and feeling something is not quite right, it’s often unclear what exactly is bothering us, and it may not immediately translate into words. However, there can be a faint sense of discomfort or a sense that something is out-of-place, felt in the chest or within the “body.” That sensation is referred to as *felt sense*. The act of slowly touching upon this implicitly meaningful *felt sense* and gradually bringing forth its meaning is called *Focusing*. Focusing-oriented psychotherapy is centered around this process and was developed by Eugene Gendlin, a renowned philosopher and psychotherapist who was a professor at University of Chicago. Since the 1960s, Professor Gendlin has emphasized and substantiated the significance of *Focusing* as a crucial process in psychotherapy and the “creation of meaning.”
 > 
-> [Focusing in Haruki Murakami's Novels - Akira Ikemi (2013, 2016, 2023)](s.htm?p=focusing_haruki)
+> [Focusing in Haruki Murakami’s Novels - Akira Ikemi (2013, 2016, 2023)](s.htm?p=focusing_haruki)
 
 ## Focusing demonstrations
 - [Focusing demonstrations - playlist arranged by Lynn Preston](https://youtube.com/playlist?list=PLIFGjfFRNXb-qqHjxnXkzF5SvgfYnBj-n)
 - [Kanga Focusing: A Blend of Clearing a Space and Mindfulness - Akira Ikemi](https://youtube.com/watch?v=onGdjLAbk_E)
 - [Crossing with Animals: A Focusing Exercise Based on the Experiencing Model - Akira Ikemi](https://youtube.com/watch?v=sS52BZ85Hck)
 - [Focusing Demo - Ann Weiser Cornell](https://youtube.com/watch?v=yTl2atf8F3o)
-- [Gendlin's Empathic Focusing With Reflection: Edwin Rutsch (Focuser), Kathy McGuire (Listener)](https://youtube.com/watch?v=4qYNgrQ4Vek)
+- [Gendlin’s Empathic Focusing With Reflection: Edwin Rutsch (Focuser), Kathy McGuire (Listener)](https://youtube.com/watch?v=4qYNgrQ4Vek)
 - [Learning to Focus: A Focusing Demonstration - Think Beyond Healing](https://youtube.com/watch?v=8_D_5AHfMEk)
 
 ## Institutes
@@ -38,7 +38,7 @@
   - [Focusing Alone](https://youtube.com/watch?v=kHMmH11GLXE)
     - Gene Gendlin answers question asked by Andy Nickolson about focusing alone.
 - [Simon dOrsogna](https://youtube.com/@SimondOrsogna/videos)
-  - [Focusing is... the murky edge, by Eugene Gendlin](s.htm?p=murky_edge)
+  - [Focusing is… the murky edge, by Eugene Gendlin](s.htm?p=murky_edge)
 - [Greg Madison](https://youtube.com/@gregmadisontherapy/videos)
   - [Paradigm Leaping with Rob Parker on The Living Process with Greg Madison E026](https://youtube.com/watch?v=oAZh5uCe_Yo)
 - [Focusing Resources - Ann Weiser Cornell and Barbara McGavin](https://youtube.com/@FocusingResources/videos)

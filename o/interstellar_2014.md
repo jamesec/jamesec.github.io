@@ -34,7 +34,7 @@ Storyline from IMDb.
 - `01:27:59` Dr. Brand: Maybe it means something more, something we can’t… yet understand. Maybe it’s some evidence, some… artifact of a higher dimension that we can’t consciously perceive. I’m drawn across the universe to someone I haven’t seen in a decade… who I know is probably dead. Love is the one thing we’re capable of perceiving… that transcends dimensions of time and space. Maybe we should trust that, even if we can’t understand it yet. `01:28:36`
 - `02:38:55` Cooper: Humor: 75 percent. 
 	- TARS: Confirmed. Auto self-destruct T-minus 10, nine…
-	- Cooper: Let's make that 60 percent. 
+	- Cooper: Let’s make that 60 percent. 
 	- TARS: Sixty percent confirmed. 
 
 ## Cost per minute

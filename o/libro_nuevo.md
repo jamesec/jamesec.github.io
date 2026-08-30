@@ -7,7 +7,7 @@ I went ahead and gathered many translations of this phrase using [DeepL](https:/
 <figure>
   <img 
   src="/assets/images/libro_nuevo.jpg" 
-  alt="Bookmark saying 'Amo el olor a libro nuevo'" 
+  alt="Bookmark saying ‘Amo el olor a libro nuevo’" 
   title="From Busca Libre" 
   height="360" />
   <figcaption>The bookmark says, "Amo el olor a libro nuevo."</figcaption>
@@ -28,7 +28,7 @@ New book, universal joy - one phrase, many languages.
 ## Romance languages
 - Adoro il profumo di un libro nuovo. `Italian`
 - Adoro o cheiro de um livro novo. `Portuguese`
-- J'aime l'odeur d'un nouveau livre. `French`
+- J’aime l’odeur d’un nouveau livre. `French`
 - Îmi place mirosul unei cărți noi. `Romanian`
 
 ## Slavic languages
@@ -51,6 +51,6 @@ New book, universal joy - one phrase, many languages.
 
 ## Asian languages
 - 我喜歡新書的味道。`Traditionl Chinese`
-	- `I love new book's smell.`
+	- `I love new book’s smell.`
 - 我喜欢新书的味道。`Simplified Chinese`
 - 私は新しい本の匂いが好きだ。`Japanese`

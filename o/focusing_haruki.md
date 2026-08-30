@@ -15,9 +15,9 @@ It was Hiroyuki Uenishi who told me about the *felt sense* in Haruki Murakami’
 *Felt sense* is a meaningful sensation that is difficult to put into words but can be felt in the body in a vague and ambiguous way. When talking to someone and feeling something is not quite right, it’s often unclear what exactly is bothering us, and it may not immediately translate into words. However, there can be a faint sense of discomfort or a sense that something is out-of-place, felt in the chest or within the “body.” That sensation is referred to as *felt sense*. The act of slowly touching upon this implicitly meaningful *felt sense* and gradually bringing forth its meaning is called *Focusing*. Focusing-oriented psychotherapy is centered around this process and was developed by Eugene Gendlin, a renowned philosopher and psychotherapist who was a professor at University of Chicago. Since the 1960s, Professor Gendlin has emphasized and substantiated the significance of *Focusing* as a crucial process in psychotherapy and the “creation of meaning.”
 
 Let’s return to the novel “Norwegian Wood.”
-> I tried hard to forget, but there remained inside me a vague knot of air. And as time went by, the knot began to take on a clear and simple form, a form that I am **now** able to put into words **what it was**, like this:... (p.53, Volume 1 of 2)
+> I tried hard to forget, but there remained inside me a vague knot of air. And as time went by, the knot began to take on a clear and simple form, a form that I am **now** able to put into words **what it was**, like this:… (p.53, Volume 1 of 2)
 >
-> ...but at the time I felt it not as words but as that knot of air inside me. (p.54, Volume 1 of 2)
+> …but at the time I felt it not as words but as that knot of air inside me. (p.54, Volume 1 of 2)
 >
 > *Translated from the Japanese by Jay Rubin (2000, Vintage), edited by Akira Ikemi (in bold)*
 
@@ -31,7 +31,7 @@ In the novel “Dance Dance Dance” (Kodansha), Yuki expresses the following:
 > *Translated by James Even Chen*  
 
 Another characteristic of *felt sense* is revealed here. It is not a visual image. Rather, it is perceived as an atmosphere surrounding events or situations. And there, we explain in psychology and philosophy, lies an “implicit” meaning. In other words, there is some meaning that is sensed. This kind of experience is called *direct reference* in Gendlin’s philosophy. It is also referred to as *felt sense* and *felt meaning*. It is sensed directly, before words can say what it is. Yuki speaks about *felt sense* in this scene:
-> “I don’t know what’s wrong. But *something*’s wrong. Something wrong, something distorted. It feels suffocating in there. The air is so heavy...” (pp.225-226, Volume 2 of 2)
+> “I don’t know what’s wrong. But *something*’s wrong. Something wrong, something distorted. It feels suffocating in there. The air is so heavy…” (pp.225-226, Volume 2 of 2)
 >
 > *Translated by James Even Chen*
 
@@ -51,13 +51,13 @@ Let’s imagine a day and think about the things we must do, want to do, or shou
 In this example, I described the sensation I felt in my stomach as “pressure,” but even though it is referred to as pressure, its meaning is not immediately clear. It is necessary to inquire about what is “pressuring” me in today’s schedule. Even if we can put the *felt sense* into words, the message it conveys is often not clear. We call such words “handle expressions.”
 
 Now, let’s go back to the novel “Dance Dance Dance” and take a look at the part where the Sheep Man talks about his role.
-> “My role here is to connect things. Like an electrical panel, connect various things. This place is a knot...” (p.179, Volume 1 of 2)
+> “My role here is to connect things. Like an electrical panel, connect various things. This place is a knot…” (p.179, Volume 1 of 2)
 >
 > *Translated by James Even Chen*
 
 The Sheep Man is in a dark place, and when I thought about the connections between various events happening to the protagonist, it strangely resonated with the idea of something implicit, as “implicit” is written as “existing in the dark” in Japanese, In other words, the Sheep Man is connecting or “crossing” events at the edge of awareness. It is a *Message from the Heart*, the title of my first paperback book about Focusing in Japanese.
 
-> “Dance,” said the Sheep Man. “Keep dancing as long as the music plays. Do you understand what I’m saying? Dance. Keep dancing. Don’t think about why you dance. Don’t think about the meaning. {※ I personally interpreted the “meaning” in the previous and next sentences as “reason.”} There is no inherent meaning... Just step properly and keep dancing.” (pp.182-183, Volume 1 of 2)
+> “Dance,” said the Sheep Man. “Keep dancing as long as the music plays. Do you understand what I’m saying? Dance. Keep dancing. Don’t think about why you dance. Don’t think about the meaning. {※ I personally interpreted the “meaning” in the previous and next sentences as “reason.”} There is no inherent meaning… Just step properly and keep dancing.” (pp.182-183, Volume 1 of 2)
 >
 > **Keep dancing. As long as the music plays.** (p.183, Volume 1 of 2)
 >
@@ -80,24 +80,24 @@ In the same novel, there are intriguing expressions of *felt sense*.
 What the protagonist, Tsukuru Tazaki, is attempting here is *Focusing*. The sensation of something foreign lingering faintly in his chest is the *felt sense*. “Sensation of something foreign” is the handle expression for it. To explore the meaning of this sensation, a crossing between the situation and the *felt sense* is necessary. Tsukuru Tazaki engages in this crossing by trying to reproduce the conversation he had with Sara in his mind as accurately as possible, *focusing* on the content of their conversation, the impression of her voice, and the way she paused.
 
 However, the attempt at *Focusing* does not progress smoothly. The continuation of the quote is as follows:
-> ...the way she’d paused. Nothing seemed any different from usual. He put the cell phone in his pocket and went back to the cafeteria to finish his lunch. But he no longer had any appetite. (p.209)
+> …the way she’d paused. Nothing seemed any different from usual. He put the cell phone in his pocket and went back to the cafeteria to finish his lunch. But he no longer had any appetite. (p.209)
 >
 > *Translated from the Japanese by Philip Gabriel (2015, Vintage)*
 
-Tsukuru Tazaki’s attention was solely directed towards Sara, and he seems to have lost sight of the *felt sense* he was re-experiencing himself. If I were to offer a single piece of advice, it would be to ask questions like, “What about my relationship with Sara feels like a foreign sensation?” or “What is this foreign sensation conveying to me?” and to try to reproduce the conversation with Sara in his mind, *focusing* on the faint sensation in his chest. That might have led to progress. Well, it’s just a story in a novel, so advice doesn’t really matter... In any case, here we have witnessed an attempt at *Focusing* in Haruki Murakami’s novel.
+Tsukuru Tazaki’s attention was solely directed towards Sara, and he seems to have lost sight of the *felt sense* he was re-experiencing himself. If I were to offer a single piece of advice, it would be to ask questions like, “What about my relationship with Sara feels like a foreign sensation?” or “What is this foreign sensation conveying to me?” and to try to reproduce the conversation with Sara in his mind, *focusing* on the faint sensation in his chest. That might have led to progress. Well, it’s just a story in a novel, so advice doesn’t really matter… In any case, here we have witnessed an attempt at *Focusing* in Haruki Murakami’s novel.
 
 Lastly, let’s return to the scene where Yuki from “Dance Dance Dance” says,
-> “It feels suffocating in there. The air is so heavy...”
+> “It feels suffocating in there. The air is so heavy…”
 >
 > *Translated by James Even Chen*
 
 When we concentrate solely on the *felt sense* like this, it can be tiring and exhausting. In such moments, instead of being “in there,” it may be worthwhile to try observing it from a slightly distant perspective. Yuki also realizes this and says,
-> “When you close yourself off, you don’t have to feel deeply. It’s like closing your eyes. You shut off your senses. Then you don’t have to see what’s in front of you. But you know something is there..." (p.388, Volume 1 of 2)
+> “When you close yourself off, you don’t have to feel deeply. It’s like closing your eyes. You shut off your senses. Then you don’t have to see what’s in front of you. But you know something is there…" (p.388, Volume 1 of 2)
 >
 > *Translated by James Even Chen*
 
 Since she knows something is there, it means she hasn’t completely dissociated herself from it; she has only distanced herself a little from it. Similarly, the protagonist of “Colorless Tsukuru Tazaki and His Years of Pilgrimage” is engaging in the same psychological process:
-> Tsukuru decided not to pursue it further. He could think about it all he wanted and never find an answer. He placed this doubt inside a drawer in his mind labeled “Pending” and postponed any further consideration... (p.121)
+> Tsukuru decided not to pursue it further. He could think about it all he wanted and never find an answer. He placed this doubt inside a drawer in his mind labeled “Pending” and postponed any further consideration… (p.121)
 >
 > *Translated from the Japanese by Philip Gabriel (2015, Vintage)*
 

@@ -6,7 +6,7 @@
 
 - [What is the difference between feelings and emotions?](https://youtube.com/watch?v=ynHioCxAMEI)
   - Video uploaded: Apr 27, 2020
-- 「我想最好是用树来做比喻：......」
+- 「我想最好是用树来做比喻：……」
 
 ---
 

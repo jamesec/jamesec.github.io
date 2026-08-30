@@ -9,7 +9,7 @@ A special thanks to OpenAI’s ChatGPT for being an amazing helper along the way
 - [Markdown - Wikipedia](https://en.wikipedia.org/wiki/Markdown)
 	- Developed by: John Gruber
 	- Initial release: March 9, 2004
-	- In 2002 Aaron Swartz created atx and referred to it as "the true structured text format". Gruber created the Markdown language in 2004 with Swartz as his "sounding board". The goal of the language was to enable people "to write using an easy-to-read and easy-to-write plain text format, optionally convert it to structurally valid XHTML (or HTML)".
+	- In 2002 Aaron Swartz created atx and referred to it as “the true structured text format”. Gruber created the Markdown language in 2004 with Swartz as his “sounding board”. The goal of the language was to enable people “to write using an easy-to-read and easy-to-write plain text format, optionally convert it to structurally valid XHTML (or HTML)”.
 - [Marked.js - GitHub](https://github.com/markedjs/marked)
 	- A markdown parser and compiler. Built for speed.
  	- [marked - cdnjs](https://cdnjs.com/libraries/marked)
@@ -23,7 +23,7 @@ A special thanks to OpenAI’s ChatGPT for being an amazing helper along the way
 ## 2001 - .json
 - [JSON - Wikipedia](https://en.wikipedia.org/wiki/JSON)
 	- Douglas Crockford originally specified the JSON format in the early 2000s. He and Chip Morningstar sent the first JSON message in April 2001.
-	- After RFC 4627 had been available as its "informational" specification since 2006, JSON was first standardized in 2013, as ECMA-404.
+	- After RFC 4627 had been available as its “informational” specification since 2006, JSON was first standardized in 2013, as ECMA-404.
 
 ## 1996 - CSS
 - [CSS - Wikipedia](https://en.wikipedia.org/wiki/CSS)
