@@ -11,7 +11,7 @@ https://techspot.com/downloads/7181-ungoogled-chromium.html
 
 A lightweight approach to removing Google web service dependency.
 
-It claims to be `Certified 100% clean`, and I've used it for a long time with no issues. But it's a pre-compiled binary, so use at your own risk.
+It claims to be `Certified 100% clean`, and I’ve used it for a long time with no issues. But it’s a pre-compiled binary, so use at your own risk.
 
 Another link to download it:  
 https://ungoogled-software.github.io/ungoogled-chromium-binaries/
@@ -34,21 +34,21 @@ As you manually install the downloaded `UnGoogled Chromium` App, click this butt
 	- If you use Chromium Browser to download the .crx file, it will disappear! 
 - Change the extension name from .crx to **.cab**
 - Use the Keka App to unpack it into a folder.
-	- https://keka.io/en/ Download the Keka App **directly from the website** (there's a small link, something like:  Download v1.3.8), instead of downloading it from the Mac App Store - unless you want to pay $4.99 as a kind of donation.
-- Open `chrome://extensions/` in Chromium, then turn on "Developer mode".
+	- https://keka.io/en/ Download the Keka App **directly from the website** (there’s a small link, something like:  Download v1.3.8), instead of downloading it from the Mac App Store - unless you want to pay $4.99 as a kind of donation.
+- Open `chrome://extensions/` in Chromium, then turn on “Developer mode.”
 - For these manually installed extensions, give them specific folders:
 	- Such as, ~/Downloads/Chromium Extensions/Chromium.Web.Store 1.5.4.2/
 - Load unpacked, then choose the folder from the previous steps.
 
 ## Change this Chromium flag
-**Step 3:** Change this Chromium flag and restart the Chromium App so that in the following steps, you can install extensions from the real Chromium Web Store, and there's no need to manually install them.
+**Step 3:** Change this Chromium flag and restart the Chromium App so that in the following steps, you can install extensions from the real Chromium Web Store, and there’s no need to manually install them.
 
 https://github.com/NeverDecaf/chromium-web-store
 - `In the Read this first section` If you are using `ungoogled-chromium`:
 	- You must **change the flag** `chrome://flags/#extension-mime-request-handling` to `Always prompt for install`.
-- The "Add to Chrome" button will sometimes be disabled when navigating around the web store.
+- The “Add to Chrome” button will sometimes be disabled when navigating around the web store.
 	- If this happens you can refresh the page to fix it.
-- Usage: Pin the Chromium Web Store badge in your browser's toolbar. (Badges are hidden by default)
+- Usage: Pin the Chromium Web Store badge in your browser’s toolbar. (Badges are hidden by default)
 
 ## Extensions, sorted by how strongly I recommend it
 ### uBlock Origin
@@ -62,7 +62,7 @@ uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 Latest version as of Apr 23, 2024, **on GitHub: 1.57.2**
 
-Initially, we've manually installed the `Chromium Web Store` extension. To use the latest version of uBlock Origin, **manually install it too**.
+Initially, we’ve manually installed the `Chromium Web Store` extension. To use the latest version of uBlock Origin, **manually install it too**.
 
 So, **Step 4:** Manually install the uBlock Origin extension.
 - Download uBlock0_1.57.2.chromium.zip from [here](https://github.com/gorhill/uBlock/releases/tag/1.57.2).
@@ -82,8 +82,8 @@ Latest version as of Apr 23, 2024: 0.3.2
 - Turn it on.
 - Test WebRTC Leak: Your browser is NOT leaking webrtc ip-address.
 
-### Don't track me Google
-[Don't track me Google](https://chromewebstore.google.com/detail/gdbofhhdmcladcmmfjolgndfkpobecpg)
+### Don’t track me Google
+[Don’t track me Google](https://chromewebstore.google.com/detail/gdbofhhdmcladcmmfjolgndfkpobecpg)
 
 Latest version as of Apr 23, 2024: 4.28
 

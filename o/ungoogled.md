@@ -30,10 +30,10 @@ Run the `Ungoogled Chromium` app you downloaded, and it will display the page: `
 
 ## Install the Chromium Web Store extension
 [Chromium Web Store extension](https://github.com/NeverDecaf/chromium-web-store/releases/latest)  
-Click on `Chromium.Web.Store.crx`. A prompt will appear: Add "Chromium Web Store"?  
-Click "Add extension", done.  
+Click on `Chromium.Web.Store.crx`. A prompt will appear: Add “Chromium Web Store?”  
+Click “Add extension”, done.  
 It has been successfully installed, and you can skip the manual installation steps.  
-Pin the `Chromium Web Store` badge in your browser's toolbar. (Badges are hidden by default)
+Pin the `Chromium Web Store` badge in your browser’s toolbar. (Badges are hidden by default)
 
 For some older versions of `Ungoogled Chromium`, you may need to install this extension manually. See the information in the references section.
 
@@ -59,21 +59,21 @@ For some older versions of `Ungoogled Chromium`, you may need to install this ex
   - Have control over WebRTC (`disable | enable`) and protect your IP address.
 - [Privacy Badger](https://chromewebstore.google.com/detail/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
   - Privacy Badger automatically learns to block invisible trackers.
-- [Don't track me Google](https://chromewebstore.google.com/detail/gdbofhhdmcladcmmfjolgndfkpobecpg)
-  - Removes the annoying link-conversion at Google Search/maps/...
+- [Don’t track me Google](https://chromewebstore.google.com/detail/gdbofhhdmcladcmmfjolgndfkpobecpg)
+  - Removes the annoying link-conversion at Google Search/maps/…
 
 ---
 
 ## References
 - [Note to Those Perhaps Hesitant to Install Ungoogled Chromium - Reddit](https://www.reddit.com/r/browsers/comments/16ceot2/note_to_those_perhaps_hesitant_to_install/?rdt=48071)
-  - "Why would I use chromium and contribute to the blink monopoly."
-    - "Because the blink monopoly is already established and some websites I use on a daily basis don't fully work over firefox."
+  - “Why would I use chromium and contribute to the blink monopoly.”
+    - “Because the blink monopoly is already established and some websites I use on a daily basis don’t fully work over firefox.”
 - [Ungoogled Chromium browser with extensions - archived](s.htm?p=ungoogled_archived)
 
 ### Manually download and install Ungoogled Chromium
 https://techspot.com/downloads/7181-ungoogled-chromium.html
 
-I've used it for a long time with no issues. However, since it's a precompiled binary, use it at your own risk.  
+I’ve used it for a long time with no issues. However, since it’s a precompiled binary, use it at your own risk.  
 Alternatively, you can compile it from [the source code](https://github.com/ungoogled-software/ungoogled-chromium).
 
 As you manually install the downloaded `Ungoogled Chromium` App, click this button to allow it to run:  
@@ -84,8 +84,8 @@ As you manually install the downloaded `Ungoogled Chromium` App, click this butt
 	- [Chromium Web Store extension](https://github.com/NeverDecaf/chromium-web-store/releases/latest)
 - Change the extension name from .crx to **.cab**
 - Use the Keka App to unpack it into a folder.
-	- https://keka.io/en/ Download the Keka App **directly from the website** (there's a small link, something like: Download v1.6.0), instead of downloading it from the Mac App Store - unless you want to pay $4.99 as a kind of donation.
+	- https://keka.io/en/ Download the Keka App **directly from the website** (there’s a small link, something like: Download v1.6.0), instead of downloading it from the Mac App Store - unless you want to pay $4.99 as a kind of donation.
 - For these manually installed extensions, give them specific folders:
 	- Such as, ~/Downloads/Chromium Extensions/Chromium.Web.Store 1.5.4.3/
-- Open `chrome://extensions/` in Chromium, then turn on "Developer mode".
-- Click "Load unpacked", then choose the folder from the previous step.
+- Open `chrome://extensions/` in Chromium, then turn on “Developer mode.”
+- Click “Load unpacked”, then choose the folder from the previous step.
