@@ -33,7 +33,7 @@ Here is a brief timeline of Eugene Gendlin’s life and major works.
 
 <a href="https://www.penguinrandomhouse.com/books/59035/focusing-by-eugene-tgendlin-phd/" target="_blank">
 <img 
-  src="https://images4.penguinrandomhouse.com/cover/9780553278330" 
+  src="https://images-na.ssl-images-amazon.com/images/I/81vrtL6lJaL.jpg" 
   alt="Focusing (1982)" 
   title="Focusing (1982)" 
   height="200" 
