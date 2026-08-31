@@ -82,7 +82,7 @@ So there was something about expressing emotion that was very important.
 Les, did you become your own experiment at that time?
 
 **Leslie Greenberg**  
-Well, in an informal sense, yes. I mean, when I allowed myself to feel and express the emotion, the significance of whatever I was feeling emotional about was revealed to me, so to speak. I saw that... that's what was important.
+Well, in an informal sense, yes. I mean, when I allowed myself to feel and express the emotion, the significance of whatever I was feeling emotional about was revealed to me, so to speak. I saw that… that's what was important.
 
 So, you know, it's a little bit like when people have near-death experiences or very dangerous experiences, what passes before their eyes is what's really most important to them. Well, essentially, it was like that. When I really allowed myself to sob or to weep, I saw how important what I was crying about was to me.
 
@@ -102,7 +102,7 @@ Correct, correct, and that's an important distinction to make. So we subsequentl
 
 So these are different kinds of anger. But one of them, the empowered anger, is very important. Yes, so anger often sounds like it's bad and it's aggressive, but actually assertive anger is not.
 
-You can even call it "I-anger", "I-resent" that you haven't been there for me for the last 10 days. I resent that you haven't paid attention to me or something along that line.
+You can even call it “I-anger”, “I-resent” that you haven't been there for me for the last 10 days. I resent that you haven't paid attention to me or something along that line.
 
 **Lou Cooper**  
 So **standing up for yourself**.
@@ -213,7 +213,7 @@ My pleasure.
 *Outro of the podcast*
 
 ## References
-- The term **tacit knowing** is attributed to Michael Polanyi's *Personal Knowledge* (1958). In his later work, *The Tacit Dimension* (1966), Polanyi made the assertion that "we can know more than we can tell."
+- The term **tacit knowing** is attributed to Michael Polanyi's *Personal Knowledge* (1958). In his later work, *The Tacit Dimension* (1966), Polanyi made the assertion that “we can know more than we can tell.”
 	- Source: [Tacit knowledge - Wikipedia](https://en.wikipedia.org/wiki/Tacit_knowledge)
 - [Learning Emotion-Focused Therapy (2004)](s.htm?p=learning_eft)
 - [Different kinds of emotional responses in EFT, by Robert Elliott](s.htm?p=emotions)
