@@ -46,7 +46,7 @@ I do think that, obviously, people have an easier or harder time and it can depe
 
 There's a lot of fun in the independence that comes with being an adolescent. And of course, parents and other adults want that freedom to come with responsibility, but you still don't have those adult responsibilities. So there's a lot of opportunities for doing what you wanna do and having a great time with your friends and not being so cautious.
 
-And there's a fearlessness, right? And you're not as worried about what could go wrong, what could happen, health consequences, or... so there's freedom in that. So I do think that some people really enjoy that.
+And there's a fearlessness, right? And you're not as worried about what could go wrong, what could happen, health consequences, or… so there's freedom in that. So I do think that some people really enjoy that.
 
 But masking is a good thing to think about too, because there's a need to sort of project the image of perfect health or the image that you're doing fine. And that can really keep feelings that are more vulnerable inside. And a good example of that is that adolescents often use, if you ask them how they're feeling, **they often use the words annoyed or bored**. And that can really be covering for a lot of other feelings underneath, but oftentimes that's what we hear.
 
@@ -146,7 +146,7 @@ And the roller coaster, if you want, might slow down.
 **Mirisse Foroughe**  
 So, depending on who you ask, there are different answers to this. Something sort of as a psychologist, based on the latest in neuroscience and developmental psychology, let's say, is that adolescence starts around, let's say, age 12, 11 to 12, and then the period at which you would be transitioning to adulthood is somewhere in the mid-20s. So we know there's still a lot of brain development that's happening, a lot of change that's happening, and in some cultures, there's still a lot of dependence on adults, especially for those who are going on to post-secondary studies.
 
-So there's lots of good reasons to sort of set that end point in the mid-20s. So that's really what, when I talk about adolescence, that's what I have in mind. And one more thing I'll say about that is it allows us to give parents and caregivers and other adults in the young person's life the opportunity, with the young person's willingness, of course, to involve those other people in supporting the emotional wellbeing and mental health of somebody even in their early 20s, especially if they're struggling with mental health challenges or other things that are going on, so that they don't lose that, quote, "village", too soon.
+So there's lots of good reasons to sort of set that end point in the mid-20s. So that's really what, when I talk about adolescence, that's what I have in mind. And one more thing I'll say about that is it allows us to give parents and caregivers and other adults in the young person's life the opportunity, with the young person's willingness, of course, to involve those other people in supporting the emotional wellbeing and mental health of somebody even in their early 20s, especially if they're struggling with mental health challenges or other things that are going on, so that they don't lose that, quote, “village”, too soon.
 
 **Lou Cooper**  
 Mirisse, thank you so much for your time in this episode. I really appreciate it, and I hope we can speak again sometime.
