@@ -1,5 +1,5 @@
 # How to export PDFs with page numbers in Obsidian
-`Apr 9, 2026`
+`Updated: Sep 2, 2026 / Apr 9, 2026`
 
 [Obsidian](https://obsidian.md/) is a great app. I use it every day and can’t live without it. It’s not perfect. It’s an Electron app, so it uses a lot of resources; and it’s not open source, which I wish it were. Still, I haven’t found a suitable alternative.
 
@@ -36,6 +36,20 @@ You can add page numbers in the footer by configuring “Better Export PDF” pl
 ```
 
 Then export using “Better Export PDF”, and make sure to turn on “Display Footer”.
+
+**Update**: I found that the latest 2.x version of the “Better Export PDF” plugin doesn't work well when exporting PDFs with CJK fonts. (CJK means Chinese, Japanese, and Korean characters.)
+
+So if you want to export PDFs with CJK fonts, don’t update this plugin in your Obsidian app.
+
+If you’ve already updated it, you can 
+- back up your settings first, such as your footer-style CSS, 
+- uninstall the plugin,
+- and manually install [the 1.x version from GitHub](https://github.com/l1xnan/obsidian-better-export-pdf/releases/tag/1.11.0). 
+
+To do this, extract the obsidian-better-export-pdf.zip file and put it here:\
+your_obsidian_vault > .obsidian > plugins
+
+Then restart the Obsidian app for the changes to take effect.
 
 ## References
 - [Tech stack of this website](/o/s.htm?p=tech_stack)
