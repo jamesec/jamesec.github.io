@@ -20,7 +20,7 @@ So I tried several workarounds until I found an Obsidian plugin called [Better E
 
 You can add page numbers in the footer by configuring “Better Export PDF” plugin like this:
 
-`Settings…` → `Better Export PDF` → `Footer Template`
+Settings… → Better Export PDF → Footer Template
 
 ```css
 <div style="
