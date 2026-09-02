@@ -46,7 +46,7 @@ If you’ve already updated it, you can
 - uninstall the plugin,
 - and manually install [the 1.x version from GitHub](https://github.com/l1xnan/obsidian-better-export-pdf/releases/tag/1.11.0). 
 
-To do this, extract the obsidian-better-export-pdf.zip file and put it here:\
+To do this, extract the downloaded 1.x version of the obsidian-better-export-pdf.zip file and put it here:\
 your_obsidian_vault → .obsidian → plugins
 
 Then restart the Obsidian app for the changes to take effect.
