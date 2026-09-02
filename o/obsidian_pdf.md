@@ -37,9 +37,9 @@ Settings… → Better Export PDF → Footer Template
 
 Then export using “Better Export PDF”, and make sure to turn on “Display Footer”.
 
-**Update**: I found that the latest 2.x version of the “Better Export PDF” plugin doesn’t work well when exporting PDFs with CJK fonts. (CJK means Chinese, Japanese, and Korean characters.)
+**Update**: I found that the latest 2.x version of the “Better Export PDF” plugin doesn’t work well when exporting PDFs with CJK (Chinese, Japanese, and Korean) characters.
 
-So if you want to export PDFs with CJK fonts, don’t update this plugin in your Obsidian app.
+So if you want to export PDFs with CJK characters, don’t update this plugin in your Obsidian app.
 
 If you’ve already updated it, you can 
 - back up your settings first, such as your footer-style CSS, 
