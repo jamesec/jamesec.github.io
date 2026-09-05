@@ -1,5 +1,5 @@
 # LibreDNS, Quad9, and other encrypted DNS services
-`Dec 27, 2025`
+`Updated: Sep 4, 2026 / Dec 27, 2025`
 
 Encrypted DNS helps keep your website lookups private, safer, and less tampered with — especially on public or untrusted networks.
 
@@ -35,13 +35,7 @@ Encrypted DNS helps keep your website lookups private, safer, and less tampered 
 - https://on.quad9.net/
 	- Yes, you ARE using quad9.
 
-
 ## Other encrypted DNS services
-- Mullvad DNS
-	- `Endpoint`: 👉 `https://adblock.dns.mullvad.net/dns-query`
-	- Verify: https://mullvad.net/en/check
-	- More information: [DNS over HTTPS and DNS over TLS - Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
-		- You can use this privacy-enhancing service even if you are not a Mullvad customer.
 - DNS4all
 	- `Endpoint`: 👉 `https://doh.dns4all.eu/dns-query`
 	- Verify: https://dns4all.eu/test.html
@@ -58,3 +52,4 @@ If you want to use these encrypted DNS services on your iPhone, you need to down
 
 ## References
 - [Ungoogled Chromium browser with extensions](/o/s.htm?p=ungoogled)
+- `September 3, 2026` [Shutting down our public encrypted DNS servers and sponsoring Quad9 instead - Mullvad](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead)
