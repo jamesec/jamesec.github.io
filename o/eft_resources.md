@@ -14,7 +14,7 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 
 <a href="https://vimeo.com/ondemand/lesgreenbergtraumahome/" target="_blank">
 <img 
-  src="/assets/images/Working with Current and Historical Trauma (2019).avif" 
+  src="/assets/images/Working_with_Trauma_2019.png" 
   alt="Working with Current and Historical Trauma (2019)" 
   title="Working with Current and Historical Trauma (2019)" 
   height="300" 
@@ -22,7 +22,7 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 
 <a href="https://vimeo.com/ondemand/lesgreenbergcorehome/" target="_blank">
 <img 
-  src="/assets/images/Working with Core Emotion (2019).avif" 
+  src="/assets/images/Working_with_Core_Emotion_2019.png" 
   alt="Working with Core Emotion (2019)" 
   title="Working with Core Emotion (2019)" 
   height="300" 
@@ -44,7 +44,7 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 
 <a href="https://vimeo.com/ondemand/understandingeft" target="_blank">
 <img 
-  src="/assets/images/Understanding Emotion-Focused Therapy (2016).avif" 
+  src="/assets/images/Understanding_EFT_2016.png" 
   alt="Understanding Emotion-Focused Therapy (2016)" 
   title="Understanding Emotion-Focused Therapy (2016)" 
   height="300" 
@@ -62,7 +62,7 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 
 <a href="https://vimeo.com/ondemand/transformemotionalpain" target="_blank">
 <img 
-  src="/assets/images/Transforming Emotional Pain (2019).avif" 
+  src="/assets/images/Transforming_Emotional_Pain_2019.png" 
   alt="Transforming Emotional Pain: An Illustration of Emotion-Focused Therapy (2019)" 
   title="Transforming Emotional Pain: An Illustration of Emotion-Focused Therapy (2019)" 
   height="300" 
