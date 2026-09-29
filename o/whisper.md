@@ -8,10 +8,8 @@ It runs completely on your local device, giving you the highest level of privacy
 ## Install Homebrew package manager
 https://brew.sh/ → Install Homebrew
 
-## Install Whisper (`whisper-ctranslate2`)
-```
-pip3 install whisper-ctranslate2 --break-system-packages
-```
+## Install Whisper (whisper-ctranslate2)
+`pip3 install whisper-ctranslate2 --break-system-packages`
 
 ## Transcribe files
 ```
@@ -47,7 +45,7 @@ whisper-ctranslate2 *.mp4 \
 	- September 21, 2022
 	- Whisper is an automatic speech recognition (ASR) system trained on 680,000 hours of multilingual and multitask supervised data collected from the web.
 
-## References - Install Whisper (`whisper-ctranslate2`)
+## References - Install Whisper (whisper-ctranslate2)
 *Update: As of Sep 2026, the current `whisper-ctranslate2` release is compatible with Python 3.14.*
 
 `whisper-ctranslate2` works with Python 3.13 and earlier, but not with 3.14, so we’ll use 3.13.
