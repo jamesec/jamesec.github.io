@@ -3,10 +3,7 @@
 
 Works on macOS with Apple silicon.
 
-It runs completely on your local device, giving you the highest level of privacy and security. I even tried disconnecting the internet and confirmed that the transcription still works.
-
-## Install Homebrew package manager
-https://brew.sh/ → Install Homebrew
+It runs on your local device, giving you privacy and security. I even tried disconnecting the internet and confirmed that the transcription still works.
 
 ## Install Whisper (whisper-ctranslate2)
 `pip3 install whisper-ctranslate2 --break-system-packages`
@@ -25,44 +22,8 @@ whisper-ctranslate2 *.mp4 \
   --verbose True
 ```
 
-### languages
-- `--language en`
-	- Or: `--language English`
-- `--language zh`
-	- Or: `--language Chinese`
-- `--language es`
-	- Or: `--language Spanish`
-
-### AI models
-- `--model small`
-- `--model medium`
-- `--model large-v3`
-- `--model large-v3-turbo`
-
 ## References
 - [whisper-ctranslate2 - GitHub](https://github.com/Softcatala/whisper-ctranslate2)
 - [Introducing Whisper - Open AI](https://openai.com/index/whisper/)
 	- September 21, 2022
 	- Whisper is an automatic speech recognition (ASR) system trained on 680,000 hours of multilingual and multitask supervised data collected from the web.
-
-## References - Install Whisper (whisper-ctranslate2)
-*Update: As of Sep 2026, the current `whisper-ctranslate2` release is compatible with Python 3.14.*
-
-`whisper-ctranslate2` works with Python 3.13 and earlier, but not with 3.14, so we’ll use 3.13.
-
-```
-# Step 1: Install Homebrew Python 3.13
-brew install python@3.13
-
-# Optional
-brew pin python@3.13
-
-# Step 2: Link Python 3.13 into your PATH
-brew link python@3.13 --force
-
-# Step 3: Install whisper-ctranslate2 in the user directory, avoiding system-wide changes
-python3.13 -m pip install --break-system-packages --user whisper-ctranslate2
-
-# Step 4: Verify the installation
-whisper-ctranslate2 --version
-```
