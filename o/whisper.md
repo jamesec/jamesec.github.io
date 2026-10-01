@@ -24,6 +24,7 @@ whisper-ctranslate2 *.mp4 \
 
 ## References
 - [whisper-ctranslate2 - GitHub](https://github.com/Softcatala/whisper-ctranslate2)
+- [Generate Subtitles Locally with Whisper (2026): Free & Private - Local AI Master](https://localaimaster.com/blog/local-ai-subtitles-whisper)
 - [Introducing Whisper - Open AI](https://openai.com/index/whisper/)
 	- September 21, 2022
 	- Whisper is an automatic speech recognition (ASR) system trained on 680,000 hours of multilingual and multitask supervised data collected from the web.
