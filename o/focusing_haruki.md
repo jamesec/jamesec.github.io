@@ -1,4 +1,4 @@
-# Focusing in Haruki Murakami’s Novels - Akira Ikemi
+# Focusing in Haruki Murakami’s Novels — Akira Ikemi
 Translated by **James Even Chen**, supervised by **Akira Ikemi** / July 13, 2023, revised August 16th, 2023.
 
 **Translated from**: [The Psychology of Focusing as Observed in the Novels of Haruki Murakami (2013, 2016)](https://akira-ikemi.net/ewExternalFiles/HarukiMurakami%26Focusing.pdf)<br>
