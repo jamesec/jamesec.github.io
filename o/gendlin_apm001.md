@@ -14,6 +14,17 @@ A Process Model (1997) by Eugene T. Gendlin
 
 ---
 
+Listen to this blog post:
+
+<audio controls>
+	<source src="/assets/files/Chapter_1_APM_book_notes.mp3" type="audio/mpeg">
+	Your browser does not support the audio element.
+</audio>
+
+(Audio generated via https://text-to-speech.online/en/ → Andrew - US)
+
+---
+
 I’m taking notes for Chapter 1 (Body-Environment) of this book, as follows.
 
 ## Notes from the book
