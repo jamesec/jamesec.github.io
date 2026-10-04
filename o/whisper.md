@@ -6,7 +6,7 @@ Works on macOS with Apple silicon.
 It runs on your local device, giving you privacy and security. I even tried disconnecting the internet and confirmed that the transcription still works.
 
 ## Install Whisper (whisper-ctranslate2)
-`pip3 install whisper-ctranslate2 --break-system-packages`
+`pip3 install whisper-ctranslate2`
 
 ## Transcribe files
 ```
