@@ -21,7 +21,7 @@ https://youtube.com/playlist?list=PLnZkBEghFSGA8H18b4aif84MhW69D4qdt
 <div style="page-break-after: always;"></div>
 
 ## 001 What is Emotion-Focused Therapy (EFT)?
-EFT stands for Emotion-Focused Therapy, which is not the same as Emotion Freedom Technique, but essentially it’s a therapy that’s focuses on emotion and it sees emotion as… at the… the basic, um, datum of human experience. That’s the very first thing we feel in the world. 
+EFT stands for Emotion-Focused Therapy, which is not the same as Emotion Freedom Technique, but essentially it’s a therapy that’s focuses on emotion and it sees emotion as… the basic, um, datum of human experience. That’s the very first thing we feel in the world. 
 
 And so it’s a way of working with emotion, but it has two important components, which is we work with a relationship, with an empathic relationship, but we also have different, uh, interventions for different kinds of problems that arise in the session. 
 
