@@ -6,7 +6,7 @@ Translated by **James Even Chen**, supervised by **Akira Ikemi** / July 13, 2023
 
 ---
 
-Listen to this blog post:
+Listen to this essay:
 
 <audio controls>
 	<source src="/assets/files/focusing_haruki.mp3" type="audio/mpeg">
