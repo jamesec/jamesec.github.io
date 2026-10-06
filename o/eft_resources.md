@@ -117,6 +117,7 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 - [Rhonda Goldman - Psyflix](https://app.psyflix.com/en/speakers/rhonda-goldman-en)
 - [Anne Hilde Vassbø Hagen - Psyflix](https://app.psyflix.com/nl/speakers/anne-hilde-vassbo-hagen) *8 videos*
 	- Emotion Focused Skills Training (EFST)
+- [EFT videos - Psyflix - YouTube playlist](https://youtube.com/playlist?list=PLREDOxAl3obCpre9QLryQ8bH0R5eCw5G1)
 
 ## American Psychological Association (APA)
 ### Leslie Greenberg - APA
