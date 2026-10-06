@@ -81,17 +81,7 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 ### Leslie Greenberg - Psyflix
 - [Leslie Greenberg - Psyflix](https://app.psyflix.com/en/speakers/les-greenberg-en) *20 videos*
 	- [Les Greenberg - in 3 minutes - YouTube](https://youtube.com/watch?v=DScrvEkfOes)
-	- EFT-i Tapes - Part 1: Introduction
-	- EFT-i Tapes - Part 2: Marcel - Session 1
-	- EFT-i Tapes - Part 3: Marcel - Session 2
-	- EFT-i Tapes - Part 4: Maartje - Session 1
-	- EFT-i Tapes - Part 5: Maartje - Session 2
-	- EFT-i Tapes - Part 6: Marieke - Session 1
-	- EFT-i Tapes - Part 7: Marieke - Session 2
-	- EFT-i Tapes - Part 8: Lisette - Session 1
-	- EFT-i Tapes - Part 9: Lisette - Session 2
-	- EFT-i Tapes - Part 10: Jasper - Session 1
-	- EFT-i Tapes - Part 11: Jasper - Session 2
+	- 10 therapy demonstration sessions, along with an introduction video
 	- Masterclass - Changing emotion with emotion
 	- Changing Emotion with Emotion: Working with Shame and Anger in EFT 1
 	- Changing Emotion with Emotion: Working with Shame and Anger in EFT 2
@@ -103,10 +93,7 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 
 ### Robert Elliott - Psyflix
 - [Robert Elliott - Psyflix](https://app.psyflix.com/en/speakers/robert) *11 videos*
-	- Therapy session with Sundas
-	- Therapy session with Wietske
-	- Therapy session with Elsbeth
-	- Therapy session with Stefan
+	- 6 therapy demonstration sessions
 	- [The Process in 4 sessions — An EFT Poem by Dr. Robert Elliott - YouTube](https://youtube.com/watch?v=5F_7XKfpWa0)
 	- [When Anxiety Steals Your Words | Robert Elliott: A Live EFT Session - Part I - YouTube](https://youtube.com/watch?v=oVLwbc96cvg)
 	- …
