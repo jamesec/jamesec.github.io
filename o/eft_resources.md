@@ -107,6 +107,8 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 	- Therapy session with Wietske
 	- Therapy session with Elsbeth
 	- Therapy session with Stefan
+	- [The Process in 4 sessions — An EFT Poem by Dr. Robert Elliott - YouTube](https://youtube.com/watch?v=5F_7XKfpWa0)
+	- [When Anxiety Steals Your Words | Robert Elliott: A Live EFT Session - Part I - YouTube](https://youtube.com/watch?v=oVLwbc96cvg)
 	- …
 
 ### More EFT on Psyflix
