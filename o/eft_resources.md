@@ -1,5 +1,5 @@
 # Best video resources to learn EFT
-`Updated: Aug 10, 2026 / Jul 6, 2026`
+`Updated: Oct 5, 2026 / Jul 6, 2026`
 
 EFT stands for Emotion-Focused Therapy, and here are the best video resources to learn EFT.
 
@@ -100,6 +100,14 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 	- Changing Emotion with Emotion: The Transforming Power of Affect 2
 	- Changing Emotion with Emotion: The Transforming Power of Affect 3
 	- Changing Emotion with Emotion: The Transforming Power of Affect 4
+
+### Robert Elliott - Psyflix
+- [Robert Elliott - Psyflix](https://app.psyflix.com/en/speakers/robert-elliott) *11 videos*
+	- Therapy session with Sundas
+	- Therapy session with Wietske
+	- Therapy session with Elsbeth
+	- Therapy session with Stefan
+	- …
 
 ### More EFT on Psyflix
 - [Imke Herrmann - Psyflix](https://psyflix.net/en/speakers/imke-herrmann-en)
