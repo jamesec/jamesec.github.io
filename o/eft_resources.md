@@ -1,5 +1,5 @@
 # Best video resources to learn EFT
-`Updated: Oct 5, 2026 / Jul 6, 2026`
+`Updated: Oct 6, 2026 / Jul 6, 2026`
 
 EFT stands for Emotion-Focused Therapy, and here are the best video resources to learn EFT.
 
@@ -79,7 +79,7 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 /></a>
 
 ### Leslie Greenberg - Psyflix
-- [Leslie Greenberg - Psyflix](https://psyflix.net/en/speakers/les-greenberg-en) *20 videos*
+- [Leslie Greenberg - Psyflix](https://app.psyflix.com/en/speakers/les-greenberg-en) *20 videos*
 	- [Les Greenberg - in 3 minutes - YouTube](https://youtube.com/watch?v=DScrvEkfOes)
 	- EFT-i Tapes - Part 1: Introduction
 	- EFT-i Tapes - Part 2: Marcel - Session 1
@@ -102,7 +102,7 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 	- Changing Emotion with Emotion: The Transforming Power of Affect 4
 
 ### Robert Elliott - Psyflix
-- [Robert Elliott - Psyflix](https://app.psyflix.com/en/speakers/robert-elliott) *11 videos*
+- [Robert Elliott - Psyflix](https://app.psyflix.com/en/speakers/robert) *11 videos*
 	- Therapy session with Sundas
 	- Therapy session with Wietske
 	- Therapy session with Elsbeth
@@ -110,10 +110,10 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 	- …
 
 ### More EFT on Psyflix
-- [Imke Herrmann - Psyflix](https://psyflix.net/en/speakers/imke-herrmann-en)
-- [Juliette Becking - Psyflix](https://psyflix.net/en/speakers/juliette-becking-en) *6 videos*
-- [Rhonda Goldman - Psyflix](https://psyflix.net/en/speakers/rhonda-goldman-en)
-- [Anne Hilde Vassbø Hagen - Psyflix](https://psyflix.net/speakers/anne-hilde-vassbo-hagen) *8 videos*
+- [Imke Herrmann - Psyflix](https://app.psyflix.com/en/speakers/imke-herrmann-en)
+- [Juliette Becking - Psyflix](https://app.psyflix.com/en/speakers/juliette-becking-en) *6 videos*
+- [Rhonda Goldman - Psyflix](https://app.psyflix.com/en/speakers/rhonda-goldman-en)
+- [Anne Hilde Vassbø Hagen - Psyflix](https://app.psyflix.com/nl/speakers/anne-hilde-vassbo-hagen) *8 videos*
 	- Emotion Focused Skills Training (EFST)
 
 ## American Psychological Association (APA)
