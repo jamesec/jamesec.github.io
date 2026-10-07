@@ -70,7 +70,7 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 
 ## Psyflix
 
-<a href="https://app.psyflix.com/en/register?referral=A8CCMUX7UT1X" target="_blank">
+<a href="https://psyflix.com/?r=0" target="_blank">
 <img 
   src="https://cdn.prod.website-files.com/6915ba6bfad9c177b3b4a5f2/6936b4df1702148584d4d5bd_icon.png" 
   alt="Psyflix" 
