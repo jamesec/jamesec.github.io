@@ -32,9 +32,9 @@ Since many features of the *felt sense* are displayed here, there is no doubt th
 
 <a href="https://harukimurakami.com/books/" target="_blank">
 <img 
-  src="https://images.penguinrandomhouse.com/cover/d/9780375704024" 
-  alt="Norwegian Wood" 
-  title="Norwegian Wood" 
+  src="https://images-na.ssl-images-amazon.com/images/I/91peMVtcbGL.jpg" 
+  alt="Norwegian Wood, by Haruki Murakami" 
+  title="Norwegian Wood, by Haruki Murakami" 
   height="200" 
 /></a>
 
@@ -90,8 +90,8 @@ The *felt sense* is related to the situation, in this case, felt specifically in
 <a href="https://harukimurakami.com/books/" target="_blank">
 <img 
   src="https://images-na.ssl-images-amazon.com/images/I/81++DiPFJ1L.jpg" 
-  alt="Colorless Tsukuru Tazaki and His Years of Pilgrimage" 
-  title="Colorless Tsukuru Tazaki and His Years of Pilgrimage" 
+  alt="Colorless Tsukuru Tazaki and His Years of Pilgrimage, by Haruki Murakami" 
+  title="Colorless Tsukuru Tazaki and His Years of Pilgrimage, by Haruki Murakami" 
   height="200" 
 /></a>
 
@@ -138,9 +138,9 @@ The meaning of living does not exist from the beginning in clear and defined for
 
 <a href="https://harukimurakami.com/books/" target="_blank">
 <img 
-  src="https://images.penguinrandomhouse.com/cover/d/9781400079278" 
-  alt="Kafka on the Shore" 
-  title="Kafka on the Shore" 
+  src="https://m.media-amazon.com/images/I/81tdbrewW0L._SL1500_.jpg" 
+  alt="Kafka on the Shore, by Haruki Murakami" 
+  title="Kafka on the Shore, by Haruki Murakami" 
   height="200" 
 /></a>
 
