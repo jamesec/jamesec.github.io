@@ -89,7 +89,7 @@ The *felt sense* is related to the situation, in this case, felt specifically in
 
 <a href="https://harukimurakami.com/books/" target="_blank">
 <img 
-  src="https://images.penguinrandomhouse.com/cover/d/9780804170123" 
+  src="https://images-na.ssl-images-amazon.com/images/I/81++DiPFJ1L.jpg" 
   alt="Colorless Tsukuru Tazaki and His Years of Pilgrimage" 
   title="Colorless Tsukuru Tazaki and His Years of Pilgrimage" 
   height="200" 
