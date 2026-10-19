@@ -76,6 +76,14 @@
 
 「體會」與情境相關，並在身體中可以感受到它。比如這裡說的，在胸中某個地方感受到「體會」。除了發現或表達隱含的意義這些情況之外，當人所處的環境發生變化時，「體會」也會發生變化或消解，即使只是偶然發生的變化。例如，偶然間這個比自己小的朋友回來了，這種情境的改變，帶來了多崎作生活狀態的變化。隨著這個變化，「體會」被「吐出」並消解。
 
+<a href="https://www.readingtimes.com.tw/product/?pid=AIA0962A" target="_blank">
+<img 
+  src="https://img.readingtimes.com.tw/images/7934b2ad-7697-410e-ad39-b977253798a0/conversions/813003ef0206baa9b47b5691aee5aa40-500x500.jpg" 
+  alt="《沒有色彩的多崎作和他的巡禮之年》賴明珠翻譯（2013 年，時報出版）" 
+  title="《沒有色彩的多崎作和他的巡禮之年》賴明珠翻譯（2013 年，時報出版）" 
+  height="200" 
+/></a>
+
 在同⼀本⼩說中，還有幾處跟「體會」相關，很有意思。
 > 關掉手機之後，【作】發現心裡還留著異物感。食物還有一部分沒有好好消化──這種感觸。這是和沙羅談話之前所沒有的感觸。沒錯。不過那意味著什麼嗎？或者意味著本來就有什麼？沒辦法適當辨別。(日文版 p.209 / 台灣譯本 p.197)
 > 
@@ -119,6 +127,14 @@
 > *賴明珠翻譯（2003 年，時報出版）*
 
 （摘自《海邊的卡夫卡》（新潮文庫）最後一頁）
+
+<a href="https://www.readingtimes.com.tw/product/?pid=1AY1046" target="_blank">
+<img 
+  src="https://img.readingtimes.com.tw/images/a11b3a98-b8ab-4d63-ace2-60cab6dc8243/conversions/25d1b5d96607040ffc35e3dff897df4a-500x500.jpg" 
+  alt="《海邊的卡夫卡》賴明珠翻譯（2003 年，時報出版）" 
+  title="《海邊的卡夫卡》賴明珠翻譯（2003 年，時報出版）" 
+  height="200" 
+/></a>
 
 <div style="page-break-after: always;"></div>
 
