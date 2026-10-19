@@ -202,17 +202,6 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
   height="300" 
 /></a>
 
-### Antonio Pascual-Leone - APA
-- [Emotional Change (2026)](https://apa.org/pubs/videos/emotional-change)
-
-<a href="https://apa.org/pubs/videos/emotional-change" target="_blank">
-<img 
-  src="https://www.apa.org/pubs/videos/images/3848759-475.gif" 
-  alt="Emotional Change (2026)" 
-  title="Emotional Change (2026)" 
-  height="300" 
-/></a>
-
 ### Shari Geller - APA
 - [Presence in Psychotherapy (2014)](https://apa.org/pubs/videos/4310927)
 
