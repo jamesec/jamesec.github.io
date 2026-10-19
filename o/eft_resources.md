@@ -1,5 +1,5 @@
 # Best video resources to learn EFT
-`Updated: Oct 17, 2026 / Jul 6, 2026`
+`Updated: Oct 19, 2026 / Jul 6, 2026`
 
 EFT stands for Emotion-Focused Therapy, and here are the best video resources to learn EFT.
 
