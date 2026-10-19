@@ -30,6 +30,14 @@ Let’s return to the novel “Norwegian Wood.”
 
 Since many features of the *felt sense* are displayed here, there is no doubt that this is an expression of the *felt sense*. First, it is a sensation that is felt within oneself (“inside me”), in the body, regarding a certain situation. Second, it is a sensation that is perceived vaguely, distinct from intense emotions or pain. Therefore, the protagonist expresses it as a “knot of air.” Additionally, it exists prior to words, meaning that its meaning can be discovered later and put into words. Furthermore, as expressed by “what it **was**”, the past is reexamined and understood in a new way, in the sense of “Ah, so that’s what it **was**,” as if what we had always felt was this, even though we discovered the meaning anew later. I have come to refer to this as “carried forward *was*” (Ikemi, Okamura & Tanaka, 2023). Thus, this brief excerpt accurately represents several characteristics of *felt sense*.
 
+<a href="https://harukimurakami.com/books/" target="_blank">
+<img 
+  src="https://images.penguinrandomhouse.com/cover/d/9780375704024" 
+  alt="Norwegian Wood" 
+  title="Norwegian Wood" 
+  height="200" 
+/></a>
+
 Embarrassingly enough, I haven’t read many of Haruki Murakami’s novels. However, after discovering this passage in “Norwegian Wood,” I became interested in reading some of Murakami’s works. As I read his novels, I noticed that this “knot of air” is frequently depicted.
 
 In the novel “Dance Dance Dance” (Kodansha), Yuki expresses the following:
@@ -79,6 +87,14 @@ In Haruki Murakami’s recent work, “Colorless Tsukuru Tazaki and His Years of
 
 The *felt sense* is related to the situation, in this case, felt specifically in the chest. Besides the discovery or expression of implicitly contained meanings, even if it happens by chance, *felt sense* changes or dissipates when a person’s living situation changes. The change in the situation, coincidentally caused by the return of Tsukuru’s younger friend, alters Tsukuru Tazaki’s way of living, and along with that change, the *felt sense* is released and dissolved.
 
+<a href="https://harukimurakami.com/books/" target="_blank">
+<img 
+  src="https://images.penguinrandomhouse.com/cover/d/9780804170123" 
+  alt="Colorless Tsukuru Tazaki and His Years of Pilgrimage" 
+  title="Colorless Tsukuru Tazaki and His Years of Pilgrimage" 
+  height="200" 
+/></a>
+
 In the same novel, there are intriguing expressions of *felt sense*.
 > After he switched off the cell phone, Tsukuru felt **a faint sensation of something foreign**, as if something he’d eaten wasn’t digesting well. He hadn’t felt it before he’d spoken to Sara. That was for certain. But what it meant, or whether it meant anything at all, he couldn’t tell. (p.209) *Translated from the Japanese by Philip Gabriel (2015, Vintage), edited by James Even Chen (in bold)*
 >
@@ -119,6 +135,14 @@ The meaning of living does not exist from the beginning in clear and defined for
 > 
 > *From the last page of “Kafka on the Shore”*<br>
 > *Translated from the Japanese by Philip Gabriel (2005, Vintage)*
+
+<a href="https://harukimurakami.com/books/" target="_blank">
+<img 
+  src="https://images.penguinrandomhouse.com/cover/d/9781400079278" 
+  alt="Kafka on the Shore" 
+  title="Kafka on the Shore" 
+  height="200" 
+/></a>
 
 <div style="page-break-after: always;"></div>
 
