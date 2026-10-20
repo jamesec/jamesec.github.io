@@ -298,26 +298,26 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 	- Platform fully shut down: November 20, 2026
 
 ### Leslie Greenberg - The Counselling Channel (CPCAB, UK)
-- [Working with Current and Historical Trauma (2019)](https://vimeo.com/ondemand/lesgreenbergtraumahome/)
+- [Working with Current and Historical Trauma (2020)](https://vimeo.com/ondemand/lesgreenbergtraumahome/)
 	- [Introducing Les Greenberg and his origins in EFT (historical trauma)](https://vimeo.com/ondemand/lesgreenbergtraumahome/395407810)
-- [Working with Core Emotion (2019)](https://vimeo.com/ondemand/lesgreenbergcorehome/)
+- [Working with Core Emotion (2020)](https://vimeo.com/ondemand/lesgreenbergcorehome/)
 	- [Introducing Les Greenberg and his origins in EFT (core emotion)](https://vimeo.com/ondemand/lesgreenbergcorehome/395405247)
 - [Emotion-Focused Therapy (EFT) Playlist by The Counselling Channel - YouTube](https://youtube.com/playlist?list=PLnZkBEghFSGA8H18b4aif84MhW69D4qdt)
 	- <a href="/o/s.htm?p=leslie_videos">Leslie Greenberg’s 13 short EFT videos</a>
 
 <a href="https://vimeo.com/ondemand/lesgreenbergtraumahome/" target="_blank">
 <img 
-  src="/assets/images/Working_with_Trauma_2019.png" 
-  alt="Working with Current and Historical Trauma (2019)" 
-  title="Working with Current and Historical Trauma (2019)" 
+  src="/assets/images/Working_with_Trauma_2020.png" 
+  alt="Working with Current and Historical Trauma (2020)" 
+  title="Working with Current and Historical Trauma (2020)" 
   height="300" 
 /></a>
 
 <a href="https://vimeo.com/ondemand/lesgreenbergcorehome/" target="_blank">
 <img 
-  src="/assets/images/Working_with_Core_Emotion_2019.png" 
-  alt="Working with Core Emotion (2019)" 
-  title="Working with Core Emotion (2019)" 
+  src="/assets/images/Working_with_Core_Emotion_2020.png" 
+  alt="Working with Core Emotion (2020)" 
+  title="Working with Core Emotion (2020)" 
   height="300" 
 /></a>
 
