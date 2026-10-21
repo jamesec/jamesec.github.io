@@ -27,7 +27,8 @@ PDF\
 → Automatically Resize\
 → Horizontal Continuous\
 → Book Mode\
-→ Page Breaks
+→ Page Breaks\
+→ Crop Box
 
 Enjoy reading—maybe an intriguing novel in PDF format!
 
