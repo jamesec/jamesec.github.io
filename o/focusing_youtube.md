@@ -14,12 +14,12 @@
 - [Learning to Focus: A Focusing Demonstration - Think Beyond Healing](https://youtube.com/watch?v=8_D_5AHfMEk)
 
 ## Institutes
-- [The International Focusing Institute](https://youtube.com/@TheFocusingInstitute/videos)
+- 👉 [The International Focusing Institute](https://youtube.com/@TheFocusingInstitute/videos)
   - Sort by: Popular 
     - [Ripped Out: A Focusing-Oriented Therapy Demonstration](https://youtube.com/watch?v=F5fb8Pf5gBs)
   - [Gene Gendlin Videos - playlist](https://youtube.com/playlist?list=PLJipFnpdEEtKvy2TrA4augA6mWkLQaLc2)
-- [Focusing Oriented Therapies](https://youtube.com/@FocusingOrientedTherapies/videos)
-- [Focusing and Expressive Arts Institute](https://youtube.com/@FOATinstitute/videos)
+- 👉 [Focusing Oriented Therapies](https://youtube.com/@FocusingOrientedTherapies/videos)
+- 👉 [Focusing and Expressive Arts Institute](https://youtube.com/@FOATinstitute/videos)
 
 ## Focusing teachers
 - [Akira Ikemi](https://youtube.com/@akiraikemi3050/videos)
@@ -29,15 +29,15 @@
   - [EFA2018 Campbell Purton](https://youtube.com/watch?v=0RSG3-npbtw)
   - [Campbell Purton - Interview](https://youtube.com/watch?v=akw_96Udgk8)
   - [Campbell Purton Senses of Focusing Chapter 6](https://youtube.com/watch?v=GngBFQx8OCs)
-- [Jan Winhall - Felt Sense Polyvagal Model](https://youtube.com/@JanWinhall/videos)
-- [Lynn Preston Focusing Relational Psychotherapy](https://youtube.com/@LynnPreston/videos)
+- 👉 [Jan Winhall - Felt Sense Polyvagal Model](https://youtube.com/@JanWinhall/videos)
+- 👉 [Lynn Preston Focusing Relational Psychotherapy](https://youtube.com/@LynnPreston/videos)
   - Sort by: Popular
     - [Eugene Gendlin, PhD on the Theory of Focusing-Oriented Psychotherapy](https://youtube.com/watch?v=xXp11zpK95M)
   - [Focusing Oriented Therapy with Clients that Can’t Focus](https://youtube.com/watch?v=SRLf4nRrVMU)
-- [Nada Lou](https://youtube.com/@nadalou7779/videos)
+- 👉 [Nada Lou](https://youtube.com/@nadalou7779/videos)
   - [Focusing Alone](https://youtube.com/watch?v=kHMmH11GLXE)
     - Gene Gendlin answers question asked by Andy Nickolson about focusing alone.
-- [Simon dOrsogna](https://youtube.com/@SimondOrsogna/videos)
+- 👉 [Simon dOrsogna](https://youtube.com/@SimondOrsogna/videos)
   - [Focusing is… the murky edge, by Eugene Gendlin](s.htm?p=murky_edge)
 - [Greg Madison](https://youtube.com/@gregmadisontherapy/videos)
   - [Paradigm Leaping with Rob Parker on The Living Process with Greg Madison E026](https://youtube.com/watch?v=oAZh5uCe_Yo)
