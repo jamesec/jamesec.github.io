@@ -29,7 +29,7 @@
   - [EFA2018 Campbell Purton](https://youtube.com/watch?v=0RSG3-npbtw)
   - [Campbell Purton - Interview](https://youtube.com/watch?v=akw_96Udgk8)
   - [Campbell Purton Senses of Focusing Chapter 6](https://youtube.com/watch?v=GngBFQx8OCs)
-- 👉 [Jan Winhall - Felt Sense Polyvagal Model](https://youtube.com/@JanWinhall/videos)
+- 👉 [Jan Winhall, Felt Sense Polyvagal Model](https://youtube.com/@JanWinhall/videos)
 - 👉 [Lynn Preston Focusing Relational Psychotherapy](https://youtube.com/@LynnPreston/videos)
   - Sort by: Popular
     - [Eugene Gendlin, PhD on the Theory of Focusing-Oriented Psychotherapy](https://youtube.com/watch?v=xXp11zpK95M)
