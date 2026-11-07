@@ -26,7 +26,7 @@ EFT stands for Emotion-Focused Therapy, and here are the best video resources to
 	- Changing Emotion with Emotion: The Transforming Power of Affect 4
 
 ### Robert Elliott - Psyflix
-- [Robert Elliott - Psyflix](https://app.psyflix.com/en/speakers/robert) *11 videos*
+- [Robert Elliott - Psyflix](https://app.psyflix.com/en/speakers/robert-elliott) *11 videos*
 	- 6 therapy demonstration sessions
 		- [When Anxiety Steals Your Words | Robert Elliott: A Live EFT Session - Part I - YouTube](https://youtube.com/watch?v=oVLwbc96cvg)
 	- [The Process in 4 sessions — An EFT Poem by Dr. Robert Elliott - YouTube](https://youtube.com/watch?v=5F_7XKfpWa0)
