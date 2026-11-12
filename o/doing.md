@@ -17,6 +17,10 @@
 - [ ] task_007
 - [ ] task_008
 - [ ] task_009
+- [x] Done
+- [/] In progress
+- [-] Cancelled
+- [?] Question
 
 ## More
 - [ ] task_010
