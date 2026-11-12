@@ -4,8 +4,8 @@
 - [ ] task_000
 
 ## 002 Upcoming
-- [ ] task_001
-- [ ] task_002
+- [*] task_001
+- [x] task_002
 - [ ] task_003
 
 ## 003 Next
