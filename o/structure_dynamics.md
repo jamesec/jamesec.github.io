@@ -1,7 +1,7 @@
 # The structure and dynamics of organizations and groups (1963) book notes
 `Apr 20, 2024`
 
-`How strongly I recommend it: 7/10`
+`How strongly I recommend it: 8/10`
 
 <img 
   src="/assets/images/structure_dynamics_1963.jpg" 
