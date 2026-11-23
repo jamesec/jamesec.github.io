@@ -1,7 +1,7 @@
 # Eric Berne (1992) book notes
 `Apr 24, 2024`
 
-`How strongly I recommend it: 7/10`
+`How strongly I recommend it: 8/10`
 
 <img 
   src="/assets/images/eric_berne_1992.jpg" 
